@@ -3,7 +3,7 @@
 ![Smart City](https://img.shields.io/badge/Smart%20Citiy-%20Ready-orange)
 ![IOT](https://img.shields.io/badge/IOT-%20Ready-brightgreen)
 
-Forkea nuestro repo! https://github.com/badges/shields/fork)
+[Forkea nuestro repo](https://github.com/smartcitiescommunity/Civikmind/fork)
 
 Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Objetivos de Desarrollo Sostenible
 Platform for the Management of Smart Communities, Smart Cities and Sustainable Development Goals
