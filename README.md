@@ -9,7 +9,7 @@ Platform for the Management of Smart Communities, Smart Cities and Sustainable D
 | OK :white_check_mark: | OK :white_check_mark: | OK :white_check_mark: | Fallo :collision: | OK :white_check_mark: | [![Estado](https://secure.travis-ci.org/glpi-project/glpi.svg?branch=master)](https://secure.travis-ci.org/glpi-project/glpi) | No disponible en el momento | :es: :us: :fr: :it: :de: 🇧🇷 :ru: :cn: :jp: :kr: 🇸🇦 | http://bit.ly/CivikMind |
 
 ## Equipo
-Base: **GLPI**
+Base: Forked from **GLPI** https://github.com/glpi-project/glpi
 Forker & Dev: **Juan Fernando Villa**
 Apoyo: **Indira Carazo** - **Andrés Beltrán** - **Yessy Alejandro Lotero** - **Sergio Herrera** - **Alejandro Cataño** - **Alejandro Angel**
 
@@ -43,14 +43,6 @@ Entre sus potencialidades encontramos que hace uso de manera integrada ya sea de
 </p>
 
 **Civikmind** Su principal caracteristica es la adecuada gestión de la información bajo las mejores practicas las cuales pueden ser usadas para la gestión de ciudades inteligentes, Las caracteristicas incluidas permiten que este sistema controle de manera eficiente y eficaz con una fuerte orientación al logro y al resultado, Caracteristicas esenciales para la correcta gestión de una Ciudad Inteligente o Smart City.
-
-## Actividades Políticas y Campañas Electorales
-<p align="center">
-  <img src="pics/smart_cities2.png?raw=true" width="512" alt="Politica">
-</p>
-
-**Civikmind** Para el tema de campañas electorales permite el control de proyectos, tareas, actividades, presupuestos, interacción con el ciudadano de manera directa con respuestas objetivas como tambien gestión segmentada de lideres, equipos de trabajo y sectores bajo segmentación geografica.
-
 
 ## Sistema Base
 
