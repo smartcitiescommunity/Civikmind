@@ -1,4 +1,5 @@
 # Civikmind
+![Smart City](https://img.shields.io/badge/Smart%20Citiy-%20Ready-orange)
 Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Objetivos de Desarrollo Sostenible
 Platform for the Management of Smart Communities, Smart Cities and Sustainable Development Goals
 
