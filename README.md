@@ -11,7 +11,13 @@ Platform for the Management of Smart Communities, Smart Cities and Sustainable D
 ## Equipo
 Base: Forked from **GLPI** https://github.com/glpi-project/glpi
 Forker & Dev: **Juan Fernando Villa**
-Apoyo: **Indira Carazo** - **Andrés Beltrán** - **Yessy Alejandro Lotero** - **Sergio Herrera** - **Alejandro Cataño** - **Alejandro Angel**
+Apoyo: 
+Conceptos:  **Indira Carazo**
+Apoyo Financiero: **Andrés Beltrán**
+Mercadeo **Yessy Alejandro Lotero**
+Revisión y beta testing: **Sergio Herrera**
+Diseño Grafico: **Alejandro Cataño**
+Conceptos de Desarrollo: **Alejandro Angel Arango**
 
 ## Activismo y Causas Sociales
 <p align="center">
