@@ -1,0 +1,684 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Activity Development Team
+# This file is distributed under the same license as the GLPI - Activity plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI - Activity plugin 2.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-19 19:58+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: setup.php:173 ajax/loadscripts.php:47 inc/config.class.php:38
+#: inc/menu.class.php:32 inc/option.class.php:38 inc/preference.class.php:42
+#: inc/profile.class.php:137 inc/report.class.php:776
+msgid "Activity"
+msgid_plural "Activities"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ajax/preferenceactions.php:42
+msgid "Please select a manager"
+msgstr ""
+
+#: ajax/preferenceactions.php:49
+msgid "Manager sucessfully added."
+msgstr ""
+
+#: ajax/preferenceactions.php:51
+msgid "An error happend while adding the manager"
+msgstr ""
+
+#: ajax/preferenceactions.php:58
+msgid "An error happend while deleting the manager"
+msgstr ""
+
+#: ajax/preferenceactions.php:66
+msgid "Manager sucessfully deleted."
+msgstr ""
+
+#: front/config.form.php:66
+msgid "Please activate the plugin"
+msgstr ""
+
+#: inc/config.class.php:64
+msgid "Define internal helpdesk"
+msgstr ""
+
+#: inc/config.class.php:116
+msgid "Show internal helpdesk"
+msgstr ""
+
+#: inc/crapdf.class.php:246
+msgid "Report of Activities"
+msgstr ""
+
+#: inc/crapdf.class.php:274
+msgid "during"
+msgstr ""
+
+#: inc/crapdf.class.php:279
+msgid "Year"
+msgstr ""
+
+#: inc/crapdf.class.php:283
+msgid "for"
+msgstr ""
+
+#: inc/crapdf.class.php:287
+msgid "Client"
+msgstr ""
+
+#: inc/crapdf.class.php:339
+msgid "Project / activity"
+msgstr ""
+
+#: inc/crapdf.class.php:458 inc/holidaytype.class.php:89
+#: inc/report.class.php:1400
+msgid "Part time"
+msgstr ""
+
+#: inc/crapdf.class.php:459 inc/report.class.php:1398
+msgid "Holidays or exceptional absences"
+msgstr ""
+
+#: inc/crapdf.class.php:460 inc/report.class.php:1402
+msgid "Sickness or maternity"
+msgstr ""
+
+#: inc/crapdf.class.php:489 inc/report.class.php:893
+msgid "Absences"
+msgstr ""
+
+#: inc/crapdf.class.php:522
+msgid ""
+"Entry except in the month, the total must be equal to the number of working "
+"days this month"
+msgstr ""
+
+#: inc/crapdf.class.php:531
+msgid "Total incorrect"
+msgstr ""
+
+#: inc/crapdf.class.php:533
+msgid "Total OK"
+msgstr ""
+
+#: inc/crapdf.class.php:575
+msgid "Generated with GLPI on"
+msgstr ""
+
+#: inc/dashboard.class.php:83 inc/dashboard.class.php:140
+msgid "Activity in the month"
+msgstr ""
+
+#: inc/dashboard.class.php:85 inc/dashboard.class.php:295
+msgid "Activity Menu"
+msgstr ""
+
+#: inc/dashboard.class.php:86 inc/dashboard.class.php:365
+msgid "Interventions not in CRA"
+msgstr ""
+
+#: inc/dashboard.class.php:142
+msgid ""
+"Display of activity by month for a user (tickets, activity, holidays, others)"
+msgstr ""
+
+#: inc/dashboard.class.php:237
+msgid "Planning access"
+msgstr ""
+
+#: inc/dashboard.class.php:257 inc/holiday.class.php:1226
+#: inc/holiday.class.php:1280
+msgid "All day"
+msgstr ""
+
+#: inc/dashboard.class.php:456 inc/dashboard.class.php:489
+#: inc/report.class.php:550 inc/report.class.php:584
+msgid "No defined type"
+msgstr ""
+
+#: inc/holiday.class.php:54
+msgid "Private holiday"
+msgid_plural "Private holidays"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/holiday.class.php:145 inc/holidayperiod.class.php:70
+msgid "Please fill a begin date"
+msgstr ""
+
+#: inc/holiday.class.php:149 inc/holidayperiod.class.php:74
+msgid "Please fill an end date"
+msgstr ""
+
+#: inc/holiday.class.php:155 inc/holidaycount.class.php:67
+msgid "Holiday type is mandatory field"
+msgstr ""
+
+#: inc/holiday.class.php:185 inc/planningexternalevent.class.php:352
+#: inc/planningexternalevent.class.php:403
+msgid "User is mandatory field"
+msgstr ""
+
+#: inc/holiday.class.php:213 inc/planningexternalevent.class.php:365
+#: inc/planningexternalevent.class.php:437
+msgid "The chosen begin date is on weekend"
+msgstr ""
+
+#: inc/holiday.class.php:220 inc/planningexternalevent.class.php:357
+#: inc/planningexternalevent.class.php:429
+msgid "The chosen date is a public holiday"
+msgstr ""
+
+#: inc/holiday.class.php:226
+msgid "You have already planned holidays for this period"
+msgstr ""
+
+#: inc/holiday.class.php:228
+msgid "The user has already planned holidays for this period"
+msgstr ""
+
+#: inc/holiday.class.php:283 inc/holidaytype.class.php:69
+msgid "Auto-validated"
+msgstr ""
+
+#: inc/holiday.class.php:312 inc/notificationtargetholiday.class.php:108
+msgid "Validation of your holiday request"
+msgstr ""
+
+#: inc/holiday.class.php:316
+msgid "The user don't have any manager filled in his personal settings."
+msgstr ""
+
+#: inc/holiday.class.php:438 inc/lateralmenu.class.php:64
+#: inc/planningexternalevent.class.php:103 inc/profile.class.php:94
+#: inc/profile.class.php:144
+msgid "Create a holiday request"
+msgstr ""
+
+#: inc/holiday.class.php:445
+msgid "List of holidays"
+msgstr ""
+
+#: inc/holiday.class.php:451 inc/holiday.class.php:2083
+msgid "Approve holiday"
+msgid_plural "Approve holidays"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/holiday.class.php:457 inc/holidaycount.class.php:39
+#: inc/menu.class.php:50
+msgid "Holiday counter"
+msgid_plural "Holiday counters"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/holiday.class.php:468 inc/preference.class.php:156
+msgid "Add a manager"
+msgstr ""
+
+#: inc/holiday.class.php:880
+msgid "You don't have any manager filled in you personal settings."
+msgstr ""
+
+#: inc/holiday.class.php:882
+msgid ""
+"In order to make a holiday demand, please fill at least one manager in your "
+"personal settings"
+msgstr ""
+
+#: inc/holiday.class.php:885
+msgid "See the page"
+msgstr ""
+
+#: inc/holiday.class.php:932 inc/holiday.class.php:939
+#: inc/holiday.class.php:946 inc/holiday.class.php:1205
+#: inc/holiday.class.php:1259
+msgid "Only on morning"
+msgstr ""
+
+#: inc/holiday.class.php:960 inc/holiday.class.php:1215
+#: inc/holiday.class.php:1269
+msgid "Only on afternoon"
+msgstr ""
+
+#: inc/holiday.class.php:1469
+msgid ""
+"You must fill a registration number for this user before generating the TXT "
+"file."
+msgstr ""
+
+#: inc/holiday.class.php:1471
+msgid "See this page"
+msgstr ""
+
+#: inc/holiday.class.php:1529
+msgid "Generate TXT file for this holiday"
+msgstr ""
+
+#: inc/holiday.class.php:1540
+msgid "Holiday request from"
+msgstr ""
+
+#: inc/holiday.class.php:1540
+msgid "of"
+msgstr ""
+
+#: inc/holiday.class.php:1544
+msgid "Generate mail for this holiday"
+msgstr ""
+
+#: inc/holiday.class.php:2049
+msgid "Close without clearing"
+msgstr ""
+
+#: inc/holiday.class.php:2050
+msgid "See previous month"
+msgstr ""
+
+#: inc/holiday.class.php:2051
+msgid "See next month"
+msgstr ""
+
+#: inc/holiday.class.php:2052
+msgid "See current month"
+msgstr ""
+
+#: inc/holiday.class.php:2055
+msgid "See another month"
+msgstr ""
+
+#: inc/holiday.class.php:2055
+msgid "See another year"
+msgstr ""
+
+#: inc/holiday.class.php:2060
+msgid "Use DD as first day of week"
+msgstr ""
+
+#: inc/holiday.class.php:2060
+msgid "Choose the DD, MM d"
+msgstr ""
+
+#: inc/holiday.class.php:2062
+msgid "Choose the date"
+msgstr ""
+
+#: inc/holiday.class.php:2111
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/holiday.class.php:2356
+msgid "Remaining holidays for the period"
+msgstr ""
+
+#: inc/holiday.class.php:2357
+msgid "Leave awaiting validation"
+msgstr ""
+
+#: inc/holidaycount.class.php:63
+msgid "Holiday period is mandatory field"
+msgstr ""
+
+#: inc/holidaycount.class.php:76
+msgid "Only one counter by period is allowed"
+msgstr ""
+
+#: inc/holidaycount.class.php:141 inc/holidaycount.class.php:216
+msgid "Counter"
+msgstr ""
+
+#: inc/holidaycount.class.php:332
+msgid "Remaining holidays"
+msgstr ""
+
+#: inc/holidaycount.class.php:348 inc/holidaycount.class.php:382
+msgid "Valid until"
+msgstr ""
+
+#: inc/holidaycount.class.php:402
+msgid "Cumul"
+msgstr ""
+
+#: inc/holidayperiod.class.php:37
+msgid "Holiday period"
+msgid_plural "Holiday periods"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/holidayperiod.class.php:46 inc/holidaytype.class.php:59
+msgid "Short name"
+msgstr ""
+
+#: inc/holidayperiod.class.php:61
+msgid "Archived"
+msgstr ""
+
+#: inc/holidaytype.class.php:51 inc/notificationtargetholiday.class.php:154
+msgid "Holiday type"
+msgid_plural "Holiday types"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/holidaytype.class.php:64
+msgid "Mandatory comment"
+msgstr ""
+
+#: inc/holidaytype.class.php:74
+msgid "Holiday"
+msgstr ""
+
+#: inc/holidaytype.class.php:79
+msgid "Use this holiday in the counter"
+msgstr ""
+
+#: inc/holidaytype.class.php:84
+msgid "Sickness"
+msgstr ""
+
+#: inc/holidaytype.class.php:94
+msgid "Linked to a period"
+msgstr ""
+
+#: inc/holidaytype.class.php:106 inc/holidaytype.class.php:120
+msgid "Can't be of more than one type at the same time"
+msgstr ""
+
+#: inc/holidayvalidation.class.php:46
+msgid "Holiday validation"
+msgid_plural "Holidays validation"
+msgstr[0] ""
+msgstr[1] ""
+
+#. TRANS: %s is the user name
+#: inc/holidayvalidation.class.php:209
+#, php-format
+msgid "Mail sent to %s"
+msgstr ""
+
+#: inc/holidayvalidation.class.php:315
+msgid "See validation options"
+msgstr ""
+
+#: inc/holidayvalidation.class.php:393
+msgid "Validation for this holiday"
+msgid_plural "Validations for this holiday"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/holidayvalidation.class.php:431
+msgid "No holiday validation request found"
+msgstr ""
+
+#: inc/holidayvalidation.class.php:467
+msgid "Do you approve this holiday ?"
+msgstr ""
+
+#: inc/holidayvalidation.class.php:473
+msgid "Accept holiday"
+msgstr ""
+
+#: inc/holidayvalidation.class.php:477
+msgid "Refuse holiday"
+msgstr ""
+
+#: inc/lateralmenu.class.php:82
+msgid "Holidays detail"
+msgstr ""
+
+#: inc/lateralmenu.class.php:91
+msgid "Holidays detail in progress"
+msgstr ""
+
+#: inc/notificationtargetholiday.class.php:39
+#: inc/notificationtargetholiday.class.php:211
+msgid "New personal holiday request"
+msgstr ""
+
+#: inc/notificationtargetholiday.class.php:40
+#: inc/notificationtargetholiday.class.php:217
+msgid "Answer to a personal holiday request"
+msgstr ""
+
+#: inc/notificationtargetholiday.class.php:48
+msgid "Approvers"
+msgstr ""
+
+#: inc/notificationtargetholiday.class.php:111
+msgid "Refusal of your holiday request"
+msgstr ""
+
+#: inc/notificationtargetholiday.class.php:115
+msgid "A new holiday request has been submitted"
+msgstr ""
+
+#: inc/notificationtargetholiday.class.php:136
+#: inc/notificationtargetholiday.class.php:198
+msgid "Number of days"
+msgstr ""
+
+#: inc/option.class.php:58
+msgid "Plugin setup"
+msgstr ""
+
+#: inc/option.class.php:61
+msgid "Replace activity name by the activity type"
+msgstr ""
+
+#: inc/option.class.php:68
+msgid "Use time repartition"
+msgstr ""
+
+#: inc/option.class.php:94
+msgid "Use the view by day men in planning"
+msgstr ""
+
+#: inc/option.class.php:101
+msgid "Use pairs schedules"
+msgstr ""
+
+#: inc/option.class.php:108
+msgid "Authorize only the whole schedules"
+msgstr ""
+
+#: inc/option.class.php:115
+msgid "Authorize activities on week-ends"
+msgstr ""
+
+#: inc/option.class.php:122
+msgid "Principal client"
+msgstr ""
+
+#: inc/option.class.php:131
+msgid "Used mail for holidays"
+msgstr ""
+
+#: inc/option.class.php:140
+msgid "CRA Footer"
+msgstr ""
+
+#: inc/option.class.php:151
+msgid "Use group manager as holiday manager"
+msgstr ""
+
+#: inc/option.class.php:158
+msgid "Default validation percent"
+msgstr ""
+
+#: inc/option.class.php:167 inc/option.class.php:197
+msgid "is on CRA by default"
+msgstr ""
+
+#: inc/option.class.php:174
+msgid "Use projects"
+msgstr ""
+
+#: inc/planningexternalevent.class.php:186
+msgid "Add an activity"
+msgstr ""
+
+#: inc/planningexternalevent.class.php:192
+msgid "List of activities"
+msgstr ""
+
+#: inc/planningexternalevent.class.php:198
+msgid "CRA"
+msgstr ""
+
+#: inc/planningexternalevent.class.php:232 inc/projecttask.class.php:126
+#: inc/tickettask.class.php:79
+msgid "Use in CRA"
+msgstr ""
+
+#: inc/planningexternalevent.class.php:333
+#: inc/planningexternalevent.class.php:417
+msgid "Only whole hours are allowed (no split times)"
+msgstr ""
+
+#: inc/planningexternalevent.class.php:339
+#: inc/planningexternalevent.class.php:423
+msgid "Only pairs schedules are allowed"
+msgstr ""
+
+#: inc/planningexternalevent.class.php:346
+#: inc/planningexternalevent.class.php:397
+msgid "Activity type is mandatory field"
+msgstr ""
+
+#: inc/planningexternalevent.class.php:370
+#: inc/planningexternalevent.class.php:442
+msgid "The chosen end date is on weekend"
+msgstr ""
+
+#: inc/preference.class.php:77 inc/preference.class.php:116
+msgid "List of my managers"
+msgstr ""
+
+#: inc/preference.class.php:81 inc/preference.class.php:121
+msgid "You have not declared any manager yet."
+msgstr ""
+
+#: inc/profile.class.php:37
+msgid "Right management"
+msgid_plural "Rights management"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/profile.class.php:101 inc/profile.class.php:148
+msgid "Validate holiday"
+msgid_plural "Validate holidays"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/profile.class.php:108 inc/profile.class.php:152
+msgid "Statistics and reports"
+msgstr ""
+
+#: inc/profile.class.php:115 inc/profile.class.php:156
+msgid "Display activities of all"
+msgstr ""
+
+#: inc/publicholiday.class.php:45
+msgid "Public holiday"
+msgid_plural "Public holidays"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/report.class.php:160
+msgid "Take a snapshot of the CRA"
+msgstr ""
+
+#: inc/report.class.php:211
+msgid "Snapshots of the month"
+msgstr ""
+
+#: inc/report.class.php:265
+msgid "Snapshot taken in"
+msgstr ""
+
+#: inc/report.class.php:303
+msgid "Export CRA"
+msgstr ""
+
+#: inc/report.class.php:342
+msgid "Activity report"
+msgstr ""
+
+#: inc/report.class.php:367
+msgid "Next month"
+msgstr ""
+
+#: inc/report.class.php:368
+msgid "Previous month"
+msgstr ""
+
+#: inc/report.class.php:608
+msgid "Unbilled"
+msgstr ""
+
+#: inc/report.class.php:775
+msgid "Project"
+msgstr ""
+
+#: inc/report.class.php:960
+msgid "Activities detail"
+msgstr ""
+
+#: inc/report.class.php:968
+msgid "Percent"
+msgstr ""
+
+#: inc/report.class.php:1019
+msgid "No activity found"
+msgstr ""
+
+#: inc/stats5.class.php:223 inc/stats5.class.php:271
+msgid "Number of technicians"
+msgstr ""
+
+#: inc/stats5.class.php:241 inc/stats5.class.php:270
+msgid "Number of tickets in progress"
+msgstr ""
+
+#: inc/stats5.class.php:272
+msgid "All the period"
+msgstr ""
+
+#: inc/stats5.class.php:287
+msgid "Main evolution of team"
+msgstr ""
+
+#: inc/stats.class.php:37
+msgid "Activity statistics"
+msgstr ""
+
+#: inc/ticket.class.php:43
+msgid "The following user is unavailable / on holiday : "
+msgstr ""
+
+#: inc/tickettask.class.php:43
+msgid "Cumulative ticket task"
+msgid_plural "Cumulative ticket tasks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tools.class.php:237
+msgid "Export the report"
+msgstr ""
+
+#: inc/tools.class.php:409
+msgid "Refresh"
+msgstr ""

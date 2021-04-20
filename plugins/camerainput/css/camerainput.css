@@ -1,0 +1,37 @@
+/*
+ -------------------------------------------------------------------------
+ Camera Input
+ Copyright (C) 2020-2021 by Curtis Conard
+ https://github.com/cconard96/glpi-camerainput-plugin
+ -------------------------------------------------------------------------
+ LICENSE
+ This file is part of Camera Input.
+ Camera Input is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ Camera Input is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ You should have received a copy of the GNU General Public License
+ along with Camera Input. If not, see <http://www.gnu.org/licenses/>.
+ --------------------------------------------------------------------------
+*/
+
+#camera-input-viewport {
+   padding: 0;
+}
+
+#camera-input-viewport video {
+   object-fit: cover;
+}
+
+#champRecherche button.camera-input {
+   border-radius: 3px 3px 3px 3px;
+   padding: 3px;
+}
+
+.drawingBuffer {
+   display: none;
+}

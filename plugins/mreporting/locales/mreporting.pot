@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-09 15:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: front/dashboard.form.php:34 front/dashboard.form.php:39 front/config.php:45
+#: front/preference.form.php:45 front/graph.php:39 front/central.php:33
+#: front/config.form.php:56 inc/profile.class.php:38
+#: inc/preference.class.php:182 inc/notificationtargetnotification.class.php:8
+#: inc/common.class.php:49 inc/notification.class.php:18 setup.php:177
+msgid "More Reporting"
+msgstr ""
+
+#: front/central.php:73 front/central.php:80 inc/common.class.php:329
+#: inc/common.class.php:396 inc/config.class.php:663
+msgid "No report is available !"
+msgstr ""
+
+#: front/popup.php:38 inc/common.class.php:1147 inc/common.class.php:1154
+#: inc/common.class.php:1162
+msgid "General Report - ODT"
+msgstr ""
+
+#: inc/other.class.php:70
+msgid "Add/remove software on a computer"
+msgstr ""
+
+#: inc/other.class.php:73
+msgid "Add/remove version on a software"
+msgstr ""
+
+#: inc/other.class.php:76
+msgid "Add infocom"
+msgstr ""
+
+#: inc/other.class.php:79
+msgid "Add/remove profile on a user"
+msgstr ""
+
+#: inc/other.class.php:82
+msgid "Add/remove group on a user"
+msgstr ""
+
+#: inc/other.class.php:85
+msgid "User deleted from LDAP"
+msgstr ""
+
+#: inc/other.class.php:93
+msgid "Webservice logs"
+msgstr ""
+
+#: inc/other.class.php:97
+msgid "OCS Infos"
+msgstr ""
+
+#: inc/other.class.php:100
+msgid "Add/update/remove device"
+msgstr ""
+
+#: inc/other.class.php:103
+msgid "Add/remove relation"
+msgstr ""
+
+#: inc/other.class.php:106
+msgid "Add/remove item"
+msgstr ""
+
+#: inc/other.class.php:109
+msgid "Comments & date_mod changes"
+msgstr ""
+
+#: inc/other.class.php:117
+msgid "Genericobject plugin logs"
+msgstr ""
+
+#: inc/profile.class.php:70 inc/profile.class.php:216 inc/profile.class.php:288
+msgid "Rights management"
+msgstr ""
+
+#: inc/preference.class.php:123 inc/common.class.php:1148
+msgid "Please, select a model in your preferences"
+msgstr ""
+
+#: inc/common.class.php:61 inc/common.class.php:62 inc/common.class.php:77
+#: inc/dashboard.class.php:35 ajax/homepage_link.php:8
+msgid "Dashboard"
+msgstr ""
+
+#: inc/common.class.php:64 inc/common.class.php:65 inc/common.class.php:86
+msgid "Reports list"
+msgstr ""
+
+#: inc/common.class.php:507 ajax/dropdownExport.php:42
+msgid "Without data"
+msgstr ""
+
+#: inc/common.class.php:508 ajax/dropdownExport.php:41
+msgid "With data"
+msgstr ""
+
+#: inc/common.class.php:929
+msgid "Number"
+msgstr ""
+
+#: inc/common.class.php:950 inc/common.class.php:1253 inc/common.class.php:1269
+msgid "data"
+msgstr ""
+
+#: inc/common.class.php:1155
+msgid "No model available"
+msgstr ""
+
+#: inc/common.class.php:1163
+msgid "No graphic selected"
+msgstr ""
+
+#: inc/common.class.php:1406
+msgid "Week"
+msgstr ""
+
+#: inc/common.class.php:1407
+msgid "Month"
+msgstr ""
+
+#: inc/common.class.php:1520
+msgid "Max depth entity level"
+msgstr ""
+
+#: inc/notification.class.php:34 inc/notification.class.php:55
+#: inc/notification.class.php:128
+msgid "Notification for \"More Reporting\""
+msgstr ""
+
+#: inc/notification.class.php:39
+msgid ""
+"\n"
+"<p>Hello,</p>\n"
+"\n"
+"<p>GLPI reports are available.<br />\n"
+"You will find attached in this email.</p>\n"
+"\n"
+msgstr ""
+
+#: inc/notification.class.php:46 inc/pdf.class.php:15
+msgid "GLPI statistics reports"
+msgstr ""
+
+#: inc/notification.class.php:47
+msgid ""
+"Hello,\n"
+"\n"
+"GLPI reports are available.\n"
+"You will find attached in this email.\n"
+"\n"
+msgstr ""
+
+#: inc/notification.class.php:153
+msgid "Notification(s) sent !"
+msgstr ""
+
+#: inc/graph.class.php:154 inc/graph.class.php:353 inc/graph.class.php:550
+#: inc/graph.class.php:810 inc/graph.class.php:1030 inc/graph.class.php:1259
+#: inc/graph.class.php:1500 inc/graphpng.class.php:551
+#: inc/graphpng.class.php:745 inc/graphpng.class.php:945
+#: inc/graphpng.class.php:1254 inc/graphpng.class.php:1491
+#: inc/graphpng.class.php:1796 inc/graphpng.class.php:2065
+msgid "No data for this date range !"
+msgstr ""
+
+#: inc/helpdesk.class.php:284 inc/helpdesk.class.php:343
+msgid "Undefined"
+msgstr ""
+
+#: inc/config.class.php:38
+msgid "Configuration"
+msgstr ""
+
+#: inc/config.class.php:82 inc/config.class.php:691
+msgid "See area"
+msgstr ""
+
+#: inc/config.class.php:91 inc/config.class.php:706 inc/config.class.php:718
+msgid "Curve lines (SVG)"
+msgstr ""
+
+#: inc/config.class.php:100
+msgid "See values"
+msgstr ""
+
+#: inc/config.class.php:110 inc/config.class.php:733
+msgid "Reverse data array"
+msgstr ""
+
+#: inc/config.class.php:119 inc/config.class.php:745
+msgid "Unit"
+msgstr ""
+
+#: inc/config.class.php:127 inc/config.class.php:755
+msgid "Default delay"
+msgstr ""
+
+#: inc/config.class.php:135 inc/config.class.php:763
+msgid "Additional condition for MySQL"
+msgstr ""
+
+#: inc/config.class.php:143 inc/config.class.php:671
+msgid "See graphic"
+msgstr ""
+
+#: inc/config.class.php:152
+msgid "Class"
+msgstr ""
+
+#: inc/config.class.php:160
+msgid "Default chart format"
+msgstr ""
+
+#: inc/config.class.php:169 inc/config.class.php:772
+msgid "Send this report with the notification"
+msgstr ""
+
+#: inc/config.class.php:255
+msgid "Initialize graphics configuration"
+msgstr ""
+
+#: inc/config.class.php:492 inc/config.class.php:507
+msgid "On mouse over"
+msgstr ""
+
+#: inc/config.class.php:575
+msgid "Object already exists"
+msgstr ""
+
+#: inc/dashboard.class.php:85
+msgid "Select a report to display"
+msgstr ""
+
+#: inc/dashboard.class.php:96
+msgid "Dashboard is empty. Please add reports by clicking on the icon"
+msgstr ""
+
+#: inc/dashboard.class.php:105
+msgid "Add a report"
+msgstr ""
+
+#: inc/dashboard.class.php:134
+msgid "Select a report to add"
+msgstr ""
+
+#: inc/dashboard.class.php:223
+msgid "Configure report"
+msgstr ""
+
+#: inc/pdf.class.php:16
+msgid "Automaticaly generated by GLPI"
+msgstr ""

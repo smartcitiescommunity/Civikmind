@@ -1,0 +1,1 @@
+ALTER TABLE `glpi_plugin_manageentities_configs` ADD `disable_date_header` tinyint(1) NOT NULL default '0';

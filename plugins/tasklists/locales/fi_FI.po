@@ -1,0 +1,255 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Tasklists Development Team
+# This file is distributed under the same license as the GLPI - Tasklists plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Markku Vepsä, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI - Tasklists plugin 1.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-20 15:07+0200\n"
+"PO-Revision-Date: 2017-10-18 16:45+0000\n"
+"Last-Translator: Markku Vepsä, 2018\n"
+"Language-Team: Finnish (Finland) (https://www.transifex.com/infotelGLPI/teams/79675/fi_FI/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: setup.php:89 inc/dashboard.class.php:58 inc/dashboard.class.php:178
+#: inc/dashboard.class.php:183 inc/menu.class.php:44
+#: inc/preference.class.php:46 inc/profile.class.php:52
+msgid "Tasks list"
+msgstr "Tehtävien luettelo"
+
+#: ajax/addOptions.php:31
+msgid "Not archived"
+msgstr ""
+
+#: ajax/addOptions.php:32 inc/task.class.php:181 inc/task.class.php:599
+msgid "Archived"
+msgstr "Arkistoitu"
+
+#: inc/dashboard.class.php:93 inc/task.class.php:80 inc/task.class.php:418
+#: inc/taskstate.class.php:100 inc/taskstate.class.php:152
+#: inc/tasktype.class.php:48
+msgid "Context"
+msgid_plural "Contexts"
+msgstr[0] "Asiayhteys"
+msgstr[1] "Asiayhteydet"
+
+#: inc/dashboard.class.php:93 inc/notificationtargettask.class.php:203
+#: inc/notificationtargettask.class.php:247 inc/task.class.php:118
+#: inc/task.class.php:496 inc/tasktype.class.php:256
+msgid "Due date"
+msgstr "Määräaika"
+
+#: inc/dashboard.class.php:164 inc/dashboard.class.php:172
+#: inc/kanban.class.php:257 inc/ticket.class.php:154
+msgid "Add task"
+msgstr "Lisää tehtävä"
+
+#: inc/kanban.class.php:61
+msgid "Kanban"
+msgstr "Taulu"
+
+#: inc/kanban.class.php:121
+msgid "You don't have the right to see any context"
+msgstr "Sinulla ei ole oikeutta nähdä mitään asiayhteyttä"
+
+#: inc/kanban.class.php:188
+msgid "There is no accessible context"
+msgstr ""
+
+#: inc/kanban.class.php:247
+msgid "Toggle collapse"
+msgstr ""
+
+#: inc/kanban.class.php:248
+msgid "Search"
+msgstr ""
+
+#: inc/kanban.class.php:249
+msgid "Search or filter results"
+msgstr ""
+
+#: inc/kanban.class.php:250
+msgid "Add status"
+msgstr ""
+
+#: inc/kanban.class.php:251
+msgid "Create status"
+msgstr ""
+
+#: inc/kanban.class.php:253
+msgid "Add a column from existing status"
+msgstr ""
+
+#: inc/kanban.class.php:254
+msgid "Or add a new status"
+msgstr ""
+
+#: inc/kanban.class.php:259
+msgid "Archive all tasks of this state"
+msgstr "Arkistoi kaikki tässä tilassa olevat tehtävät"
+
+#: inc/kanban.class.php:260
+msgid "See archived tasks"
+msgstr "Näytä arkistoidut tehtävät"
+
+#: inc/kanban.class.php:261
+msgid "Hide archived tasks"
+msgstr "Piilota arkistoidut tehtävät"
+
+#: inc/kanban.class.php:262
+msgid "Clone task"
+msgstr "Monista tehtävä"
+
+#: inc/kanban.class.php:263
+msgid "See tasks in progress"
+msgstr "Katso käynnissä olevat tehtävät"
+
+#: inc/kanban.class.php:264
+msgid "See tasks of"
+msgstr "Näytä tehtävät"
+
+#: inc/kanban.class.php:265
+msgid "See all tasks"
+msgstr "Näytä kaikki tehtävät"
+
+#: inc/kanban.class.php:266
+msgid "Are you sure you want to archive this task ?"
+msgstr "Haluatko varmasti arkistoida tämän tehtävän?"
+
+#: inc/kanban.class.php:267
+msgid "Are you sure you want to archive all tasks ?"
+msgstr "Haluatko varmasti arkistoida kaikki tehtävät?"
+
+#: inc/kanban.class.php:268
+msgid "Archive this task"
+msgstr "Arkistoi tämä tehtävä"
+
+#: inc/kanban.class.php:269
+msgid "Update priority of task"
+msgstr "Päivitä tehtävän prioriteetti"
+
+#: inc/kanban.class.php:270
+msgid "Details of task"
+msgstr "Tehtävän lisätiedot"
+
+#: inc/notificationtargettask.class.php:50
+msgid "A task has been added"
+msgstr "Tehtävä on lisätty"
+
+#: inc/notificationtargettask.class.php:51
+msgid "A task has been updated"
+msgstr "Tehtävä on päivitetty"
+
+#: inc/notificationtargettask.class.php:52
+msgid "A task has been removed"
+msgstr "Tehtävä on poistettu"
+
+#: inc/notificationtargettask.class.php:207
+#: inc/notificationtargettask.class.php:251 inc/task.class.php:189
+#: inc/task.class.php:486
+msgid "Other client"
+msgstr "Muu asiakas"
+
+#: inc/notificationtargettask.class.php:259
+msgid "At creation, update, removal of a task"
+msgstr "Luonti, päivitys, tehtävän poisto"
+
+#: inc/preference.class.php:80
+msgid "Context by default"
+msgstr "Asiayhteys oletuksena"
+
+#: inc/preference.class.php:88
+msgid "Automatic refreshing of tasklist"
+msgstr ""
+
+#: inc/preference.class.php:94
+msgid "Refresh every "
+msgstr ""
+
+#: inc/preference.class.php:98
+msgid "minute(s)"
+msgstr ""
+
+#: inc/profile.class.php:153 inc/profile.class.php:196
+msgid "See and update all tasks"
+msgstr "Näytä ja päivitä kaikki tehtävät"
+
+#: inc/profile.class.php:162 inc/profile.class.php:199
+msgid "Configure contexts and statuses"
+msgstr ""
+
+#: inc/stateorder.class.php:96
+msgid "States ordering"
+msgstr "Tilojen järjestely"
+
+#: inc/stateorder.class.php:156
+msgid "Add states from linked Kanban"
+msgstr ""
+
+#: inc/task.class.php:333
+msgid "You cannot archive a task with this state"
+msgstr "Et voi arkistoida tässä tilassa olevaa tehtävää"
+
+#: inc/task.class.php:457
+msgid "Existing client"
+msgstr "Olemassa oleva asiakas"
+
+#: inc/task.class.php:622 inc/task.class.php:709 inc/task.class.php:985
+#: inc/tasktype.class.php:161
+msgid "Backlog"
+msgstr "Jono"
+
+#: inc/task.class.php:1045
+msgctxt "visibility"
+msgid "This user"
+msgstr "Tämä käyttäjä"
+
+#: inc/task.class.php:1048
+msgctxt "visibility"
+msgid "This user and this group"
+msgstr "Tämä käyttäjä ja tämä ryhmä"
+
+#: inc/task.class.php:1051
+msgctxt "visibility"
+msgid "All"
+msgstr "Kaikki"
+
+#: inc/task.class.php:1093
+msgid "Affect entity for create task"
+msgstr "Kohdista tehtävä yksikköön"
+
+#: inc/ticket.class.php:74 inc/ticket.class.php:183
+msgid "Linked task"
+msgid_plural "Linked tasks"
+msgstr[0] "Liitetty tehtävä"
+msgstr[1] "Liitetyt tehtävät"
+
+#: inc/ticket.class.php:227
+msgid "No task linked to this ticket yet"
+msgstr "Tikettiin ei vielä ole liitetty tehtävää"
+
+#: inc/ticket.class.php:258
+msgid "Link a existant ticket"
+msgstr "Liitä olemassa oleva tiketti"
+
+#: inc/ticket.class.php:284
+msgid "Linked tickets"
+msgstr "Liitetyt tiketit"
+
+#: inc/typevisibility.class.php:138
+msgid "Add a group"
+msgstr "Lisää ryhmä"
+
+#: inc/typevisibility.class.php:179
+msgid "Groups allowed to use context"
+msgstr "Sallitut ryhmät"

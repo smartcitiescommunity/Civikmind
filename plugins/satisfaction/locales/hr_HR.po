@@ -1,0 +1,278 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Xavier CAILLAUD <thetsmr@gmail.com>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-28 08:52+0200\n"
+"PO-Revision-Date: 2018-03-14 08:28+0000\n"
+"Last-Translator: Xavier CAILLAUD <thetsmr@gmail.com>, 2020\n"
+"Language-Team: Croatian (Croatia) (https://www.transifex.com/infotelGLPI/teams/84146/hr_HR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr_HR\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#: hook.php:93
+msgid "Ticket Satisfaction Reminder"
+msgstr "Podsjetnik zadovoljstva za naloge"
+
+#: setup.php:62
+msgid "More satisfaction"
+msgstr "Više zadovoljstva"
+
+#: inc/dashboard.class.php:76 inc/menu.class.php:14 inc/profile.class.php:50
+#: inc/survey.class.php:24
+msgid "Satisfaction survey"
+msgid_plural "Satisfaction surveys"
+msgstr[0] "Anketa o zadovoljstvu"
+msgstr[1] "Ankete o zadovoljstvu"
+msgstr[2] "Ankete o zadovoljstvu"
+
+#: inc/dashboard.class.php:99
+msgid "First Trimester"
+msgstr "Prvi kvartal"
+
+#: inc/dashboard.class.php:100
+msgid "Second Trimester"
+msgstr "Drugi kvartal"
+
+#: inc/dashboard.class.php:101
+msgid "Third Trimester"
+msgstr "Treći kvartal"
+
+#: inc/dashboard.class.php:102
+msgid "Fourth Trimester"
+msgstr "Četvrti kvartal"
+
+#: inc/dashboard.class.php:103
+msgid "Year"
+msgstr "Godina"
+
+#: inc/dashboard.class.php:199
+msgid "There are no survey for current entity"
+msgstr "Nema ankete za trenutačni entitet"
+
+#: inc/dashboard.class.php:312
+msgid "Number of surveys"
+msgstr "Broj anketa"
+
+#: inc/dashboard.class.php:317
+msgid "Number of concerned tickets"
+msgstr "Broj dotičnih naloga"
+
+#: inc/dashboard.class.php:322
+msgid "Survey not answered"
+msgstr "Anketa nije odgovorena"
+
+#: inc/dashboard.class.php:327
+msgid "Survey answered"
+msgstr "Anketa odgovorena"
+
+#: inc/dashboard.class.php:332
+msgid "Global satisfaction"
+msgstr "Opće zadovoljstvo"
+
+#: inc/dashboard.class.php:374
+msgid "Periods"
+msgstr "Razdoblja"
+
+#: inc/notificationMailing.class.php:51
+msgid "Notification satisfaction reminder"
+msgstr "Obavijest o podsjetniku zadovoljstva"
+
+#: inc/notificationMailing.class.php:180
+msgid "Resource creation"
+msgstr "Stvaranje resursa"
+
+#: inc/notificationMailing.class.php:181
+msgid "Other"
+msgstr "Ostalo"
+
+#: inc/notificationtargetticket.class.php:39
+msgid "Survey Reminder"
+msgstr "Podsjetnik za anketu"
+
+#: inc/reminder.class.php:30
+msgid "Satisfaction reminder"
+msgid_plural "Satisfaction reminders"
+msgstr[0] "Podsjetnik zadovoljstva"
+msgstr[1] "Podsjetnici zadovoljstva"
+msgstr[2] "Podsjetnici zadovoljstva"
+
+#: inc/reminder.class.php:44
+msgid "Send automaticaly survey reminders"
+msgstr ""
+
+#: inc/surveyanswer.class.php:22
+msgid "Answer"
+msgid_plural "Answers"
+msgstr[0] "Odgovor"
+msgstr[1] "Odgovori"
+msgstr[2] "Odgovori"
+
+#: inc/surveyanswer.class.php:43
+msgid "Preview"
+msgstr "Pregled"
+
+#: inc/surveyanswer.class.php:116
+msgid "Satisfaction"
+msgstr "Zadovoljstvo"
+
+#: inc/survey.class.php:223 inc/survey.class.php:249
+msgid "Error : only one survey is allowed by entity"
+msgstr "Greška: dozvoljena je samo jedna anketa po entitetu"
+
+#: inc/surveyquestion.class.php:30
+msgid "Question"
+msgid_plural "Questions"
+msgstr[0] "Pitanje"
+msgstr[1] "Pitanja"
+msgstr[2] "Pitanja"
+
+#: inc/surveyquestion.class.php:105
+msgid ""
+"You cannot edit the questions when answers exists for this survey. Disable "
+"this survey and create a new one !"
+msgstr ""
+"Ne možeš urediti pitanja kad postoje odgovori za ovu anketu. Deaktiviraj ovu"
+" anketu i stvori novu!"
+
+#: inc/surveyquestion.class.php:125 inc/surveyquestion.class.php:195
+msgid "Add a question"
+msgstr "Dodaj pitanje"
+
+#: inc/surveyquestion.class.php:133
+msgid "No questions for this survey"
+msgstr "Nema pitanja za ovu anketu"
+
+#: inc/surveyquestion.class.php:231
+msgid "Note on"
+msgstr "Napomena za"
+
+#: inc/surveyquestion.class.php:325 inc/surveyquestion.class.php:340
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/surveyquestion.class.php:326 inc/surveyquestion.class.php:342
+msgid "Note"
+msgstr "Bilješka"
+
+#: inc/surveyreminder.class.php:45 inc/surveyreminder.class.php:65
+#: inc/surveyreminder.class.php:446
+msgid "Reminder"
+msgid_plural "Reminders"
+msgstr[0] "Podsjetnik"
+msgstr[1] "Podsjetnici"
+msgstr[2] "Podsjetnici"
+
+#: inc/surveyreminder.class.php:143 inc/surveyreminder.class.php:246
+msgid "Add a reminder"
+msgstr "Dodaj podsjetnik"
+
+#: inc/surveyreminder.class.php:147
+msgid "Add a predefined reminder"
+msgstr "Dodaj predodređeni podsjetnik"
+
+#: inc/surveyreminder.class.php:154
+msgid "Setup maximum number of days to send reminder"
+msgstr ""
+
+#: inc/surveyreminder.class.php:155
+msgid "Maximum number of days to send reminder"
+msgstr ""
+
+#: inc/surveyreminder.class.php:173
+msgid "No reminders for this survey"
+msgstr "Nema podsjetnika za ovu anketu"
+
+#: inc/surveyreminder.class.php:244
+msgid "Choose a predefined reminder"
+msgstr "Odaberi predodređeni podsjetnik"
+
+#: inc/surveyreminder.class.php:255
+msgid "Predefined Reminders"
+msgstr "Predodređeni podsjetnici"
+
+#: inc/surveyreminder.class.php:388
+msgid "Month"
+msgstr "Mjesec"
+
+#: inc/surveyreminder.class.php:402
+msgid "One Week"
+msgstr "Jedan tjedan"
+
+#: inc/surveyreminder.class.php:403
+msgid "Two Week"
+msgstr "Dva tjedna"
+
+#: inc/surveyreminder.class.php:404
+msgid "One Month"
+msgstr "Jedan mjesec"
+
+#: inc/surveyreminder.class.php:417
+msgid "Duration Type"
+msgstr "Vrsta trajanja"
+
+#: inc/surveyreminder.class.php:418
+msgid "Duration"
+msgstr "Trajanje"
+
+#: inc/surveyreminder.class.php:491
+#, php-format
+msgid ""
+"You already have a reminder with the same duration type and duration named :"
+" %s"
+msgstr "Već imaš podsjetnik iste vrste i trajanja, zove se: %s"
+
+#: inc/surveyreminder.class.php:521
+msgid "There are nothing to save"
+msgstr "Nema se što spremiti"
+
+#: inc/surveyresult.class.php:22
+msgid "Result of the survey"
+msgid_plural "Results of the survey"
+msgstr[0] "Rezultat ankete"
+msgstr[1] "Rezultati ankete"
+msgstr[2] "Rezultati ankete"
+
+#: inc/surveyresult.class.php:43
+msgid "Result"
+msgstr "Rezultat"
+
+#: inc/surveyresult.class.php:86
+msgid "No result of the survey"
+msgstr "Nema rezultata iz ankete"
+
+#: inc/surveytranslation.class.php:240
+msgid "No translation found"
+msgstr "Nijedan prijevod nije pronađen"
+
+#: inc/surveytranslation.class.php:396
+#, php-format
+msgid "An %s translation for this Question already exist."
+msgstr "Jedan %s prijevod za ovo pitanje već postoji."
+
+#: inc/surveytranslation.class.php:409
+msgid "Translation successfully created."
+msgstr "Prijevod uspješno stvoren."
+
+#: inc/surveytranslation.class.php:421
+msgid "Translation creation failed"
+msgstr "Neuspjelo stvaranje prijevoda"
+
+#: inc/surveytranslation.class.php:435
+msgid "The translation you want to edit does not exist."
+msgstr "Prijevod kojeg želiš urediti ne postoji."
+
+#: inc/surveytranslation.class.php:445
+msgid "Translation successfully edited."
+msgstr "Prijevod uspješno uređen."

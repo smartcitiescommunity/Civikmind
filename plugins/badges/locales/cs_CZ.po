@@ -1,0 +1,219 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Badges Development Team
+# This file is distributed under the same license as the GLPI - Badges plugin package.
+# 
+# Translators:
+# Pavel Borecki <pavel.borecki@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Project - badges plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-20 09:04+0200\n"
+"PO-Revision-Date: 2020-07-20 07:12+0000\n"
+"Last-Translator: Xavier CAILLAUD <thetsmr@gmail.com>\n"
+"Language-Team: Czech (Czech Republic) (http://www.transifex.com/infotelGLPI/GLPI_badges/language/cs_CZ/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+#: setup.php:101 inc/badge.class.php:49 inc/menu.class.php:41
+#: inc/profile.class.php:177 inc/request.class.php:194
+#: inc/request.class.php:303
+msgid "Badge"
+msgid_plural "Badges"
+msgstr[0] "Jmenovka"
+msgstr[1] "Jmenovky"
+msgstr[2] "Jmenovek"
+msgstr[3] "Jmenovky"
+
+#: inc/badge.class.php:88 inc/badge.class.php:300 inc/request.class.php:477
+msgid "Affectation date"
+msgstr "Datum přidělení"
+
+#: inc/badge.class.php:96 inc/badge.class.php:313
+#: inc/notificationtargetbadge.class.php:83
+#: inc/notificationtargetbadge.class.php:129
+msgid "Date of end of validity"
+msgstr "Datum konce platnosti"
+
+#: inc/badge.class.php:177 inc/badge.class.php:318
+msgid "Bookable"
+msgstr "Zarezervovatelné"
+
+#: inc/badge.class.php:456 inc/notificationtargetbadge.class.php:53
+#: inc/notificationtargetbadge.class.php:73
+msgid "Badges which expires"
+msgstr "Jmenovky kterým končí platnost"
+
+#: inc/badge.class.php:574 inc/notificationtargetbadge.class.php:52
+#: inc/notificationtargetbadge.class.php:70 inc/return.class.php:447
+msgid "Badges at the end of the validity"
+msgstr "Jmenovky na konci platnosti"
+
+#: inc/badgetype.class.php:48
+msgid "Type of badge"
+msgid_plural "Types of badge"
+msgstr[0] "Typ jmenovky"
+msgstr[1] "Typy jmenovek"
+msgstr[2] "Typů jmenovek"
+msgstr[3] "Typy jmenovek"
+
+#: inc/config.class.php:48
+msgid "Plugin Setup"
+msgstr "Nastavení zásuvného modulu"
+
+#: inc/config.class.php:93 inc/config.class.php:141
+msgid "Time of checking of validity of the badges"
+msgstr "Jak často kontrolovat platnost jmenovek"
+
+#: inc/config.class.php:99
+msgid "Badges expired for more than "
+msgstr "Jmenovky kterým skončila platnost před déle než"
+
+#: inc/config.class.php:109
+msgid "Badges expiring in less than "
+msgstr "Jmenovky kterým končí platnost za méně než"
+
+#: inc/config.class.php:147 inc/notificationtargetbadge.class.php:55
+#: inc/notificationtargetbadge.class.php:79
+msgid "Badge return delay"
+msgstr "Prodleva vrácení jmenovky"
+
+#: inc/notificationstate.class.php:115 inc/notificationstate.class.php:156
+msgid "Unused status for expiration mailing"
+msgstr "Nevyužitý stav pro posílání skončení platnosti"
+
+#: inc/notificationtargetbadge.class.php:54
+#: inc/notificationtargetbadge.class.php:76 inc/request.class.php:248
+#: inc/request.class.php:254 inc/wizard.class.php:68 inc/wizard.class.php:76
+msgid "Access badge request"
+msgstr "Žádost o přístupovou jmenovku"
+
+#: inc/notificationtargetbadge.class.php:85
+#: inc/notificationtargetbadge.class.php:130
+msgid "Allotted to"
+msgstr "Komu přiděleno"
+
+#: inc/notificationtargetbadge.class.php:101
+#: inc/notificationtargetbadge.class.php:131 inc/request.class.php:195
+#: inc/request.class.php:258 inc/request.class.php:301
+#: inc/request.class.php:474 inc/return.class.php:176 inc/return.class.php:328
+msgid "Visitor realname"
+msgstr "Občanské jméno návštěníka"
+
+#: inc/notificationtargetbadge.class.php:102
+#: inc/notificationtargetbadge.class.php:132 inc/request.class.php:196
+#: inc/request.class.php:263 inc/request.class.php:300
+#: inc/request.class.php:475 inc/return.class.php:177 inc/return.class.php:326
+msgid "Visitor firstname"
+msgstr "Jméno návštěvníka"
+
+#: inc/notificationtargetbadge.class.php:103
+#: inc/notificationtargetbadge.class.php:133 inc/request.class.php:197
+#: inc/request.class.php:271 inc/request.class.php:302
+#: inc/request.class.php:476 inc/return.class.php:178 inc/return.class.php:333
+msgid "Visitor society"
+msgstr "Společnost ze které návštěvník je"
+
+#: inc/notificationtargetbadge.class.php:104
+#: inc/notificationtargetbadge.class.php:134 inc/request.class.php:126
+#: inc/request.class.php:198 inc/request.class.php:282
+#: inc/request.class.php:304 inc/return.class.php:179 inc/return.class.php:339
+#: inc/return.class.php:442
+msgid "Arrival date"
+msgstr "Datum příchodu"
+
+#: inc/notificationtargetbadge.class.php:144 inc/request.class.php:52
+msgid "Badges request"
+msgstr "Požadavek na jmenovky"
+
+#: inc/notificationtargetbadge.class.php:150
+msgid "Badges expired or badges which expires"
+msgstr "Jmenovky kterým skončila nebo končí platnost"
+
+#: inc/request.class.php:121
+msgid "Badges usage search"
+msgstr "Hledání využití jmenovek"
+
+#: inc/request.class.php:132 inc/request.class.php:199
+#: inc/return.class.php:180
+msgid "Return date"
+msgstr "Datum vrácení"
+
+#: inc/request.class.php:191 inc/request.class.php:221
+msgid "Badge usage report"
+msgstr "Výkaz o využití jmenovek"
+
+#: inc/request.class.php:275 inc/request.class.php:478
+msgid "Available badge"
+msgid_plural "Available badges"
+msgstr[0] "Jmenovka k dispozici"
+msgstr[1] "Jmenovky k dispozici"
+msgstr[2] "Jmenovek k dispozici"
+msgstr[3] "Jmenovky k dispozici"
+
+#: inc/request.class.php:291
+msgid "Add to cart"
+msgstr "Přidat do košíku"
+
+#: inc/request.class.php:298
+msgid "Cart"
+msgstr "Košík"
+
+#: inc/request.class.php:414
+msgid "Badge affected"
+msgid_plural "Badges affected"
+msgstr[0] "Přidělená jmenovka"
+msgstr[1] "Přidělené jmenovky"
+msgstr[2] "Přidělených jmenovek"
+msgstr[3] "Přidělené jmenovky"
+
+#: inc/request.class.php:421
+msgid "Please add badges in cart"
+msgstr "Vložte jmenovky do košíku"
+
+#: inc/return.class.php:64 inc/return.class.php:134
+msgid "Badge return"
+msgstr "Vrácení jmenovky"
+
+#: inc/return.class.php:146
+msgid "Force badge restitution"
+msgstr "Vynutit navrácení jmenovky"
+
+#: inc/return.class.php:171 inc/return.class.php:203
+msgid "Badge requests history"
+msgstr "Historie požadavků na jmenovky"
+
+#: inc/return.class.php:223 inc/return.class.php:263
+msgid "Badges in your possession"
+msgstr "Jmenovky které máte v držení"
+
+#: inc/return.class.php:253 inc/return.class.php:259 inc/wizard.class.php:83
+msgid "Access badge return"
+msgstr "Vrácení přístupové jmenovky"
+
+#: inc/return.class.php:286
+msgid "Restitution date"
+msgstr "Datum navrácení"
+
+#: inc/return.class.php:300 inc/return.class.php:383
+msgid "Badges return"
+msgstr "Vrácení jmenovek"
+
+#: inc/return.class.php:365
+msgid "Badge returned"
+msgstr "Jmenovka vrácena"
+
+#: inc/servicecatalog.class.php:64 inc/servicecatalog.class.php:71
+msgid "Manage temporary badges"
+msgstr "Spravovat dočasné jmenovky"
+
+#: inc/wizard.class.php:52
+msgid "Badges wizard"
+msgstr "Průvodce jmenovkami"
+
+#: inc/wizard.class.php:76
+msgid "For a limited time"
+msgstr "Pro omezenou dobu"

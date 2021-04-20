@@ -1,0 +1,272 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Markku Vepsä, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-28 08:52+0200\n"
+"PO-Revision-Date: 2018-03-14 08:28+0000\n"
+"Last-Translator: Markku Vepsä, 2018\n"
+"Language-Team: Finnish (Finland) (https://www.transifex.com/infotelGLPI/teams/84146/fi_FI/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: hook.php:93
+msgid "Ticket Satisfaction Reminder"
+msgstr ""
+
+#: setup.php:62
+msgid "More satisfaction"
+msgstr "Lisää tyytyväisyyttä"
+
+#: inc/dashboard.class.php:76 inc/menu.class.php:14 inc/profile.class.php:50
+#: inc/survey.class.php:24
+msgid "Satisfaction survey"
+msgid_plural "Satisfaction surveys"
+msgstr[0] "Tyytyväisyyskysely"
+msgstr[1] "Tyytyväisyyskyselyt"
+
+#: inc/dashboard.class.php:99
+msgid "First Trimester"
+msgstr ""
+
+#: inc/dashboard.class.php:100
+msgid "Second Trimester"
+msgstr ""
+
+#: inc/dashboard.class.php:101
+msgid "Third Trimester"
+msgstr ""
+
+#: inc/dashboard.class.php:102
+msgid "Fourth Trimester"
+msgstr ""
+
+#: inc/dashboard.class.php:103
+msgid "Year"
+msgstr ""
+
+#: inc/dashboard.class.php:199
+msgid "There are no survey for current entity"
+msgstr ""
+
+#: inc/dashboard.class.php:312
+msgid "Number of surveys"
+msgstr ""
+
+#: inc/dashboard.class.php:317
+msgid "Number of concerned tickets"
+msgstr ""
+
+#: inc/dashboard.class.php:322
+msgid "Survey not answered"
+msgstr ""
+
+#: inc/dashboard.class.php:327
+msgid "Survey answered"
+msgstr ""
+
+#: inc/dashboard.class.php:332
+msgid "Global satisfaction"
+msgstr ""
+
+#: inc/dashboard.class.php:374
+msgid "Periods"
+msgstr ""
+
+#: inc/notificationMailing.class.php:51
+msgid "Notification satisfaction reminder"
+msgstr ""
+
+#: inc/notificationMailing.class.php:180
+msgid "Resource creation"
+msgstr ""
+
+#: inc/notificationMailing.class.php:181
+msgid "Other"
+msgstr ""
+
+#: inc/notificationtargetticket.class.php:39
+msgid "Survey Reminder"
+msgstr ""
+
+#: inc/reminder.class.php:30
+msgid "Satisfaction reminder"
+msgid_plural "Satisfaction reminders"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/reminder.class.php:44
+msgid "Send automaticaly survey reminders"
+msgstr ""
+
+#: inc/surveyanswer.class.php:22
+msgid "Answer"
+msgid_plural "Answers"
+msgstr[0] "Vastaus"
+msgstr[1] "Vastaukset"
+
+#: inc/surveyanswer.class.php:43
+msgid "Preview"
+msgstr "Esikatselu"
+
+#: inc/surveyanswer.class.php:116
+msgid "Satisfaction"
+msgstr "Tyytyväisyys"
+
+#: inc/survey.class.php:223 inc/survey.class.php:249
+msgid "Error : only one survey is allowed by entity"
+msgstr "Virhe : vain yksi kysely yksikköä kohden on sallittu"
+
+#: inc/surveyquestion.class.php:30
+msgid "Question"
+msgid_plural "Questions"
+msgstr[0] "Kysymys"
+msgstr[1] "Kysymykset"
+
+#: inc/surveyquestion.class.php:105
+msgid ""
+"You cannot edit the questions when answers exists for this survey. Disable "
+"this survey and create a new one !"
+msgstr ""
+"Et voi muokata kysymyksiä, kun vastauksia on olemassa tässä kyselyssä. "
+"Poista tämä kysely käytöstä ja luo uusi!"
+
+#: inc/surveyquestion.class.php:125 inc/surveyquestion.class.php:195
+msgid "Add a question"
+msgstr "Lisää kysymys"
+
+#: inc/surveyquestion.class.php:133
+msgid "No questions for this survey"
+msgstr "Ei kysymyksiä tätä kyselyä varten"
+
+#: inc/surveyquestion.class.php:231
+msgid "Note on"
+msgstr "Huomautus"
+
+#: inc/surveyquestion.class.php:325 inc/surveyquestion.class.php:340
+msgid "Text"
+msgstr "Teksti"
+
+#: inc/surveyquestion.class.php:326 inc/surveyquestion.class.php:342
+msgid "Note"
+msgstr "Huomautus"
+
+#: inc/surveyreminder.class.php:45 inc/surveyreminder.class.php:65
+#: inc/surveyreminder.class.php:446
+msgid "Reminder"
+msgid_plural "Reminders"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/surveyreminder.class.php:143 inc/surveyreminder.class.php:246
+msgid "Add a reminder"
+msgstr ""
+
+#: inc/surveyreminder.class.php:147
+msgid "Add a predefined reminder"
+msgstr ""
+
+#: inc/surveyreminder.class.php:154
+msgid "Setup maximum number of days to send reminder"
+msgstr ""
+
+#: inc/surveyreminder.class.php:155
+msgid "Maximum number of days to send reminder"
+msgstr ""
+
+#: inc/surveyreminder.class.php:173
+msgid "No reminders for this survey"
+msgstr ""
+
+#: inc/surveyreminder.class.php:244
+msgid "Choose a predefined reminder"
+msgstr ""
+
+#: inc/surveyreminder.class.php:255
+msgid "Predefined Reminders"
+msgstr ""
+
+#: inc/surveyreminder.class.php:388
+msgid "Month"
+msgstr ""
+
+#: inc/surveyreminder.class.php:402
+msgid "One Week"
+msgstr ""
+
+#: inc/surveyreminder.class.php:403
+msgid "Two Week"
+msgstr ""
+
+#: inc/surveyreminder.class.php:404
+msgid "One Month"
+msgstr ""
+
+#: inc/surveyreminder.class.php:417
+msgid "Duration Type"
+msgstr ""
+
+#: inc/surveyreminder.class.php:418
+msgid "Duration"
+msgstr ""
+
+#: inc/surveyreminder.class.php:491
+#, php-format
+msgid ""
+"You already have a reminder with the same duration type and duration named :"
+" %s"
+msgstr ""
+
+#: inc/surveyreminder.class.php:521
+msgid "There are nothing to save"
+msgstr ""
+
+#: inc/surveyresult.class.php:22
+msgid "Result of the survey"
+msgid_plural "Results of the survey"
+msgstr[0] "Kyselyn tulos"
+msgstr[1] "Kyselyn tulokset"
+
+#: inc/surveyresult.class.php:43
+msgid "Result"
+msgstr "Tulos"
+
+#: inc/surveyresult.class.php:86
+msgid "No result of the survey"
+msgstr "Ei kyselyn tulos"
+
+#: inc/surveytranslation.class.php:240
+msgid "No translation found"
+msgstr ""
+
+#: inc/surveytranslation.class.php:396
+#, php-format
+msgid "An %s translation for this Question already exist."
+msgstr ""
+
+#: inc/surveytranslation.class.php:409
+msgid "Translation successfully created."
+msgstr ""
+
+#: inc/surveytranslation.class.php:421
+msgid "Translation creation failed"
+msgstr ""
+
+#: inc/surveytranslation.class.php:435
+msgid "The translation you want to edit does not exist."
+msgstr ""
+
+#: inc/surveytranslation.class.php:445
+msgid "Translation successfully edited."
+msgstr ""

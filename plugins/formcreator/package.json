@@ -1,0 +1,15 @@
+{
+    "devDependencies": {
+        "standard-version": "^8.0",
+        "conventional-changelog-cli": "^2.0"
+    },
+    "standard-version": {
+        "skip": {
+            "bump": true,
+            "commit": true,
+            "tag": true
+        }
+    },
+    "dependencies": [],
+    "version": "2.11.2"
+}

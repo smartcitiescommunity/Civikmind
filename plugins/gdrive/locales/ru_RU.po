@@ -1,0 +1,60 @@
+# GDRIVE Glpi Plugin.
+# Copyright (C) 2020 TICgal
+# This file is distributed under the same license as the PACKAGE package.
+# TICgal, 2020
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-24 11:11+0200\n"
+"PO-Revision-Date: 2020-07-24 11:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+#: inc/config.class.php:72
+msgid "Gdrive setup"
+msgstr "Gdrive настройки"
+
+#: inc/config.class.php:81
+msgid "Gdrive"
+msgstr "Gdrive"
+
+#: inc/config.class.php:118
+msgid "The Browser API key obtained from the Google API Console"
+msgstr "Ключ API браузера, полученный из Google API"
+
+#: inc/config.class.php:123
+msgid "The Client ID obtained from the Google API Console"
+msgstr "Идентификатор клиента, полученный из Google API"
+
+#: inc/config.class.php:128
+msgid "See 'Project number' under 'IAM & Admin' > 'Settings'"
+msgstr "Смотрите 'Номер проекта' в разделе 'IAM & Администратор' > 'Настройки'"
+
+#: inc/config.class.php:140 inc/ticket.class.php:47
+msgid "GDrive"
+msgstr "GDrive"
+
+#: inc/ticket.class.php:147
+msgid "Uploaded file"
+msgstr "Файл загружен"
+
+#: inc/ticket.class.php:154
+msgid "Error loading the file"
+msgstr "Ошибка загрузки файла"
+
+#: inc/ticket.class.php:191
+msgid "Select file Drive"
+msgstr "Выберите файл на диске"
+
+#: inc/ticket.class.php:193
+msgid "Select file"
+msgstr "Выбрать файл"

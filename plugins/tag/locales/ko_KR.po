@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# SeongHyeon Cho <jaymz9634@gmail.com>, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - Tag\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-22 11:37+0000\n"
+"PO-Revision-Date: 2020-09-07 06:24+0000\n"
+"Last-Translator: Cédric Anne\n"
+"Language-Team: Korean (Korea) (http://www.transifex.com/teclib/glpi-plugin-tag/language/ko_KR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: hook.php:181
+msgid "Add tags"
+msgstr "태그 추가"
+
+#: hook.php:183
+msgid "Remove tags"
+msgstr "태그 제거"
+
+#: inc/profile.class.php:5 inc/profile.class.php:39
+msgid "Tag management"
+msgstr "태그 관리"
+
+#: inc/tag.class.php:11 inc/tag.class.php:435
+msgid "Tag"
+msgid_plural "Tags"
+msgstr[0] "태그"
+
+#: inc/tag.class.php:76 inc/tag.class.php:324
+msgid "HTML color"
+msgstr "HTML 색상"
+
+#: inc/tag.class.php:623
+msgid "View all tags"
+msgstr "모든 태그 보기"
+
+#: inc/config.class.php:9 inc/config.class.php:26 setup.php:136
+msgid "Tag Management"
+msgstr "태그 관리"
+
+#: inc/config.class.php:27
+msgid "Tags location"
+msgstr ""

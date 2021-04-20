@@ -1,0 +1,259 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Tasklists Development Team
+# This file is distributed under the same license as the GLPI - Tasklists plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Denis Arkhipov <arhipovdv@mtgroup-it.ru>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI - Tasklists plugin 1.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-20 15:07+0200\n"
+"PO-Revision-Date: 2017-10-18 16:45+0000\n"
+"Last-Translator: Denis Arkhipov <arhipovdv@mtgroup-it.ru>, 2019\n"
+"Language-Team: Russian (Russia) (https://www.transifex.com/infotelGLPI/teams/79675/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: setup.php:89 inc/dashboard.class.php:58 inc/dashboard.class.php:178
+#: inc/dashboard.class.php:183 inc/menu.class.php:44
+#: inc/preference.class.php:46 inc/profile.class.php:52
+msgid "Tasks list"
+msgstr "Список задач"
+
+#: ajax/addOptions.php:31
+msgid "Not archived"
+msgstr ""
+
+#: ajax/addOptions.php:32 inc/task.class.php:181 inc/task.class.php:599
+msgid "Archived"
+msgstr "Заархивирован"
+
+#: inc/dashboard.class.php:93 inc/task.class.php:80 inc/task.class.php:418
+#: inc/taskstate.class.php:100 inc/taskstate.class.php:152
+#: inc/tasktype.class.php:48
+msgid "Context"
+msgid_plural "Contexts"
+msgstr[0] "Контекст"
+msgstr[1] "Контексты"
+msgstr[2] "Контексты"
+msgstr[3] "Контексты"
+
+#: inc/dashboard.class.php:93 inc/notificationtargettask.class.php:203
+#: inc/notificationtargettask.class.php:247 inc/task.class.php:118
+#: inc/task.class.php:496 inc/tasktype.class.php:256
+msgid "Due date"
+msgstr "Срок исполнения"
+
+#: inc/dashboard.class.php:164 inc/dashboard.class.php:172
+#: inc/kanban.class.php:257 inc/ticket.class.php:154
+msgid "Add task"
+msgstr "Добавить задачу"
+
+#: inc/kanban.class.php:61
+msgid "Kanban"
+msgstr "Канбан"
+
+#: inc/kanban.class.php:121
+msgid "You don't have the right to see any context"
+msgstr "У вас нет прав на просмотр контекста"
+
+#: inc/kanban.class.php:188
+msgid "There is no accessible context"
+msgstr ""
+
+#: inc/kanban.class.php:247
+msgid "Toggle collapse"
+msgstr ""
+
+#: inc/kanban.class.php:248
+msgid "Search"
+msgstr ""
+
+#: inc/kanban.class.php:249
+msgid "Search or filter results"
+msgstr ""
+
+#: inc/kanban.class.php:250
+msgid "Add status"
+msgstr ""
+
+#: inc/kanban.class.php:251
+msgid "Create status"
+msgstr ""
+
+#: inc/kanban.class.php:253
+msgid "Add a column from existing status"
+msgstr ""
+
+#: inc/kanban.class.php:254
+msgid "Or add a new status"
+msgstr ""
+
+#: inc/kanban.class.php:259
+msgid "Archive all tasks of this state"
+msgstr "Заархивировать задачи с таким статусом"
+
+#: inc/kanban.class.php:260
+msgid "See archived tasks"
+msgstr "Показать архивные задачи"
+
+#: inc/kanban.class.php:261
+msgid "Hide archived tasks"
+msgstr "Скрыть архивные задачи"
+
+#: inc/kanban.class.php:262
+msgid "Clone task"
+msgstr "Копировать задачу"
+
+#: inc/kanban.class.php:263
+msgid "See tasks in progress"
+msgstr "Посмотреть задачи в работе"
+
+#: inc/kanban.class.php:264
+msgid "See tasks of"
+msgstr "Посмотреть задачу"
+
+#: inc/kanban.class.php:265
+msgid "See all tasks"
+msgstr "Посмотреть все задачи"
+
+#: inc/kanban.class.php:266
+msgid "Are you sure you want to archive this task ?"
+msgstr "Вы уверены, что хотите заархивировать эту задачу?"
+
+#: inc/kanban.class.php:267
+msgid "Are you sure you want to archive all tasks ?"
+msgstr "Вы уверены, что хотите заархивировать все задачи?"
+
+#: inc/kanban.class.php:268
+msgid "Archive this task"
+msgstr "Архивировать эту задачу"
+
+#: inc/kanban.class.php:269
+msgid "Update priority of task"
+msgstr "Обновить приоритет задачи"
+
+#: inc/kanban.class.php:270
+msgid "Details of task"
+msgstr "Детали задачи"
+
+#: inc/notificationtargettask.class.php:50
+msgid "A task has been added"
+msgstr "Задача была добавлена"
+
+#: inc/notificationtargettask.class.php:51
+msgid "A task has been updated"
+msgstr "Задача была обновлена"
+
+#: inc/notificationtargettask.class.php:52
+msgid "A task has been removed"
+msgstr "Задача была удалена"
+
+#: inc/notificationtargettask.class.php:207
+#: inc/notificationtargettask.class.php:251 inc/task.class.php:189
+#: inc/task.class.php:486
+msgid "Other client"
+msgstr "Другой клиент"
+
+#: inc/notificationtargettask.class.php:259
+msgid "At creation, update, removal of a task"
+msgstr "При создании, изменении, удалении задачи"
+
+#: inc/preference.class.php:80
+msgid "Context by default"
+msgstr "Контекст по умолчанию"
+
+#: inc/preference.class.php:88
+msgid "Automatic refreshing of tasklist"
+msgstr ""
+
+#: inc/preference.class.php:94
+msgid "Refresh every "
+msgstr ""
+
+#: inc/preference.class.php:98
+msgid "minute(s)"
+msgstr ""
+
+#: inc/profile.class.php:153 inc/profile.class.php:196
+msgid "See and update all tasks"
+msgstr "Посмотреть и обновить все задачи"
+
+#: inc/profile.class.php:162 inc/profile.class.php:199
+msgid "Configure contexts and statuses"
+msgstr ""
+
+#: inc/stateorder.class.php:96
+msgid "States ordering"
+msgstr "Упорядочение статусов"
+
+#: inc/stateorder.class.php:156
+msgid "Add states from linked Kanban"
+msgstr ""
+
+#: inc/task.class.php:333
+msgid "You cannot archive a task with this state"
+msgstr "Вы не можете заархивировать задачу с таким статусом"
+
+#: inc/task.class.php:457
+msgid "Existing client"
+msgstr "Существующий клиент"
+
+#: inc/task.class.php:622 inc/task.class.php:709 inc/task.class.php:985
+#: inc/tasktype.class.php:161
+msgid "Backlog"
+msgstr "Бэклог"
+
+#: inc/task.class.php:1045
+msgctxt "visibility"
+msgid "This user"
+msgstr "Этот пользователь"
+
+#: inc/task.class.php:1048
+msgctxt "visibility"
+msgid "This user and this group"
+msgstr "Этот пользователь и эта группа"
+
+#: inc/task.class.php:1051
+msgctxt "visibility"
+msgid "All"
+msgstr "Все"
+
+#: inc/task.class.php:1093
+msgid "Affect entity for create task"
+msgstr "Влияние организации на создание задачи"
+
+#: inc/ticket.class.php:74 inc/ticket.class.php:183
+msgid "Linked task"
+msgid_plural "Linked tasks"
+msgstr[0] "Связанная задача"
+msgstr[1] "Связанные задачи"
+msgstr[2] "Связанные задачи"
+msgstr[3] "Связанные задачи"
+
+#: inc/ticket.class.php:227
+msgid "No task linked to this ticket yet"
+msgstr "Нет связанных с заявкой задач"
+
+#: inc/ticket.class.php:258
+msgid "Link a existant ticket"
+msgstr "Связать с существующей заявкой"
+
+#: inc/ticket.class.php:284
+msgid "Linked tickets"
+msgstr "Связанные заявки"
+
+#: inc/typevisibility.class.php:138
+msgid "Add a group"
+msgstr "Добавить группу"
+
+#: inc/typevisibility.class.php:179
+msgid "Groups allowed to use context"
+msgstr "Группы с разрешением использовать контекст"

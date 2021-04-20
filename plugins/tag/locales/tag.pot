@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-22 11:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: hook.php:181
+msgid "Add tags"
+msgstr ""
+
+#: hook.php:183
+msgid "Remove tags"
+msgstr ""
+
+#: inc/profile.class.php:5 inc/profile.class.php:39
+msgid "Tag management"
+msgstr ""
+
+#: inc/tag.class.php:11 inc/tag.class.php:435
+msgid "Tag"
+msgid_plural "Tags"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tag.class.php:76 inc/tag.class.php:324
+msgid "HTML color"
+msgstr ""
+
+#: inc/tag.class.php:623
+msgid "View all tags"
+msgstr ""
+
+#: inc/config.class.php:9 inc/config.class.php:26 setup.php:136
+msgid "Tag Management"
+msgstr ""
+
+#: inc/config.class.php:27
+msgid "Tags location"
+msgstr ""

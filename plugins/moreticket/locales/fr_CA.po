@@ -1,0 +1,195 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR MoreTicket Development Team
+# This file is distributed under the same license as the GLPI - MoreTicket plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Xavier CAILLAUD <thetsmr@gmail.com>, 2020
+# Tiago Graca, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI - MoreTicket plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-03 13:16+0000\n"
+"PO-Revision-Date: 2020-11-02 16:11+0000\n"
+"Last-Translator: Tiago Graca, 2020\n"
+"Language-Team: French (Canada) (https://www.transifex.com/infotelGLPI/teams/50826/fr_CA/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_CA\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: hook.php:204 inc/waitingticket.class.php:139
+#: inc/waitingticket.class.php:238 inc/waitingticket.class.php:317
+#: inc/waitingticket.class.php:390
+msgid "Reason"
+msgstr "Raison"
+
+#: hook.php:212 inc/waitingticket.class.php:131
+#: inc/waitingticket.class.php:253 inc/waitingticket.class.php:332
+#: inc/waitingticket.class.php:392
+msgid "Postponement date"
+msgstr "Date de report"
+
+#: hook.php:232 hook.php:239 hook.php:246 hook.php:253
+#: inc/closeticket.class.php:75 inc/closeticket.class.php:79
+#: inc/closeticket.class.php:121 inc/closeticket.class.php:178
+#: inc/closeticket.class.php:326 inc/closeticket.class.php:380
+#: inc/config.class.php:167
+msgid "Close ticket informations"
+msgstr "Informations de clôture des billets"
+
+#: setup.php:100 inc/profile.class.php:49 inc/profile.class.php:194
+msgid "More ticket"
+msgstr "More ticket"
+
+#: front/config.form.php:66
+msgid "Please activate the plugin"
+msgstr "Merci d'activer le plugin"
+
+#: inc/closeticket.class.php:135 inc/closeticket.class.php:479
+msgid "Solution description"
+msgstr "Description de la solution"
+
+#: inc/closeticket.class.php:154
+msgid "Ticket cannot be closed"
+msgstr "Impossible de clore le billet"
+
+#: inc/closeticket.class.php:580
+#, php-format
+msgid "%1$s added closing informations"
+msgstr "%1$s a ajouté des informations de clôture"
+
+#: inc/closeticket.class.php:599
+#, php-format
+msgid "%1$s updated closing informations"
+msgstr "%1$s a mis à jour des informations de clôture"
+
+#: inc/closeticket.class.php:618
+#, php-format
+msgid "%1$s deleted closing informations"
+msgstr "%1$s a supprimé des informations de clôture"
+
+#: inc/config.class.php:98 inc/config.class.php:243
+#: inc/waitingticket.class.php:807
+msgid "Ticket waiting"
+msgstr "Billet en attente"
+
+#: inc/config.class.php:102
+msgid "Use waiting process"
+msgstr "Utiliser le processus d'attente"
+
+#: inc/config.class.php:120
+msgid "Report date is mandatory"
+msgstr "La date de report est obligatoire"
+
+#: inc/config.class.php:127
+msgid "Waiting type is mandatory"
+msgstr "Le type d'attente est obligatoire"
+
+#: inc/config.class.php:134
+msgid "Waiting reason is mandatory"
+msgstr "La raison de l'attente est obligatoire"
+
+#: inc/config.class.php:140
+msgid "Ticket resolution and close"
+msgstr "Résolution et clôture du billet"
+
+#: inc/config.class.php:142
+msgid "Use solution process"
+msgstr "Utiliser le bloc solution à la création du billet"
+
+#: inc/config.class.php:160
+msgid "Solution type is mandatory"
+msgstr "Le type de solution est obligatoire"
+
+#: inc/config.class.php:173
+msgid "Status used to display solution bloc"
+msgstr "Statuts utilisés pour afficher le bloc solution"
+
+#: inc/config.class.php:186
+msgid "Add a followup on immediate ticket closing"
+msgstr "Ajouter un suivi lors de la clôture du billet"
+
+#: inc/config.class.php:192
+msgid "Use the 'Duration' field in the add solution interface"
+msgstr "Utilisez le champ 'Durée' dans l'interface d'ajout de solution."
+
+#: inc/config.class.php:206
+msgid "Mandatory 'Duration' field"
+msgstr "Champ 'Durée' obligatoire"
+
+#: inc/config.class.php:211
+msgid "Ticket urgency"
+msgstr "Urgence de billet"
+
+#: inc/config.class.php:213
+msgid "Use a justification of the urgency field"
+msgstr "Utiliser une zone de justification sur l'urgence"
+
+#: inc/config.class.php:229
+msgid "Urgency impacted justification for the field"
+msgstr "Urgences impactées pour la zone de justification"
+
+#: inc/config.class.php:245
+msgid "Use the option ticket waiting in ticket followup"
+msgstr "Utiliser l'option mise en attente dans un suivi de billet"
+
+#: inc/profile.class.php:158
+msgid "Adding a justification of urgency"
+msgstr "Ajout d'une zone de justification pour l'urgence"
+
+#: inc/profile.class.php:166
+msgid "Hide task duration in tickets"
+msgstr "Cacher la durée des tâches des billets"
+
+#: inc/urgencyticket.class.php:69 inc/urgencyticket.class.php:155
+msgid "Justification"
+msgstr "Justification"
+
+#: inc/urgencyticket.class.php:92
+msgid "Urgency ticket cannot be saved"
+msgstr "Impossible d'enregistrer l'urgence du billet"
+
+#: inc/urgencyticket.class.php:94 inc/waitingticket.class.php:171
+msgid "Ticket cannot be saved"
+msgstr "Impossible d'enregistrer le billet"
+
+#: inc/waitingticket.class.php:65
+msgid "Waiting ticket"
+msgid_plural "Waiting tickets"
+msgstr[0] "Billet en attente"
+msgstr[1] "Billets en attente"
+
+#: inc/waitingticket.class.php:169
+msgid "Waiting ticket cannot be saved"
+msgstr "Impossible d'enregistrer le billet en attente"
+
+#: inc/waitingticket.class.php:175
+msgid "Report date is inferior of today's date"
+msgstr "Date de report inférieure à la date d'aujourd'hui"
+
+#: inc/waitingticket.class.php:386 inc/waitingticket.class.php:426
+msgid "Ticket suspension history"
+msgstr "Historique des suspensions du billet"
+
+#: inc/waitingticket.class.php:389
+msgid "Suspension date"
+msgstr "Date de suspension"
+
+#: inc/waitingticket.class.php:393
+msgid "Suspension end date"
+msgstr "Date de fin de suspension"
+
+#: inc/waitingticket.class.php:754
+msgid "End of standby ticket"
+msgstr "Fin des mises en attente"
+
+#: inc/waitingtype.class.php:48
+msgid "Waiting type"
+msgid_plural "Waiting types"
+msgstr[0] "Type d'attente"
+msgstr[1] "Types d'attente"

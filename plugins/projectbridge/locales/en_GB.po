@@ -1,0 +1,277 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the ProjectBridge package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ProjectBridge 2.0\n"
+"Report-Msgid-Bugs-To: contact@probesys.com\n"
+"POT-Creation-Date: 2019-05-15 16:24+0200\n"
+"PO-Revision-Date: 2019-05-15 17:23+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_GB\n"
+
+#: hook.php:1333
+msgid "Delete the link with any project task"
+msgstr "Delete the link with any project task"
+
+#: hook.php:1334
+msgid "Link to a project"
+msgstr "Link to a project"
+
+#: hook.php:1335
+msgid "Force link to a project task"
+msgstr "Force link to a project task"
+
+#: ajax/get_renewal_tickets.php:55
+msgid ""
+"Select tickets in the entity (not deleted and unrelated to a project task) "
+"that you want to link to the new task"
+msgstr ""
+"Select tickets in the entity (not deleted and unrelated to a project task) "
+"that you want to link to the new task"
+
+#: ajax/get_renewal_tickets.php:131
+msgid "Link tickets to renewal"
+msgstr "Link tickets to renewal"
+
+#: front/config.form.php:47 front/config.form.php:51
+msgid "ProjectBridge Configuration"
+msgstr "ProjectBridge Configuration"
+
+#: front/config.form.php:76 front/projecttask.php:7
+msgid "Project Tasks"
+msgstr "Project Tasks"
+
+#: front/config.form.php:83
+msgid "Status Configuration"
+msgstr "Status Configuration"
+
+#: front/config.form.php:87
+msgid "Please match the status names and their values in GLPI"
+msgstr "Please match the status names and their values in GLPI"
+
+#: front/config.form.php:99
+msgid "Status name"
+msgstr "Status name"
+
+#: front/config.form.php:103
+msgid "Status type"
+msgstr "Status type"
+
+#: front/config.form.php:107
+msgid "Corresponding status"
+msgstr "Corresponding status"
+
+#: front/config.form.php:187
+msgid "In progress"
+msgstr "In progress"
+
+#: front/config.form.php:227
+msgid "Renewal"
+msgstr "Renewal"
+
+#: front/config.form.php:288
+msgid "People receiving alerts"
+msgstr "People receiving alerts"
+
+#: front/config.form.php:340
+msgid "Nobody receive alerts"
+msgstr "Nobody receive alerts"
+
+#: front/config.form.php:377
+msgid "Please activate the plugin or get the right of access"
+msgstr "Please activate the plugin or get the right of access"
+
+#: inc/contract.class.php:75
+msgid "linking Project"
+msgstr "linking Project"
+
+#: inc/contract.class.php:129 inc/contract.class.php:428
+msgid "Create project"
+msgstr "Create project"
+
+#: inc/contract.class.php:182
+msgid "Access to linked project"
+msgstr "Access to linked project"
+
+#: inc/contract.class.php:207
+msgid "Comsuption"
+msgstr "Comsuption"
+
+#: inc/contract.class.php:229
+msgid "Expired in less than 24h"
+msgstr "Expired in less than 24h"
+
+#: inc/contract.class.php:231
+msgid "Expired in"
+msgstr "Expired in"
+
+#: inc/contract.class.php:236
+msgid "Expired today"
+msgstr "Expired today"
+
+#: inc/contract.class.php:238
+msgid "Expired since"
+msgstr "Expired since"
+
+#: inc/contract.class.php:250
+msgid "Renew the contract"
+msgstr "Renew the contract"
+
+#: inc/contract.class.php:295 inc/contract.class.php:453
+msgid "Number of hours"
+msgstr "Number of hours"
+
+#: inc/contract.class.php:309
+msgid "Confirm renewal"
+msgstr "Confirm renewal"
+
+#: inc/contract.class.php:432
+msgid "Remember to refresh this page after creating the project"
+msgstr "Remember to refresh this page after creating the project"
+
+#: inc/contract.class.php:484 inc/task.class.php:97
+msgid "Please define the correspondence of the \"Closed\" status."
+msgstr "Please define the correspondence of the \"Closed\" status."
+
+#: inc/contract.class.php:593
+msgid ""
+"The match for the status \"In progress\" has not been defined. The contract "
+"could not be renewed."
+msgstr ""
+"The match for the status \"In progress\" has not been defined. The contract "
+"could not be renewed."
+
+#: inc/contract.class.php:741
+msgid "Contract Alert to renew"
+msgstr "Contract Alert to renew"
+
+#: inc/contract.class.php:765 inc/task.class.php:88
+msgid "Plugin is not installed"
+msgstr "Plugin is not installed"
+
+#: inc/contract.class.php:771 inc/task.class.php:412
+msgid "person(s) to alert"
+msgstr "person(s) to alert"
+
+#: inc/contract.class.php:775 inc/contract.class.php:777 inc/contract.class.php:781
+msgid "contract(s) to renew"
+msgstr "contract(s) to renew"
+
+#: inc/contract.class.php:809
+msgid "Expected end date"
+msgstr "Expected end date"
+
+#: inc/contract.class.php:923 inc/contract.class.php:926
+msgid "Access to linked contract"
+msgstr "Access to linked contract"
+
+#: inc/contract.class.php:926
+msgid "Link to contract nonexistent"
+msgstr "Link to contract nonexistent"
+
+#: inc/contract.class.php:930
+msgid "No linked contract"
+msgstr "No linked contract"
+
+#: inc/entity.class.php:63
+msgid "Default contract"
+msgstr "Default contract"
+
+#: inc/entity.class.php:73
+msgid "Default contract access"
+msgstr "Default contract access"
+
+#: inc/entity.class.php:77
+msgid "Create a new contract"
+msgstr "Create a new contract"
+
+#: inc/entity.class.php:81
+msgid "Remember to refresh this page after creating the contract"
+msgstr "Remember to refresh this page after creating the contract"
+
+#: inc/task.class.php:43
+msgid "ProjectBridge project tasks"
+msgstr "ProjectBridge project tasks"
+
+#: inc/task.class.php:59
+msgid "Project task treatment"
+msgstr "Project task treatment"
+
+#: inc/task.class.php:66
+msgid "Update percentage counters performed in project tasks"
+msgstr "Update percentage counters performed in project tasks"
+
+#: inc/task.class.php:104
+msgid "Please define the correspondence of the \"Renewal\" status."
+msgstr "Please define the correspondence of the \"Renewal\" status."
+
+#: inc/task.class.php:220
+msgid "This ticket comes from an automatic copy of the ticket"
+msgstr "This ticket comes from an automatic copy of the ticket"
+
+#: inc/task.class.php:220
+msgid ""
+"following the overtaking of hours or the expiry of the maintenance contract"
+msgstr ""
+"following the overtaking of hours or the expiry of the maintenance contract"
+
+#: inc/task.class.php:412
+msgid "find"
+msgstr "find"
+
+#: inc/task.class.php:426
+msgid "The open task of the project"
+msgstr "The open task of the project"
+
+#: inc/task.class.php:426
+msgid "just closed"
+msgstr "just closed"
+
+#: inc/task.class.php:429
+msgid "Reason"
+msgstr "Reason"
+
+#: inc/task.class.php:433
+msgid "Overtaking"
+msgstr "Overtaking"
+
+#: inc/task.class.php:458
+msgid "Adjustment ticket"
+msgstr "Adjustment ticket"
+
+#: inc/task.class.php:459
+msgid "Time Adjustment ticket"
+msgstr "Time Adjustment ticket"
+
+#: inc/task.class.php:471
+msgid "Adjustment task"
+msgstr "Adjustment task"
+
+#: inc/task.class.php:505
+msgid "tasks with time"
+msgstr "tasks with time"
+
+#: inc/task.class.php:508
+msgid "re-calculuation for ticket task"
+msgstr "re-calculuation for ticket task"
+
+#: inc/ticket.class.php:49
+msgid "Related project"
+msgstr "Related project"
+
+#: inc/ticket.class.php:107
+msgid "Make the connection"
+msgstr "Make the connection"
+
+#: inc/ticket.class.php:320
+msgid "Link(s) with project task(s) deleted"
+msgstr "Link(s) with project task(s) deleted"

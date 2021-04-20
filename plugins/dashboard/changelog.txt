@@ -1,0 +1,16 @@
+Versão 0.9.9:
+
+- GLPI 9.4.x
+
+- tempo de solução > 7 dias em métricas
+- Correção de bugs diversos;
+
+
+
+Version 0.9.9:
+
+- GLPI 9.4.x
+
+
+- Fix minor bugs;
+

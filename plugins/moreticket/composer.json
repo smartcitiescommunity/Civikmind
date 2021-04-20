@@ -1,0 +1,8 @@
+{
+    "name": "infotel/moreticket",
+    "type": "project",
+    "license": "GPLv2+",
+    "require": {
+        "atoum/atoum": "^3.3"
+    }
+}

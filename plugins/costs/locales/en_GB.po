@@ -1,0 +1,28 @@
+# Cost Glpi Plugin.
+# Copyright (C) 2020 TICgal
+# This file is distributed under the same license as the PACKAGE package.
+# TICgal, 2020
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-08 14:32+0200\n"
+"PO-Revision-Date: 2020-05-08 14:33+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_GB\n"
+
+#: inc/config.class.php:46 inc/config.class.php:102 inc/entity.class.php:46
+#: inc/ticket.class.php:41
+msgid "Costs"
+msgstr "Costs"
+
+#: inc/config.class.php:89
+msgid "Add task description on cost"
+msgstr "Add task description on cost"

@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Rui Melo <viper5000pt@gmail.com>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-03 19:24+0000\n"
+"PO-Revision-Date: 2018-08-17 13:43+0000\n"
+"Last-Translator: Rui Melo <viper5000pt@gmail.com>, 2019\n"
+"Language-Team: Portuguese (Portugal) (https://www.transifex.com/teclib/teams/28042/pt_PT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: front/collections.php:5
+msgid "Metabase collections"
+msgstr ""
+
+#: front/collections.php:15
+msgid "Reports and dashboards specifications"
+msgstr ""
+
+#: front/collections.php:31
+msgid "Extract questions from metabase:"
+msgstr "Extraia perguntas da metabase:"
+
+#: front/collections.php:59
+msgid "Extract dashboards from metabase:"
+msgstr "Extraia dashboards da metabase:"
+
+#: front/collections.php:71
+msgid "Unable to access Metabase data. Please check plugin configuration."
+msgstr ""
+
+#: front/profileright.form.php:13 front/profileright.form.php:40
+msgid "Invalid request."
+msgstr "Pedido inválido."
+
+#: inc/apiclient.class.php:30
+msgid "API: login"
+msgstr "API: login"
+
+#: inc/apiclient.class.php:32
+msgid "API: get current user"
+msgstr "API: obter o usuário atual"
+
+#: inc/apiclient.class.php:34
+msgid "API: get users"
+msgstr "API: obter utilizadores"
+
+#: inc/apiclient.class.php:36
+msgid "API: get databases"
+msgstr "API: obter base de dados"
+
+#: inc/apiclient.class.php:38
+msgid "API: get GLPI database"
+msgstr "API: obter base de dados GLPI"
+
+#: inc/apiclient.class.php:149
+msgid "No auto-generated GLPI database found"
+msgstr "Nenhum banco de dados GLPI gerado automaticamente encontrado"
+
+#: inc/apiclient.class.php:628
+#, php-format
+msgid "Enabling embedded display fails for dashboard %s."
+msgstr "Ativar a exibição incorporada falha para a Dashboard %s."
+
+#: inc/apiclient.class.php:802
+msgid ""
+"Query to metabase failed because operation timed out. Maybe you should "
+"increase the timeout value in plugin configuration"
+msgstr ""
+"Consulta à metabase falhou porque a operação expirou. Talvez deva aumentar o"
+" valor de tempo limite na configuração do plugin"
+
+#: inc/profileright.class.php:20 inc/config.class.php:10
+msgid "Metabase"
+msgstr "Metabase"
+
+#: inc/profileright.class.php:79
+msgid "Rights management"
+msgstr "Gestão de direitos"
+
+#: inc/profileright.class.php:86
+msgid "Allow access to all"
+msgstr "Permitir o acesso a todos os"
+
+#: inc/profileright.class.php:88
+msgid "Disallow access to all"
+msgstr "Não permitir o acesso a todos"
+
+#: inc/config.class.php:59
+msgid "Metabase host"
+msgstr "Host da metabase"
+
+#: inc/config.class.php:67
+msgid "Metabase port"
+msgstr "Porta da metabase"
+
+#: inc/config.class.php:76
+msgid "username (metabase admin)"
+msgstr "username (administrador da metabase)"
+
+#: inc/config.class.php:106
+msgid "Metabase embedded token (to display dashboard in GLPI)"
+msgstr "Token incorporado da metabase (para exibir o painel no GLPI)"
+
+#: inc/config.class.php:116
+msgid "Metabase url"
+msgstr "URL da metabase"
+
+#: inc/config.class.php:117
+msgid ""
+"You may want to have a different dashboard url (with https for example) than"
+" the host (used to push the data) "
+msgstr ""
+"Convém ter um URL de Dashboard diferente (com HTTPS, por exemplo) que o host"
+" (usado para enviar os dados) "
+
+#: inc/config.class.php:127
+msgid "Timeout for sending data (in seconds)"
+msgstr "Tempo limite para envio de dados (em segundos)"
+
+#: inc/config.class.php:148
+msgid "API status"
+msgstr "Status da API"
+
+#: inc/config.class.php:167
+msgid "Last Error"
+msgstr "Último erro"
+
+#: inc/config.class.php:182
+msgid "Action(s)"
+msgstr "Ação(s)"
+
+#: inc/config.class.php:191
+msgid "Previously stored database is not existing anymore."
+msgstr "A base de dados anteriormente armazenado não está mais existente."
+
+#: inc/config.class.php:193
+msgid "Create GLPI database in local Metabase"
+msgstr "Criar base de dados GLPI na metabase local"
+
+#: inc/config.class.php:199
+msgid "OR set an existing database: "
+msgstr "OU definir um base de dados existente: "
+
+#: inc/config.class.php:203
+msgid "Set database"
+msgstr "Definir base de dados"
+
+#: inc/config.class.php:211
+msgid "Push reports and dashboards in Metabase"
+msgstr "Enviar relatórios e Dashboards na metabase"
+
+#: inc/config.class.php:216
+msgid "(Re)generate datamodel in Metabase"
+msgstr "Gerar/Regenerar datamodel na metabase"
+
+#: inc/config.class.php:221
+msgid "Show reports and dashboards specifications"
+msgstr ""
+
+#: inc/dashboard.class.php:15
+msgid "Metabase dashboard"
+msgstr "Painel da metabase"

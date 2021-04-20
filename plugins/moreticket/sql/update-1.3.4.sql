@@ -1,0 +1,1 @@
+ALTER TABLE glpi_plugin_moreticket_configs ADD `is_mandatory_solution` TINYINT(1) NOT NULL DEFAULT '0';

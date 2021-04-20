@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Webapplications Development Team
+# This file is distributed under the same license as the GLPI - Webapplications plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI - Webapplications plugin 2.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-23 08:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: hook.php:281 inc/appliance.class.php:57
+msgid "Backoffice URL"
+msgstr ""
+
+#: setup.php:72 inc/profile.class.php:175 inc/webapplication.class.php:48
+msgid "Web application"
+msgid_plural "Web applications"
+msgstr[0] ""
+msgstr[1] ""
+
+#: front/webapplication.php:42 front/webapplication.php:45
+msgid "Core migration"
+msgstr ""
+
+#: front/webapplication.php:47
+msgid "Are you sure you want to do core migration ??"
+msgstr ""
+
+#: front/webapplication.php:58
+msgid "Data migration"
+msgstr ""
+
+#: front/webapplication.php:100
+msgid "Tables purge"
+msgstr ""
+
+#: front/webapplication.php:122
+msgid "Link with core purge"
+msgstr ""
+
+#: front/webapplication.php:143
+msgid "Migration was successful"
+msgstr ""
+
+#: inc/appliance.class.php:81
+msgid "Editor"
+msgstr ""
+
+#: inc/webapplicationservertype.class.php:49
+msgid "Type of treatment server"
+msgid_plural "Types of treatment server"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/webapplicationtechnic.class.php:49
+msgid "Language of treatment"
+msgid_plural "Languages of treatment"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/webapplicationtype.class.php:50
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] ""
+msgstr[1] ""

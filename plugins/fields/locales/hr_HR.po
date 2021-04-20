@@ -1,0 +1,201 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# milotype <mail@milotype.de>, 2020
+# milotype <mail@milotype.de>, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - Fields\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-09 14:29+0000\n"
+"PO-Revision-Date: 2020-11-10 13:01+0000\n"
+"Last-Translator: milotype <mail@milotype.de>\n"
+"Language-Team: Croatian (Croatia) (http://www.transifex.com/teclib/glpi-plugin-plugin-fields/language/hr_HR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr_HR\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#: hook.php:58
+msgid "MySQL tables installation"
+msgstr "Instalacija MySQL tablica"
+
+#: hook.php:106
+msgid "The plugin can't be uninstalled when the plugin is disabled"
+msgstr "Nije moguće deinstalirati dodatak kad je dodatak deaktiviran"
+
+#: hook.php:115
+msgid "MySQL tables uninstallation"
+msgstr "Deinstalacija MySQL tablica"
+
+#: front/container.form.php:35 front/container.php:4 inc/menu.class.php:6
+#: setup.php:187
+msgid "Additionnal fields"
+msgstr "Dodatna polja"
+
+#: inc/dropdown.class.php:19
+msgid "Updating generated dropdown files"
+msgstr "Aktualiziranje generiranih datoteka padajućih popisa"
+
+#: inc/labeltranslation.class.php:147
+msgid "Language"
+msgstr "Jezik"
+
+#: inc/labeltranslation.class.php:148
+msgid "Label"
+msgstr "Oznaka"
+
+#: inc/container.class.php:16
+msgid "Regenerate container files"
+msgstr "Ponovo generiraj datoteke spremnika"
+
+#: inc/container.class.php:17 inc/container.class.php:589
+msgid "Export to YAML"
+msgstr "Izvezi u YAML"
+
+#: inc/container.class.php:93
+msgid "Fix container names"
+msgstr "Ispravi imena spremnika"
+
+#: inc/container.class.php:181
+msgid "Updating generated containers files"
+msgstr "Aktualiziranje generiranih datoteka spremnika"
+
+#: inc/container.class.php:377
+msgid "You cannot add block without associated element type"
+msgstr "Nije moguće dodati blok bez povezane vrste elementa"
+
+#: inc/container.class.php:394
+msgid ""
+"You cannot add several blocks with type 'Insertion in the form' on same "
+"object"
+msgstr "Nije moguće dodati višestruke blokove s vrstom „Umetanje u obrazac” na isti objekt"
+
+#: inc/container.class.php:409
+msgid ""
+"You cannot add several blocks with type 'Insertion in the form of a specific"
+" tab' on same object tab"
+msgstr "Nije moguće dodati višestruke blokove s vrstom „Umetanje u obrazac određene kartice” na istu karticu objekta"
+
+#: inc/container.class.php:425
+msgid ""
+"Container name is too long for database (digits in name are replaced by "
+"characters, try to remove them)"
+msgstr "Ime spremnika je predugačko za bazu podataka (brojke u imenu zamjenjuju se znakovima, pokušaj ih ukloniti)"
+
+#: inc/container.class.php:439
+msgid "You cannot add several blocs with identical name on same object"
+msgstr "Nije moguće dodati blokove s jednakim imenon na isti objekt"
+
+#: inc/container.class.php:582
+msgid "Block"
+msgstr "Blok"
+
+#: inc/container.class.php:661
+msgid "Tab"
+msgstr "Kartica"
+
+#: inc/container.class.php:876
+msgid "Add tab"
+msgstr "Dodaj karticu"
+
+#: inc/container.class.php:877
+msgid "Insertion in the form (before save button)"
+msgstr "Umetanje u obrazac (prije gumba za spremanje)"
+
+#: inc/container.class.php:878
+msgid "Insertion in the form of a specific tab (before save button)"
+msgstr "Umetanje u obrazac određene kartice (prije gumba za spremanje)"
+
+#: inc/container.class.php:1240
+msgid "Some mandatory fields are empty"
+msgstr "Neka obavezna polja su prazna"
+
+#: inc/container.class.php:1245
+msgid "Some numeric fields contains non numeric values"
+msgstr "Neka numerička polja sadrže ne numeričke vrijednosti"
+
+#: inc/container.class.php:1250
+msgid "Some URL fields contains invalid links"
+msgstr "Neka URL polja sadrže neispravne poveznice"
+
+#: inc/toolbox.class.php:90
+msgid "Fix fields names"
+msgstr "Ispravi imena polja"
+
+#: inc/field.class.php:79
+msgid "Field"
+msgstr "Polje"
+
+#: inc/field.class.php:90 inc/field.class.php:115
+msgid ""
+"Field name is too long for database (digits in name are replaced by "
+"characters, try to remove them)"
+msgstr "Ime polja je predugačko za bazu podataka (brojke u imenu zamjenjuju se znakovima, pokušaj ih ukloniti)"
+
+#: inc/field.class.php:272
+msgid "Fields"
+msgstr "Polja"
+
+#: inc/field.class.php:326
+msgid "Add a new field"
+msgstr "Dodaj novo polje"
+
+#: inc/field.class.php:330
+msgid "No field for this block"
+msgstr "Nema polja za ovaj blok"
+
+#: inc/field.class.php:342 inc/field.class.php:455
+msgid "Read only"
+msgstr "Samo-za-čitanje"
+
+#: inc/field.class.php:432
+msgid "Configure"
+msgstr "Konfiguriraj"
+
+#: inc/field.class.php:432
+msgid "Configure fields values"
+msgstr "Konfiguriraj vrijednosti polja"
+
+#: inc/field.class.php:753
+msgid "show"
+msgstr "prikaži"
+
+#: inc/field.class.php:916
+msgid "Header"
+msgstr "Zaglavlje"
+
+#: inc/field.class.php:917
+msgid "Text (single line)"
+msgstr "Tekst (jednoredni)"
+
+#: inc/field.class.php:918
+msgid "Text (multiples lines)"
+msgstr "Tekst (višeredni)"
+
+#: inc/field.class.php:919
+msgid "Number"
+msgstr "Broj"
+
+#: inc/field.class.php:920
+msgid "URL"
+msgstr "URL"
+
+#: inc/field.class.php:921
+msgid "Dropdown"
+msgstr "Padajući popis"
+
+#: inc/field.class.php:922
+msgid "Yes/No"
+msgstr "Da/Ne"
+
+#: inc/field.class.php:923
+msgid "Date"
+msgstr "Datum"
+
+#: inc/field.class.php:924
+msgid "Date & time"
+msgstr "Datum i vrijeme"

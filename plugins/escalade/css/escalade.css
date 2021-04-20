@@ -1,0 +1,40 @@
+.escalade .up {
+   margin-left:6px;
+}
+.escalade .climb {
+   margin-left:2px;
+}
+.escalade_history {
+   margin-top: 7px;
+}
+a.escalade_active, .escalade_active a {
+   color:red !important;
+}
+a.escalade_history, .escalade_history a, .escalade_history i {
+   color:grey !important;
+}
+.escalade a.up_a {
+   display: inline-block;
+   width: 10px;
+   height: 10px;
+   margin-bottom:-2px;
+   position: relative;
+}
+.escalade a.up_a:before {
+   font-family: 'Font Awesome 5 Free';
+   position: absolute;
+   content: '\f062';
+   color:#D1D3D1;
+}
+.escalade a.up_a:hover:before {
+   color:#50C250;
+}
+
+.escalade_config .tab_cadre_fixe > tbody > tr:nth-child(odd) {
+   background-color: #F5F5F5;
+}
+
+.escalade_config .tab_cadre_fixe > tbody > tr > td:nth-child(1),
+.escalade_config .tab_cadre_fixe > tbody > tr > td:nth-child(3) {
+   width: 30%;
+}

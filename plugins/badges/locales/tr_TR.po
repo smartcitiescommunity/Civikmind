@@ -1,0 +1,211 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Badges Development Team
+# This file is distributed under the same license as the GLPI - Badges plugin package.
+# 
+# Translators:
+# Kaya Zeren <kayazeren@gmail.com>, 2013,2015,2017
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Project - badges plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-20 09:04+0200\n"
+"PO-Revision-Date: 2020-07-20 07:12+0000\n"
+"Last-Translator: Xavier CAILLAUD <thetsmr@gmail.com>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/infotelGLPI/GLPI_badges/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: setup.php:101 inc/badge.class.php:49 inc/menu.class.php:41
+#: inc/profile.class.php:177 inc/request.class.php:194
+#: inc/request.class.php:303
+msgid "Badge"
+msgid_plural "Badges"
+msgstr[0] "Yaka Kartları"
+msgstr[1] "Yaka Kartları"
+
+#: inc/badge.class.php:88 inc/badge.class.php:300 inc/request.class.php:477
+msgid "Affectation date"
+msgstr "Yürürlük tarihi"
+
+#: inc/badge.class.php:96 inc/badge.class.php:313
+#: inc/notificationtargetbadge.class.php:83
+#: inc/notificationtargetbadge.class.php:129
+msgid "Date of end of validity"
+msgstr "Geçerlilik süresinin sonu"
+
+#: inc/badge.class.php:177 inc/badge.class.php:318
+msgid "Bookable"
+msgstr "Ayırtılabilir"
+
+#: inc/badge.class.php:456 inc/notificationtargetbadge.class.php:53
+#: inc/notificationtargetbadge.class.php:73
+msgid "Badges which expires"
+msgstr "Süresi dolmuş yaka kartları"
+
+#: inc/badge.class.php:574 inc/notificationtargetbadge.class.php:52
+#: inc/notificationtargetbadge.class.php:70 inc/return.class.php:447
+msgid "Badges at the end of the validity"
+msgstr "Geçerlilik süresi dolan yaka kartları"
+
+#: inc/badgetype.class.php:48
+msgid "Type of badge"
+msgid_plural "Types of badge"
+msgstr[0] "Yaka kartı türü"
+msgstr[1] "Yaka kartı türü"
+
+#: inc/config.class.php:48
+msgid "Plugin Setup"
+msgstr "Uygulama Eki Ayarları"
+
+#: inc/config.class.php:93 inc/config.class.php:141
+msgid "Time of checking of validity of the badges"
+msgstr "Yaka kartlarının geçerliliğinin denetlenme sıklığı"
+
+#: inc/config.class.php:99
+msgid "Badges expired for more than "
+msgstr "Şu kadar zaman önce süresi geçmiş yaka kartları"
+
+#: inc/config.class.php:109
+msgid "Badges expiring in less than "
+msgstr "Şu kadar zaman içinde süresi dolan yaka kartları"
+
+#: inc/config.class.php:147 inc/notificationtargetbadge.class.php:55
+#: inc/notificationtargetbadge.class.php:79
+msgid "Badge return delay"
+msgstr "Yaka kartı geri alma gecikmesi"
+
+#: inc/notificationstate.class.php:115 inc/notificationstate.class.php:156
+msgid "Unused status for expiration mailing"
+msgstr "Süre dolma e-postası için kullanılmıyor durumu"
+
+#: inc/notificationtargetbadge.class.php:54
+#: inc/notificationtargetbadge.class.php:76 inc/request.class.php:248
+#: inc/request.class.php:254 inc/wizard.class.php:68 inc/wizard.class.php:76
+msgid "Access badge request"
+msgstr "Erişim yaka kartı isteği"
+
+#: inc/notificationtargetbadge.class.php:85
+#: inc/notificationtargetbadge.class.php:130
+msgid "Allotted to"
+msgstr "Kullanıcısı"
+
+#: inc/notificationtargetbadge.class.php:101
+#: inc/notificationtargetbadge.class.php:131 inc/request.class.php:195
+#: inc/request.class.php:258 inc/request.class.php:301
+#: inc/request.class.php:474 inc/return.class.php:176 inc/return.class.php:328
+msgid "Visitor realname"
+msgstr "Ziyaretçinin gerçek adı"
+
+#: inc/notificationtargetbadge.class.php:102
+#: inc/notificationtargetbadge.class.php:132 inc/request.class.php:196
+#: inc/request.class.php:263 inc/request.class.php:300
+#: inc/request.class.php:475 inc/return.class.php:177 inc/return.class.php:326
+msgid "Visitor firstname"
+msgstr "Ziyaretçinin adı"
+
+#: inc/notificationtargetbadge.class.php:103
+#: inc/notificationtargetbadge.class.php:133 inc/request.class.php:197
+#: inc/request.class.php:271 inc/request.class.php:302
+#: inc/request.class.php:476 inc/return.class.php:178 inc/return.class.php:333
+msgid "Visitor society"
+msgstr "Ziyaretçinin topluluğu"
+
+#: inc/notificationtargetbadge.class.php:104
+#: inc/notificationtargetbadge.class.php:134 inc/request.class.php:126
+#: inc/request.class.php:198 inc/request.class.php:282
+#: inc/request.class.php:304 inc/return.class.php:179 inc/return.class.php:339
+#: inc/return.class.php:442
+msgid "Arrival date"
+msgstr "Varış tarihi"
+
+#: inc/notificationtargetbadge.class.php:144 inc/request.class.php:52
+msgid "Badges request"
+msgstr "Yaka kartları isteği"
+
+#: inc/notificationtargetbadge.class.php:150
+msgid "Badges expired or badges which expires"
+msgstr "Süresi geçmiş ve geçmek üzere olan yaka kartları"
+
+#: inc/request.class.php:121
+msgid "Badges usage search"
+msgstr "Yaka kartları kullanımı araması"
+
+#: inc/request.class.php:132 inc/request.class.php:199
+#: inc/return.class.php:180
+msgid "Return date"
+msgstr "Geri alma tarihi"
+
+#: inc/request.class.php:191 inc/request.class.php:221
+msgid "Badge usage report"
+msgstr "Yaka kartı kullanım raporu"
+
+#: inc/request.class.php:275 inc/request.class.php:478
+msgid "Available badge"
+msgid_plural "Available badges"
+msgstr[0] "Kullanılabilecek yaka kartları"
+msgstr[1] "Kullanılabilecek yaka kartları"
+
+#: inc/request.class.php:291
+msgid "Add to cart"
+msgstr "Sepete ekle"
+
+#: inc/request.class.php:298
+msgid "Cart"
+msgstr "Sepet"
+
+#: inc/request.class.php:414
+msgid "Badge affected"
+msgid_plural "Badges affected"
+msgstr[0] "yaka kartı etkilendi"
+msgstr[1] "yaka kartı etkilendi"
+
+#: inc/request.class.php:421
+msgid "Please add badges in cart"
+msgstr "Lütfen sepete yaka kartları ekleyin"
+
+#: inc/return.class.php:64 inc/return.class.php:134
+msgid "Badge return"
+msgstr "Yaka kartı geri alma"
+
+#: inc/return.class.php:146
+msgid "Force badge restitution"
+msgstr "Yaka kartını geri almaya zorla"
+
+#: inc/return.class.php:171 inc/return.class.php:203
+msgid "Badge requests history"
+msgstr "Yaka kartı isteği geçmişi"
+
+#: inc/return.class.php:223 inc/return.class.php:263
+msgid "Badges in your possession"
+msgstr "Kullanımınızdaki yaka kartları"
+
+#: inc/return.class.php:253 inc/return.class.php:259 inc/wizard.class.php:83
+msgid "Access badge return"
+msgstr "Erişim yaka kartı geri alma"
+
+#: inc/return.class.php:286
+msgid "Restitution date"
+msgstr "Geri alma tarihi"
+
+#: inc/return.class.php:300 inc/return.class.php:383
+msgid "Badges return"
+msgstr "Yaka kartı geri alındı"
+
+#: inc/return.class.php:365
+msgid "Badge returned"
+msgstr "Yaka kartı geri alındı"
+
+#: inc/servicecatalog.class.php:64 inc/servicecatalog.class.php:71
+msgid "Manage temporary badges"
+msgstr "Geçici yaka kartları yönetimi"
+
+#: inc/wizard.class.php:52
+msgid "Badges wizard"
+msgstr "Yaka kartları yardımcısı"
+
+#: inc/wizard.class.php:76
+msgid "For a limited time"
+msgstr "Sınırlı bir süre için"

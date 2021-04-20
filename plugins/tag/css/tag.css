@@ -1,0 +1,43 @@
+.tag_select + .select2-container {
+   font-size: 11px;
+   width: calc(100% - 20px);
+   max-width: 100%;
+}
+
+.tag_select + .select2-container .select2-selection--multiple {
+   border: 1px solid #D3D3D3;
+   margin: 0;
+   height: 22px;
+   min-height: 30px;
+}
+
+.tag_select + .select2-container
+   .select2-selection--multiple .select2-selection__choice {
+   margin-top: 2px;
+   margin-right: 2px;
+}
+
+.tag_select + .select2-container
+   .select2-selection--multiple .select2-selection__rendered {
+   padding-left: 2px;
+}
+
+.tag_select.select2-container .select2-search-choice-close {
+   color: #000;
+}
+
+.tag_choice {
+   border-radius: 3px;
+   padding: 4px 8px;
+   margin: 2px;
+   display: inline-block;
+   font-size: 11px;
+}
+
+.tab_cadre_pager span.tag_choice {
+   margin: 2px;
+}
+
+.select2-results .tag_choice {
+   padding: 2px 4px;
+}

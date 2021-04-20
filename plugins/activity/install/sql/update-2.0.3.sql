@@ -1,0 +1,1 @@
+ALTER TABLE glpi_plugin_activity_holidaytypes ADD `auto_validated` tinyint(1) default 0;

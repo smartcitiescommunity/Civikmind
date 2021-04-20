@@ -1,0 +1,12 @@
+.mdm-button {
+   background-color: #242323;
+   border: solid 1px #777777;
+}
+
+.mdm-button:hover {
+   border: solid 1px #bfbfbf;
+}
+
+.mdm-button i {
+   color: white;
+}

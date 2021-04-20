@@ -1,0 +1,20 @@
+.mdm-button {
+  background-color: #f7f7f7;
+  border-radius: 30px;
+  border: solid 1px #ebebeb;
+  padding: 5px 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+  cursor: pointer;
+}
+.mdm-button:hover {
+  border: solid 1px #bfbfbf;
+}
+.mdm-button i {
+  margin-right: 5px;
+  font-size: 1.5em;
+  vertical-align: middle;
+}
+
+/*# sourceMappingURL=jamf.css.map */

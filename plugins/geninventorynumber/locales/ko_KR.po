@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# SeongHyeon Cho <jaymz9634@gmail.com>, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - GenInventoryNumber\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-03 19:01+0000\n"
+"PO-Revision-Date: 2020-02-03 04:28+0000\n"
+"Last-Translator: SeongHyeon Cho <jaymz9634@gmail.com>\n"
+"Language-Team: Korean (Korea) (http://www.transifex.com/teclib/glpi-plugin-geninventorynumber/language/ko_KR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: hook.php:60 inc/profile.class.php:121
+msgid "Generate inventory number"
+msgstr "재고 번호 생성"
+
+#: hook.php:65
+msgid "Regenerate inventory number (overwrite)"
+msgstr "재고 번호 재생성 (덮어쓰기)"
+
+#: front/config.php:45 inc/profile.class.php:175 inc/config.class.php:48
+#: inc/config.class.php:86 setup.php:72
+msgid "Inventory number generation"
+msgstr "재고 번호 생성"
+
+#: inc/generation.class.php:90 inc/generation.class.php:130
+msgid "You can't modify inventory number"
+msgstr "재고 번호를 수정할 수 없습니다"
+
+#: inc/generation.class.php:100
+msgid "An inventory number have been generated"
+msgstr "재고 번호가 생성되었습니다"
+
+#: inc/config.class.php:63 inc/configfield.class.php:49
+#: inc/configfield.class.php:122
+msgid "GLPI's inventory items configuration"
+msgstr "GLPI의 재고 품목 구성"
+
+#: inc/config.class.php:101 inc/config.class.php:134
+msgid "Active"
+msgstr "활성화"
+
+#: inc/config.class.php:109 inc/config.class.php:142
+#: inc/configfield.class.php:130
+msgid "Global index position"
+msgstr "전체 색인 위치"
+
+#: inc/configfield.class.php:127
+msgid "Generation templates"
+msgstr "생성 견본"
+
+#: inc/configfield.class.php:129
+msgid "Use global index"
+msgstr "전체 색인 사용"

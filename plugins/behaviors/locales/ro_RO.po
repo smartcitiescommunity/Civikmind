@@ -1,0 +1,236 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Doru  DEACONU <dumitrudeaconu@yahoo.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Project - Plugin Behaviors\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-22 16:30+0200\n"
+"PO-Revision-Date: 2020-07-22 14:30+0000\n"
+"Last-Translator: Nelly Mahu-Lasson <nini.lasson@orange.fr>\n"
+"Language-Team: Romanian (Romania) (http://www.transifex.com/yllen/glpi-project-plugin-behaviors/language/ro_RO/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: setup.php:99 inc/config.class.php:57
+msgid "Behaviours"
+msgstr "Comportamente"
+
+#: inc/common.class.php:88 inc/common.class.php:100 inc/common.class.php:120
+msgid "Clone"
+msgstr "Clona"
+
+#: inc/common.class.php:111 inc/common.class.php:190
+msgid "Clone of"
+msgstr "Clona a"
+
+#: inc/config.class.php:115
+msgid "Error in creating glpi_plugin_behaviors_configs"
+msgstr "Eroare la crearea glpi_plugin_behaviors_configs"
+
+#: inc/config.class.php:121
+msgid "Error during update glpi_plugin_behaviors_configs"
+msgstr "Eroare în timpul actualizării  glpi_plugin_behaviors_configs"
+
+#: inc/config.class.php:233
+msgid "Inventory"
+msgstr "Inventar"
+
+#: inc/config.class.php:237
+msgid "Ticket's number format"
+msgstr "Format număr tichet"
+
+#: inc/config.class.php:244
+msgid "Delete computer in OCSNG when purged from GLPI"
+msgstr "Ştergere calculator în OCSNG când  a fost înlăturat din GLPI"
+
+#: inc/config.class.php:250
+msgid "Plugin \"Item's uninstallation\" not installed"
+msgstr "Pluginul \"Dezinstalarea Elementelor\" ne instalat"
+
+#: inc/config.class.php:253
+msgid "Plugin \"OCS Inventory NG\" not installed"
+msgstr ""
+
+#: inc/config.class.php:259
+msgid "Use the associated item's group"
+msgstr "Utilizează grupul elementelor asociate"
+
+#: inc/config.class.php:261
+msgid "Show my assets"
+msgstr ""
+
+#: inc/config.class.php:266
+msgid "Use the requester's group"
+msgstr "Utiliează grupul solicitanţilor"
+
+#: inc/config.class.php:269
+msgid "Show assets of my groups"
+msgstr ""
+
+#: inc/config.class.php:274 inc/config.class.php:350
+msgid "Use the technician's group"
+msgstr "Utilizează grupul tehnicienilor"
+
+#: inc/config.class.php:277
+msgid "Notification"
+msgid_plural "Notifications"
+msgstr[0] "Notificare"
+msgstr[1] "Notificări"
+msgstr[2] "Notificări"
+
+#: inc/config.class.php:282 inc/ticket.class.php:304
+msgid "Requester is mandatory"
+msgstr "Solicitantul este obligatoriu"
+
+#: inc/config.class.php:284
+msgid "Additional notifications"
+msgstr "Notificări adiţionale"
+
+#: inc/config.class.php:290
+msgid "Allow Clone"
+msgstr ""
+
+#: inc/config.class.php:295 inc/itilsolution.class.php:80
+#: inc/ticket.class.php:478
+msgid "Duration is mandatory before ticket is solved/closed"
+msgstr "Durata este obligatorie înainte ca tichetul să fie rezolvat/închis"
+
+#: inc/config.class.php:301 inc/itilsolution.class.php:87
+#: inc/ticket.class.php:485
+msgid "Category is mandatory before ticket is solved/closed"
+msgstr "Categoria este obligatorie înainte ca tichetul să fie rezolvat/închis"
+
+#: inc/config.class.php:304 inc/itilsolution.class.php:130
+#: inc/problem.class.php:65
+msgid "Type of solution is mandatory before problem is solved/closed"
+msgstr "Tipul soluţiei este obligatoriu înainte ca problema să fie rezolvat/închis"
+
+#: inc/config.class.php:311 inc/ticket.class.php:530
+msgid "Category is mandatory when you assign a ticket"
+msgstr ""
+
+#: inc/config.class.php:317 inc/itilsolution.class.php:68
+#: inc/itilsolution.class.php:169 inc/ticket.class.php:460
+msgid "Description of solution is mandatory before ticket is solved/closed"
+msgstr "Descrierea soluţiei este obligatorie înainte ca tichetul să fie rezolvat/închis"
+
+#: inc/config.class.php:322
+msgid "Change's number format"
+msgstr ""
+
+#: inc/config.class.php:332 inc/itilsolution.class.php:94
+#: inc/ticket.class.php:493
+msgid "Technician assigned is mandatory before ticket is solved/closed"
+msgstr ""
+
+#: inc/config.class.php:340 inc/itilsolution.class.php:101
+#: inc/ticket.class.php:501
+msgid ""
+"Group of technicians assigned is mandatory before ticket is solved/closed"
+msgstr ""
+
+#: inc/config.class.php:362 inc/itilsolution.class.php:108
+#: inc/ticket.class.php:508
+msgid "Location is mandatory before ticket is solved/closed"
+msgstr ""
+
+#: inc/config.class.php:368 inc/tickettask.class.php:58
+#: inc/tickettask.class.php:86
+msgid "Task category is mandatory in a task"
+msgstr ""
+
+#: inc/config.class.php:373
+msgid "Deny change of ticket's creation date"
+msgstr "Nu se poate schimba data creării tichetului"
+
+#: inc/config.class.php:378
+msgid "Protect from simultaneous update"
+msgstr "Protejează de la actualizări multiple"
+
+#: inc/config.class.php:383
+msgid "Single technician and group"
+msgstr "Un singur tehnician sau grup"
+
+#: inc/config.class.php:385
+msgid "Single user and single group"
+msgstr "Un singur utilizator sau singur grup"
+
+#: inc/config.class.php:386
+msgid "Single user or group"
+msgstr "Un singur utilizator sau grup"
+
+#: inc/config.class.php:392
+msgid "Block the solving/closing of a the ticket if task do to"
+msgstr ""
+
+#: inc/config.class.php:398
+msgid "Add the logged technician when solve ticket"
+msgstr ""
+
+#: inc/document_item.class.php:46
+msgid "Add document to ticket"
+msgstr "Adaugă document la tichet"
+
+#: inc/document_item.class.php:49
+msgid "Delete document to ticket"
+msgstr "Şterge document de la tichet"
+
+#: inc/itilsolution.class.php:59 inc/itilsolution.class.php:160
+#: inc/ticket.class.php:454
+msgid "Type of solution is mandatory before ticket is solved/closed"
+msgstr "Tipul soluţiei este obligatoriu înainte ca tichetul să fie rezolvat/închis"
+
+#: inc/itilsolution.class.php:117 inc/ticket.class.php:516
+msgid "You cannot solve/close a ticket with task do to"
+msgstr ""
+
+#: inc/ticket.class.php:53
+msgid "Reopen ticket"
+msgstr "Redeschide tichetul"
+
+#: inc/ticket.class.php:56
+msgid "Change status"
+msgstr ""
+
+#: inc/ticket.class.php:59
+msgid "Ticket waiting"
+msgstr ""
+
+#: inc/ticket.class.php:72
+msgid "Last technician assigned"
+msgstr ""
+
+#: inc/ticket.class.php:75
+msgid "Last group assigned"
+msgstr ""
+
+#: inc/ticket.class.php:78
+msgid "Last supplier assigned"
+msgstr ""
+
+#: inc/ticket.class.php:81
+msgid "Last watcher added"
+msgstr ""
+
+#: inc/ticket.class.php:84
+msgid "Supervisor of last group assigned"
+msgstr ""
+
+#: inc/ticket.class.php:88
+msgid "Last group assigned without supersivor"
+msgstr ""
+
+#: inc/ticket.class.php:435
+msgid "Can't save, item have been updated"
+msgstr "Nu s-a salvat, elementul a fost actualizat"
+
+#: inc/tickettask.class.php:96
+msgid "You cannot change status of a task in a solved ticket"
+msgstr ""

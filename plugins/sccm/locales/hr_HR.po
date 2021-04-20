@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# milotype <mail@milotype.de>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-27 15:27+0000\n"
+"PO-Revision-Date: 2018-08-21 14:04+0000\n"
+"Last-Translator: milotype <mail@milotype.de>, 2020\n"
+"Language-Team: Croatian (Croatia) (https://www.transifex.com/teclib/teams/28042/hr_HR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr_HR\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#: front/showtable.php:81
+msgid "Synchronization is disabled by configuration."
+msgstr "Sinkronizacija je deaktivirana u konfiguraciji."
+
+#: front/test.php:32
+msgid "SCCM - TEST"
+msgstr "SCCM – TEST"
+
+#: front/config.form.php:31 inc/config.class.php:47
+msgid "Setup - SCCM"
+msgstr "Postavljanje – SCCM"
+
+#: inc/sccm.class.php:35
+msgid "SCCM"
+msgstr "SCCM"
+
+#: inc/sccm.class.php:39
+msgid "Please, read the documentation before using that."
+msgstr "Prije upotrebe pročitaj dokumentaciju."
+
+#: inc/sccm.class.php:463
+msgid "Interface - SCCMCollect"
+msgstr "Sučelje – SCCMCollect (upit)"
+
+#: inc/sccm.class.php:466
+msgid "Interface - SCCMPush"
+msgstr "Sučelje – SCCMPush (umetanje datoteka)"
+
+#: inc/sccm.class.php:519
+msgid "Collect is disabled by configuration."
+msgstr "Slanje upita (collect) je deaktivirano u konfiguraciji."
+
+#: inc/sccm.class.php:652
+msgid "Push is disabled by configuration."
+msgstr "Umetanje datoteka (push) je deaktivirano u konfiguraciji."
+
+#: inc/menu.class.php:29 inc/menu.class.php:33
+msgid "SCCM Connector"
+msgstr "SCCM konektor"
+
+#: inc/config.class.php:51 setup.php:61
+msgid "Interface - SCCM"
+msgstr "Sučelje – SCCM"
+
+#: inc/config.class.php:100 inc/config.class.php:111
+msgid "Error when using glpi_plugin_sccm_configs table."
+msgstr "Greška pri upotrebi tablice glpi_plugin_sccm_configs."
+
+#: inc/config.class.php:183
+msgid "Enable SCCM synchronization"
+msgstr "Aktiviraj SCCM sinkronizaciju"
+
+#: inc/config.class.php:188
+msgid "Server hostname (MSSQL)"
+msgstr "Ime računala poslužitelja (MSSQL)"
+
+#: inc/config.class.php:193
+msgid "Database name"
+msgstr "Ime baze podataka"
+
+#: inc/config.class.php:198
+msgid "Username"
+msgstr "Korisničko ime"
+
+#: inc/config.class.php:205
+msgid "Password"
+msgstr "Lozinka"
+
+#: inc/config.class.php:210
+msgid "URL FusionInventory for injection"
+msgstr "URL FusionInventory za umetanje"
+
+#: inc/config.class.php:215
+msgid "Verify SSL certificate"
+msgstr "Provjeri SSL certifikat"
+
+#: inc/config.class.php:220
+msgid "Use NLTM authentication"
+msgstr "Koristi NLTM autentifikaciju"
+
+#: inc/config.class.php:225
+msgid "Send credentials to other hosts too"
+msgstr "Pošalji vjerodajnice i ostalim računalima"
+
+#: inc/config.class.php:230
+msgid "Use specific authentication information"
+msgstr "Koristi određene podatke autentifikacije"
+
+#: inc/config.class.php:235
+msgid "Value for spécific authentication"
+msgstr "Vrijednost za određenu autentifikaciju"

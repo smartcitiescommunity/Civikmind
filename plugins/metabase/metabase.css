@@ -1,0 +1,176 @@
+.metabase_config {
+   text-align: left;
+   width: 950px;
+   margin: 0 auto;
+}
+
+.metabase_config h1,
+.metabase_title {
+   font-size: 12px;
+   font-weight: bold;
+   text-align: center;
+   padding: 5px 10px 5px 0;
+   border-radius: 0;
+   margin: 15px 0 20px 0;
+   font-size: 1.1em;
+   color: #000;
+   padding: 10px 5px;
+   background-color: #F1F1F1;
+}
+
+.metabase_field {
+   margin: 10px 0 35px 0;
+   position: relative;
+   height: 20px;
+   text-align: left;
+}
+
+.metabase_field .metabase_input,
+.metabase_field .select2-container {
+   /*position: absolute;*/
+   top: 0;
+   left: 10px;
+   border-radius: 0;
+   left: 0;
+   z-index: 10;
+   height: 25px;
+   padding: 0 5px;
+}
+.metabase_field .metabase_input {
+   background-color: transparent;
+   border: 0 solid #CCC;
+   border-bottom-width: 2px;
+}
+.metabase_field .select2-container {
+   padding: inherit;
+}
+
+.metabase_field .metabase_help {
+   color: #A1A1A1;
+   cursor: help;
+   margin-left: 3px;
+}
+
+.metabase_field .metabase_help:hover {
+   color: #6B6B6B;
+}
+
+/* strangely, we can't do this with comma ...*/
+.metabase_field .metabase_input::-webkit-input-placeholder { opacity: 0; transition: opacity 0.1s ease-in-out; }
+.metabase_field .metabase_input:-moz-placeholder { opacity: 0; transition: opacity 0.1s ease-in-out; } /* FF 4-18 */
+.metabase_field .metabase_input::-moz-placeholder { opacity: 0; transition: opacity 0.1s ease-in-out; } /* FF 19+ */
+.metabase_field .metabase_input:-ms-input-placeholder { opacity: 0; transition: opacity 0.1s ease-in-out; } /* IE 10+ */
+.metabase_field .metabase_input:focus::-webkit-input-placeholder { opacity: 1; }
+.metabase_field .metabase_input:focus:-moz-placeholder { opacity: 1; }
+.metabase_field .metabase_input:focus::-moz-placeholder { opacity: 1; }
+.metabase_field .metabase_input:focus:-ms-input-placeholder { opacity: 1; }
+
+.metabase_field .metabase_input::-moz-placeholder {
+   opacity: 0;
+   transition: opacity 0.1s ease-in-out;
+}
+
+.metabase_field .metabase_label {
+   position: absolute;
+   top: 5px;
+   left: 5px;
+   color: #686868;
+   z-index: 5;
+   transition: 0.1s ease-in;
+}
+
+.metabase_field .metabase_input:focus {
+   border-color: #5897fb;
+}
+
+.metabase_field .select2-container ~ .metabase_label,
+.metabase_field .no-wrap ~ .metabase_label,
+.metabase_field .metabase_input:focus ~ .metabase_label,
+.metabase_field .metabase_input:required:not(:valid) ~ .metabase_label,
+.metabase_field .metabase_input:valid ~ .metabase_label {
+   top: -15px;
+}
+.metabase_field .metabase_input:focus ~ .metabase_label {
+   color: #5897fb;
+   font-weight: bold;
+}
+
+.metabase_config .submit {
+   margin: 10px auto;
+}
+
+.metabase_config_block {
+   background-color: #F3F3F3;
+   padding: 10px;
+   margin-top: -15px;
+}
+
+.metabase_config #actions .submit {
+   margin: 0 10px;
+}
+
+.metabase_config ul.metabase_collection_list {
+   list-style-type: none;
+   margin-left: 10px;
+   padding-left: 10px;
+}
+
+.metabase_config ul.metabase_collection_list {
+}
+
+.metabase_config ul.metabase_collection_list label{
+   background-color: #EEE;
+   display: block;
+   padding: 10px;
+   margin-top: 2px;
+   cursor: pointer;
+}
+
+.metabase_config ul.metabase_collection_list label:before {
+   content: "\f054";
+   font-family:'FontAwesome';
+   margin-right: 4px;
+}
+
+.metabase_config ul.metabase_collection_list label.expanded:before {
+   content: "\f078";
+}
+
+.metabase_config ul.extract_list {
+   border: 2px solid #EEE;
+}
+
+.metabase_config ul.extract_list.extract_dashboards {
+   margin-left: 20px;
+}
+
+.metabase_config ul.extract_list li {
+   padding: 5px 10px;
+}
+
+.metabase_config ul.extract_list li a {
+   color: #444;
+}
+
+.metabase_config ul.extract_list li:nth-child(odd) {
+   background-color: #F8F8F8;
+}
+
+.metabase_config ul.extract_list li:hover {
+   background-color: #DDD;
+}
+
+.metabase_config ul.metabase_collection_list ul.extract_list {
+   display: none;
+}
+
+.metabase_config ul.metabase_collection_list label.expanded + ul.extract_list {
+   display: block;
+}
+
+#metabase_iframe {
+   min-height: 1600px;
+   height: 99.9%:;
+   width: 100%;
+   border: 0;
+}

@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Rui Melo <viper5000pt@gmail.com>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-05 11:46+0000\n"
+"PO-Revision-Date: 2018-02-20 13:00+0000\n"
+"Last-Translator: Rui Melo <viper5000pt@gmail.com>, 2019\n"
+"Language-Team: Portuguese (Portugal) (https://www.transifex.com/teclib/teams/28042/pt_PT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: front/export.form.php:33
+msgid "PDF successfully generated."
+msgstr "PDF gerado com sucesso."
+
+#: inc/config.class.php:41
+msgid "General setup of useditemsexport"
+msgstr "Configuração geral do item useditemsexport"
+
+#: inc/config.class.php:64
+msgid "Footer text"
+msgstr "Texto de rodapé"
+
+#: inc/config.class.php:70
+msgid "Orientation"
+msgstr "Orientação"
+
+#: inc/config.class.php:77
+msgid "Format"
+msgstr "Formato"
+
+#: inc/config.class.php:84
+msgid "Language"
+msgstr "Seleccione o idioma"
+
+#: inc/config.class.php:100
+msgid "Landscape"
+msgstr "Panorama"
+
+#: inc/config.class.php:101
+msgid "Portrait"
+msgstr "Retrato"
+
+#: inc/export.class.php:34
+msgid "Run \"composer install --no-dev\" in the plugin tree"
+msgstr "Executar “composer install --no-dev” na árvore de plugins"
+
+#: inc/export.class.php:44 setup.php:83
+msgid "Used items export"
+msgstr "Exportação de itens usados"
+
+#: inc/export.class.php:132
+msgid "Generate new export"
+msgstr "Gerar nova exportação"
+
+#: inc/export.class.php:153
+msgid "Used items export generated"
+msgstr "Exportação de itens usados gerado"
+
+#: inc/export.class.php:167
+msgid "Reference number of export"
+msgstr "Número de referência da exportação"
+
+#: inc/export.class.php:168
+msgid "Date of export"
+msgstr "Data de exportação"
+
+#: inc/export.class.php:169
+msgid "Author of export"
+msgstr "Autor da exportação"
+
+#: inc/export.class.php:170
+msgid "Export document"
+msgstr "Documento exportado"
+
+#: inc/export.class.php:281
+msgid "Asset export ref : "
+msgstr "Exportação de activos ref : "
+
+#: inc/export.class.php:352 inc/export.class.php:355
+msgid "Signature"
+msgstr "Assinatura"
+
+#: inc/export.class.php:415
+msgid "Used-Items-Export"
+msgstr "Usado-Itens-Exportação"

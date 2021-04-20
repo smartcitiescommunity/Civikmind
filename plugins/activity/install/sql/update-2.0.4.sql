@@ -1,0 +1,1 @@
+ALTER TABLE glpi_plugin_activity_holidays ADD `date_mod` DATETIME NULL default NULL;

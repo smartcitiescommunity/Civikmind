@@ -1,0 +1,22 @@
+language: php
+
+php:
+  - 7.1
+  - 7.2
+  - 7.3
+  - 7.4snapshot
+  - nightly
+  - hhvm
+
+install: travis_retry composer install --no-interaction --prefer-source
+
+script:
+  - vendor/bin/phpunit
+  - vendor/bin/phpcs --standard=phpcs.xml src
+
+matrix:
+  allow_failures:
+    - php: nightly
+    - php: hhvm
+
+  fast_finish: true

@@ -1,0 +1,13 @@
+{
+    "require-dev": {
+              "squizlabs/php_codesniffer": "^3.3.2"
+    },
+    "config": {
+        "platform": {
+            "php": "5.6"
+        }
+    },
+    "require": {
+        "glpi-project/tools": "^0.1.5"
+    }
+}

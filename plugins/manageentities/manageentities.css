@@ -1,0 +1,184 @@
+/*
+ * @version $Id: HEADER 15930 2011-10-30 15:47:55Z tsmr $
+ -------------------------------------------------------------------------
+ Manageentities plugin for GLPI
+ Copyright (C) 2014-2017 by the Manageentities Development Team.
+
+ https://github.com/InfotelGLPI/manageentities
+ -------------------------------------------------------------------------
+
+ LICENSE
+
+ This file is part of Manageentities.
+
+ Manageentities is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+
+ Manageentities is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with Manageentities. If not, see <http://www.gnu.org/licenses/>.
+ --------------------------------------------------------------------------
+ */
+
+.tab_cadre_me {
+   /*font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;*/
+   border-collapse: collapse;
+   width: 95%;
+}
+
+.tab_cadre_me td, .tab_cadre_me th {
+   border: 1px solid #ddd;
+   padding: 8px;
+}
+
+.tab_cadre_me tr:nth-child(even){
+   /*background-color: #f2f2f2;*/
+}
+
+.tab_cadre_me th {
+   padding-top: 12px;
+   padding-bottom: 12px;
+   text-align: left;
+   /*background-color: #00507B;*/
+   /*color: white;*/
+}
+
+.plugin_manageentities_color {
+   text-align: center;
+   margin: 0px auto 5px auto;
+   font-size: 12px;
+   font-weight: bold;
+   padding: 5px 0px 5px 0px;
+   border: 1px solid #cccccc;
+   /*background-color: #ffffff;*/
+   -moz-border-radius: 4px;
+   -webkit-border-radius: 4px;
+   -o-border-radius: 4px;
+   width: 95%;
+}
+
+.plugin_manageentities_tab_cadrehov {
+   margin: 0 auto;
+   -moz-border-radius: 4px;
+   -webkit-border-radius: 4px;
+   border-radius: 4px;
+   border: 1px solid #d4d1ce;
+   text-align: left;
+   font-size: 11px;
+   /*background-color: #FFF;*/
+   -moz-box-shadow: 0px 0px 5px #8FBBE7;
+}
+
+.tab_cadre_fixe .styleLargeTitle, .tab_cadre_navigation_center .styleLargeTitle {
+   font-size: 18px;
+}
+
+.tab_cadre_navigation_center {
+   margin: 10px auto 5px auto;
+   padding: 4px;
+   border: 1px solid #aaaaaa;
+   background-color: #ffffff;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   -o-border-radius: 5px;
+   font-size: 12px;
+   font-weight: bold;
+}
+
+/* GANTT diagram */
+
+.fn-gantt {
+   text-align: left;
+   font-size: 11px;
+   width: 100%;
+}
+
+div#tabcontent {
+   width: 95%;
+   text-align: center;
+   margin: 0 auto;
+}
+
+.manageentities-state-default {
+   /*background-color: #f5f5f5;*/
+   /*background-image: -moz-linear-gradient(top, #ffffff, #e6e6e6);*/
+   /*background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#e6e6e6));*/
+   /*background-image: -webkit-linear-gradient(top, #ffffff, #e6e6e6);*/
+   /*background-image: -o-linear-gradient(top, #ffffff, #e6e6e6);*/
+   /*background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);*/
+   /*background-repeat: repeat-x;*/
+   /*border-color: #e6e6e6 #e6e6e6 #bfbfbf;*/
+   /*border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);*/
+   /*color: #333;*/
+   /*text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);*/
+   /*box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);*/
+}
+
+.manageentities-button {
+   position: relative;
+   display: inline-block;
+   padding: 0 .6em;
+   overflow: hidden;
+   height: 1.9em;
+   line-height: 1.9em;
+   white-space: nowrap;
+   cursor: pointer;
+}
+
+.manageentities-state-default.manageentities-corner-left { /* non-theme */
+   border-top-left-radius: 4px;
+   border-bottom-left-radius: 4px;
+}
+
+.manageentities-state-default.manageentities-corner-right { /* non-theme */
+   border-top-right-radius: 4px;
+   border-bottom-right-radius: 4px;
+}
+
+.manageentities-state-hover,
+.manageentities-state-down,
+.manageentities-state-active,
+.manageentities-state-disabled {
+   color: #333333;
+   background-color: #e6e6e6;
+}
+
+.manageentities-state-hover {
+   color: #333333;
+   text-decoration: none;
+   background-position: 0 -15px;
+   -webkit-transition: background-position 0.1s linear;
+   -moz-transition: background-position 0.1s linear;
+   -o-transition: background-position 0.1s linear;
+   transition: background-position 0.1s linear;
+}
+
+.manageentities-state-down,
+.manageentities-state-active {
+   background-color: #cccccc;
+   background-image: none;
+   outline: 0;
+   box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.manageentities-state-disabled {
+   cursor: default;
+   background-image: none;
+   opacity: 0.65;
+   filter: alpha(opacity=65);
+   box-shadow: none;
+}
+
+a.manageentities_href {
+   color: #000;
+   border: 1px solid #CCC;
+   margin: 0px;
+   font-weight: normal;
+   padding: 5px 19px 5px 19px;
+}

@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Webapplications Development Team
+# This file is distributed under the same license as the GLPI - Webapplications plugin package.
+# 
+# Translators:
+# Ryszard Jeziorski <ryszard.jeziorski@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Project - webapplications plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-23 08:39+0200\n"
+"PO-Revision-Date: 2020-07-23 06:48+0000\n"
+"Last-Translator: Xavier CAILLAUD <thetsmr@gmail.com>\n"
+"Language-Team: Polish (Poland) (http://www.transifex.com/infotelGLPI/GLPI_webapplications/language/pl_PL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: hook.php:281 inc/appliance.class.php:57
+msgid "Backoffice URL"
+msgstr "Administracyjny URL"
+
+#: setup.php:72 inc/profile.class.php:175 inc/webapplication.class.php:48
+msgid "Web application"
+msgid_plural "Web applications"
+msgstr[0] "Aplikacja internetowa"
+msgstr[1] "Aplikacje internetowe"
+msgstr[2] "Aplikacji internetowych"
+msgstr[3] "Aplikacji internetowych"
+
+#: front/webapplication.php:42 front/webapplication.php:45
+msgid "Core migration"
+msgstr ""
+
+#: front/webapplication.php:47
+msgid "Are you sure you want to do core migration ??"
+msgstr ""
+
+#: front/webapplication.php:58
+msgid "Data migration"
+msgstr ""
+
+#: front/webapplication.php:100
+msgid "Tables purge"
+msgstr ""
+
+#: front/webapplication.php:122
+msgid "Link with core purge"
+msgstr ""
+
+#: front/webapplication.php:143
+msgid "Migration was successful"
+msgstr ""
+
+#: inc/appliance.class.php:81
+msgid "Editor"
+msgstr "Producent"
+
+#: inc/webapplicationservertype.class.php:49
+msgid "Type of treatment server"
+msgid_plural "Types of treatment server"
+msgstr[0] "Typ serwera aplikacyjnego"
+msgstr[1] "Typy serwera aplikacyjnego"
+msgstr[2] "Typów serwera aplikacyjnego"
+msgstr[3] "Typów serwera aplikacyjnego"
+
+#: inc/webapplicationtechnic.class.php:49
+msgid "Language of treatment"
+msgid_plural "Languages of treatment"
+msgstr[0] "Język serwera aplikacyjnego"
+msgstr[1] "Języki serwera aplikacyjnego"
+msgstr[2] "Języków serwera aplikacyjnego"
+msgstr[3] "Języków serwera aplikacyjnego"
+
+#: inc/webapplicationtype.class.php:50
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] "Kategoria"
+msgstr[1] "Kategorie"
+msgstr[2] "Kategorii"
+msgstr[3] "Kategorii"

@@ -1,0 +1,58 @@
+input[type=number].decimal,
+input[type=number].smalldecimal,
+input[type=number].quantity {
+   text-align:center;
+   padding: 0;
+   position: relative;
+}
+input[type=number].decimal{
+   width: 70px;
+}
+input[type=number].smalldecimal {
+   width: 50px;
+}
+input[type=number].quantity {
+   width: 40px;
+}
+
+input[type=number].decimal::-webkit-inner-spin-button,
+input[type=number].quantity::-webkit-inner-spin-button {
+    opacity: 1;
+}
+
+.tab_order_fixed {
+   margin: 0;
+   width:100%;
+   border-collapse:collapse;
+   table-layout: fixed;
+}
+
+.tab_order_fixed th,
+.tab_order_fixed td {
+   padding: 1px;
+   width: 75px;
+}
+
+/* product type */
+.tab_order_add_items th:nth-child(1),
+.tab_order_add_items td:nth-child(1) {
+   width: 90px;
+}
+
+/* product reference */
+.tab_order_add_items th:nth-child(2),
+.tab_order_add_items td:nth-child(2) {
+   width: 25%;
+}
+
+/* ADD button */
+.tab_order_add_items th:nth-child(8),
+.tab_order_add_items td:nth-child(8) {
+   width: 40px;
+}
+
+/* Massive actions */
+label.order_ma {
+   display: block;
+   margin-top: 10px;
+}

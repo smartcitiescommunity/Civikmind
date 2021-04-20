@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# milotype <mail@milotype.de>, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - GenInventoryNumber\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-03 19:01+0000\n"
+"PO-Revision-Date: 2020-02-12 13:56+0000\n"
+"Last-Translator: milotype <mail@milotype.de>\n"
+"Language-Team: Croatian (Croatia) (http://www.transifex.com/teclib/glpi-plugin-geninventorynumber/language/hr_HR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr_HR\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#: hook.php:60 inc/profile.class.php:121
+msgid "Generate inventory number"
+msgstr "Generiraj inventarski broj"
+
+#: hook.php:65
+msgid "Regenerate inventory number (overwrite)"
+msgstr "Ponovo generiraj inventarski broj (prepisuje stari)"
+
+#: front/config.php:45 inc/profile.class.php:175 inc/config.class.php:48
+#: inc/config.class.php:86 setup.php:72
+msgid "Inventory number generation"
+msgstr "Generiranje inventarskog broja"
+
+#: inc/generation.class.php:90 inc/generation.class.php:130
+msgid "You can't modify inventory number"
+msgstr "Ne možeš promijeniti inventarski broj"
+
+#: inc/generation.class.php:100
+msgid "An inventory number have been generated"
+msgstr "Inventarski broj je generiran"
+
+#: inc/config.class.php:63 inc/configfield.class.php:49
+#: inc/configfield.class.php:122
+msgid "GLPI's inventory items configuration"
+msgstr "Konfiguracija stavki GLPI inventara"
+
+#: inc/config.class.php:101 inc/config.class.php:134
+msgid "Active"
+msgstr "Aktivno"
+
+#: inc/config.class.php:109 inc/config.class.php:142
+#: inc/configfield.class.php:130
+msgid "Global index position"
+msgstr "Globalna pozicija indeksa"
+
+#: inc/configfield.class.php:127
+msgid "Generation templates"
+msgstr "Predlošci za generiranje"
+
+#: inc/configfield.class.php:129
+msgid "Use global index"
+msgstr "Koristi globalni indeks"

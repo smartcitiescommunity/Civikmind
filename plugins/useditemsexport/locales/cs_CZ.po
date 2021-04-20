@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Pavel Borecki <pavel.borecki@gmail.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-05 11:46+0000\n"
+"PO-Revision-Date: 2018-02-20 13:00+0000\n"
+"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>, 2018\n"
+"Language-Team: Czech (Czech Republic) (https://www.transifex.com/teclib/teams/28042/cs_CZ/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+#: front/export.form.php:33
+msgid "PDF successfully generated."
+msgstr "PDF úspěšně vytvořeno."
+
+#: inc/config.class.php:41
+msgid "General setup of useditemsexport"
+msgstr ""
+"Obecná nastavení zásuvného modulu exportu uživatelem využívaných položek"
+
+#: inc/config.class.php:64
+msgid "Footer text"
+msgstr "Text zápatí"
+
+#: inc/config.class.php:70
+msgid "Orientation"
+msgstr "Orientace"
+
+#: inc/config.class.php:77
+msgid "Format"
+msgstr "Formát"
+
+#: inc/config.class.php:84
+msgid "Language"
+msgstr "Jazyk"
+
+#: inc/config.class.php:100
+msgid "Landscape"
+msgstr "Na šířku"
+
+#: inc/config.class.php:101
+msgid "Portrait"
+msgstr "Na výšku"
+
+#: inc/export.class.php:34
+msgid "Run \"composer install --no-dev\" in the plugin tree"
+msgstr ""
+"Ve složce tohoto zásuvného modulu spusťte příkaz „composer install --no-dev“"
+
+#: inc/export.class.php:44 setup.php:83
+msgid "Used items export"
+msgstr "Export uživatelem využívaných položek"
+
+#: inc/export.class.php:132
+msgid "Generate new export"
+msgstr "Vytvořit nový export"
+
+#: inc/export.class.php:153
+msgid "Used items export generated"
+msgstr "Export využívaných položek vytvořen"
+
+#: inc/export.class.php:167
+msgid "Reference number of export"
+msgstr "Referenční číslo exportu"
+
+#: inc/export.class.php:168
+msgid "Date of export"
+msgstr "Datum exportu"
+
+#: inc/export.class.php:169
+msgid "Author of export"
+msgstr "Autor exportu"
+
+#: inc/export.class.php:170
+msgid "Export document"
+msgstr "Dokument exportu"
+
+#: inc/export.class.php:281
+msgid "Asset export ref : "
+msgstr "Reference exportu majetku: "
+
+#: inc/export.class.php:352 inc/export.class.php:355
+msgid "Signature"
+msgstr "Podpis"
+
+#: inc/export.class.php:415
+msgid "Used-Items-Export"
+msgstr "Used-Items-Export"

@@ -1,0 +1,24 @@
+{
+  "name": "xylemical/php-expressions",
+  "type": "library",
+  "license": "MIT",
+  "description": "An extensible mathematical expression parser and evaluator.",
+  "keywords": ["expression evaluator","math parser", "shunting-yard algorithm", "math calculator"],
+  "homepage": "https://github.com/xylemical/php-expressions",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Xylemical\\Expressions\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Xylemical\\Expressions\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.0"
+  }
+}

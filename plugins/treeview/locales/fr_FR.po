@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Cédric Anne, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-05 11:36+0000\n"
+"PO-Revision-Date: 2018-08-24 14:49+0000\n"
+"Last-Translator: Cédric Anne, 2018\n"
+"Language-Team: French (France) (https://www.transifex.com/teclib/teams/28042/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: inc/profile.class.php:106
+msgid "Use the tree"
+msgstr "Utiliser l'arborescence"
+
+#: inc/profile.class.php:137 inc/preference.class.php:42
+#: inc/preference.class.php:115 inc/config.class.php:49
+#: inc/config.class.php:243 inc/config.class.php:315 setup.php:112 left.php:38
+#: left.php:54
+msgid "Tree view"
+msgstr "Arborescence"
+
+#: inc/preference.class.php:58
+msgid "Launch the plugin Treeview with GLPI launching"
+msgstr "Lancer le plugin Arborescence au démarrage de GLPI"
+
+#: inc/preference.class.php:69
+msgid ""
+"Warning: If there are more than one plugin which be loaded at startup, then "
+"only the first will be used"
+msgstr ""
+"Attention : si plusieurs plugins sont lancés au démarrage, seul le premier "
+"sera actif"
+
+#: inc/config.class.php:60
+msgid "Display"
+msgstr "Affichage"
+
+#: inc/config.class.php:62
+msgid "Target for all the nodes"
+msgstr "Ouverture des liens"
+
+#: inc/config.class.php:65
+msgid "New window"
+msgstr "Dans une nouvelle fenêtre"
+
+#: inc/config.class.php:67
+msgid "The central console"
+msgstr "Dans la console centrale"
+
+#: inc/config.class.php:71
+msgid "Should folders be links"
+msgstr "Utiliser les répertoires des lieux sous forme de liens"
+
+#: inc/config.class.php:80
+msgid "Nodes can be highlighted"
+msgstr "Les noeuds peuvent être en surbrillance"
+
+#: inc/config.class.php:88
+msgid "Tree is drawn with lines"
+msgstr "L'arborescence est dessinée avec des lignes"
+
+#: inc/config.class.php:96
+msgid "Tree is drawn with icons"
+msgstr "L'arborescence est dessinée avec des icônes"
+
+#: inc/config.class.php:106
+msgid "Only one node within a parent"
+msgstr "Seulement un noeud avec un parent"
+
+#: inc/config.class.php:107
+msgid "can be expanded at the same time."
+msgstr "peut être affiché en même temps"
+
+#: inc/config.class.php:116
+msgid "Item name"
+msgstr "Affichage du matériel"
+
+#: inc/config.class.php:130
+msgid "Location name"
+msgstr "Affichage du lieu"
+
+#: inc/config.class.php:134 inc/config.class.php:138
+msgid "Short name"
+msgstr "Nom court"
+
+#: inc/config.class.php:136 inc/config.class.php:141
+msgid "Long name"
+msgstr "Nom complet"
+
+#: inc/config.class.php:138 inc/config.class.php:141
+msgid "Comment"
+msgstr "Commentaires"

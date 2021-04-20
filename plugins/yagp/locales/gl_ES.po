@@ -1,0 +1,66 @@
+# YAGP Glpi Plugin.
+# Copyright (C) 2019 TICgal
+# This file is distributed under the same license as the PACKAGE package.
+# TICgal, 2019
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-24 12:06+0200\n"
+"PO-Revision-Date: 2020-07-27 09:10+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: gl_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/config.class.php:45 inc/config.class.php:116
+msgid "Yagp"
+msgstr ""
+
+#: inc/config.class.php:88
+msgid "Change ticket solved date to last task end time"
+msgstr ""
+"Cambiar a data de resolución da petición pola data de finalización da ultima "
+"tarefa"
+
+#: inc/config.class.php:93
+msgid "Auto renew tacit contracts"
+msgstr "Renovación automática dos contratos tácitos"
+
+#: inc/config.class.php:98
+msgid "Fixed Menu"
+msgstr "Menú fixo"
+
+#: inc/config.class.php:103
+msgid "Go to ticket"
+msgstr "Ir a peticion"
+
+#: inc/contractrenew.class.php:5
+msgid "YagpContractRenew"
+msgstr ""
+
+#: inc/contractrenew.class.php:11
+msgid "Renews tacit contracts"
+msgstr "Renovación dos contratos tácitos"
+
+#: inc/contractrenew.class.php:41
+#, php-format
+msgid "Renewed Contract id: %s"
+msgstr "ID do contrato renovado: %s"
+
+#: inc/ticketsolveddate.class.php:5
+msgid "YagpTicketSolvedDate"
+msgstr ""
+
+#: inc/ticketsolveddate.class.php:11
+msgid "Change date"
+msgstr "Cambiar data"
+
+#: inc/ticketsolveddate.class.php:12
+msgid "Number of tickets"
+msgstr "Número de peticións"

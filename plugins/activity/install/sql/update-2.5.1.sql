@@ -1,0 +1,1 @@
+ALTER TABLE `glpi_plugin_activity_options` ADD `use_weekend` tinyint(11) DEFAULT '0';

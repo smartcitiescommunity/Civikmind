@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-27 15:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: front/showtable.php:81
+msgid "Synchronization is disabled by configuration."
+msgstr ""
+
+#: front/test.php:32
+msgid "SCCM - TEST"
+msgstr ""
+
+#: front/config.form.php:31 inc/config.class.php:47
+msgid "Setup - SCCM"
+msgstr ""
+
+#: inc/sccm.class.php:35
+msgid "SCCM"
+msgstr ""
+
+#: inc/sccm.class.php:39
+msgid "Please, read the documentation before using that."
+msgstr ""
+
+#: inc/sccm.class.php:463
+msgid "Interface - SCCMCollect"
+msgstr ""
+
+#: inc/sccm.class.php:466
+msgid "Interface - SCCMPush"
+msgstr ""
+
+#: inc/sccm.class.php:519
+msgid "Collect is disabled by configuration."
+msgstr ""
+
+#: inc/sccm.class.php:652
+msgid "Push is disabled by configuration."
+msgstr ""
+
+#: inc/menu.class.php:29 inc/menu.class.php:33
+msgid "SCCM Connector"
+msgstr ""
+
+#: inc/config.class.php:51 setup.php:61
+msgid "Interface - SCCM"
+msgstr ""
+
+#: inc/config.class.php:100 inc/config.class.php:111
+msgid "Error when using glpi_plugin_sccm_configs table."
+msgstr ""
+
+#: inc/config.class.php:183
+msgid "Enable SCCM synchronization"
+msgstr ""
+
+#: inc/config.class.php:188
+msgid "Server hostname (MSSQL)"
+msgstr ""
+
+#: inc/config.class.php:193
+msgid "Database name"
+msgstr ""
+
+#: inc/config.class.php:198
+msgid "Username"
+msgstr ""
+
+#: inc/config.class.php:205
+msgid "Password"
+msgstr ""
+
+#: inc/config.class.php:210
+msgid "URL FusionInventory for injection"
+msgstr ""
+
+#: inc/config.class.php:215
+msgid "Verify SSL certificate"
+msgstr ""
+
+#: inc/config.class.php:220
+msgid "Use NLTM authentication"
+msgstr ""
+
+#: inc/config.class.php:225
+msgid "Send credentials to other hosts too"
+msgstr ""
+
+#: inc/config.class.php:230
+msgid "Use specific authentication information"
+msgstr ""
+
+#: inc/config.class.php:235
+msgid "Value for spécific authentication"
+msgstr ""

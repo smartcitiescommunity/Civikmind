@@ -1,0 +1,223 @@
+# English translations for fix package.
+# Copyright (C) 2020 THE fix'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the fix package.
+# Automatically generated, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fix 95\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-15 17:40-0400\n"
+"PO-Revision-Date: 2020-08-15 17:40-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. TRANS: %1$s is the user login, %2$s is the name of the item
+#: front/resource.form.php:41
+#, php-format
+msgid "%1$s adds the item %2$s"
+msgstr "%1$s adds the item %2$s"
+
+#. TRANS: %s is the user login
+#: front/resource.form.php:54
+#, php-format
+msgid "%s purges an item"
+msgstr "%s purges an item"
+
+#. TRANS: %s is the user login
+#: front/resource.form.php:63
+#, php-format
+msgid "%s updates an item"
+msgstr "%s updates an item"
+
+#. TRANS: %s is the user login
+#: front/resource.form.php:98 inc/resource.class.php:650
+#, php-format
+msgid "%s adds a target"
+msgstr "%s adds a target"
+
+#: inc/iconwarmupcommand.class.php:41
+msgid ""
+"Warmup the automatically generated icon cache. This is used for dynamic "
+"dashboards such as suppliers, appliances, and entities."
+msgstr ""
+"Warmup the automatically generated icon cache. This is used for dynamic "
+"dashboards such as suppliers, appliances, and entities."
+
+#: inc/config.class.php:35 inc/profile.class.php:31 inc/profile.class.php:65
+#: setup.php:49
+msgid "Web Resources"
+msgstr "Web Resources"
+
+#: inc/config.class.php:50
+msgid "Favicon Settings"
+msgstr "Favicon Settings"
+
+#: inc/config.class.php:51
+msgid "Use DuckDuckGo Favicon Service"
+msgstr "Use DuckDuckGo Favicon Service"
+
+#: inc/config.class.php:56
+msgid "Use Google Favicon Service"
+msgstr "Use Google Favicon Service"
+
+#: inc/config.class.php:63 inc/profile.class.php:71
+msgctxt "button"
+msgid "Save"
+msgstr "Save"
+
+#: inc/resource.class.php:41
+msgid "Web Resource"
+msgid_plural "Web Resources"
+msgstr[0] "Web Resource"
+msgstr[1] "Web Resources"
+
+#: inc/resource.class.php:92
+msgid "Target"
+msgid_plural "Targets"
+msgstr[0] "Target"
+msgstr[1] "Targets"
+
+#: inc/resource.class.php:131
+msgid "Add a target"
+msgstr "Add a target"
+
+#: inc/resource.class.php:157
+msgctxt "button"
+msgid "Delete permanently"
+msgstr "Delete permanently"
+
+#: inc/resource.class.php:161
+msgid ""
+"Caution! You are not the author of this element. Delete targets can result "
+"in loss of access to that element."
+msgstr ""
+"Caution! You are not the author of this element. Delete targets can result "
+"in loss of access to that element."
+
+#: inc/resource.class.php:176
+msgid "Type"
+msgstr "Type"
+
+#: inc/resource.class.php:177
+msgid "Recipient"
+msgid_plural "Recipients"
+msgstr[0] "Recipient"
+msgstr[1] "Recipients"
+
+#: inc/resource.class.php:191
+msgid "User"
+msgstr "User"
+
+#: inc/resource.class.php:208
+msgid "Group"
+msgstr "Group"
+
+#. TRANS: R for Recursive
+#: inc/resource.class.php:211 inc/resource.class.php:219
+#: inc/resource.class.php:242 inc/resource.class.php:244
+#: inc/resource.class.php:267 inc/resource.class.php:273
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/resource.class.php:214 inc/resource.class.php:269
+#, php-format
+msgid "%1$s / %2$s"
+msgstr "%1$s / %2$s"
+
+#: inc/resource.class.php:220 inc/resource.class.php:245
+#: inc/resource.class.php:274
+msgid "R"
+msgstr "R"
+
+#: inc/resource.class.php:239
+msgid "Entity"
+msgstr "Entity"
+
+#: inc/resource.class.php:263
+msgid "Profile"
+msgid_plural "Profiles"
+msgstr[0] "Profile"
+msgstr[1] "Profiles"
+
+#: inc/resource.class.php:416
+msgid "Name"
+msgstr "Name"
+
+#: inc/resource.class.php:418
+msgid "Link"
+msgstr "Link"
+
+#: inc/resource.class.php:425 hook.php:168
+msgid "Icon"
+msgstr "Icon"
+
+#: inc/resource.class.php:430
+msgid "Leave blank to automatically use a favicon"
+msgstr "Leave blank to automatically use a favicon"
+
+#: inc/resource.class.php:441
+msgid "Icon Color"
+msgstr "Icon Color"
+
+#: inc/resource.class.php:446
+msgid "Only applies to FontAwesome icons and not images"
+msgstr "Only applies to FontAwesome icons and not images"
+
+#: inc/resource.class.php:452
+msgid "Preview"
+msgstr "Preview"
+
+#: inc/resource.class.php:456
+msgid "Refresh icon image"
+msgstr "Refresh icon image"
+
+#: inc/resource.class.php:567
+msgid "Add target"
+msgstr "Add target"
+
+#: inc/resource.class.php:569
+msgid "Remove target"
+msgstr "Remove target"
+
+#: inc/resource.class.php:696
+#, php-format
+msgid "%s deletes a target"
+msgstr "%s deletes a target"
+
+#: inc/dashboard.class.php:59
+msgid "My resources"
+msgstr "My resources"
+
+#: inc/dashboard.class.php:101 inc/dashboard.class.php:155
+#: inc/dashboard.class.php:365
+msgid "Uncategorized"
+msgstr "Uncategorized"
+
+#: inc/dashboard.class.php:412
+msgid "Search"
+msgstr "Search"
+
+#: inc/iconbakecommand.class.php:41
+msgid ""
+"Bake the automatically generated icon cache to a json file. This is can be "
+"moved between GLPI instances or used to quickly warmup the cache."
+msgstr ""
+"Bake the automatically generated icon cache to a json file. This is can be "
+"moved between GLPI instances or used to quickly warmup the cache."
+
+#: inc/category.class.php:30
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] "Category"
+msgstr[1] "Categories"
+
+#: hook.php:172
+msgid "Icon color"
+msgstr "Icon color"

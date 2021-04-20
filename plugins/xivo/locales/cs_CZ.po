@@ -1,0 +1,324 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Pavel Borecki <pavel.borecki@gmail.com>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-05 11:50+0000\n"
+"PO-Revision-Date: 2017-04-03 14:32+0000\n"
+"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>, 2019\n"
+"Language-Team: Czech (Czech Republic) (https://www.transifex.com/teclib/teams/28042/cs_CZ/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+#: front/phonecall.php:32
+msgid "Xivo plugin not activated"
+msgstr ""
+
+#: inc/phone.class.php:307
+msgid "XIVO informations"
+msgstr "Informace z XIVO"
+
+#: inc/phone.class.php:311
+msgid "Xivo ID"
+msgstr "XIVO identifikátor"
+
+#: inc/phone.class.php:313
+msgid "Template"
+msgstr "Šablona"
+
+#: inc/phone.class.php:318
+msgid "Last synchronisation"
+msgstr "Minulá sychronizace"
+
+#: inc/apiclient.class.php:97
+msgid "REST API access"
+msgstr "Přístup k REST API"
+
+#: inc/apiclient.class.php:99
+msgid "Get phone devices"
+msgstr "Získat telefonní zařízení"
+
+#: inc/apiclient.class.php:101
+msgid "Get single device"
+msgstr "Získat jedno zařízení"
+
+#: inc/apiclient.class.php:111
+msgid "Get lines"
+msgstr "Získat linky"
+
+#: inc/apiclient.class.php:113
+msgid "Get single line"
+msgstr "Získat jednu linku"
+
+#: inc/apiclient.class.php:119
+msgid "Get users"
+msgstr "Získat uživatele"
+
+#: inc/inventory.class.php:39
+msgid "Import Xivo assets"
+msgstr "Importovat Xivo zařízení"
+
+#: inc/inventory.class.php:114
+#, php-format
+msgid "%1$d line imported"
+msgid_plural "%1$d lines imported"
+msgstr[0] "%1$d linka importována"
+msgstr[1] "%1$d linky importovány"
+msgstr[2] "%1$d linek importováno"
+msgstr[3] "%1$d linky importovány"
+
+#: inc/inventory.class.php:154
+#, php-format
+msgid "%1$d phone imported"
+msgid_plural "%1$d phones imported"
+msgstr[0] "%1$d telefon importován"
+msgstr[1] "%1$d telefony importovány"
+msgstr[2] "%1$d telefonů importováno"
+msgstr[3] "%1$d telefony importovány "
+
+#: inc/xuc.class.php:37
+msgid "Connect to XIVO"
+msgstr "Připojit k XIVO"
+
+#: inc/xuc.class.php:39
+msgid "XIVO username"
+msgstr "XIVO uživatelské jméno"
+
+#: inc/xuc.class.php:42
+msgid "XIVO password"
+msgstr "XIVO heslo"
+
+#: inc/xuc.class.php:45
+msgid "XIVO phone number"
+msgstr "XIVO telefonní číslo"
+
+#: inc/xuc.class.php:69
+msgid "XIVO connected"
+msgstr "XIVO připojeno"
+
+#: inc/xuc.class.php:81
+msgid "User"
+msgstr "Uživatel"
+
+#: inc/xuc.class.php:86
+msgid "Phone"
+msgstr "Telefon"
+
+#: inc/xuc.class.php:98
+msgid "Incoming call"
+msgstr "Příchozí volání"
+
+#: inc/xuc.class.php:99
+msgid "On call"
+msgstr "Na telefonu"
+
+#: inc/xuc.class.php:100
+msgid "Dialing"
+msgstr "Vytáčení"
+
+#: inc/xuc.class.php:109
+msgid "Answer"
+msgstr "Zvednout"
+
+#: inc/xuc.class.php:112
+msgid "Hangup"
+msgstr "Zavěsit"
+
+#: inc/xuc.class.php:115
+msgid "Hold"
+msgstr "Podržet"
+
+#: inc/xuc.class.php:120
+msgid "Phone actions"
+msgstr "Akce telefonu"
+
+#: inc/xuc.class.php:123
+msgid "Dial number"
+msgstr "Vytočit číslo"
+
+#: inc/xuc.class.php:124
+msgid "Transfer to number"
+msgstr "Přenést na číslo"
+
+#: inc/xuc.class.php:127
+msgid "Dial"
+msgstr "Vytočit"
+
+#: inc/xuc.class.php:130
+msgid "Transfer"
+msgstr "Přenos"
+
+#: inc/xuc.class.php:192
+msgid "User found in GLPI:"
+msgstr "Uživatel nalezený v GLPI:"
+
+#: inc/xuc.class.php:206
+msgid "Multiple users found with this phone number"
+msgstr "Pro toto tel. číslo nalezeno vícero uživatelů"
+
+#: inc/phone_line.class.php:111
+msgid "Add a phone"
+msgstr "Přidat telefon"
+
+#: inc/phone_line.class.php:233
+msgid "Add a line"
+msgstr "Přidat linku"
+
+#: inc/phone_line.class.php:266 inc/line.class.php:142 inc/line.class.php:216
+msgid "Protocol"
+msgstr "Protokol"
+
+#: inc/phone_line.class.php:269 inc/line.class.php:157 inc/line.class.php:232
+msgid "Provisioning code"
+msgstr "Kód zajištění"
+
+#: inc/phone_line.class.php:270
+msgid "Caller num"
+msgstr "Číslo volajícího"
+
+#: inc/phone_line.class.php:271
+msgid "Caller name"
+msgstr "Jméno volajícího"
+
+#: inc/line.class.php:38
+msgid "Line"
+msgid_plural "Lines"
+msgstr[0] "Linka"
+msgstr[1] "Linky"
+msgstr[2] "Linek"
+msgstr[3] "Linky"
+
+#: inc/line.class.php:146 inc/line.class.php:264
+msgid "Xivo line_id"
+msgstr "XIVO identifikátor linky"
+
+#: inc/line.class.php:153 inc/line.class.php:224
+msgid "Provisioning extension"
+msgstr "Linka zajištění"
+
+#: inc/line.class.php:164 inc/line.class.php:240
+msgid "Device slot"
+msgstr "Slot telefonu"
+
+#: inc/line.class.php:168 inc/line.class.php:248
+msgid "Position"
+msgstr "Pozice"
+
+#: inc/line.class.php:175 inc/line.class.php:256
+msgid "Registrar"
+msgstr "Registrátor"
+
+#: inc/line.class.php:196
+msgid "Associated lines"
+msgstr "Přiřazené linky"
+
+#: inc/config.class.php:36
+msgid "Xivo"
+msgstr "Xivo"
+
+#: inc/config.class.php:79
+msgid "Configuration of XIVO integration"
+msgstr "Nastavení integrace XIVO"
+
+#: inc/config.class.php:84
+msgid "XUC integration (click2call, presence, etc)"
+msgstr "Integrace XUC (zavolat kliknutím, přítomnost, atd)"
+
+#: inc/config.class.php:100
+msgid "XUC url (with port)"
+msgstr "URL adresa XUC (s portem)"
+
+#: inc/config.class.php:109
+msgid "Secure connection to WebSocket"
+msgstr "Zabezpečené připojení na WebSocket"
+
+#: inc/config.class.php:117
+msgid "Enable for Self-service users"
+msgstr "Zapnout pro samoobslužné uživatele"
+
+#: inc/config.class.php:129
+msgid "Click2call"
+msgstr "Volat kliknutím"
+
+#: inc/config.class.php:140
+msgid "Presence"
+msgstr "Přítomnost"
+
+#: inc/config.class.php:152
+msgid "Callcenter features"
+msgstr "Funkce kontaktního centra"
+
+#: inc/config.class.php:163
+msgid "Auto-open user/ticket on call"
+msgstr "Při volání automaticky otevřít uživatele/požadavek"
+
+#: inc/config.class.php:172
+msgid "Auto-open in new window"
+msgstr "Automaticky otevírat v novém okně"
+
+#: inc/config.class.php:181
+msgid "Keep xuc session"
+msgstr "Zachovat xuc relaci"
+
+#: inc/config.class.php:195
+msgid "Import assets into GLPI inventory"
+msgstr "Importovat majetek do GLPI inventáře"
+
+#: inc/config.class.php:211
+msgid "API REST url"
+msgstr "URL adresa REST API"
+
+#: inc/config.class.php:266
+msgid "Import phones"
+msgstr "Importovat telefony"
+
+#: inc/config.class.php:278
+msgid "Also import phones with"
+msgstr "Také importovat telefony s"
+
+#: inc/config.class.php:282
+msgid "empty serial"
+msgstr "nevyplněným sériovým číslem"
+
+#: inc/config.class.php:291
+msgid "empty mac"
+msgstr "nevyplněnou mac adresou"
+
+#: inc/config.class.php:300
+msgid "'not_configured' state"
+msgstr "stav „nenastaveno“"
+
+#: inc/config.class.php:311
+msgid "Import lines"
+msgstr "Importovat linky"
+
+#: inc/config.class.php:325
+msgid "Import phones-lines relation"
+msgstr "Importovat vztahy telefony-linky"
+
+#: inc/config.class.php:350
+msgid "REST API status"
+msgstr "Stav REST API"
+
+#: inc/config.class.php:371
+msgid "Last Error"
+msgstr "Poslední chyba"
+
+#: inc/config.class.php:381
+msgid "Auth token"
+msgstr "Ověřovací token"
+
+#: inc/config.class.php:387
+msgid "ACL"
+msgstr "ACL seznam"

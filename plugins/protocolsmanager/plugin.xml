@@ -1,0 +1,83 @@
+<root>
+	<name>Protocols Manager</name>
+	<key>protocolsmanager</key>
+	<state>stable</state> <!-- stable | unstable | beta | alpha -->
+	<logo>https://raw.githubusercontent.com/mateusznitka/protocolsmanager/master/pdf_ico.png</logo>
+	<description>
+	   <short>
+		  <en>Plugin to make configurable PDF reports with selected user inventory</en>
+		  <pl>Wtyczka pozwala generować protokoly użycia sprzętu w PDF</pl>
+	   </short>
+	   <long>
+		  <en><![CDATA[Plugin to make configurable PDF reports with selected user inventory. <br />
+			Features: <br />
+			    1. Making PDFs with all or selected user inventory <br />
+			    2. Saving protocols in GLPI Documents <br />
+			    3. Possibility to create different protocol templates <br />
+			    4. Templates have configurable name, font, orientation, logo image, city, content and footer <br />
+			    5. Possibility to make comments to any selected item <br />
+			    6. Showing Manufacturer (only first word to be clearly) and Model of item <br />
+			    7. Showing serial number of item or inventory number if serial number doesn't exist or Serial and Inventory in separate columns <br />
+				8. Possibility to change orientation to landscape <br />
+				9. Possibility to add additional rows <br />
+				10. Optional autosending mails with exported PDFs <br />
+				11. Possibility to make notes to export]]>
+		  </en>
+		  <pl><![CDATA[Wtyczka pozwala generowac protokoly uzycia sprzetu w PDF <br />
+		  Cechy: <br />		  
+			    1. Tworzenie PDF z całym lub wybranym wyposażeniem uzytkownika <br />
+			    2. Zapisywanie protokołów w Dokumentach GLPI <br />
+			    3. Możliwość tworzenia różnych szablonów (np. protokół zwrotu, protokół uszkodzenia itp.) <br />
+			    4. Szablony mają konfigurowalną czcionkę, orientację, nazwę, tekst w środku, stopkę, miasto. <br />
+			    5. Możliwość tworzenia komentarzy do każdego elementu <br /> 
+			    6. Wyświetlanie Marki i modelu <br />
+			    7. Wyświetlanie numeru seryjnego, a jeśli jest pusty - numeru inwentarzowego lub obydwie kolumny oddzielnie <br />
+				8. Możliwość zmiany orientacji na poziomą <br />
+				9. Możliwość dodania dodatkowych wierszy (ręcznie wpisywanych) <br />
+				10. Opcjonalne wysyłanie maili z protokołami <br />
+				11. Możliwość dodania notatek do każdego eksportu]]>
+			</pl>
+	   </long>
+	</description>
+	<homepage>https://github.com/mateusznitka/protocolsmanager</homepage>
+	<download>https://github.com/mateusznitka/protocolsmanager/releases</download>
+	<issues>https://github.com/mateusznitka/protocolsmanager/issues</issues>
+	<readme>https://github.com/mateusznitka/protocolsmanager/blob/master/README.md</readme>
+	<authors>
+	   <author>Mateusz Nitka</author>
+	</authors>
+	<versions>
+	   <version>
+		  <num>1.4</num>
+		  <compatibility>9.5</compatibility>
+		  <compatibility>9.4</compatibility>
+		  <compatibility>9.3</compatibility>
+	   </version>
+	</versions>
+	<langs>
+	   <lang>en_GB</lang>
+	   <lang>pl_PL</lang>
+	</langs>
+	<license>GPL v3</license>
+	<tags>
+	   <en>
+		  <tag>pdf</tag>
+		  <tag>export</tag>
+		  <tag>useritems</tag>
+		  <tag>inventory</tag>
+	   </en>
+	   <pl>
+		  <tag>pdf</tag>
+		  <tag>export</tag>
+		  <tag>useritems</tag>
+		  <tag>inventory</tag>
+	   </pl>
+	</tags>
+	<screenshots>
+		<screenshot>https://raw.githubusercontent.com/mateusznitka/protocolsmanager/master/screenshots/scr5.png</screenshot>
+		<screenshot>https://raw.githubusercontent.com/mateusznitka/protocolsmanager/master/screenshots/scr4.png</screenshot>
+		<screenshot>https://raw.githubusercontent.com/mateusznitka/protocolsmanager/master/screenshots/scr2.png</screenshot>
+		<screenshot>https://raw.githubusercontent.com/mateusznitka/protocolsmanager/master/screenshots/scr3.png</screenshot>
+		<screenshot>https://raw.githubusercontent.com/mateusznitka/protocolsmanager/master/screenshots/scr1.png</screenshot>
+	</screenshots>
+</root>

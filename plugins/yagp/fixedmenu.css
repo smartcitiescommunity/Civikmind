@@ -1,0 +1,17 @@
+#header:not(.plugin_formcreator_leftHeader){
+	position:fixed;
+	top: 0;
+	width: 100%;
+	z-index: 99;
+}
+body>#header ~ #page{
+	margin-top: 100px;
+}
+
+body>.banner-impersonate{
+	margin-top: 100px;
+}
+
+body>.banner-impersonate ~ #page{
+	margin-top: 0px !important;
+}

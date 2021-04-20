@@ -1,0 +1,474 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Pavel Borecki <pavel.borecki@gmail.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-03 19:21+0000\n"
+"PO-Revision-Date: 2016-10-05 17:06+0000\n"
+"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>, 2018\n"
+"Language-Team: Czech (Czech Republic) (https://www.transifex.com/teclib/teams/28042/cs_CZ/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+#: hook.php:85
+msgid "Number of linked MantisBT issues"
+msgstr "Počet odkazovaných MantisBT hlášení"
+
+#: inc/profile.class.php:57
+msgid "Use the plugin MantisBT"
+msgstr "Použít zásuvný modul MantisBT"
+
+#: inc/mantisws.class.php:95
+#, php-format
+msgid "Error to connect to the web service MantisBT => '%1$s'"
+msgstr "Chyba při připojování k webové službě MantisBT => „%1$s“"
+
+#: inc/mantisws.class.php:136 inc/mantisws.class.php:164
+#: inc/mantisws.class.php:187
+#, php-format
+msgid "Error retrieving user of project id '%1$s' => '%2$s'"
+msgstr ""
+"Chyba při získávání uživatele projektu s identifikátorem „%1$s“ => „%2$s“"
+
+#: inc/mantisws.class.php:204
+#, php-format
+msgid "Error retrieving category from the project id '%1$s' => '%2$s'"
+msgstr ""
+"Chyba při získávání kategorie projektu s identifikátorem „%1$s“ => „%2$s“"
+
+#: inc/mantisws.class.php:220
+#, php-format
+msgid "Error when checking existence of the MantisBT ticket '%1$s' => '%2$s'"
+msgstr "Chyba při kontrole existence hlášení v MantisBT „%1$s“ => „%2$s“"
+
+#: inc/mantisws.class.php:248
+#, php-format
+msgid "error while creating note => '%1$s'"
+msgstr "chyba při vytváření poznámky => „%1$s“"
+
+#: inc/mantisws.class.php:269
+#, php-format
+msgid "WARNING: %1$s already exists"
+msgstr "VAROVÁNÍ: %1$s už existuje"
+
+#: inc/mantisws.class.php:272
+#, php-format
+msgid "error while creating attachment => '%1$s'"
+msgstr "chyba při vytváření přílohy => „%1$s“"
+
+#: inc/mantisws.class.php:292
+#, php-format
+msgid "error while getting attachment => '%1$s'"
+msgstr "chyba při získávání přílohy => „%1$s“"
+
+#: inc/mantisws.class.php:308
+#, php-format
+msgid "Error creating MantisBT ticket '%1$s'"
+msgstr "Chyba při vytváření požadavku v MantisBT „%1$s“"
+
+#: inc/mantisws.class.php:325
+#, php-format
+msgid "Error searching MantisBT ticket '%1$s' => '%2$s'"
+msgstr "Chyba při hledání MantisBT požadavku „%1$s“ => „%2$s“"
+
+#: inc/mantisws.class.php:341
+#, php-format
+msgid "Error retrieving the id of the project by it's name  '%1$s' => '%2$s'"
+msgstr ""
+"Chyba při získávání identifikátoru projektu pomocí jeho názvu „%1$s“ => "
+"„%2$s“"
+
+#: inc/mantisws.class.php:362
+#, php-format
+msgid ""
+"Error when checking the  existence of the project by his name '%1$s' => "
+"'%2$s'"
+msgstr ""
+"Chyba při kontrole existence projektu pomocí jeho názvu  „%1$s“ => „%2$s“"
+
+#: inc/mantisws.class.php:378
+#, php-format
+msgid "Error when deleting note '%1$s' => '%2$s'"
+msgstr "Chyba při mazání poznámky „%1$s“ => „%2$s“"
+
+#: inc/mantisws.class.php:394
+#, php-format
+msgid "Error when deleting attachment '%1$s' => '%2$s'"
+msgstr "Chyba při mazání přílohy „%1$s“ => „%2$s“"
+
+#: inc/mantisws.class.php:408
+#, php-format
+msgid "Error when getting MantisBT states => '%1$s'"
+msgstr "Chyba při získávání stavů z MantisBT => „%1$s“"
+
+#: inc/mantisws.class.php:417
+#, php-format
+msgid "Error when updating MantisBT => '%1$s'"
+msgstr "Chyba při aktualizaci MantisBT => „%1$s“"
+
+#: inc/mantis.class.php:39 inc/userpref.class.php:64 inc/userpref.class.php:70
+msgid "MantisBT"
+msgstr "MantisBT"
+
+#: inc/mantis.class.php:183 setup.php:91
+msgid "MantisBT synchronization"
+msgstr "Synchronizace s MantisBT"
+
+#: inc/mantis.class.php:195
+msgid "Starting update attachments."
+msgstr "Zahajuje se aktualizace příloh."
+
+#: inc/mantis.class.php:214
+#, php-format
+msgid "GLPi object [%1$s:%2$s] is solved or closed."
+msgstr "GLPi objekt [%1$s:%2$s] je vyřešen nebo uzavřen."
+
+#: inc/mantis.class.php:241
+#, php-format
+msgid "Can't load GLPi file [%1$s]."
+msgstr "Nedaří se načíst GLPi soubor [%1$s]."
+
+#: inc/mantis.class.php:254
+#, php-format
+msgid "Can't send GLPi file [%1$s] to MantisBD."
+msgstr "Nedaří se poslat GLPi soubor [%1$s] do MantisBT."
+
+#: inc/mantis.class.php:262
+#, php-format
+msgid "GLPi file [%1$s] doesn't exists."
+msgstr "GLPi soubor [%1$s] neexistuje."
+
+#: inc/mantis.class.php:269
+#, php-format
+msgid "GLPi file [%1$s] already exists in MantisBT issue."
+msgstr "GLPi soubor [%1$s] už v MantisBT hlášení existuje."
+
+#: inc/mantis.class.php:309
+#, php-format
+msgid "GLPi object [%1$s:%2$s] is already solved or closed."
+msgstr "GLPi objekt [%1$s:%2$s] už je vyřešený nebo uzavřený."
+
+#: inc/mantis.class.php:341
+msgid "Plugin configuration is not correct (MantisBT status is missing)"
+msgstr "Nastavení zásuvného modulu není správné (chybí stav v MantisBT)"
+
+#: inc/mantis.class.php:516
+msgid "Plugin configuration is not correct (connection error)."
+msgstr "Nastavení zásuvného modulu není správné (chyba spojení)."
+
+#: inc/mantis.class.php:550 inc/mantis.class.php:569
+msgid "Link to an existing MantisBT issue"
+msgstr "Propojit s existujícím hlášením v MantisBT"
+
+#: inc/mantis.class.php:558 inc/mantis.class.php:574 inc/mantis.class.php:771
+msgid "Create a new MantisBT issue"
+msgstr "Vytvořit nové hlášení v MantisBT"
+
+#: inc/mantis.class.php:564
+msgid "MantisBT actions"
+msgstr "Akce s MantisBT"
+
+#: inc/mantis.class.php:602
+msgid "What do you want to do ?"
+msgstr "Co chcete udělat?"
+
+#: inc/mantis.class.php:606
+msgid "Only delete link between GLPi object AND MantisBT issue."
+msgstr "Pouze smazat propojení mezi GLPi objektem a hlášením v MantisBT."
+
+#: inc/mantis.class.php:612
+msgid "Force delete MantisBT issue (and GLPi object link)."
+msgstr "Vynutit smazání hlášení v MantisBT (a propojení na GLPi objekt)."
+
+#: inc/mantis.class.php:655
+msgid "Link to an existing MantisBT issue."
+msgstr "Propojit s existujícím hlášením v MantisBT."
+
+#: inc/mantis.class.php:658
+msgid "Id of MantisBT issue"
+msgstr "Identifikátor hlášení v MantisBT"
+
+#: inc/mantis.class.php:661
+msgid "Click to load issue from MantisBT"
+msgstr "Kliknutím načtěte hlášení z MantisBT"
+
+#: inc/mantis.class.php:666 inc/mantis.class.php:791
+msgid "MantisBT field for GLPi fields"
+msgstr "Kolonky v MantisBT pro ty z GLPi"
+
+#: inc/mantis.class.php:673 inc/mantis.class.php:798 inc/config.class.php:184
+msgid "MantisBT field for the link URL to the GLPi object"
+msgstr "Kolonka v MantisBT pro URL odkazu na GLPi objekt"
+
+#: inc/mantis.class.php:681 inc/mantis.class.php:827
+msgid "Attachments"
+msgstr "Přílohy"
+
+#: inc/mantis.class.php:684 inc/mantis.class.php:830
+msgid "Forward attachments"
+msgstr "Přeposlat přílohy"
+
+#: inc/mantis.class.php:692 inc/userpref.class.php:130
+msgid "Forward ticket followup"
+msgstr "Přeposlat komunikaci navazující na požadavek"
+
+#: inc/mantis.class.php:700 inc/userpref.class.php:136
+msgid "Forward ticket tasks"
+msgstr "Přeposlat úkoly plynoucí z požadavku"
+
+#: inc/mantis.class.php:707 inc/mantis.class.php:853
+#: inc/userpref.class.php:142
+msgid "Forward title"
+msgstr "Přeposlat nadpis"
+
+#: inc/mantis.class.php:713 inc/mantis.class.php:859
+#: inc/userpref.class.php:148
+msgid "Forward description"
+msgstr "Přeposlat popis"
+
+#: inc/mantis.class.php:719 inc/mantis.class.php:865
+#: inc/userpref.class.php:154
+msgid "Forward category"
+msgstr "Přeposlat kategorii"
+
+#: inc/mantis.class.php:726 inc/mantis.class.php:872
+#: inc/userpref.class.php:160
+msgid "Forward linked tickets"
+msgstr "Přeposlat propojené požadavky"
+
+#: inc/mantis.class.php:774
+msgid "Exact MantisBT project name"
+msgstr "Přesný název projektu v MantisBT"
+
+#: inc/mantis.class.php:779
+msgid "Click to load project from MantisBT"
+msgstr "Kliknutím načtěte projekt z MantisBT"
+
+#: inc/mantis.class.php:822
+msgid "Steps to reproduce"
+msgstr "Kroky vedoucí k zopakování"
+
+#: inc/mantis.class.php:838
+msgid "Forward followups"
+msgstr "Přeposlat následnou komunikaci"
+
+#: inc/mantis.class.php:846
+msgid "Forward tasks"
+msgstr "Přeposlat úkoly"
+
+#: inc/mantis.class.php:877
+msgid "Link"
+msgstr "Odkaz"
+
+#: inc/mantis.class.php:918
+msgid "List of linked MantisBT issues"
+msgstr "Seznam odkazovaných hlášení v MantisBT"
+
+#: inc/mantis.class.php:965
+msgid "Error when loading MantisBT issue"
+msgstr "Chyba při načítání hlášení z MantisBT"
+
+#: inc/mantis.class.php:996
+msgid "This GLPi object is not linked to MantisBT"
+msgstr "Tento GLPi objekt není propojen s MantisBT"
+
+#: inc/mantis.class.php:1002
+msgid "Escalation to MantisBT is neutralized by GLPi status"
+msgstr "Eskalace do MantisBT je neutralizována stavem v GLPi"
+
+#: inc/issue.class.php:113 inc/issue.class.php:419
+msgid "Error creating the note, the process was interrupted"
+msgstr "Chyba při vytváření poznámky, proces byl přerušen"
+
+#: inc/issue.class.php:208
+msgid "Error when updating MantisBT issue"
+msgstr "Chyba při aktualizaci hlášení v MantisBT"
+
+#: inc/issue.class.php:370 inc/issue.class.php:386
+msgid "Error: The process was interrupted"
+msgstr "Chyba: proces byl přerušen"
+
+#. TRANS: %1$s is the MantisBT project name
+#: inc/issue.class.php:502 inc/issue.class.php:503
+#, php-format
+msgid "Project '%1$s' does not exist."
+msgstr "Projekt „%1$s“ neexistuje."
+
+#: inc/issue.class.php:538 inc/issue.class.php:542
+#, php-format
+msgid ""
+"Can't load the attachment [%1$s] to MantisBT, the process was interrupted."
+msgstr "Přílohu [%1$s] se nedaří načíst do MantisBT, proces byl přerušen."
+
+#: inc/issue.class.php:552 inc/issue.class.php:556
+#, php-format
+msgid ""
+"Can't send the attachment [%1$s] to MantisBT, the process was interrupted."
+msgstr "Přílohu [%1$s] se nedaří poslat do MantisBT, proces byl přerušen."
+
+#: inc/issue.class.php:563 inc/issue.class.php:567
+#, php-format
+msgid "Attachment [%1$s] doesn't exists, the process was interrupted."
+msgstr "Příloha [%1$s] neexistuje, proces byl přerušen."
+
+#: inc/issue.class.php:583 inc/issue.class.php:622 inc/issue.class.php:663
+#: inc/issue.class.php:703 inc/issue.class.php:744 inc/issue.class.php:783
+#, php-format
+msgid "Title = %1$s <br/>"
+msgstr "Nadpis = %1$s <br/>"
+
+#: inc/issue.class.php:587 inc/issue.class.php:626 inc/issue.class.php:667
+#: inc/issue.class.php:707 inc/issue.class.php:748 inc/issue.class.php:787
+#, php-format
+msgid "Description = %1$s <br/>"
+msgstr "Popis = %1$s <br/>"
+
+#: inc/issue.class.php:600 inc/issue.class.php:639 inc/issue.class.php:680
+#: inc/issue.class.php:720 inc/issue.class.php:761 inc/issue.class.php:800
+#, php-format
+msgid "Category = %1$s <br/>"
+msgstr "Kategorie = %1$s <br/>"
+
+#: inc/issue.class.php:606 inc/issue.class.php:645 inc/issue.class.php:686
+#: inc/issue.class.php:726 inc/issue.class.php:767 inc/issue.class.php:806
+#, php-format
+msgid "Link to GLPi object = %1$s <br/>"
+msgstr "Propojení s GLPi objektem = %1$s <br/>"
+
+#: inc/issue.class.php:876
+#, php-format
+msgid ""
+"Followups = %1$s -> date : %2$s, request type : %3$s, user : %4$s, content :"
+" %5$s<br/>"
+msgstr ""
+"Následná komunikace = %1$s -> datum: %2$s, typ požadavku: %3$s, uživatel: "
+"%4$s, obsah: %5$s<br/>"
+
+#: inc/issue.class.php:884
+msgid "No follow-up"
+msgstr "Žádná doplňující komunikace"
+
+#: inc/issue.class.php:919
+#, php-format
+msgid "Task = %1$s -> date : %2$s, description : %3$s, time : %4$s<br/>"
+msgstr "Úkol = %1$s -> datum: %2$s, popis: %3$s, čas: %4$s<br/>"
+
+#: inc/issue.class.php:926
+msgid "No task"
+msgstr "Žádný úkol"
+
+#: inc/config.class.php:41
+msgid "Setup - MantisBT"
+msgstr "Nastavení – MantisBT"
+
+#: inc/config.class.php:77
+msgid "MantisBT server base URL"
+msgstr "Základ URL adresy MantisBT serveru"
+
+#: inc/config.class.php:85
+msgid "Check SSL"
+msgstr "Kontrolovat SSL"
+
+#: inc/config.class.php:94
+msgid "Use GLPi proxy configuration"
+msgstr "Použít nastavení proxy z GLPi"
+
+#: inc/config.class.php:103
+msgid "Wsdl file path"
+msgstr "Popis umístění wsdl souboru"
+
+#: inc/config.class.php:111
+msgid "MantisBT user login"
+msgstr "Uživatelské jméno pro MantisBT"
+
+#: inc/config.class.php:118
+msgid "MantisBT user password"
+msgstr "Heslo k účtu v MantisBT"
+
+#: inc/config.class.php:125
+msgid "Allow assignation"
+msgstr "Umožnit přiřazování"
+
+#: inc/config.class.php:133
+msgid ""
+"Neutralize the escalation to MantisBT when the status of the GLPi object is"
+msgstr "Neutralizovat eskalaci do MantisBT pokud stav GLPI objektu je"
+
+#: inc/config.class.php:144
+msgid "Status of GLPi object after escalation to MantisBT"
+msgstr "Stav GLPi objektu po eskalaci do MantisBT"
+
+#: inc/config.class.php:155
+msgid "Show option 'Delete the MantisBT issue' "
+msgstr "Zobrazovat volbu „Smazat hlášení v MantisBT“"
+
+#: inc/config.class.php:163
+msgid "Attachment type transfered to MantisBT"
+msgstr "Typ přílohy přenášené do MantisBT"
+
+#: inc/config.class.php:174
+msgid "MantisBT field for GLPI fields"
+msgstr "Kolonky v MantisBT pro kolonky z GLPi"
+
+#: inc/config.class.php:193
+msgid "Close GLPi ticket when MantisBT issue status is"
+msgstr "Uzavřít požadavek v GLPi když stav hlášení v MantisBT je"
+
+#: inc/config.class.php:202
+msgid "Solution type when MantisBT issue is resolved"
+msgstr "Typ řešení když je hlášení vyřešeno v MantisBT"
+
+#: inc/config.class.php:212
+msgid "GLPi user who solves ticket ?"
+msgstr "GLPi uživatel který řeší požadavek?"
+
+#: inc/config.class.php:224
+msgid "Test the connection"
+msgstr "Vyzkoušet spojení"
+
+#: inc/userpref.class.php:117
+msgid "Default checkbox status"
+msgstr "Výchozí stav zaškrtávací kolonky"
+
+#: inc/userpref.class.php:123
+msgid "Forward document(s)"
+msgstr "Přeposlat dokumenty"
+
+#: ajax/ajax.php:122
+msgid "Documents for related tickets"
+msgstr "Dokumenty pro související požadavky"
+
+#: ajax/ajax.php:167 ajax/ajax.php:209
+msgid "MantisBT issue does not exist"
+msgstr "Hlášení neexistuje v MantisBT"
+
+#: ajax/ajax.php:174 ajax/ajax.php:215
+msgid "This GLPi object is already linked to the selected MantisBT issue"
+msgstr "Tento GLPi objekt už je s označeným MantisBT hlášením propojen"
+
+#: ajax/ajax.php:178 ajax/ajax.php:220
+msgid "This MantisBT issue is closed"
+msgstr "Toto hlášení je v MantisBT uzavřené"
+
+#: ajax/ajax.php:300 ajax/ajax.php:318
+msgid "Error while deleting the link between GLPi object and MantisBT issue"
+msgstr "Chyba při mazání propojení mezi GLPi objektem a MantisBT hlášením"
+
+#: ajax/ajax.php:321
+msgid "Error while deleting the MantisBT issue"
+msgstr "Chyba při mazání hlášení v MantisBT"
+
+#: ajax/ajax.php:324
+msgid "The MantisBT issue doesn't exists"
+msgstr "Hlášení neexistuje v MantisBT"

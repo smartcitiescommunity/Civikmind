@@ -1,0 +1,93 @@
+/*
+ * @version $Id: changelog.txt 143 2013-07-02 08:36:34Z tsmr $
+ LICENSE
+
+ This file is part of the uninstall plugin.
+
+ Uninstall plugin is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+
+ Uninstall plugin is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with uninstall. If not, see <http://www.gnu.org/licenses/>.
+ --------------------------------------------------------------------------
+ @package   uninstall
+ @author    the uninstall plugin team
+ @copyright Copyright (c) 2010-2013 Uninstall plugin team
+ @license   GPLv2+
+            http://www.gnu.org/licenses/gpl.txt
+ @link      https://forge.indepnet.net/projects/uninstall
+ @link      http://www.glpi-project.org/
+ @since     2009
+ ---------------------------------------------------------------------- */
+Version 2.1.1
+ see https://forge.indepnet.net/projects/uninstall/issues?query_id=29
+
+Version 2.1.0
+ see https://forge.indepnet.net/projects/uninstall/issues?query_id=28
+
+Version 2.0.3
+#2782 Cannot change transfer model
+
+Version 2.0.2
+ #2758 Missing entities_id when uninstalling an asset
+ #2760 Do not try to transfer old asset when replaced by a new code
+
+Version 2.0.1
+ #2558 Clean history on uninstall
+ #2571 Add history on uninstallation models
+ #2601 Update Replace form - php-errors
+ #2605 Add history on models
+ #2606 Improve model search engine
+ #2607 When replacing an item by another one, add history in both items
+ #2608 Update function to delete computer in OCS database
+ #2609 Compatibility with GLPI 0.80
+
+Version 2.0.0
+  #1596 Handle standard replacement
+  #2186 Group configuration is not taken in account when uninstalling
+  #2244 IP address of the printer is not deleted
+Version 1.3.0
+   Compatible with GLPI 0.78
+Version 1.2.2
+   #1752 Profile form not displayed
+   #1788 Uninstall Peripherals
+   #1793 Default location
+   #1795 Item's deconnection issue
+   #1796 Uninstall phones
+
+Version 1.2.1
+   #1594 Add hook before and after uninstall
+   #1595 Enhance uninstall to work with plugins
+   #1631 Update issue
+   #1646 vlan not deleted
+   
+Version 1.2.0 - GLPI 0.72
+  	#208	proposed target location not in object entity
+	#204	Add an option to remove uninstall object from group
+	#191	Add option to disable computer's deletion in ocs_link table
+  
+  	https://dev.indepnet.net/plugins/query?milestone=Uninstall+1.2.0
+
+Version 1.1.1
+  	#180	Bug during the plugin's installation process
+
+	https://dev.indepnet.net/plugins/query?milestone=Uninstall+1.1.1
+ 
+Version 1.1.0
+  #163   Add an option to delete a computer in OCS when uninstalled in GLPI
+  #175   Change group when an object is uninstalled
+  #176   Remove a computer from OCS DB when it's uninstalled
+  #178   Use profile hook to manage the plugin's profiles
+
+Version 1.0.0
+  #122   Add templates  walid enhancement
+  #152   Uninstall other types than computer
+  #153   Rename uninstallComputer in uninstall
+  #155   Can create new transfer models even in mono-entity mode

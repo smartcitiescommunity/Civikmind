@@ -1,0 +1,19 @@
+{
+    "identifier": "screenshot",
+    "name": "Screenshot",
+    "version": "1.0.0",
+    "min_glpi": "9.5.0",
+    "max_glpi": "9.6.0",
+    "authors": [
+        "Curtis Conard"
+    ],
+    "license": "GPLv2",
+    "homepage": "https:\/\/github.com\/cconard96\/glpi-screenshot-plugin",
+    "language": "en_GB",
+    "description_short": "Take a screenshot directly from GLPI and attach it to a ticket, change or problem",
+    "description_long": "Take a screenshot directly from GLPI and attach it to a ticket, change or problem. Only works from the timeline for now.",
+    "use_unit_tests": "0",
+    "use_plugin_xml": "1",
+    "language_short": "en",
+    "copyright_header": "\/*\n -------------------------------------------------------------------------\n Screenshot\n Copyright (C) 2020 by Curtis Conard\n https:\/\/github.com\/cconard96\/glpi-screenshot-plugin\n -------------------------------------------------------------------------\n LICENSE\n This file is part of Screenshot.\n Screenshot is free software; you can redistribute it and\/or modify\n it under the terms of the GNU General Public License as published by\n the Free Software Foundation; either version 2 of the License, or\n (at your option) any later version.\n Screenshot is distributed in the hope that it will be useful,\n but WITHOUT ANY WARRANTY; without even the implied warranty of\n MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n GNU General Public License for more details.\n You should have received a copy of the GNU General Public License\n along with Screenshot. If not, see <http:\/\/www.gnu.org\/licenses\/>.\n --------------------------------------------------------------------------\n *\/"
+}

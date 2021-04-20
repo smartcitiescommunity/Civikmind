@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <name>MantisBT synchronization</name>
+   <key>mantis</key>
+   <state>stable</state>
+   <logo>https://raw.githubusercontent.com/pluginsGLPI/mantis/master/mantis.png</logo>
+   <description>
+      <short>
+         <cs><![CDATA[Tento zásuvný modul umožňuje synchronizovat požadavky, problémy a změny s nástrojem MantisBT.]]></cs>
+         <en><![CDATA[This plugin allows to synchronize tickets, problems and changes with the MantisBT tool.]]></en>
+         <fr><![CDATA[Ce plugin permet de synchroniser les tickets, problèmes et changements avec l'outil MantisBT.]]></fr>
+      </short>
+      <long>
+         <cs><![CDATA[Tento zásuvný modul umožňuje synchronizovat požadavky, problémy a změny s nástrojem MantisBT.
+             <br />Toto je seznam funkcí, které jsou v současnosti k dispozici:
+             <ul><li>Propojení prostřednictvím webových služeb MantisBT (MantisConnect);</li>
+             <li>Vytváření nových MantisBT požadavků z požadavku, problému nebo změny v GLPi;</li>
+             <li>Propojování existujících MantisBT požadavků z požadavku, problému nebo změny v GLPi;</li>
+             <li>Přenos informací z GLPi objektu do vytvořeného/propojeného MantisBT požadavku;</li>
+             <li>Přenos a automatická aktualizace příloh GLPi objektu do MantisBT vytvořeného/propojeného požadavku;</li>
+             <li>Automatická aktualizace GLPi objektu (přechod do stavu vyřešeno) když je vyřešen požadavek v MantisBT;</li>
+             <li>Správa oprávnění pro zásuvný modul;</li>
+             <li>Správa nastavení propojení.</li>
+         </ul>]]></cs>
+         <en><![CDATA[This plugin allows to synchronize tickets, problems and changes with the MantisBT tool.
+             <br />Here is a list of current features:
+             <ul><li>Connection via webservices of MantisBT (MantisConnect);</li>
+             <li>Creation of a new MantisBT issue from a ticket, problem or GLPi change;</li>
+             <li>Link an existing MantisBT issue from a ticket, problem or GLPi change;</li>
+             <li>Transmission of information from the GLPi object to the created / linked MantisBT issue;</li>
+             <li>Transfer and auto-update attachments of GLPi object to the MantisBT created / linked issue;</li>
+             <li>Automatic update of GLPi object (transition to the resolved state) when the MantisBT issue is resolved;</li>
+             <li>Management rights for the plugin;</li>
+             <li>Configuration management of interconnection.</li>
+         </ul>]]></en>
+         <fr><![CDATA[Ce plugin permet de synchroniser les tickets, problèmes et changements avec l'outil MantisBT.
+            <br />Voici une liste de ses fonctionnalités actuelles :
+            <ul><li>Connexion via les Webservices de MantisBT (MantisConnect);</li>
+            <li>Création d'une nouvelle issue MantisBT depuis un ticket, un problème ou un changement GLPi;</li>
+            <li>Liaison d'une issue MantisBT existante depuis un ticket, un problème ou un changement GLPi;</li>
+            <li>Transmission des informations de l'objet GLPi vers l'issue MantisBT créée/liéée;</li>
+            <li>Transfert et mise à jour des pièces jointes de l'objet GLPi vers l'issue MantisBT créée/liéée;</li>
+            <li>Tâche automatique de mise à jour de l'objet GLPi (passage à l'état résolu) lors que l'issue MantisBT est résolue;</li>
+            <li>Gestion des droits sur le plugin;</li>
+            <li>Gestion de la configuration de l'interconnexion.</li>
+         </ul>]]></fr>
+      </long>
+   </description>
+   <homepage>https://pluginsglpi.github.io/mantis/</homepage>
+   <download>https://github.com/pluginsGLPI/mantis/releases</download>
+   <issues>https://github.com/pluginsGLPI/mantis/issues</issues>
+   <readme>https://raw.githubusercontent.com/pluginsGLPI/mantis/master/README.md</readme>
+   <authors>
+      <author>TECLIB'</author>
+   </authors>
+   <versions>
+      <version>
+         <num>4.4.0</num>
+         <compatibility>~9.5.0</compatibility>
+         <download_url>https://github.com/pluginsGLPI/mantis/releases/download/4.4.0/glpi-mantis-4.4.0.tar.bz2</download_url>
+      </version>
+      <version>
+         <num>4.3.2</num>
+         <compatibility>9.4</compatibility>
+      </version>
+      <version>
+         <num>4.3.1</num>
+         <compatibility>9.4</compatibility>
+      </version>
+      <version>
+         <num>4.3.0</num>
+         <compatibility>9.4</compatibility>
+      </version>
+      <version>
+         <num>4.2.1</num>
+          <compatibility>9.3</compatibility>
+      </version>
+      <version>
+         <num>4.2.0</num>
+          <compatibility>9.3</compatibility>
+      </version>
+      <version>
+         <num>4.1.0</num>
+          <compatibility>9.2</compatibility>
+          <compatibility>9.3</compatibility>
+      </version>
+      <version>
+         <num>4.0.1</num>
+          <compatibility>9.2</compatibility>
+      </version>
+      <version>
+         <num>4.0.0</num>
+          <compatibility>9.2</compatibility>
+      </version>
+      <version>
+         <num>3.0.0</num>
+          <compatibility>0.85</compatibility>
+          <compatibility>0.90</compatibility>
+          <compatibility>9.1</compatibility>
+      </version>
+      <version>
+          <num>1.0</num>
+          <compatibility>0.84</compatibility>
+      </version>
+   </versions>
+   <langs>
+      <lang>cs_CZ</lang>
+      <lang>en_GB</lang>
+      <lang>fr_FR</lang>
+   </langs>
+   <license>GPLv3</license>
+   <category></category>
+   <tags>
+         <cs>
+            <tag>požadavek</tag>
+            <tag>problém</tag>
+            <tag>změna</tag>
+            <tag>synchronizace</tag>
+            <tag>mantisbt</tag>
+         </cs>
+         <en>
+            <tag>ticket</tag>
+            <tag>problem</tag>
+            <tag>change</tag>
+            <tag>synchronization</tag>
+            <tag>mantisbt</tag>
+         </en>
+         <fr>
+            <tag>ticket</tag>
+            <tag>problème</tag>
+            <tag>changement</tag>
+            <tag>synchronisation</tag>
+            <tag>mantisbt</tag>
+         </fr>
+   </tags>
+   <screenshots>
+      <screenshot>https://raw.githubusercontent.com/pluginsGLPI/mantis/master/screenshots/fr_mantis-configuration.png</screenshot>
+      <screenshot>https://raw.githubusercontent.com/pluginsGLPI/mantis/master/screenshots/fr_mantis-liste-des-issues-liees.png</screenshot>
+      <screenshot>https://raw.githubusercontent.com/pluginsGLPI/mantis/master/screenshots/fr_mantis-popup-creation-issue.png</screenshot>
+   </screenshots>
+</root>

@@ -1,0 +1,210 @@
+#fig {
+   border:1px solid #E0E0E0;
+   position:relative;
+   margin:10px auto;
+}
+.graph {
+   margin:2px;
+}
+.graph_title {
+   background-color: #EEE;
+   font-size:1.1em;
+   padding:7px 0 7px 0;
+   text-transform:uppercase;
+   text-shadow:0.1em 0.1em 0.1em rgba(4,4,4,.5);
+   border-top-left-radius: 8px;
+   border-top-right-radius: 8px;
+}
+
+.title_pics {
+   vertical-align:middle;
+   margin-right:5px;
+}
+
+.graph_desc {
+   border-top: 1px solid #B5B5B5;
+   background-color:#E5E5E5;
+   text-align:left;
+   padding:7px;
+}
+.graph_desc ul {
+   margin-top: 5px;
+   margin-bottom: 5px;
+}
+.graph_desc ul li {
+   list-style:disc;
+   margin-left : 25px;
+}
+.graph_navigation {
+   border-top: 1px solid #B5B5B5;
+   background-color:#E5E5E5;
+   padding:4px 0 1px;
+}
+
+.graph_bottom {
+   border-top: 1px solid #B5B5B5;
+   background-color:#E5E5E5;
+   padding:4px;
+   border-bottom-left-radius: 8px;
+   border-bottom-right-radius: 8px;
+}
+
+.r_sep {
+   background-color: #FFF;
+}
+
+#mreporting_functions {border-top-left-radius: 8px; border-top-right-radius: 8px;}
+#mreporting_functions td { width:50%;}
+#mreporting_functions td img {vertical-align:middle;}
+
+.debug_content {
+   background: white;
+}
+
+.chzn-container {
+   width: 200px !important;
+}
+
+.chzn-container .chzn-drop li:nth-child(even) {background: #EEE;}
+
+.mreportingwidget-panel {
+   text-align:center;
+   margin: auto;
+   width: auto;
+   height: auto;
+   min-height: 500px;
+   background: white;
+}
+
+.mreportingwidget {
+   height: 441px;
+   width:461px;
+   border-color: #DDD;
+   border-style: solid;
+   border-width: 1px;
+   display:inline-block;
+   vertical-align: top;
+   margin: 2px 0 0 0;
+}
+
+.mreportingwidget-header {
+   background-color: #EEE;
+   padding: 10px 0;
+}
+
+.mreportingwidget-body {
+   bottom: 0px;
+   top: 0px;
+   left: 0px;
+   overflow-y: auto;
+   width: 461px;
+   height: 408px;
+}
+
+.m_left {
+   float: left;
+}
+
+.m_right {
+   float: right;
+}
+
+.m_clear {
+   clear: both;
+}
+
+#dashboard button {
+   width: 20px;
+   height: 20px;
+}
+.mreportingwidget-header  button {
+   margin-top: -5px;
+}
+
+#mreporting_central_dashboard iframe {
+   width: 100%;
+   border-width: 0 1px 1px 1px;
+   border-style: solid;
+   border-color: #e1d39e;
+   padding: 5px;
+   margin: 0;
+   overflow: hidden;
+}
+
+select[name=report],
+select[name=report] option,
+select[name=graphmenu],
+select[name=graphmenu] option {
+   font-family: FontAwesome, 'Bitstream Vera Sans', Verdana, Tahoma, 'Sans serif' !important;
+}
+
+.select2-container[id*=s2id_dropdown_glpilist_limit] {
+   width: 80px !important;
+}
+
+.m_dashboard_controls {
+   position: absolute;
+   right: 20px;
+   color: #999;
+   z-index: 100;
+}
+
+.add_report {
+   border: 3px solid #999;
+   float: right;
+   border-radius: 6px;
+   cursor: pointer;
+   height: 30px;
+   width: 30px;
+   background: #eeeeee; /* Old browsers */
+   background: -moz-linear-gradient(top,  #eeeeee 0%, #cccccc 100%); /* FF3.6+ */
+   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#cccccc)); /* Chrome,Safari4+ */
+   background: -webkit-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Chrome10+,Safari5.1+ */
+   background: -o-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Opera 11.10+ */
+   background: -ms-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* IE10+ */
+   background: linear-gradient(to bottom,  #eeeeee 0%,#cccccc 100%); /* W3C */
+   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+}
+
+.add_report:hover {
+   background: #999;
+}
+
+.add_report_helptext {
+   line-height: 30px;
+   margin-right: 5px;
+   display: none;
+}
+
+.m_dashboard_controls:hover .add_report_helptext {
+   display: inline-block;
+}
+
+.add_report i.fa {
+   text-align: center;
+   font-size: 2em;
+   padding-top: 4px;
+   width: 100%;
+}
+
+.add_report:hover i.fa {
+   color: white;
+}
+
+.empty_dashboard {
+   position: absolute;
+   right: 40px;
+   background: url(pics/howto_arrow.png) no-repeat right top;
+   z-index: 50;
+}
+
+.empty_dashboard_text {
+   width: 300px;
+   text-align: center;
+   margin-top: 120px;
+   margin-right: 150px;
+   color: #999;
+   font-size: 1.4em;
+   text-transform: uppercase;
+   font-weight: bold;
+}

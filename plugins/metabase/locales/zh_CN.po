@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# liAnGjiA <liangjia@qq.com>, 2018
+# 李赋 <fu792659@163.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-03 19:24+0000\n"
+"PO-Revision-Date: 2018-08-17 13:43+0000\n"
+"Last-Translator: 李赋 <fu792659@163.com>, 2018\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/teclib/teams/28042/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: front/collections.php:5
+msgid "Metabase collections"
+msgstr ""
+
+#: front/collections.php:15
+msgid "Reports and dashboards specifications"
+msgstr ""
+
+#: front/collections.php:31
+msgid "Extract questions from metabase:"
+msgstr "从metabase中提取问题："
+
+#: front/collections.php:59
+msgid "Extract dashboards from metabase:"
+msgstr "从Metabase中提取仪表板："
+
+#: front/collections.php:71
+msgid "Unable to access Metabase data. Please check plugin configuration."
+msgstr ""
+
+#: front/profileright.form.php:13 front/profileright.form.php:40
+msgid "Invalid request."
+msgstr "无效请求。 "
+
+#: inc/apiclient.class.php:30
+msgid "API: login"
+msgstr "API：登录"
+
+#: inc/apiclient.class.php:32
+msgid "API: get current user"
+msgstr "API：获取当前用户"
+
+#: inc/apiclient.class.php:34
+msgid "API: get users"
+msgstr "API：获取用户"
+
+#: inc/apiclient.class.php:36
+msgid "API: get databases"
+msgstr "API：获取数据库"
+
+#: inc/apiclient.class.php:38
+msgid "API: get GLPI database"
+msgstr "API：获取GLPI数据库"
+
+#: inc/apiclient.class.php:149
+msgid "No auto-generated GLPI database found"
+msgstr "未找到自动生成的GLPI数据库"
+
+#: inc/apiclient.class.php:628
+#, php-format
+msgid "Enabling embedded display fails for dashboard %s."
+msgstr "仪表板启用嵌入式显示失败%s"
+
+#: inc/apiclient.class.php:802
+msgid ""
+"Query to metabase failed because operation timed out. Maybe you should "
+"increase the timeout value in plugin configuration"
+msgstr "对metabase的查询失败，因为操作超时。也许你应该增加插件配置中的超时值"
+
+#: inc/profileright.class.php:20 inc/config.class.php:10
+msgid "Metabase"
+msgstr ""
+
+#: inc/profileright.class.php:79
+msgid "Rights management"
+msgstr "权限管理"
+
+#: inc/profileright.class.php:86
+msgid "Allow access to all"
+msgstr "允许全部访问"
+
+#: inc/profileright.class.php:88
+msgid "Disallow access to all"
+msgstr "禁止全部访问"
+
+#: inc/config.class.php:59
+msgid "Metabase host"
+msgstr "Metabase 主机"
+
+#: inc/config.class.php:67
+msgid "Metabase port"
+msgstr "Metabase 端口"
+
+#: inc/config.class.php:76
+msgid "username (metabase admin)"
+msgstr "用户名 (metabase admin)"
+
+#: inc/config.class.php:106
+msgid "Metabase embedded token (to display dashboard in GLPI)"
+msgstr "Metabase嵌入式令牌（在GLPI中显示仪表板）"
+
+#: inc/config.class.php:116
+msgid "Metabase url"
+msgstr "Metabase网址"
+
+#: inc/config.class.php:117
+msgid ""
+"You may want to have a different dashboard url (with https for example) than"
+" the host (used to push the data) "
+msgstr "您可能希望拥有与主机（用于推送数据）不同的仪表板URL（例如，使用https）"
+
+#: inc/config.class.php:127
+msgid "Timeout for sending data (in seconds)"
+msgstr "数据发送超时 (in seconds)"
+
+#: inc/config.class.php:148
+msgid "API status"
+msgstr "API 状态"
+
+#: inc/config.class.php:167
+msgid "Last Error"
+msgstr "上次错误"
+
+#: inc/config.class.php:182
+msgid "Action(s)"
+msgstr ""
+
+#: inc/config.class.php:191
+msgid "Previously stored database is not existing anymore."
+msgstr "以前存储的数据库不存在。"
+
+#: inc/config.class.php:193
+msgid "Create GLPI database in local Metabase"
+msgstr "在本地Metabase创建GLPI数据库"
+
+#: inc/config.class.php:199
+msgid "OR set an existing database: "
+msgstr "或者设置现有数据库："
+
+#: inc/config.class.php:203
+msgid "Set database"
+msgstr "设置数据库"
+
+#: inc/config.class.php:211
+msgid "Push reports and dashboards in Metabase"
+msgstr "在Metabase中推送报告和仪表盘"
+
+#: inc/config.class.php:216
+msgid "(Re)generate datamodel in Metabase"
+msgstr "（重新）在Metabase中生成数据模型"
+
+#: inc/config.class.php:221
+msgid "Show reports and dashboards specifications"
+msgstr ""
+
+#: inc/dashboard.class.php:15
+msgid "Metabase dashboard"
+msgstr "Metabase仪表盘"

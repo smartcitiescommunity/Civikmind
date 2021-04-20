@@ -1,0 +1,8 @@
+.DS_Store
+vendor
+tests/out
+
+.vscode/settings.json
+
+*.phar
+*.log

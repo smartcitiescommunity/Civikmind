@@ -1,0 +1,259 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Tasklists Development Team
+# This file is distributed under the same license as the GLPI - Tasklists plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Ryszard Jeziorski <ryszard.jeziorski@gmail.com>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI - Tasklists plugin 1.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-20 15:07+0200\n"
+"PO-Revision-Date: 2017-10-18 16:45+0000\n"
+"Last-Translator: Ryszard Jeziorski <ryszard.jeziorski@gmail.com>, 2019\n"
+"Language-Team: Polish (Poland) (https://www.transifex.com/infotelGLPI/teams/79675/pl_PL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: setup.php:89 inc/dashboard.class.php:58 inc/dashboard.class.php:178
+#: inc/dashboard.class.php:183 inc/menu.class.php:44
+#: inc/preference.class.php:46 inc/profile.class.php:52
+msgid "Tasks list"
+msgstr "Lista zadań"
+
+#: ajax/addOptions.php:31
+msgid "Not archived"
+msgstr ""
+
+#: ajax/addOptions.php:32 inc/task.class.php:181 inc/task.class.php:599
+msgid "Archived"
+msgstr "Zarchiwizowane"
+
+#: inc/dashboard.class.php:93 inc/task.class.php:80 inc/task.class.php:418
+#: inc/taskstate.class.php:100 inc/taskstate.class.php:152
+#: inc/tasktype.class.php:48
+msgid "Context"
+msgid_plural "Contexts"
+msgstr[0] "Kontekst"
+msgstr[1] "Konteksty"
+msgstr[2] "Kontekstów"
+msgstr[3] "Kontekst"
+
+#: inc/dashboard.class.php:93 inc/notificationtargettask.class.php:203
+#: inc/notificationtargettask.class.php:247 inc/task.class.php:118
+#: inc/task.class.php:496 inc/tasktype.class.php:256
+msgid "Due date"
+msgstr "Data zakończenia"
+
+#: inc/dashboard.class.php:164 inc/dashboard.class.php:172
+#: inc/kanban.class.php:257 inc/ticket.class.php:154
+msgid "Add task"
+msgstr "Dodaj zadanie"
+
+#: inc/kanban.class.php:61
+msgid "Kanban"
+msgstr "Kanban"
+
+#: inc/kanban.class.php:121
+msgid "You don't have the right to see any context"
+msgstr ""
+
+#: inc/kanban.class.php:188
+msgid "There is no accessible context"
+msgstr ""
+
+#: inc/kanban.class.php:247
+msgid "Toggle collapse"
+msgstr ""
+
+#: inc/kanban.class.php:248
+msgid "Search"
+msgstr ""
+
+#: inc/kanban.class.php:249
+msgid "Search or filter results"
+msgstr ""
+
+#: inc/kanban.class.php:250
+msgid "Add status"
+msgstr ""
+
+#: inc/kanban.class.php:251
+msgid "Create status"
+msgstr ""
+
+#: inc/kanban.class.php:253
+msgid "Add a column from existing status"
+msgstr ""
+
+#: inc/kanban.class.php:254
+msgid "Or add a new status"
+msgstr ""
+
+#: inc/kanban.class.php:259
+msgid "Archive all tasks of this state"
+msgstr ""
+
+#: inc/kanban.class.php:260
+msgid "See archived tasks"
+msgstr "Zadania zarchiwizowane"
+
+#: inc/kanban.class.php:261
+msgid "Hide archived tasks"
+msgstr "Ukryj zarchiwizowane zadania"
+
+#: inc/kanban.class.php:262
+msgid "Clone task"
+msgstr "Sklonuj zadanie"
+
+#: inc/kanban.class.php:263
+msgid "See tasks in progress"
+msgstr "Zadania wykonywane"
+
+#: inc/kanban.class.php:264
+msgid "See tasks of"
+msgstr "Zadania użytkownika"
+
+#: inc/kanban.class.php:265
+msgid "See all tasks"
+msgstr "Wszystkie zadania"
+
+#: inc/kanban.class.php:266
+msgid "Are you sure you want to archive this task ?"
+msgstr ""
+
+#: inc/kanban.class.php:267
+msgid "Are you sure you want to archive all tasks ?"
+msgstr ""
+
+#: inc/kanban.class.php:268
+msgid "Archive this task"
+msgstr ""
+
+#: inc/kanban.class.php:269
+msgid "Update priority of task"
+msgstr ""
+
+#: inc/kanban.class.php:270
+msgid "Details of task"
+msgstr "Szczegóły zdania"
+
+#: inc/notificationtargettask.class.php:50
+msgid "A task has been added"
+msgstr "Dodano zadanie"
+
+#: inc/notificationtargettask.class.php:51
+msgid "A task has been updated"
+msgstr "Zaktualizowano zadanie"
+
+#: inc/notificationtargettask.class.php:52
+msgid "A task has been removed"
+msgstr "Usunięto zadanie"
+
+#: inc/notificationtargettask.class.php:207
+#: inc/notificationtargettask.class.php:251 inc/task.class.php:189
+#: inc/task.class.php:486
+msgid "Other client"
+msgstr "Inny klient"
+
+#: inc/notificationtargettask.class.php:259
+msgid "At creation, update, removal of a task"
+msgstr ""
+
+#: inc/preference.class.php:80
+msgid "Context by default"
+msgstr ""
+
+#: inc/preference.class.php:88
+msgid "Automatic refreshing of tasklist"
+msgstr ""
+
+#: inc/preference.class.php:94
+msgid "Refresh every "
+msgstr ""
+
+#: inc/preference.class.php:98
+msgid "minute(s)"
+msgstr ""
+
+#: inc/profile.class.php:153 inc/profile.class.php:196
+msgid "See and update all tasks"
+msgstr ""
+
+#: inc/profile.class.php:162 inc/profile.class.php:199
+msgid "Configure contexts and statuses"
+msgstr ""
+
+#: inc/stateorder.class.php:96
+msgid "States ordering"
+msgstr ""
+
+#: inc/stateorder.class.php:156
+msgid "Add states from linked Kanban"
+msgstr ""
+
+#: inc/task.class.php:333
+msgid "You cannot archive a task with this state"
+msgstr ""
+
+#: inc/task.class.php:457
+msgid "Existing client"
+msgstr ""
+
+#: inc/task.class.php:622 inc/task.class.php:709 inc/task.class.php:985
+#: inc/tasktype.class.php:161
+msgid "Backlog"
+msgstr "Zaległości"
+
+#: inc/task.class.php:1045
+msgctxt "visibility"
+msgid "This user"
+msgstr "Użytkownik"
+
+#: inc/task.class.php:1048
+msgctxt "visibility"
+msgid "This user and this group"
+msgstr "Użytkownik i grupa"
+
+#: inc/task.class.php:1051
+msgctxt "visibility"
+msgid "All"
+msgstr "Wszystko"
+
+#: inc/task.class.php:1093
+msgid "Affect entity for create task"
+msgstr ""
+
+#: inc/ticket.class.php:74 inc/ticket.class.php:183
+msgid "Linked task"
+msgid_plural "Linked tasks"
+msgstr[0] "Powiązane zadanie"
+msgstr[1] "Powiązane zadania"
+msgstr[2] "Powiązanych zadań"
+msgstr[3] "Powiązane zadania"
+
+#: inc/ticket.class.php:227
+msgid "No task linked to this ticket yet"
+msgstr "Brak powiązanych zadań do tego zgłoszenia"
+
+#: inc/ticket.class.php:258
+msgid "Link a existant ticket"
+msgstr "Powiąż ze zgłoszeniem"
+
+#: inc/ticket.class.php:284
+msgid "Linked tickets"
+msgstr "Powiązane zgłoszenia"
+
+#: inc/typevisibility.class.php:138
+msgid "Add a group"
+msgstr "Dodaj grupę"
+
+#: inc/typevisibility.class.php:179
+msgid "Groups allowed to use context"
+msgstr "Grupy dopuszczone do użycia w tym kontekście"

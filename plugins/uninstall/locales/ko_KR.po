@@ -1,0 +1,304 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# SeongHyeon Cho <jaymz9634@gmail.com>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-05 11:40+0000\n"
+"PO-Revision-Date: 2017-01-03 22:10+0000\n"
+"Last-Translator: SeongHyeon Cho <jaymz9634@gmail.com>, 2020\n"
+"Language-Team: Korean (Korea) (https://www.transifex.com/teclib/teams/28042/ko_KR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: hook.php:42 inc/uninstall.class.php:110
+msgid "Uninstall"
+msgstr "제거"
+
+#: front/action.php:55 inc/replace.class.php:476
+msgid "Replacement successful"
+msgstr "대체함"
+
+#: front/action.php:96 inc/uninstall.class.php:325
+msgid "Uninstallation successful"
+msgstr "제거함"
+
+#: inc/model.class.php:66 inc/uninstall.class.php:38 inc/config.class.php:39
+msgid "Item's Lifecycle"
+msgstr "품목 주기"
+
+#: inc/model.class.php:107 inc/model.class.php:988 inc/model.class.php:1030
+msgid "Uninstallation"
+msgstr "제거"
+
+#: inc/model.class.php:109 inc/model.class.php:990 inc/model.class.php:1032
+#: inc/replace.class.php:61 inc/replace.class.php:108
+msgid "Replacement"
+msgstr "교체"
+
+#: inc/model.class.php:119
+msgid "PDF Archiving"
+msgstr "PDF 보관"
+
+#: inc/model.class.php:121
+msgid "CSV Archiving"
+msgstr "CSV 보관"
+
+#: inc/model.class.php:124
+msgid "Purge"
+msgstr "제거"
+
+#: inc/model.class.php:125
+msgid "Delete + Comment"
+msgstr "삭제 + 댓글"
+
+#: inc/model.class.php:126
+msgid "Keep + Comment"
+msgstr "유지 + 댓글"
+
+#: inc/model.class.php:167
+msgid "Replacing data"
+msgstr "데이터 교체"
+
+#: inc/model.class.php:211 inc/model.class.php:831
+msgid "Type of template"
+msgstr "견본 유형"
+
+#: inc/model.class.php:220 inc/model.class.php:795
+msgid "Transfer's model to use"
+msgstr "사용할 전송 모델"
+
+#: inc/model.class.php:240 inc/replace.class.php:603
+msgid "New status of the computer"
+msgstr "컴퓨터의 새 상태"
+
+#: inc/model.class.php:252 inc/model.class.php:841
+msgid "Action on group"
+msgstr "그룹에서의 동작"
+
+#: inc/model.class.php:264
+msgid "New group"
+msgstr "새 그룹"
+
+#: inc/model.class.php:285
+msgid "Add template"
+msgstr "견본 추가"
+
+#: inc/model.class.php:288
+msgid "Manage templates"
+msgstr "견본 관리"
+
+#: inc/model.class.php:299
+msgid "Erase datas"
+msgstr "데이터 소거"
+
+#: inc/model.class.php:302 inc/model.class.php:703
+msgid "Delete software history (computers)"
+msgstr "소프트웨어 이력 삭제 (컴퓨터)"
+
+#: inc/model.class.php:307 inc/model.class.php:861
+msgid "Delete the whole history"
+msgstr "전체 이력 삭제"
+
+#: inc/model.class.php:389 inc/model.class.php:439
+msgid "Informations replacement"
+msgstr "교체 정보"
+
+#: inc/model.class.php:390 inc/replace.class.php:549
+msgid "General informations"
+msgstr "일반 정보"
+
+#: inc/model.class.php:412 inc/replace.class.php:564
+msgid "Overwrite informations (from old item to the new)"
+msgstr "정보 덮어쓰기 (이전 품목에서 새 품목으로)"
+
+#: inc/model.class.php:419 inc/model.class.php:851 inc/replace.class.php:567
+msgid "Archiving method of the old material"
+msgstr "이전 자료의 보관 방법"
+
+#: inc/model.class.php:429
+msgid "Plugin PDF is installed and activated"
+msgstr "플러그인 PDF가 설치되어 활성화 되었습니다"
+
+#: inc/model.class.php:432
+msgid ""
+"Plugin PDF is not installed, you won't be able to use PDF format for "
+"archiving"
+msgstr "플러그인 PDF가 설치되지 않았기에, 보관용 PDF 형식을 사용할 수 없습니다"
+
+#: inc/model.class.php:440 inc/replace.class.php:625
+msgid "Connections with other materials"
+msgstr "다른 자료와 연결"
+
+#: inc/model.class.php:514 inc/replace.class.php:660
+msgid "Direct connections"
+msgstr "직접 연결"
+
+#: inc/model.class.php:587
+msgid "OCSNG link"
+msgid_plural "OCSNG links"
+msgstr[0] "OCSNG 링크"
+
+#: inc/model.class.php:589
+msgid "These options only apply to computers coming from OCSNG"
+msgstr "이 옵션들은 OCSNG에서 가져온 컴퓨터들에만 적용됩니다"
+
+#: inc/model.class.php:593 inc/model.class.php:814
+msgid "Delete computer in OCSNG"
+msgstr "OCSNG에서 컴퓨터 삭제"
+
+#: inc/model.class.php:599 inc/model.class.php:822
+msgid "Delete link with computer in OCSNG"
+msgstr "OCSNG에서 컴퓨터와의 연결 삭제"
+
+#: inc/model.class.php:613
+msgid "Delete computer in FusionInventory"
+msgstr "FusionInventory에서 컴퓨터 삭제"
+
+#: inc/model.class.php:625
+msgid "Additionnal fields"
+msgstr "추가 항목"
+
+#: inc/model.class.php:629
+msgid "Delete Fields plugin informations"
+msgstr "항목 플러그인 정보 삭제"
+
+#: inc/model.class.php:995 inc/uninstall.class.php:763
+msgid "Keep in the current group"
+msgstr "현재 그룹 유지"
+
+#: inc/preference.class.php:54
+msgid "Item's location after uninstall"
+msgstr "제거 후 품목 위치"
+
+#: inc/preference.class.php:74 inc/replace.class.php:589 ajax/locations.php:43
+msgid "Keep previous location"
+msgstr "이전 위치 유지"
+
+#: inc/preference.class.php:75 inc/replace.class.php:593 ajax/locations.php:44
+msgid "Empty location"
+msgstr "빈 위치"
+
+#: inc/replace.class.php:40
+msgid "Item's replacement"
+msgstr "품목 대체"
+
+#: inc/replace.class.php:65
+msgid "Please wait, replacement is running..."
+msgstr "기다리세요, 교체 중입니다..."
+
+#: inc/replace.class.php:130
+msgid "This document is the archive of this replaced item"
+msgstr "이 문서는 이 교체된 품목의 보관입니다"
+
+#: inc/replace.class.php:135
+msgid "Archive of old material"
+msgstr "이전 자료의 보관"
+
+#: inc/replace.class.php:409
+msgid "See attached document"
+msgstr "첨부된 문서 보기"
+
+#: inc/replace.class.php:498
+msgid "This item is a replacement for item"
+msgstr "이 품목은 품목 교체용 입니다"
+
+#: inc/replace.class.php:500
+msgid "This item was replaced by"
+msgstr "이 품목은 다음에 의해 교체됨"
+
+#: inc/replace.class.php:548 inc/replace.class.php:624
+msgid "Reminder of the replacement model"
+msgstr "대체 모델의 알림"
+
+#: inc/replace.class.php:586
+msgid "New location of item"
+msgstr "품목의 새 위치"
+
+#: inc/replace.class.php:671
+msgid "Choices for item to replace"
+msgstr "대체할 품목 선택"
+
+#: inc/replace.class.php:674
+msgid "Old item"
+msgstr "예전 품목"
+
+#: inc/replace.class.php:684
+msgid "New item"
+msgstr "새 품목"
+
+#: inc/replace.class.php:719
+msgid "Replace"
+msgstr "대체"
+
+#: inc/uninstall.class.php:114
+msgid "Please wait, uninstallation is running..."
+msgstr "기다리세요, 제거 중입니다..."
+
+#: inc/uninstall.class.php:546
+msgid "Item is now uninstalled"
+msgstr "이제 품목이 제거 되었습니다"
+
+#: inc/uninstall.class.php:548
+#, php-format
+msgid "Item is now uninstalled with model %s"
+msgstr "이제 모델 %s의 품목이 제거 되었습니다"
+
+#: inc/uninstall.class.php:554
+msgid "Item replaced by a new one"
+msgstr "품목이 새것으로 교체됨"
+
+#: inc/uninstall.class.php:556
+#, php-format
+msgid "Item replaced by a new one with model %s"
+msgstr "품목이 모델 %s의 새것으로 교체됨"
+
+#: inc/uninstall.class.php:562
+msgid "Item replacing an old one"
+msgstr "예전 것을 대체하는 품목"
+
+#: inc/uninstall.class.php:567
+msgid "Removed from OCSNG with ID"
+msgstr "ID가 있는 OCSNG 에서 제거됨"
+
+#: inc/uninstall.class.php:664
+msgid "Apply model"
+msgstr "모델 적용"
+
+#: inc/uninstall.class.php:681
+msgid "Item's location after applying model"
+msgstr "모델 적용 후 품목 위치"
+
+#: inc/uninstall.class.php:764
+msgid "Affect to a new group"
+msgstr "새 그룹에 영향"
+
+#: inc/uninstall.class.php:816
+msgid "Lifecycle"
+msgstr "주기"
+
+#: inc/config.class.php:81
+msgid "Shortcuts"
+msgstr "바로가기"
+
+#: inc/config.class.php:87
+msgid "Location preferences"
+msgstr "위치 설정"
+
+#: inc/config.class.php:95
+msgid "Replace status dropdown by plugin actions"
+msgstr "플러그인 동작으로 상태 드롭다운 교체"
+
+#: setup.php:111
+msgid "Item's Lifecycle (uninstall)"
+msgstr "품목 주기 (제거)"

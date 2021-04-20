@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0 http://pear.php.net/dtd/tasks-1.0.xsd http://pear.php.net/dtd/package-2.0 http://pear.php.net/dtd/package-2.0.xsd">
+ <name>Image_Barcode</name>
+ <channel>pear.php.net</channel>
+ <summary>Barcode generation</summary>
+ <description>With Image_Barcode class you can create a barcode
+  representation of a given string.
+
+  This class uses GD function because of this the generated graphic can be any of
+  GD supported supported image types.</description>
+ <lead>
+  <name>Marcelo Subtil Marcal</name>
+  <user>msmarcal</user>
+  <email>msmarcal@php.net</email>
+  <active>yes</active>
+ </lead>
+ <date>2011-12-10</date>
+ <time>22:56:57</time>
+ <version>
+  <release>1.1.2</release>
+  <api>1.1.0</api>
+ </version>
+ <stability>
+  <release>stable</release>
+  <api>stable</api>
+ </stability>
+ <license uri="http://www.php.net/license">PHP License</license>
+ <notes>
+QA release
+End of life - users are encouraged to swap to Image_Barcode2
+Request #18369 Allow user to select barcode image size
+Request #18377 Adding EAN8 support (patch attached)
+Bug #18376 EAN13 code does not correctly calculate image width
+Bug #17353 GD Image font functions given string parameters where inte…
+ </notes>
+ <contents>
+  <dir baseinstalldir="/" name="/">
+   <file baseinstalldir="Image" md5sum="62714a47cbc3d35f483be34324197936" name="docs/ChangeLog" role="doc" />
+   <file baseinstalldir="Image" md5sum="9d09306ee5d354c7d7216e14e3b81c49" name="docs/Readme.txt" role="doc" />
+   <file baseinstalldir="Image" md5sum="d027dd2e78465162010a1cab265eb09b" name="docs/examples/barcode_img.php" role="doc" />
+   <file baseinstalldir="Image" md5sum="783855c825cbb516b3cf7aefa0b09d29" name="docs/examples/test-image-barcode.php" role="doc" />
+   <file baseinstalldir="/" md5sum="f9072629478dc833a8a36f52bb5a3bf2" name="Image/Barcode.php" role="php" />
+   <file baseinstalldir="/" md5sum="4e248f0d31b5bd1158d1f8823e0b8df1" name="Image/Barcode/Code39.php" role="php" />
+   <file baseinstalldir="/" md5sum="b4e987ba23af2b3528c013c88353bedc" name="Image/Barcode/code128.php" role="php" />
+   <file baseinstalldir="/" md5sum="565558d578a29c612990b24aefa72c01" name="Image/Barcode/ean8.php" role="php" />
+   <file baseinstalldir="/" md5sum="d9c146b8681a1a3266080bda49ceb0a4" name="Image/Barcode/ean13.php" role="php" />
+   <file baseinstalldir="/" md5sum="b888577270b35cb8dd069187254f6457" name="Image/Barcode/int25.php" role="php" />
+   <file baseinstalldir="/" md5sum="047cdd904a7466099853c399fc9e9042" name="Image/Barcode/postnet.php" role="php" />
+   <file baseinstalldir="/" md5sum="23f454e4085de1cd9907c1d1289cbf28" name="Image/Barcode/upca.php" role="php" />
+   <file baseinstalldir="/" md5sum="5743f5f483b9a09b299e334d0cb4490a" name="Image_Barcode-1.1.1.tgz" role="data" />
+   <file baseinstalldir="/" md5sum="24fc56ca72d6362637db65025008d49f" name="README" role="data" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>4.0.0</min>
+   </php>
+   <pearinstaller>
+    <min>1.4.0b1</min>
+   </pearinstaller>
+   <extension>
+    <name>gd</name>
+   </extension>
+  </required>
+  <optional>
+   <package>
+    <name>PHP_Compat</name>
+    <channel>pear.php.net</channel>
+   </package>
+  </optional>
+ </dependencies>
+ <phprelease />
+ <changelog>
+  <release>
+   <version>
+    <release>1.0.2</release>
+    <api>1.0.2</api>
+   </version>
+   <stability>
+    <release>stable</release>
+    <api>stable</api>
+   </stability>
+   <date>2005-05-24</date>
+   <license uri="http://www.php.net/license">PHP License</license>
+   <notes>
+- Added UPC-A barcode rendering (thanks to Jeffrey K. Brown)
+   </notes>
+  </release>
+  <release>
+   <version>
+    <release>1.0.3</release>
+    <api>1.0.3</api>
+   </version>
+   <stability>
+    <release>stable</release>
+    <api>stable</api>
+   </stability>
+   <date>2005-05-30</date>
+   <license uri="http://www.php.net/license">PHP License</license>
+   <notes>
+- Added Code128 barcode rendering (thanks to Jeffrey K. Brown)
+   </notes>
+  </release>
+  <release>
+   <version>
+    <release>1.0.4</release>
+    <api>1.0.4</api>
+   </version>
+   <stability>
+    <release>stable</release>
+    <api>stable</api>
+   </stability>
+   <date>2005-06-03</date>
+   <license uri="http://www.php.net/license">PHP License</license>
+   <notes>
+- Added PostNet barcode rendering (thanks to Josef &quot;Jeff&quot; Sipek)
+   </notes>
+  </release>
+  <release>
+   <version>
+    <release>1.1.0</release>
+    <api>1.1.0</api>
+   </version>
+   <stability>
+    <release>stable</release>
+    <api>stable</api>
+   </stability>
+   <date>2006-12-13</date>
+   <license uri="http://www.php.net/license">PHP License</license>
+   <notes>
+QA bugfix release:
+- Fixing #4597: PEAR_INSTALL_DIR constant might be empty
+- Fixing #4755: $barcodepath not found in Image/Barcode.php
+- Fixing #6637: error don&apos;t declare
+- Fixing #7693: Wrong include path
+- Fixing #7851: Needs flag to supress headers or an option to redirect output to a variable.
+- Fixing #8301: Not compatible with Safe Mode
+- Fixing #8813: image can&apos;t be saved to filesystem
+
+Image_Barcode::draw has an optional fourth parameter determining if
+the GD image resource should be returned or output to the browser.
+This breaks backwards compatibility for people using drivers directly
+which is always a big NO-NO. If your application breaks, it&apos;s your chance
+to use the class properly.
+   </notes>
+  </release>
+  <release>
+   <version>
+    <release>1.1.1</release>
+    <api>1.1.0</api>
+   </version>
+   <stability>
+    <release>stable</release>
+    <api>stable</api>
+   </stability>
+   <date>2010-10-25</date>
+   <license uri="http://www.php.net/license">PHP License</license>
+   <notes>
+QA release
+Bug #13794 	Some numbers produce malformed &quot;UPC A&quot; barcodes
+   </notes>
+  </release>
+  <release>
+   <version>
+    <release>1.1.2</release>
+    <api>1.1.0</api>
+   </version>
+   <stability>
+    <release>stable</release>
+    <api>stable</api>
+   </stability>
+   <date>2011-12-10</date>
+   <license uri="http://www.php.net/license">PHP License</license>
+   <notes>
+QA release
+End of life - users are encouraged to swap to Image_Barcode2
+Request #18369 Allow user to select barcode image size
+Request #18377 Adding EAN8 support (patch attached)
+Bug #18376 EAN13 code does not correctly calculate image width
+Bug #17353 GD Image font functions given string parameters where inte…
+   </notes>
+  </release>
+ </changelog>
+</package>

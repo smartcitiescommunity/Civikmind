@@ -1,0 +1,18 @@
+.uninstall_config h2 {
+   margin: 10px;
+}
+
+.uninstall_config ul.shortcuts li {
+   display: inline-block;
+   margin: 0 5px;
+}
+
+.uninstall_config .field {
+   text-align: left;
+   padding: 10px 20px;
+}
+
+.uninstall_config .field label {
+   font-weight: bold;
+   display: block;
+}

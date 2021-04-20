@@ -1,0 +1,122 @@
+<root>
+   <name>xivo</name>
+   <key>xivo</key>
+   <state>stable</state>
+   <logo>https://raw.githubusercontent.com/pluginsGLPI/xivo/master/xivo.png</logo>
+   <description>
+      <short>
+         <cs>Napojení GLPI na XIVO nebo WAZO</cs>
+         <en>Connector for GLPI with XIVO or WAZO</en>
+         <fr>Connecteur GLPI avec XIVO ou WAZO</fr>
+      </short>
+      <long>
+         <cs>Napojení GLPI na XIVO nebo WAZO
+
+Toto je seznam nyní dostupných/plánovaných funkcí:
+
+* [x] Inventorizace telefonů
+* [x] Inventarizace linek
+* [x] Přítomnost uživatelů
+* [x] Automatické otvírání požadavků nebo formulářů uživatele
+* [x] Zavolání kliknutím
+* [ ] Výpis hovorů
+* [ ] Adresář kontaktů
+
+Pokud byste stáli o přidání dalších, obraťte se na Teclib e-mailem (info@glpi-project.org) nebo telefonicky (+33 1 79 97 02 78).
+         </cs>
+         <en>Connector for GLPI with XIVO or WAZO
+
+Here is the list of currently working/planned features:
+
+* [x] Phones inventory
+* [x] Lines inventory
+* [x] Users presence
+* [x] Auto-open tickets or users form
+* [x] Click2call
+* [ ] Call logs
+* [ ] Directory
+
+Please contact Teclib' by mail (info@glpi-project.org) or phone (+33 1 79 97 02 78) if you want informations for developing futures one.
+         </en>
+         <fr>Connecteur GLPI avec XIVO
+
+Voici une list des fonctionnalités courantes / planifiées:
+
+* [x] Inventaire des téléphones
+* [x] Inventaire des lignes
+* [x] Présence des utilisateurs
+* [x] Auto ouverture des formulaires des tickets ou des utilisateurs
+* [x] Appel sur clic
+* [ ] Historique des appels
+* [ ] Annuaire
+
+Merci de contacter Teclib par mail (info@glpi-project.org) ou par téléphone (01 79 97 02 78) pour toutes informations sur les développements futurs.</fr>
+      </long>
+   </description>
+   <homepage>https://github.com/pluginsGLPI/xivo</homepage>
+   <download>https://github.com/pluginsGLPI/xivo/releases</download>
+   <issues>https://github.com/pluginsGLPI/xivo/issues</issues>
+   <readme>https://github.com/pluginsGLPI/xivo/blob/master/README.md</readme>
+   <authors>
+      <author>Teclib'</author>
+      <author>Alexandre Delaunay</author>
+   </authors>
+   <versions>
+      <version>
+         <num>1.0.0</num>
+         <compatibility>~9.5.0</compatibility>
+         <download_url>https://github.com/pluginsGLPI/xivo/releases/download/1.0.0/glpi-xivo-1.0.0.tar.bz2</download_url>
+      </version>
+      <version>
+         <num>0.3.5</num>
+         <compatibility>9.2</compatibility>
+         <compatibility>9.3</compatibility>
+         <download_url>https://github.com/pluginsGLPI/xivo/releases/download/0.3.5/glpi-xivo-0.3.5.tar.bz2</download_url>
+      </version>
+      <version>
+         <num>0.3.4</num>
+         <compatibility>9.2</compatibility>
+         <compatibility>9.3</compatibility>
+      </version>
+      <version>
+         <num>0.2.0</num>
+         <compatibility>9.2</compatibility>
+      </version>
+      <version>
+         <num>0.1.0</num>
+         <compatibility>9.1</compatibility>
+         <compatibility>0.90</compatibility>
+      </version>
+   </versions>
+   <langs>
+      <lang>cs_CZ</lang>
+      <lang>en_GB</lang>
+      <lang>es_AR</lang>
+      <lang>fr_FR</lang>
+   </langs>
+   <license>GPL V3+</license>
+   <tags>
+      <cs>
+         <tag>Inventura</tag>
+         <tag>Import</tag>
+         <tag>Telefony</tag>
+         <tag>Linky</tag>
+      </cs>
+      <en>
+         <tag>Inventory</tag>
+         <tag>Import</tag>
+         <tag>Phones</tag>
+         <tag>Lines</tag>
+      </en>
+      <fr>
+         <tag>Inventaire</tag>
+         <tag>Import</tag>
+         <tag>Téléphone</tag>
+         <tag>Lignes</tag>
+      </fr>
+   </tags>
+   <screenshots>
+      <screenshot>https://github.com/pluginsGLPI/xivo/blob/master/screenshots/inventory_lines.png?raw=true</screenshot>
+      <screenshot>https://github.com/pluginsGLPI/xivo/blob/master/screenshots/inventory_phones.png?raw=true</screenshot>
+   </screenshots>
+</root>

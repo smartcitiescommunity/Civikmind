@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Pavel Borecki <pavel.borecki@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - News\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-17 07:30+0000\n"
+"PO-Revision-Date: 2021-03-17 07:30+0000\n"
+"Last-Translator: Cédric Anne\n"
+"Language-Team: Czech (Czech Republic) (http://www.transifex.com/teclib/glpi-plugin-news/language/cs_CZ/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+#: front/alert.php:27 front/alert.form.php:86 front/hidden_alerts.php:27
+#: front/hidden_alerts.php:30 inc/alert.class.php:48 setup.php:66
+msgid "Alerts"
+msgstr "Upozornění"
+
+#: inc/alert.class.php:126 inc/alert.class.php:398
+msgid "Can close alert"
+msgstr "Může zavřít výstrahu"
+
+#: inc/alert.class.php:135 inc/alert.class.php:407
+msgid "Show on login page"
+msgstr "Zobrazit na přihlašovací stránce"
+
+#: inc/alert.class.php:144 inc/alert.class.php:413
+msgid "Show on helpdesk page"
+msgstr "Zobrazit na stránce služby podpory"
+
+#: inc/alert.class.php:305
+msgid "Please enter a name."
+msgstr "Zadejte název."
+
+#: inc/alert.class.php:309
+msgid "Please enter a message."
+msgstr "Zadejte zprávu."
+
+#: inc/alert.class.php:315
+msgid "The end date must be greater than the start date."
+msgstr "Je třeba, aby datum konce bylo později než začátku."
+
+#: inc/alert.class.php:390
+msgid "Type (to add an icon before alert title)"
+msgstr "Typ (pro přidání ikony před titulek upozornění)"
+
+#: inc/alert.class.php:421
+msgid "Show on central page"
+msgstr ""
+
+#: inc/alert.class.php:497
+msgid "You have hidden alerts valid for current date"
+msgstr "Máte skrytá upozornění platná pro aktuální datum"
+
+#: inc/alert.class.php:509
+msgid "General"
+msgstr "Obecné"
+
+#: inc/alert.class.php:510
+msgid "Information"
+msgstr "Informace"
+
+#: inc/alert.class.php:511
+msgid "Warning"
+msgstr "Varování"
+
+#: inc/alert.class.php:512
+msgid "Problem"
+msgstr "Problém"

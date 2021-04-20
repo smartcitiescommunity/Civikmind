@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Databases Development Team
+# This file is distributed under the same license as the GLPI - Databases plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Xavier CAILLAUD <thetsmr@gmail.com>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI - Databases plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-02 17:39+0100\n"
+"PO-Revision-Date: 2020-11-02 16:00+0000\n"
+"Last-Translator: Xavier CAILLAUD <thetsmr@gmail.com>, 2020\n"
+"Language-Team: Portuguese (Brazil) (https://www.transifex.com/infotelGLPI/teams/12357/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: hook.php:610
+msgid "Associate to the database"
+msgstr "Associar ao banco de dados"
+
+#: setup.php:99 inc/database.class.php:52 inc/menu.class.php:41
+#: inc/profile.class.php:175
+msgid "Database"
+msgid_plural "Databases"
+msgstr[0] "Banco de dados"
+msgstr[1] "Bancos de dados"
+
+#: inc/database.class.php:160 inc/database.class.php:381
+#: inc/database_item.class.php:540
+msgid "Editor"
+msgstr "Editor"
+
+#: inc/database.class.php:596
+msgid "Database associated"
+msgid_plural "Databases associated"
+msgstr[0] "Banco de dados associado"
+msgstr[1] "Bancos de dados associados"
+
+#: inc/database_item.class.php:511
+msgctxt "button"
+msgid "Associate a database"
+msgstr "Associar um banco de dados"
+
+#: inc/databasecategory.class.php:49
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] "Categoria"
+msgstr[1] "Categorias"
+
+#: inc/instance.class.php:52
+msgid "Instance"
+msgid_plural "Instances"
+msgstr[0] "Instância"
+msgstr[1] "Instâncias"
+
+#: inc/instance.class.php:177 inc/instance.class.php:266
+#: inc/script.class.php:172 inc/script.class.php:263
+msgid "Path"
+msgstr "Caminho"
+
+#: inc/script.class.php:52
+msgid "Script"
+msgid_plural "Scripts"
+msgstr[0] "Script"
+msgstr[1] "Scripts"
+
+#: inc/scripttype.class.php:49
+msgid "Type of script"
+msgid_plural "Types of script"
+msgstr[0] "Tipo de script"
+msgstr[1] "Tipos de script"
+
+#: inc/servertype.class.php:48
+msgid "Engine"
+msgid_plural "Engines"
+msgstr[0] "Mecanismo"
+msgstr[1] "Mecanismos"

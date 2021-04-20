@@ -1,0 +1,207 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2021 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-12 07:54+0000\n"
+"PO-Revision-Date: 2021-04-12 07:54+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: hook.php:426
+msgid "Group concerned by the escalation"
+msgstr "Group concerned by the escalation"
+
+#: hook.php:444
+msgid "Number of escalations"
+msgstr "Number of escalations"
+
+#: hook.php:458
+msgid "Number of escalations between two groups"
+msgstr "Number of escalations between two groups"
+
+#: hook.php:471 hook.php:489 inc/config.class.php:260
+msgid "Enable filtering on the groups assignment"
+msgstr "Enable filtering on the groups assignment"
+
+#: front/popup_histories.php:4
+msgid "full assignation history"
+msgstr "full assignation history"
+
+#: front/climb_group.php:6 ajax/assign_me.php:5
+msgid "missing parameters"
+msgstr "missing parameters"
+
+#: front/config.form.php:36 inc/user.class.php:168 inc/group_group.class.php:24
+#: setup.php:165
+msgid "Escalation"
+msgstr "Escalation"
+
+#: inc/notification.class.php:29
+msgid "Requester user of the ticket"
+msgstr "Requester user of the ticket"
+
+#: inc/notification.class.php:51
+msgid "Group escalated in the ticket"
+msgstr "Group escalated in the ticket"
+
+#: inc/notification.class.php:53
+msgid "Manager of the group escalated in the ticket"
+msgstr "Manager of the group escalated in the ticket"
+
+#: inc/notification.class.php:57
+msgid "Requester user of the task/reminder"
+msgstr "Requester user of the task/reminder"
+
+#: inc/notification.class.php:187
+msgid "Solve date modification"
+msgstr "Solve date modification"
+
+#: inc/user.class.php:129
+msgid "Bypass filtering on the groups assignment"
+msgstr "Bypass filtering on the groups assignment"
+
+#: inc/ticket.class.php:101
+msgid "Solution provided, back to the group"
+msgstr "Solution provided, back to the group"
+
+#: inc/ticket.class.php:163
+msgid "Solution rejected, return to the group"
+msgstr "Solution rejected, return to the group"
+
+#: inc/ticket.class.php:271
+msgid "escalated to the group"
+msgstr "escalated to the group"
+
+#: inc/ticket.class.php:638
+msgid "Error : get old ticket"
+msgstr "Error : get old ticket"
+
+#: inc/ticket.class.php:654
+msgid "Error : adding new ticket"
+msgstr "Error : adding new ticket"
+
+#: inc/ticket.class.php:666
+msgid "Error : adding link between the two tickets"
+msgstr "Error : adding link between the two tickets"
+
+#: inc/ticket.class.php:676 inc/ticket.class.php:717 inc/ticket.class.php:722
+msgid "This ticket has been cloned from the ticket num"
+msgstr "This ticket has been cloned from the ticket num"
+
+#: inc/ticket.class.php:681
+msgid "Error : adding followups"
+msgstr "Error : adding followups"
+
+#: inc/ticket.class.php:692
+msgid "Error : adding actors (user)"
+msgstr "Error : adding actors (user)"
+
+#: inc/ticket.class.php:701
+msgid "Error : adding actors (group)"
+msgstr "Error : adding actors (group)"
+
+#: inc/ticket.class.php:711
+msgid "Error : adding documents"
+msgstr "Error : adding documents"
+
+#: inc/history.class.php:95
+msgid "Reassign the ticket to group"
+msgstr "Reassign the ticket to group"
+
+#: inc/history.class.php:119
+msgid "View full history"
+msgstr "View full history"
+
+#: inc/history.class.php:166
+msgid "Tickets to follow (climbed)"
+msgstr "Tickets to follow (climbed)"
+
+#: inc/history.class.php:180
+msgid "Tickets to close (climbed)"
+msgstr "Tickets to close (climbed)"
+
+#: inc/config.class.php:7
+msgid "Configuration Escalade plugin"
+msgstr "Configuration Escalade plugin"
+
+#: inc/config.class.php:22
+msgid "Remove old assign group on new group assign"
+msgstr "Remove old assign group on new group assign"
+
+#: inc/config.class.php:44
+msgid "show group assign history visually"
+msgstr "show group assign history visually"
+
+#: inc/config.class.php:56
+msgid "Escalation history in tasks"
+msgstr "Escalation history in tasks"
+
+#: inc/config.class.php:65
+msgid "Remove technician(s) on escalation"
+msgstr "Remove technician(s) on escalation"
+
+#: inc/config.class.php:77
+msgid "Ticket status after an escalation"
+msgstr "Ticket status after an escalation"
+
+#: inc/config.class.php:85
+msgid "Assign ticket to initial group on solve ticket"
+msgstr "Assign ticket to initial group on solve ticket"
+
+#: inc/config.class.php:98
+msgid "Assign the technical manager on ticket category change"
+msgstr "Assign the technical manager on ticket category change"
+
+#: inc/config.class.php:109
+msgid "Assign the technical group on ticket category change"
+msgstr "Assign the technical group on ticket category change"
+
+#: inc/config.class.php:121
+msgid "Clone tickets"
+msgstr "Clone tickets"
+
+#: inc/config.class.php:131
+msgid "Close cloned tickets at the same time"
+msgstr "Close cloned tickets at the same time"
+
+#: inc/config.class.php:149
+msgid "Use the technician's group"
+msgstr "Use the technician's group"
+
+#: inc/config.class.php:167
+msgid "a time of creation"
+msgstr "a time of creation"
+
+#: inc/config.class.php:169
+msgid "a time of modification"
+msgstr "a time of modification"
+
+#: inc/config.class.php:196
+msgid ""
+"Nota: This feature (creation part) is duplicate with the <a "
+"href='##link##'>Behavior</a>plugin. This last has priority."
+msgstr ""
+"Nota: This feature (creation part) is duplicate with the <a "
+"href='##link##'>Behavior</a>plugin. This last has priority."
+
+#: inc/config.class.php:205
+msgid "Display delete button"
+msgstr "Display delete button"
+
+#: inc/config.class.php:299
+msgid "Don't change"
+msgstr "Don't change"
+
+#: js/cloneandlink_ticket.js.php:13
+msgid "Clone and link"
+msgstr "Clone and link"

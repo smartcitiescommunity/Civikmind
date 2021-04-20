@@ -1,0 +1,143 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# SeongHyeon Cho <jaymz9634@gmail.com>, 2018
+# Cédric Anne, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-03 18:32+0000\n"
+"PO-Revision-Date: 2018-06-01 14:02+0000\n"
+"Last-Translator: Cédric Anne, 2018\n"
+"Language-Team: Korean (Korea) (https://www.transifex.com/pluginsGLPI/teams/73419/ko_KR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: hook.php:89 inc/type.class.php:37 inc/entity.class.php:351
+msgid "Credit voucher type"
+msgid_plural "Credit vouchers types"
+msgstr[0] "신용 할인 쿠폰 유형"
+
+#: hook.php:98 inc/ticket.class.php:35 inc/entity.class.php:35
+#: inc/notificationtargetentity.class.php:35
+#: inc/notificationtargetentity.class.php:47
+msgid "Credit voucher"
+msgid_plural "Credit vouchers"
+msgstr[0] "신용 할인 쿠폰"
+
+#: hook.php:99 inc/ticket.class.php:219 inc/ticket.class.php:360
+#: inc/ticket.class.php:408 inc/ticket.class.php:575 inc/entity.class.php:218
+msgid "Quantity consumed"
+msgstr "소비 수량"
+
+#: hook.php:100 inc/entity.class.php:219
+#: inc/notificationtargetentity.class.php:33
+#: inc/notificationtargetentity.class.php:50
+msgid "Quantity remaining"
+msgstr "잔여 수량"
+
+#: inc/ticket.class.php:180
+msgid "Consumed credits for this ticket"
+msgstr "이 티켓에 대해 소비된 신용"
+
+#: inc/ticket.class.php:215 inc/ticket.class.php:349
+msgid "Voucher name"
+msgstr "할인 쿠폰 명"
+
+#: inc/ticket.class.php:216
+msgid "Voucher type"
+msgstr "할인 쿠폰 유형"
+
+#: inc/ticket.class.php:217 inc/ticket.class.php:406 inc/ticket.class.php:567
+msgid "Date consumed"
+msgstr "소비 일자"
+
+#: inc/ticket.class.php:218 inc/ticket.class.php:407
+msgid "User consumed"
+msgstr "사용자 소비"
+
+#: inc/ticket.class.php:269 inc/ticket.class.php:394
+msgid "No credit was recorded"
+msgstr "기록된 신용 없음"
+
+#: inc/ticket.class.php:276
+msgid "Active credit vouchers for ticket entity"
+msgstr "티켓 요소에 대한 신용 할인 쿠폰 활성화"
+
+#: inc/ticket.class.php:342
+msgid "Consume a voucher ?"
+msgstr "할인 쿠폰을 사용합니까?"
+
+#: inc/ticket.class.php:388
+msgid "Detail of tickets on which consumption is declared"
+msgstr "소비로 정의된 티켓의 상세"
+
+#: inc/ticket.class.php:505
+msgid "You must provide a credit voucher"
+msgstr "신용 할인 쿠폰을 제공해야 합니다"
+
+#: inc/ticket.class.php:525 inc/ticket.class.php:534
+#, php-format
+msgid "Quantity consumed exceeds remaining credits: %d"
+msgstr ""
+
+#: inc/ticket.class.php:552
+msgid "Credit voucher successfully added."
+msgstr "신용 할인 쿠폰이 추가되었습니다"
+
+#: inc/ticket.class.php:587 setup.php:88
+msgid "Credit vouchers"
+msgstr "신용 할인 쿠폰"
+
+#: inc/entity.class.php:133
+msgid "Add a credit voucher"
+msgstr "신용 할인 쿠폰 추가"
+
+#: inc/entity.class.php:154 inc/entity.class.php:217 inc/entity.class.php:339
+#: inc/notificationtargetentity.class.php:34
+#: inc/notificationtargetentity.class.php:48
+msgid "Quantity sold"
+msgstr "판매 수량"
+
+#: inc/entity.class.php:162 inc/entity.class.php:220 inc/entity.class.php:359
+msgid "Allow overconsumption"
+msgstr ""
+
+#: inc/entity.class.php:269 inc/entity.class.php:276 inc/entity.class.php:277
+msgid "Consumed details"
+msgstr "소비 상세"
+
+#: inc/entity.class.php:301
+msgid "No credit voucher"
+msgstr "신용 할인 쿠폰 없음"
+
+#: inc/entity.class.php:370 inc/notificationtargetentity.class.php:7
+msgid "Expiration date"
+msgstr ""
+
+#: inc/entity.class.php:371
+msgid "Notice (in days)"
+msgstr ""
+
+#: inc/notificationtargetentity.class.php:32
+#: inc/notificationtargetentity.class.php:49
+msgid "End date"
+msgstr ""
+
+#: inc/notificationtargetentity.class.php:64
+msgid "Credit voucher expiration"
+msgstr ""
+
+#: inc/notificationtargetentity.class.php:65
+msgid ""
+"This credit voucher will expire soon. Please, consider buying a new one."
+msgstr ""

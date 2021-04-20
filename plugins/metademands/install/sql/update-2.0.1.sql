@@ -1,0 +1,1 @@
+ALTER TABLE `glpi_plugin_metademands_profiles` ADD `requester` tinyint(1) NOT NULL default '0';

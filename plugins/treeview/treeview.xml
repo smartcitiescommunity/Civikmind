@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <name>Tree View</name>
+   <key>treeview</key>
+   <state>stable</state>
+   <logo>https://github.com/pluginsGLPI/treeview/blob/master/treeview.png?raw=true</logo>
+   <description>
+      <short>
+         <fr><![CDATA[Vue en arborescence. Ce plugin vous permet de voir votre parc GLPI sous forme d’arborescence.]]></fr>
+         <en><![CDATA[Tree view. This plugin allows you to see your asset with tree view.]]></en>
+      </short>
+      <long>
+         <fr><![CDATA[Ce plugin vous permet de voir votre parc GLPI sous forme d’arborescence.<br />-Possibilité d'utiliser les répertoires des lieux sous forme de liens<br />-Les noeuds peuvent être en surbrillance.<br />-L'arborescence peut être dessinée avec des lignes ou des icônes.<br />-Possibilité de lancement du plugin au démarrage de GLPI]]></fr>
+         <en><![CDATA[This plugin allows you to see your asset with tree view.<br />-Should folders be links<br />-Nodes can be highlighted.<br />-Tree can be drawn with lines or pics.<br />-The plugin can be launched when GLPI loading]]></en>
+      </long>
+   </description>
+      <homepage>https://github.com/pluginsGLPI/treeview</homepage>
+      <download>https://github.com/pluginsGLPI/treeview/releases</download>
+      <issues>https://github.com/pluginsGLPI/treeview/issues</issues>
+      <readme>https://github.com/pluginsGLPI/treeview/wiki</readme>
+   <authors>
+      <author>Xavier Caillaud</author>
+      <author>Hussein AL-Rubeiy</author>
+      <author>Nelly Mahu-Lasson</author>
+      <author>Teclib'</author>
+   </authors>
+   <versions>
+      <version>
+          <num>1.9.0</num>
+          <compatibility>~9.5.0</compatibility>
+          <download_url>https://github.com/pluginsGLPI/treeview/releases/download/1.9.0/glpi-treeview-1.9.0.tar.bz2</download_url>
+      </version>
+      <version>
+          <num>1.8.1</num>
+          <compatibility>~9.4.0</compatibility>
+          <compatibility>~9.3.0</compatibility>
+          <compatibility>~9.2.0</compatibility>
+          <download_url>https://github.com/pluginsGLPI/treeview/releases/download/1.8.1/glpi-treeview-1.8.1.tar.bz2</download_url>
+      </version>
+      <version>
+          <num>1.8.0</num>
+          <compatibility>9.4</compatibility>
+          <compatibility>9.3</compatibility>
+          <compatibility>9.2</compatibility>
+      </version>
+      <version>
+          <num>1.7.0</num>
+          <compatibility>9.2</compatibility>
+          <compatibility>9.3</compatibility>
+      </version>
+      <version>
+          <num>1.6.2</num>
+          <compatibility>0.84</compatibility>
+      </version>
+      <version>
+          <num>1.6.1</num>
+          <compatibility>0.83.3</compatibility>
+      </version>
+      <version>
+          <num>1.6.0</num>
+          <compatibility>0.83</compatibility>
+      </version>
+      <version>
+          <num>1.5.0</num>
+          <compatibility>0.80</compatibility>
+      </version>
+      <version>
+          <num>1.4.0</num>
+          <compatibility>0.78</compatibility>
+      </version>
+      <version>
+          <num>1.2.1</num>
+          <compatibility>0.72</compatibility>
+      </version>
+      <version>
+          <num>1.2.0</num>
+          <compatibility>0.72</compatibility>
+      </version>
+      <version>
+          <num>1.1</num>
+          <compatibility>0.71</compatibility>
+      </version>
+      <version>
+          <num>1.0</num>
+          <compatibility>0.70</compatibility>
+      </version>
+   </versions>
+   <langs>
+      <lang>de_DE</lang>
+      <lang>en_GB</lang>
+      <lang>fr_FR</lang>
+      <lang>nl_NL</lang>
+      <lang>ru_RU</lang>
+   </langs>
+   <license><![CDATA[GPL v2+]]></license>
+   <tags>
+         <fr>
+            <tag>Vue</tag>
+            <tag>Arborescence</tag>
+            <tag>Gestion</tag>
+         </fr>
+         <en>
+            <tag>View</tag>
+            <tag>Tree</tag>
+            <tag>Management</tag>
+         </en>
+   </tags>
+      <screenshots>
+      <screenshot>https://raw.githubusercontent.com/pluginsGLPI/treeview/master/screenshots/screenshot.png</screenshot>
+      <screenshot>https://raw.githubusercontent.com/pluginsGLPI/treeview/master/treeview.gif</screenshot>
+   </screenshots>
+</root>

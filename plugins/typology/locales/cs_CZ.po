@@ -1,0 +1,191 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Typology Development Team
+# This file is distributed under the same license as the GLPI - Typology plugin package.
+# 
+# Translators:
+# David Stepan <stepand@tiscali.cz>, 2015
+# Pavel Borecki <pavel.borecki@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Project - typology plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-13 11:49+0200\n"
+"PO-Revision-Date: 2018-06-26 12:19+0000\n"
+"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
+"Language-Team: Czech (Czech Republic) (http://www.transifex.com/tsmr/GLPI_typology/language/cs_CZ/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+#: hook.php:207 inc/typology_item.class.php:577
+msgid "Assign a typology to this material"
+msgstr "Přiřadit typologii k tomuto materiálu"
+
+#: hook.php:208
+msgid "Delete the typology of this material"
+msgstr "Smazat typologii tohoto materiálu"
+
+#: hook.php:209 inc/typology.class.php:337
+msgid "Recalculate typology for the elements"
+msgstr "Přepočítat typologii pro prvky"
+
+#: hook.php:235
+msgid "Typology's name"
+msgstr "Název typologie"
+
+#: hook.php:249 inc/typology_item.class.php:504
+#: inc/typology_item.class.php:746
+msgid "Responding to typology's criteria"
+msgstr "Splňuje kritéria typologie"
+
+#: setup.php:77 inc/menu.class.php:44 inc/profile.class.php:166
+#: inc/typology.class.php:69
+msgid "Typology"
+msgid_plural "Typologies"
+msgstr[0] "Typologie"
+msgstr[1] "Typologie"
+msgstr[2] "Typologií"
+msgstr[3] "Typologie"
+
+#: front/typology.form.php:84
+msgid "Element not match with the rule for assigning the typology:"
+msgstr "Prvek se neshoduje s pravidlem pro přiřazení typologie:"
+
+#: front/typology.form.php:99 inc/typology_item.class.php:1070
+#: inc/typology_item.class.php:1086
+msgid "Element not match with rules for assigning a typology"
+msgstr "Prvek se neshoduje s pravidly pro přiřazení typologie"
+
+#: inc/notificationtargettypology.class.php:49
+#: inc/notificationtargettypology.class.php:71 inc/typology.class.php:341
+#: inc/typology.class.php:488
+msgid "Elements not match with the typology"
+msgstr "Prvky se neshodují s typologií"
+
+#: inc/notificationtargettypology.class.php:77
+#: inc/notificationtargettypology.class.php:114
+msgid "Link to the typology"
+msgstr "Připojit k typologii"
+
+#: inc/notificationtargettypology.class.php:78
+#: inc/notificationtargettypology.class.php:115
+msgid "Link to the element"
+msgstr "Připojit k prvku"
+
+#: inc/ruletypologycollection.class.php:51
+msgid "Rules for assigning a typology to a computer"
+msgstr "Pravidla pro přiřazení typologie k počítači"
+
+#: inc/typology.class.php:419
+msgid "Typology of the linked elements is updated."
+msgstr "Typologie připojených prvků byla aktualizována."
+
+#: inc/typologycriteria.class.php:184
+msgid "Add a criterion"
+msgstr "Přidat kritérium"
+
+#: inc/typologycriteria.class.php:229
+msgid "Criteria's list"
+msgstr "Seznam kritérií"
+
+#: inc/typologycriteria.class.php:253 inc/typology_item.class.php:937
+msgid "Detail of the assigned typology"
+msgstr "Podrobnosti přiřazené typologie"
+
+#: inc/typologycriteriadefinition.class.php:54
+msgid "Definition"
+msgid_plural "Definitions"
+msgstr[0] "Definice"
+msgstr[1] "Definice"
+msgstr[2] "Definic"
+msgstr[3] "Definice"
+
+#: inc/typologycriteriadefinition.class.php:102
+msgid ""
+"You don't have right to create a definition for this criteria. Thank to "
+"contact a person having this right."
+msgstr "Nemáte oprávnění pro vytváření definice pro tato kritéria.\nObraťte se na osobu která má toto oprávnění."
+
+#: inc/typologycriteriadefinition.class.php:566
+#: inc/typologycriteriadefinition.class.php:572
+#: inc/typologycriteriadefinition.class.php:807
+msgid "Less than"
+msgstr "Méně než"
+
+#: inc/typologycriteriadefinition.class.php:567
+#: inc/typologycriteriadefinition.class.php:573
+#: inc/typologycriteriadefinition.class.php:809
+msgid "More than"
+msgstr "Více než"
+
+#: inc/typology_item.class.php:60
+msgid "Element"
+msgid_plural "Elements"
+msgstr[0] "Prvek"
+msgstr[1] "Prvky"
+msgstr[2] "Prvků"
+msgstr[3] "Prvky"
+
+#: inc/typology_item.class.php:149
+msgid "Add element to the typology"
+msgstr "Přidat prvek k typologii"
+
+#: inc/typology_item.class.php:151
+msgid "Update element to the typology"
+msgstr "Změnit prvek k typologii"
+
+#: inc/typology_item.class.php:153
+msgid "Element out of the typology"
+msgstr "Prvek mimo typologii"
+
+#: inc/typology_item.class.php:236
+msgid ""
+"You cannot assign this typology to this material as he has already a "
+"typology : "
+msgstr "Tomuto materiálu není možné přiřadit tuto typologii protože už má nějakou přiřazenou:"
+
+#: inc/typology_item.class.php:498
+msgid "Typology assigned to this material"
+msgstr "Typologie přiřazená tomuto materiálu"
+
+#: inc/typology_item.class.php:506
+msgid "Actions"
+msgstr "Akce"
+
+#: inc/typology_item.class.php:541 inc/typology_item.class.php:806
+msgid "for the criteria"
+msgstr "pro kritéria"
+
+#: inc/typology_item.class.php:683 inc/typology_item.class.php:730
+msgid "Linked elements"
+msgstr "Připojené prvky"
+
+#: inc/typology_item.class.php:705
+msgid "Select a type"
+msgstr "Vybrat typ"
+
+#: inc/typology_item.class.php:728
+msgid "No linked element"
+msgstr "Žádný připojený prvek"
+
+#: inc/typology_item.class.php:929
+msgid "Management console"
+msgstr "Konzole pro správu"
+
+#: inc/typology_item.class.php:936
+msgid "Comparison"
+msgstr "Porovnání"
+
+#: inc/typology_item.class.php:938
+msgid "Detail of the encountered configuration"
+msgstr "Podrobnosti zjištěného nastavení"
+
+#: inc/typology_item.class.php:944
+msgid "Waiting value"
+msgstr "Očekávaná hodnota"
+
+#: inc/typology_item.class.php:945
+msgid "Real value"
+msgstr "Skutečná hodnota"

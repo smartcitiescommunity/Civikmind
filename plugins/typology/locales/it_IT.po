@@ -1,0 +1,192 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Typology Development Team
+# This file is distributed under the same license as the GLPI - Typology plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Xavier CAILLAUD <thetsmr@gmail.com>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI - Typology plugin 2.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-25 09:46+0100\n"
+"PO-Revision-Date: 2020-11-02 16:29+0000\n"
+"Last-Translator: Xavier CAILLAUD <thetsmr@gmail.com>, 2020\n"
+"Language-Team: Italian (Italy) (https://www.transifex.com/infotelGLPI/teams/12374/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: hook.php:210 inc/typology_item.class.php:577
+msgid "Assign a typology to this material"
+msgstr "Assegnare una tipologia a questo materiale"
+
+#: hook.php:211
+msgid "Delete the typology of this material"
+msgstr "Eliminare la tipologia di questo materiale"
+
+#: hook.php:212 inc/typology.class.php:337
+msgid "Recalculate typology for the elements"
+msgstr "Ricalcolare tipologia per gli elementi"
+
+#: hook.php:239
+msgid "Typology's name"
+msgstr "Il nome della tipologia"
+
+#: hook.php:253 inc/typology_item.class.php:504
+#: inc/typology_item.class.php:746
+msgid "Responding to typology's criteria"
+msgstr "Rispondendo ai criteri della tipologia"
+
+#: setup.php:79 inc/menu.class.php:44 inc/profile.class.php:166
+#: inc/typology.class.php:69
+msgid "Typology"
+msgid_plural "Typologies"
+msgstr[0] "Tipologia"
+msgstr[1] "Tipologie"
+
+#: front/typology.form.php:84
+msgid "Element not match with the rule for assigning the typology:"
+msgstr ""
+"Elemento non corrisponde a la regola dell'assegnazione della tipologia:"
+
+#: front/typology.form.php:99 inc/typology_item.class.php:1070
+#: inc/typology_item.class.php:1086
+msgid "Element not match with rules for assigning a typology"
+msgstr "Elemento non corrisponde con le regole per assegnare una tipologia"
+
+#: inc/notificationtargettypology.class.php:49
+#: inc/notificationtargettypology.class.php:71 inc/typology.class.php:341
+#: inc/typology.class.php:490
+msgid "Elements not match with the typology"
+msgstr "Gli elementi non corrispondono a la tipologia"
+
+#: inc/notificationtargettypology.class.php:77
+#: inc/notificationtargettypology.class.php:114
+msgid "Link to the typology"
+msgstr "Collegamento alla tipologia"
+
+#: inc/notificationtargettypology.class.php:78
+#: inc/notificationtargettypology.class.php:115
+msgid "Link to the element"
+msgstr "Collegamento al elemento"
+
+#: inc/ruletypologycollection.class.php:51
+msgid "Rules for assigning a typology to a computer"
+msgstr "Regole per l'assegnazione di una tipologia ad un computer"
+
+#: inc/typology.class.php:419
+msgid "Typology of the linked elements is updated."
+msgstr "Tipologia degli elementi connessi e aggiornata."
+
+#: inc/typologycriteria.class.php:184
+msgid "Add a criterion"
+msgstr "Aggiungere un criterio"
+
+#: inc/typologycriteria.class.php:229
+msgid "Criteria's list"
+msgstr "La lista di criteri"
+
+#: inc/typologycriteria.class.php:253 inc/typology_item.class.php:937
+msgid "Detail of the assigned typology"
+msgstr "Dettaglio della tipologia assegnata"
+
+#: inc/typologycriteriadefinition.class.php:54
+msgid "Definition"
+msgid_plural "Definitions"
+msgstr[0] "Definizione"
+msgstr[1] "Definizioni"
+
+#: inc/typologycriteriadefinition.class.php:102
+msgid ""
+"You don't have right to create a definition for this criteria. Thank to "
+"contact a person having this right."
+msgstr ""
+"Non avete diritto di creare una definizione per questo criterio. Si prega di"
+" contattare una persona che ha questo diritto."
+
+#: inc/typologycriteriadefinition.class.php:566
+#: inc/typologycriteriadefinition.class.php:572
+#: inc/typologycriteriadefinition.class.php:807
+msgid "Less than"
+msgstr "Meno di"
+
+#: inc/typologycriteriadefinition.class.php:567
+#: inc/typologycriteriadefinition.class.php:573
+#: inc/typologycriteriadefinition.class.php:809
+msgid "More than"
+msgstr "Più di"
+
+#: inc/typology_item.class.php:60
+msgid "Element"
+msgid_plural "Elements"
+msgstr[0] "Elemento"
+msgstr[1] "Elementi"
+
+#: inc/typology_item.class.php:149
+msgid "Add element to the typology"
+msgstr "Aggiungere elemento alla tipologia"
+
+#: inc/typology_item.class.php:151
+msgid "Update element to the typology"
+msgstr "Aggiornare l'elemento alla tipologia"
+
+#: inc/typology_item.class.php:153
+msgid "Element out of the typology"
+msgstr "Elemento fuori dalla tipologia"
+
+#: inc/typology_item.class.php:236
+msgid ""
+"You cannot assign this typology to this material as he has already a "
+"typology : "
+msgstr ""
+"Non è possibile assegnare questa tipologia a questo materiale perché ha già "
+"una tipologia:"
+
+#: inc/typology_item.class.php:498
+msgid "Typology assigned to this material"
+msgstr "Tipologia assegnata a questo materiale"
+
+#: inc/typology_item.class.php:506
+msgid "Actions"
+msgstr "Azioni"
+
+#: inc/typology_item.class.php:541 inc/typology_item.class.php:806
+msgid "for the criteria"
+msgstr "per i criteri"
+
+#: inc/typology_item.class.php:683 inc/typology_item.class.php:730
+msgid "Linked elements"
+msgstr "Elementi collegati"
+
+#: inc/typology_item.class.php:705
+msgid "Select a type"
+msgstr "Selezionare il tipo"
+
+#: inc/typology_item.class.php:728
+msgid "No linked element"
+msgstr "Nessun elemento collegato"
+
+#: inc/typology_item.class.php:929
+msgid "Management console"
+msgstr "Console di gestione"
+
+#: inc/typology_item.class.php:936
+msgid "Comparison"
+msgstr "Confronto"
+
+#: inc/typology_item.class.php:938
+msgid "Detail of the encountered configuration"
+msgstr "Dettaglio della configurazione incontrata"
+
+#: inc/typology_item.class.php:944
+msgid "Waiting value"
+msgstr "Valore di attesa"
+
+#: inc/typology_item.class.php:945
+msgid "Real value"
+msgstr "Valore reale"

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <name>Activity</name>
+    <key>activity</key>
+    <state>stable</state>
+    <logo>https://raw.githubusercontent.com/InfotelGLPI/activity/master/wiki/activity.png</logo>
+    <description>
+        <short>
+            <fr><![CDATA[Gestion de vos activités. Ce plugin vous permet d'ajouter des activités dans le planning. Gestion des congés.]]></fr>
+            <en><![CDATA[Activity management. This plugin allows you add your activities into planning. Holidays management.]]></en>
+        </short>
+        <long>
+            <fr><![CDATA[Gestion de vos activités. Ce plugin vous permet d'ajouter des activités dans le planning. Gestion des congés.]]></fr>
+            <en><![CDATA[Activity management. This plugin allows you add your activities into planning. Holidays management.n]]></en>
+        </long>
+    </description>
+    <homepage>https://github.com/InfotelGLPI/activity</homepage>
+    <download>https://github.com/InfotelGLPI/activity/releases</download>
+    <issues>https://github.com/InfotelGLPI/activity/issues</issues>
+    <readme>https://raw.githubusercontent.com/InfotelGLPI/activity/master/README.md</readme>
+    <authors>
+        <author>Xavier Caillaud</author>
+        <author>Infotel</author>
+    </authors>
+    <versions>
+        <version>
+            <num>3.0.0</num>
+            <compatibility>9.5</compatibility>
+        </version>
+        <version>
+            <num>2.5.0</num>
+            <compatibility>9.4</compatibility>
+        </version>
+    </versions>
+    <langs>
+        <lang>en_GB</lang>
+        <lang>es_ES</lang>
+        <lang>fr_FR</lang>
+        <lang>it_IT</lang>
+    </langs>
+    <license><![CDATA[GPL v2+]]></license>
+    <tags>
+        <fr>
+            <tag>Activité</tag>
+            <tag>Planning</tag>
+            <tag>Congés</tag>
+        </fr>
+        <en>
+            <tag>Activity</tag>
+            <tag>Planning</tag>
+            <tag>Holiday</tag>
+        </en>
+    </tags>
+</root>

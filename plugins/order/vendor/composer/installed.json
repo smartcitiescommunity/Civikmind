@@ -1,0 +1,62 @@
+[
+    {
+        "name": "masnathan/odtphp",
+        "version": "dev-teclib",
+        "version_normalized": "dev-teclib",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/TECLIB/odtphp.git",
+            "reference": "6c2f07dd82993565ab6536a30d2d6c04ab699086"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/TECLIB/odtphp/zipball/6c2f07dd82993565ab6536a30d2d6c04ab699086",
+            "reference": "6c2f07dd82993565ab6536a30d2d6c04ab699086",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.4"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "4.*",
+            "scrutinizer/ocular": "~1.1",
+            "symfony/var-dumper": "^2.7"
+        },
+        "time": "2017-03-01T11:06:18+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "2.0-dev"
+            }
+        },
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Odtphp\\": "src"
+            },
+            "files": [
+                "lib/pclzip.lib.php"
+            ]
+        },
+        "autoload-dev": {
+            "psr-4": {
+                "Odtphp\\Test\\": "tests"
+            },
+            "files": [
+                "lib/pclzip.lib.php"
+            ]
+        },
+        "license": [
+            "GPL-3.0"
+        ],
+        "description": "ODT document generator",
+        "homepage": "https://github.com/masnathan/odtphp",
+        "keywords": [
+            "odt",
+            "php"
+        ],
+        "support": {
+            "source": "https://github.com/TECLIB/odtphp/tree/teclib"
+        }
+    }
+]

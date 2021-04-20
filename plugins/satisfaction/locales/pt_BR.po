@@ -1,0 +1,274 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Paulo Renato <paulo.renato.jr@gmail.com>, 2018
+# Elton Pereira Rosa <eltoncarbo@gmail.com>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-28 08:52+0200\n"
+"PO-Revision-Date: 2018-03-14 08:28+0000\n"
+"Last-Translator: Elton Pereira Rosa <eltoncarbo@gmail.com>, 2019\n"
+"Language-Team: Portuguese (Brazil) (https://www.transifex.com/infotelGLPI/teams/84146/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: hook.php:93
+msgid "Ticket Satisfaction Reminder"
+msgstr "Lembrete de Satisfação do Chamado"
+
+#: setup.php:62
+msgid "More satisfaction"
+msgstr "Mais satisfação"
+
+#: inc/dashboard.class.php:76 inc/menu.class.php:14 inc/profile.class.php:50
+#: inc/survey.class.php:24
+msgid "Satisfaction survey"
+msgid_plural "Satisfaction surveys"
+msgstr[0] "Pesquisas de Satisfação"
+msgstr[1] "Pesquisas de Satisfação"
+
+#: inc/dashboard.class.php:99
+msgid "First Trimester"
+msgstr "Primeiro Trimestre"
+
+#: inc/dashboard.class.php:100
+msgid "Second Trimester"
+msgstr "Segundo Trimestre"
+
+#: inc/dashboard.class.php:101
+msgid "Third Trimester"
+msgstr "Terceiro Trimestre"
+
+#: inc/dashboard.class.php:102
+msgid "Fourth Trimester"
+msgstr "Quatro Trimestre"
+
+#: inc/dashboard.class.php:103
+msgid "Year"
+msgstr "Ano"
+
+#: inc/dashboard.class.php:199
+msgid "There are no survey for current entity"
+msgstr "Não há pesquisa para a entidade atual"
+
+#: inc/dashboard.class.php:312
+msgid "Number of surveys"
+msgstr "Número de pesquisas"
+
+#: inc/dashboard.class.php:317
+msgid "Number of concerned tickets"
+msgstr "Número de chamados em questão"
+
+#: inc/dashboard.class.php:322
+msgid "Survey not answered"
+msgstr "Pesquisa não respondida"
+
+#: inc/dashboard.class.php:327
+msgid "Survey answered"
+msgstr "Pesquisa respondida"
+
+#: inc/dashboard.class.php:332
+msgid "Global satisfaction"
+msgstr "Satisfação Global"
+
+#: inc/dashboard.class.php:374
+msgid "Periods"
+msgstr "Períodos"
+
+#: inc/notificationMailing.class.php:51
+msgid "Notification satisfaction reminder"
+msgstr "Notificação de lembrete de satisfação"
+
+#: inc/notificationMailing.class.php:180
+msgid "Resource creation"
+msgstr "Criação de recurso"
+
+#: inc/notificationMailing.class.php:181
+msgid "Other"
+msgstr "Outros"
+
+#: inc/notificationtargetticket.class.php:39
+msgid "Survey Reminder"
+msgstr "Lembrete da pesquisa"
+
+#: inc/reminder.class.php:30
+msgid "Satisfaction reminder"
+msgid_plural "Satisfaction reminders"
+msgstr[0] "Lembrete de satisfação"
+msgstr[1] "Lembretes de satisfação"
+
+#: inc/reminder.class.php:44
+msgid "Send automaticaly survey reminders"
+msgstr ""
+
+#: inc/surveyanswer.class.php:22
+msgid "Answer"
+msgid_plural "Answers"
+msgstr[0] "Resposta"
+msgstr[1] "Respostas"
+
+#: inc/surveyanswer.class.php:43
+msgid "Preview"
+msgstr "Visualizar"
+
+#: inc/surveyanswer.class.php:116
+msgid "Satisfaction"
+msgstr "Satisfação"
+
+#: inc/survey.class.php:223 inc/survey.class.php:249
+msgid "Error : only one survey is allowed by entity"
+msgstr "Erro: apenas uma pesquisa é permitida por entidade"
+
+#: inc/surveyquestion.class.php:30
+msgid "Question"
+msgid_plural "Questions"
+msgstr[0] "Questão"
+msgstr[1] "Questões"
+
+#: inc/surveyquestion.class.php:105
+msgid ""
+"You cannot edit the questions when answers exists for this survey. Disable "
+"this survey and create a new one !"
+msgstr ""
+"Você não pode editar as perguntas quando houver respostas para essa "
+"pesquisa. Desative esta pesquisa e crie uma nova!"
+
+#: inc/surveyquestion.class.php:125 inc/surveyquestion.class.php:195
+msgid "Add a question"
+msgstr "Adicionar uma questão"
+
+#: inc/surveyquestion.class.php:133
+msgid "No questions for this survey"
+msgstr "Nenhuma pergunta para esta pesquisa"
+
+#: inc/surveyquestion.class.php:231
+msgid "Note on"
+msgstr "Nota sobre"
+
+#: inc/surveyquestion.class.php:325 inc/surveyquestion.class.php:340
+msgid "Text"
+msgstr "Texto"
+
+#: inc/surveyquestion.class.php:326 inc/surveyquestion.class.php:342
+msgid "Note"
+msgstr "Nota"
+
+#: inc/surveyreminder.class.php:45 inc/surveyreminder.class.php:65
+#: inc/surveyreminder.class.php:446
+msgid "Reminder"
+msgid_plural "Reminders"
+msgstr[0] "Lembrete"
+msgstr[1] "Lembretes"
+
+#: inc/surveyreminder.class.php:143 inc/surveyreminder.class.php:246
+msgid "Add a reminder"
+msgstr "Adicionar um lembrete"
+
+#: inc/surveyreminder.class.php:147
+msgid "Add a predefined reminder"
+msgstr "Adicionar um lembrete predefinido"
+
+#: inc/surveyreminder.class.php:154
+msgid "Setup maximum number of days to send reminder"
+msgstr ""
+
+#: inc/surveyreminder.class.php:155
+msgid "Maximum number of days to send reminder"
+msgstr ""
+
+#: inc/surveyreminder.class.php:173
+msgid "No reminders for this survey"
+msgstr "Nenhum lembrete para esta pesquisa"
+
+#: inc/surveyreminder.class.php:244
+msgid "Choose a predefined reminder"
+msgstr "Escolha um lembrete predefinido"
+
+#: inc/surveyreminder.class.php:255
+msgid "Predefined Reminders"
+msgstr "Lembretes Predefinidos"
+
+#: inc/surveyreminder.class.php:388
+msgid "Month"
+msgstr "Mês"
+
+#: inc/surveyreminder.class.php:402
+msgid "One Week"
+msgstr "Uma Semana"
+
+#: inc/surveyreminder.class.php:403
+msgid "Two Week"
+msgstr "Duas Semanas"
+
+#: inc/surveyreminder.class.php:404
+msgid "One Month"
+msgstr "Um Mês"
+
+#: inc/surveyreminder.class.php:417
+msgid "Duration Type"
+msgstr "Tipo de Duração"
+
+#: inc/surveyreminder.class.php:418
+msgid "Duration"
+msgstr "Duração"
+
+#: inc/surveyreminder.class.php:491
+#, php-format
+msgid ""
+"You already have a reminder with the same duration type and duration named :"
+" %s"
+msgstr ""
+"Você já tem um lembrete com o mesmo tipo de duração e duração chamado: %s"
+
+#: inc/surveyreminder.class.php:521
+msgid "There are nothing to save"
+msgstr "Não há nada para salvar"
+
+#: inc/surveyresult.class.php:22
+msgid "Result of the survey"
+msgid_plural "Results of the survey"
+msgstr[0] "Resultado da pesquisa"
+msgstr[1] "Resultados da pesquisa"
+
+#: inc/surveyresult.class.php:43
+msgid "Result"
+msgstr "Resultado"
+
+#: inc/surveyresult.class.php:86
+msgid "No result of the survey"
+msgstr "Nenhum resultado da pesquisa"
+
+#: inc/surveytranslation.class.php:240
+msgid "No translation found"
+msgstr "Nenhuma tradução encontrada."
+
+#: inc/surveytranslation.class.php:396
+#, php-format
+msgid "An %s translation for this Question already exist."
+msgstr "Já existe %s tradução para estra Questão."
+
+#: inc/surveytranslation.class.php:409
+msgid "Translation successfully created."
+msgstr "Tradução criada com sucesso."
+
+#: inc/surveytranslation.class.php:421
+msgid "Translation creation failed"
+msgstr "Falha na criação da tradução."
+
+#: inc/surveytranslation.class.php:435
+msgid "The translation you want to edit does not exist."
+msgstr "A tradução que você quer editar não existe."
+
+#: inc/surveytranslation.class.php:445
+msgid "Translation successfully edited."
+msgstr "Tradução alterada com sucesso."

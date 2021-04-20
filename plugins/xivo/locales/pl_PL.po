@@ -1,0 +1,201 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-04 09:36+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: awiamo, 2017\n"
+"Language-Team: Polish (Poland) (https://www.transifex.com/teclib/teams/28042/pl_PL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: setup.php:142
+msgid "Installed / not configured"
+msgstr "Zainstalowany / Nie skonfigurowany"
+
+#: inc/line.class.php:12
+msgid "Line"
+msgid_plural "Lines"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: inc/line.class.php:78 inc/line.class.php:170 inc/phone_line.class.php:237
+msgid "Protocol"
+msgstr "Protokół"
+
+#: inc/line.class.php:85 inc/line.class.php:177
+msgid "Provisioning extension"
+msgstr ""
+
+#: inc/line.class.php:89 inc/line.class.php:184 inc/phone_line.class.php:240
+msgid "Provisioning code"
+msgstr ""
+
+#: inc/line.class.php:96 inc/line.class.php:191
+msgid "Device slot"
+msgstr ""
+
+#: inc/line.class.php:100 inc/line.class.php:198
+msgid "Position"
+msgstr "Pozycja"
+
+#: inc/line.class.php:107 inc/line.class.php:205 inc/phone_line.class.php:241
+msgid "Caller num"
+msgstr ""
+
+#: inc/line.class.php:121 inc/line.class.php:212 inc/phone_line.class.php:242
+msgid "Caller name"
+msgstr ""
+
+#: inc/line.class.php:135 inc/line.class.php:227
+msgid "Registrar"
+msgstr ""
+
+#: inc/line.class.php:142 inc/line.class.php:234
+msgid "Xivo line_id"
+msgstr ""
+
+#: inc/line.class.php:241
+msgid "Associated phones"
+msgstr ""
+
+#: inc/line.class.php:297
+msgid "Associated lines"
+msgstr ""
+
+#: inc/phone_line.class.php:83
+msgid "Add a phone"
+msgstr ""
+
+#: inc/phone_line.class.php:204
+msgid "Add a line"
+msgstr ""
+
+#: inc/apiclient.class.php:71
+msgid "Api access"
+msgstr "Dostęp do API"
+
+#: inc/apiclient.class.php:72
+msgid "Get phone devices"
+msgstr ""
+
+#: inc/apiclient.class.php:74
+msgid "Get single device"
+msgstr "Pobierz pojedyncze urządzenie"
+
+#: inc/apiclient.class.php:84
+msgid "Get lines"
+msgstr ""
+
+#: inc/apiclient.class.php:86
+msgid "Get single line"
+msgstr ""
+
+#: inc/apiclient.class.php:92
+msgid "Get users"
+msgstr ""
+
+#: inc/config.class.php:10
+msgid "Xivo"
+msgstr ""
+
+#: inc/config.class.php:60
+msgid "Import phone devices"
+msgstr ""
+
+#: inc/config.class.php:74
+msgid "API url"
+msgstr ""
+
+#: inc/config.class.php:82
+msgid "API username"
+msgstr ""
+
+#: inc/config.class.php:91
+msgid "API password"
+msgstr ""
+
+#: inc/config.class.php:100
+msgid "API check SSL"
+msgstr ""
+
+#: inc/config.class.php:108
+msgid "Import devices with empty serial number"
+msgstr ""
+
+#: inc/config.class.php:116
+msgid "Import devices with empty mac"
+msgstr ""
+
+#: inc/config.class.php:124
+msgid "Import 'not_configured' devices"
+msgstr ""
+
+#: inc/config.class.php:133
+msgid "Default entity"
+msgstr ""
+
+#: inc/config.class.php:157
+msgid "API XIVO status"
+msgstr ""
+
+#: inc/config.class.php:178
+msgid "Last Error"
+msgstr ""
+
+#: inc/config.class.php:188
+msgid "Auth token"
+msgstr ""
+
+#: inc/config.class.php:194
+msgid "ACL"
+msgstr ""
+
+#: inc/inventory.class.php:13
+msgid "Import Xivo assets"
+msgstr ""
+
+#: inc/inventory.class.php:77
+#, php-format
+msgid "%1$d line imported"
+msgid_plural "%1$d lines imported"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: inc/inventory.class.php:115
+#, php-format
+msgid "%1$d phone imported"
+msgid_plural "%1$d phones imported"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: inc/phone.class.php:251
+msgid "XIVO informations"
+msgstr ""
+
+#: inc/phone.class.php:255
+msgid "Xivo ID"
+msgstr ""
+
+#: inc/phone.class.php:257
+msgid "Template"
+msgstr ""
+
+#: inc/phone.class.php:262
+msgid "Last synchronisation"
+msgstr ""

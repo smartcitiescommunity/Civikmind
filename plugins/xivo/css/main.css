@@ -1,0 +1,377 @@
+.xivo_config {
+   text-align: left;
+   width: 950px;
+   margin: 0 auto;
+}
+
+.xivo_config h1,
+.xivo_title {
+   font-size: 12px;
+   font-weight: bold;
+   text-align: center;
+   padding: 5px 10px 5px 0;
+   border-radius: 0;
+   margin: 15px 0 20px 0;
+   font-size: 1.1em;
+   color: #000;
+   padding: 10px 5px;
+   background-color: #F1F1F1;
+}
+
+.xivo_field {
+   margin: 10px 0 30px 0;
+   position: relative;
+   height: 20px;
+   text-align: left;
+}
+
+.inline_fields .xivo_field {
+   float: left;
+   margin-bottom: 15px;
+}
+
+.inline_fields_clear {
+   height: 10px;
+   clear: left;
+   content: " ";
+}
+
+.xivo_field .xivo_input,
+.xivo_field .select2-container {
+   position: absolute;
+   top: 0;
+   left: 10px;
+   border-radius: 0;
+   left: 0;
+   z-index: 10;
+   height: 25px;
+   padding: 0 5px;
+}
+.xivo_field .xivo_input {
+   background-color: transparent;
+   border: 0 solid #CCC;
+   border-bottom-width: 2px;
+}
+.xivo_field .select2-container {
+   padding: inherit;
+}
+
+/* strangely, we can't do this with comma ...*/
+.xivo_field .xivo_input::-webkit-input-placeholder { opacity: 0; transition: opacity 0.1s ease-in-out; }
+.xivo_field .xivo_input:-moz-placeholder { opacity: 0; transition: opacity 0.1s ease-in-out; } /* FF 4-18 */
+.xivo_field .xivo_input::-moz-placeholder { opacity: 0; transition: opacity 0.1s ease-in-out; } /* FF 19+ */
+.xivo_field .xivo_input:-ms-input-placeholder { opacity: 0; transition: opacity 0.1s ease-in-out; } /* IE 10+ */
+.xivo_field .xivo_input:focus::-webkit-input-placeholder { opacity: 1; }
+.xivo_field .xivo_input:focus:-moz-placeholder { opacity: 1; }
+.xivo_field .xivo_input:focus::-moz-placeholder { opacity: 1; }
+.xivo_field .xivo_input:focus:-ms-input-placeholder { opacity: 1; }
+
+.xivo_field .xivo_input::-moz-placeholder {
+   opacity: 0;
+   transition: opacity 0.1s ease-in-out;
+}
+
+.xivo_field .xivo_label {
+   position: absolute;
+   top: 5px;
+   left: 5px;
+   color: #686868;
+   z-index: 5;
+   transition: 0.1s ease-in;
+}
+
+.xivo_field .xivo_input:focus {
+   border-color: #5897fb;
+}
+
+.xivo_field .select2-container ~ .xivo_label,
+.xivo_field .no-wrap ~ .xivo_label,
+.xivo_field .xivo_input:focus ~ .xivo_label,
+.xivo_field .xivo_input:required:not(:valid) ~ .xivo_label,
+.xivo_field .xivo_input:valid ~ .xivo_label {
+   top: -15px;
+}
+.xivo_field .xivo_input:focus ~ .xivo_label {
+   color: #5897fb;
+   font-weight: bold;
+}
+
+.xivo_config .submit {
+   margin: 10px auto;
+}
+
+.xivo_config_block {
+   background-color: #F3F3F3;
+   padding: 10px;
+   margin: -15px 0 20px 0;
+   overflow: hidden;
+}
+
+.xivo_config_block.sub_config {
+   background-color: #E8E7E7;
+   padding-bottom: 0;
+   border: 0 solid #C2C2C2;
+   border-width: 0 0 0 5px;
+}
+
+.xivo_callto_link {
+   position: relative;
+   width: 15px;
+   height: 15px;
+   display: inline-block;
+   margin-left: 2px;
+   cursor: pointer;
+   color: #B6B6B6;
+}
+.xivo_callto_link:before {
+   position: absolute;
+   top: 4px;
+   left: 0;
+   content: "\f098";
+   font-family:'FontAwesome','Font Awesome 5 Free';
+   font-size: 15px;
+   opacity: .8;
+   font-weight: 900;
+}
+
+.xivo_callto_link:hover:before {
+   opacity: 1;
+}
+
+.xivo_callto_link.AgentReady:before {
+   color: #9BC920;
+}
+.xivo_callto_link.AgentLogin:before,
+.xivo_callto_link.AgentOnPause:before {
+   color: #FFB04A;
+}
+.xivo_callto_link.AgentDialing:before,
+.xivo_callto_link.AgentRinging:before,
+.xivo_callto_link.AgentOnCall:before {
+   color: #D13224;
+}
+.xivo_callto_link.AgentOnWrapup:before {
+}
+.xivo_callto_link.AgentLoggedOut:before {
+   color: #000000;
+}
+
+#c_preference #xivo_agent_button.fa {
+   font-size: 1.8em;
+   cursor: pointer;
+}
+
+#xivo_agent {
+   position: relative;
+}
+#xivo_agent_form {
+   display: none;
+   text-align: left;
+   top: 40px;
+   right: -100px;
+   position: absolute;
+   min-width: 150px;
+   background: white;
+   box-shadow: 0px 2px 2px 1px #D2CAC6;
+   z-index: 50;
+   padding: 0 12px 12px 12px;
+}
+
+#xivo_agent_form a.vsubmit {
+   color: #8f5a0a;
+}
+
+#xivo_agent_form:after {
+   bottom: 100%;
+   right: 92px;
+   border: solid transparent;
+   content: " ";
+   height: 0;
+   width: 0;
+   position: absolute;
+   pointer-events: none;
+   border-color: rgba(255, 255, 255, 0);
+   border-bottom-color: #FFF;
+   border-width: 15px;
+   margin-left: -15px;
+}
+
+#xivo_agent_form h2 {
+   font-size: 1.2em;
+   background: #D8D8D8;
+   padding: 3px 5px;
+   white-space: nowrap;
+}
+
+#xivo_agent_form label,
+#xivo_agent_form input {
+   display: block;
+}
+
+#xivo_agent_form input {
+   margin-bottom: 10px;
+}
+
+#xivo_agent_button {
+   position: relative;
+}
+
+#xivo_agent_button.ringing {
+   animation: ringing 2s linear infinite;
+}
+
+#xivo_agent_status {
+   position: absolute;
+   content: '\f111';
+   font-family:'FontAwesome';
+   color: transparent;
+   font-size: 12px;
+   top: -3px;
+   right: -3px;
+}
+
+#xuc_statuses label {
+   display: inline-block;
+   min-width: 40px;
+}
+#xuc_statuses input {
+   margin-bottom: inherit;
+   border: none;
+   display: inline-block;
+}
+
+#c_preference #xuc_statuses .select2-choice {
+   color: inherit;
+   text-transform: uppercase;
+}
+
+#xuc_statuses .select2-container .select2-choice {
+   text-overflow: inherit;
+}
+
+#xuc_statuses .select2-container .select2-choice:before {
+   content: none;
+}
+
+#xuc_statuses .select2-container .select2-choice > .select2-chosen {
+   text-indent: inherit;
+}
+
+#xuc_statuses .select2-container .select2-choice > .select2-chosen:before {
+   content: none;
+}
+
+#xuc_phone_status {
+   margin-left: 6px;
+}
+
+#xuc_sign_out {
+   font-size: 16px;
+   float: right;
+}
+
+#xuc_user_info {
+   min-width: 300px;
+}
+
+#xuc_user_picture {
+   float: left;
+   width: 50px;
+   height: 50px;
+   margin-right: 5px;
+   padding:2px;
+   border-radius: 51px;
+   border: 3px inset #C2C2C2;
+}
+
+#xuc_user_picture img {
+   width: 50px;
+   height: 50px;
+   border-radius: 50px;
+}
+
+#xuc_user_info .floating_text {
+   float: left;
+}
+
+#xuc_fullname {
+   margin-top: 5px;
+   vertical-align: top;
+   font-size: 1.2em;
+   white-space: nowrap;
+   text-transform: capitalize;
+   display: block;
+   font-weight: bold;
+}
+
+#xuc_user_status {
+   color: #636363;
+   text-transform: uppercase;
+}
+
+#xuc_call_informations,
+#xuc_ringing_title,
+#xuc_oncall_title {
+   display: none;
+}
+
+#xuc_call_informations i.fa:hover {
+   opacity: .8;
+}
+
+.xuc_content {
+   margin-left: 10px;
+}
+
+#xuc_call_actions i.fa,
+#auto_actions i.fa {
+   font-size: 22px;
+   cursor: pointer;
+}
+
+#xuc_call_actions i.fa:hover,
+#auto_actions i.fa:hover {
+   opacity: .8;
+}
+
+#auto_actions {
+   display: none;
+   margin-bottom: 5px;
+}
+
+#xuc_hangup {
+   color: #CB2F2F;
+}
+
+#xuc_hold {
+   display: none; /* feature doesn't work in Cti*/
+}
+
+#xuc_answer {
+   display: none; /* feature doesn't work in Cti*/
+   color: #4CA84C;
+}
+
+#xivo_agent_form .input-inline {
+   display: inline-block;
+   float: left;
+}
+
+#xuc_call_actions .manual_actions i.fa {
+   margin-top: -2px;
+   margin-left: 3px;
+   float: left;
+}
+
+#xuc_call_actions #xuc_dial {
+   color: #4CA84C;
+}
+
+#xivo_agent_form #transfer_phone_num {
+   display: none;
+}
+
+#xuc_call_actions #xuc_transfer {
+   color: #CB2F2F;
+   display: none;
+}

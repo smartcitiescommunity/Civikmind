@@ -1,0 +1,103 @@
+/*
+ * @version $Id: setup.php,v 1.2 2006/04/02 14:45:27 moyo Exp $
+ ---------------------------------------------------------------------- 
+ GLPI - Gestionnaire Libre de Parc Informatique 
+ Copyright (C) 2003-2008 by the INDEPNET Development Team.
+ 
+ http://indepnet.net/   http://glpi-project.org/
+ ----------------------------------------------------------------------
+
+ LICENSE
+
+	This file is part of GLPI.
+
+    GLPI is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    GLPI is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with GLPI; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+ ------------------------------------------------------------------------
+*/
+
+// ----------------------------------------------------------------------
+// Original Author of file: Walid NOUH
+// Purpose of file:
+// ----------------------------------------------------------------------
+Version 2.1.4
+ see https://forge.indepnet.net/projects/genericobject/issues?query_id=41
+
+Version 2.1.3
+ see https://forge.indepnet.net/projects/genericobject/issues?query_id=42
+
+Version 2.1.2
+ see https://forge.indepnet.net/projects/genericobject/issues?query_id=33
+
+Version 2.1.1
+ see https://forge.indepnet.net/projects/genericobject/issues?query_id=26
+ 
+Version 2.1.0
+ see https://forge.indepnet.net/projects/genericobject/issues?query_id=23
+
+Version 2.0.3
+ see https://forge.indepnet.net/projects/genericobject/issues?query_id=34
+
+Version 2.0.2
+ see https://forge.indepnet.net/projects/genericobject/issues?query_id=20
+
+Version 2.0.1
+ #3215 Cannot activate other plugins integration
+ #3216 Add LICENSE file and change file headers
+ #3217 field, object and type must not be reserved
+ #3218 Wrong "contact" field definition 
+ #3219 Display weblinks
+
+Version 2.0 RC2
+ #3153 Missing file in the RC1 tarball
+
+Version 2.0 RC1
+ #3118 (Bug) Respect search options indexes
+
+Version 2.0 Beta 2
+ #2766 (Bug) Object without name
+ #2765 (Bug) Object which have the same name that an other object already created
+ #2764 (Bug) Object which begins by a number or a special type
+ #1976 (Bug) Dropdown import issue
+ #1729 (Feature) Manage transferts
+
+Version 2.0 Beta 1
+ #3114 (Feature) Rewrite the whole plugin to work with GLPI 0.80
+ #2119 (Bug) Table created without uft8 support
+ #2767 (Bug) Possibility to use the gabarits/templates
+ #2769 (Feature) Possibility to associate a contract with an object created with Generic Object
+ #1977 (Bug) Post-only to declare ticket for an object
+ #1757 (Bug) Impossible to acces model dropdown form
+
+Version 1.1.3
+ #1762 SQL error with tplname field
+
+Version 1.1.2
+ #1659 Integration with geniventorynumber plugin
+ #1734 Error with reservations
+ #1728 Global/unique management
+
+Version 1.1.1
+ #1717 Cannot install plugin correctly
+ #1718 Check mappings
+ 
+Version 1.1.0
+ #1690 Enable direct connexions & network ports
+ #1707 Purge not working
+ #1709 Delete infocom, contracts & reservations when an objet is deleted
+ #1712 Error when datainjection is not available
+ #1713 Remove spaces in object types
+
+Version 1.0
+  * Initial version

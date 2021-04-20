@@ -1,0 +1,63 @@
+<root>
+    <name>Web Resources</name>
+    <key>webresources</key>
+    <state>stable</state> <!-- stable | unstable | beta | alpha -->
+    <logo>https://raw.githubusercontent.com/cconard96/glpi-webresources-plugin/master/Logo40.png</logo>
+    <description>
+        <short>
+            <en>Adds a dashboard for web resources</en>
+        </short>
+        <long>
+            <en><![CDATA[
+Adds a dashboard for web resources.
+Resources can be scoped to specific Entities, Profiles, Groups, or Users (or a mix).
+Resources can have an image icon (favicon for example), or a FontAwesome icon like 'fab fa-github".
+Non-image icons can have their colors changed as you see fit.
+
+Resources can be any weblink or a link with a special URI scheme. For example these links are all valid:
+- https://glpi-project.org (Standard URL)
+- market://details?id=org.glpi.inventory.agent&hl=en_US (Link to app on Android's Play Store)
+- softwarecenter://Page=AvailableSoftware (Link to the Available Software page in the SCCM/MEM Software Center)
+For more information about URI schemes please refer to https://en.wikipedia.org/wiki/List_of_URI_schemes.
+            ]]></en>
+        </long>
+    </description>
+    <homepage>https://github.com/cconard96/glpi-webresources-plugin</homepage>
+    <download>https://github.com/cconard96/glpi-webresources-plugin/releases</download>
+    <issues>https://github.com/cconard96/glpi-webresources-plugin/issues</issues>
+    <readme>https://github.com/cconard96/glpi-webresources-plugin/blob/master/README.md</readme>
+    <authors>
+        <author>Curtis Conard</author>
+    </authors>
+    <versions>
+        <version>
+            <num>1.2.0</num>
+            <compatibility>~9.5.1</compatibility>
+            <download_url>https://github.com/cconard96/glpi-webresources-plugin/releases/download/v1.2.0/webresources-1.2.0.zip</download_url>
+        </version>
+        <version>
+            <num>1.1.0</num>
+            <compatibility>~9.5.1</compatibility>
+            <download_url>https://github.com/cconard96/glpi-webresources-plugin/releases/download/v1.1.0/webresources-1.1.0.zip</download_url>
+        </version>
+        <version>
+            <num>1.0</num>
+            <compatibility>~9.5.1</compatibility>
+            <download_url>https://github.com/cconard96/glpi-webresources-plugin/releases/download/v1.0.0/webresources-1.0.0.zip</download_url>
+        </version>
+    </versions>
+    <langs>
+        <lang>en_US</lang>
+    </langs>
+    <license>GPL v2+</license>
+    <tags>
+        <en>
+            <tag>Tool</tag>
+            <tag>Resource</tag>
+            <tag>Plugin</tag>
+        </en>
+    </tags>
+    <screenshots>
+        <screenshot>https://raw.githubusercontent.com/cconard96/glpi-webresources-plugin/master/screenshots/Dashboard.png</screenshot>
+    </screenshots>
+</root>

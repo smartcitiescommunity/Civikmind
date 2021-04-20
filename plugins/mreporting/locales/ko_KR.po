@@ -1,0 +1,273 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# SeongHyeon Cho <jaymz9634@gmail.com>, 2017,2020
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - MReporting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-09 15:12+0000\n"
+"PO-Revision-Date: 2020-01-22 23:48+0000\n"
+"Last-Translator: SeongHyeon Cho <jaymz9634@gmail.com>\n"
+"Language-Team: Korean (Korea) (http://www.transifex.com/teclib/glpi-project-plugin-mreporting/language/ko_KR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: front/dashboard.form.php:34 front/dashboard.form.php:39 front/config.php:45
+#: front/preference.form.php:45 front/graph.php:39 front/central.php:33
+#: front/config.form.php:56 inc/profile.class.php:38
+#: inc/preference.class.php:182 inc/notificationtargetnotification.class.php:8
+#: inc/common.class.php:49 inc/notification.class.php:18 setup.php:177
+msgid "More Reporting"
+msgstr "보고서 더 보기"
+
+#: front/central.php:73 front/central.php:80 inc/common.class.php:329
+#: inc/common.class.php:396 inc/config.class.php:663
+msgid "No report is available !"
+msgstr "사용 가능한 보고서가 없습니다!"
+
+#: front/popup.php:38 inc/common.class.php:1147 inc/common.class.php:1154
+#: inc/common.class.php:1162
+msgid "General Report - ODT"
+msgstr "일반 보고서 - ODT"
+
+#: inc/other.class.php:70
+msgid "Add/remove software on a computer"
+msgstr "컴퓨터에 소프트웨어 추가/제거"
+
+#: inc/other.class.php:73
+msgid "Add/remove version on a software"
+msgstr "소프트웨어에 버전 추가/제거"
+
+#: inc/other.class.php:76
+msgid "Add infocom"
+msgstr "인포컴 추가"
+
+#: inc/other.class.php:79
+msgid "Add/remove profile on a user"
+msgstr "사용자에 프로필 추가/제거"
+
+#: inc/other.class.php:82
+msgid "Add/remove group on a user"
+msgstr "사용자에 그룹 추가/제거"
+
+#: inc/other.class.php:85
+msgid "User deleted from LDAP"
+msgstr "LDAP에서 사용자 삭제됨"
+
+#: inc/other.class.php:93
+msgid "Webservice logs"
+msgstr "웹서비스 로그"
+
+#: inc/other.class.php:97
+msgid "OCS Infos"
+msgstr "OCS 정보"
+
+#: inc/other.class.php:100
+msgid "Add/update/remove device"
+msgstr "장치 추가/갱신/제거"
+
+#: inc/other.class.php:103
+msgid "Add/remove relation"
+msgstr "연관 추가/제거"
+
+#: inc/other.class.php:106
+msgid "Add/remove item"
+msgstr "품목 추가/제거"
+
+#: inc/other.class.php:109
+msgid "Comments & date_mod changes"
+msgstr "의견 & date_mod 변경"
+
+#: inc/other.class.php:117
+msgid "Genericobject plugin logs"
+msgstr "일반객체 플러그인 로그"
+
+#: inc/profile.class.php:70 inc/profile.class.php:216
+#: inc/profile.class.php:288
+msgid "Rights management"
+msgstr "저작권 관리"
+
+#: inc/preference.class.php:123 inc/common.class.php:1148
+msgid "Please, select a model in your preferences"
+msgstr "사용자 설정 모델을 선택해 주세요"
+
+#: inc/common.class.php:61 inc/common.class.php:62 inc/common.class.php:77
+#: inc/dashboard.class.php:35 ajax/homepage_link.php:8
+msgid "Dashboard"
+msgstr "대시보드"
+
+#: inc/common.class.php:64 inc/common.class.php:65 inc/common.class.php:86
+msgid "Reports list"
+msgstr "보고서 목록"
+
+#: inc/common.class.php:507 ajax/dropdownExport.php:42
+msgid "Without data"
+msgstr "자료 제외"
+
+#: inc/common.class.php:508 ajax/dropdownExport.php:41
+msgid "With data"
+msgstr "자료 포함"
+
+#: inc/common.class.php:929
+msgid "Number"
+msgstr "연번"
+
+#: inc/common.class.php:950 inc/common.class.php:1253
+#: inc/common.class.php:1269
+msgid "data"
+msgstr "자료"
+
+#: inc/common.class.php:1155
+msgid "No model available"
+msgstr "사용 가능한 모델 없음"
+
+#: inc/common.class.php:1163
+msgid "No graphic selected"
+msgstr "선택된 시각화 없음"
+
+#: inc/common.class.php:1406
+msgid "Week"
+msgstr "주"
+
+#: inc/common.class.php:1407
+msgid "Month"
+msgstr "월"
+
+#: inc/common.class.php:1520
+msgid "Max depth entity level"
+msgstr "최대 심도 개체 수준"
+
+#: inc/notification.class.php:34 inc/notification.class.php:55
+#: inc/notification.class.php:128
+msgid "Notification for \"More Reporting\""
+msgstr "\"보고서 더 보기\"에 대한 알림"
+
+#: inc/notification.class.php:39
+msgid ""
+"\n"
+"<p>Hello,</p>\n"
+"\n"
+"<p>GLPI reports are available.<br />\n"
+"You will find attached in this email.</p>\n"
+"\n"
+msgstr "\n<p>안녕하세요,</p>\n\n<p>GLPI 보고서를 사용할 수 있습니다.<br />\n이 이메일에 첨부되어 있습니다.</p>\n\n"
+
+#: inc/notification.class.php:46 inc/pdf.class.php:15
+msgid "GLPI statistics reports"
+msgstr "GLPI 통계 보고서"
+
+#: inc/notification.class.php:47
+msgid ""
+"Hello,\n"
+"\n"
+"GLPI reports are available.\n"
+"You will find attached in this email.\n"
+"\n"
+msgstr "안녕하세요,\n\nGLPI 보고서를 사용할 수 있습니다.\n이 이메일에 첨부되어 있습니다.\n"
+
+#: inc/notification.class.php:153
+msgid "Notification(s) sent !"
+msgstr "알림(들) 발송!"
+
+#: inc/graph.class.php:154 inc/graph.class.php:353 inc/graph.class.php:550
+#: inc/graph.class.php:810 inc/graph.class.php:1030 inc/graph.class.php:1259
+#: inc/graph.class.php:1500 inc/graphpng.class.php:551
+#: inc/graphpng.class.php:745 inc/graphpng.class.php:945
+#: inc/graphpng.class.php:1254 inc/graphpng.class.php:1491
+#: inc/graphpng.class.php:1796 inc/graphpng.class.php:2065
+msgid "No data for this date range !"
+msgstr "이 날짜 범위에는 자료가 없습니다!"
+
+#: inc/helpdesk.class.php:284 inc/helpdesk.class.php:343
+msgid "Undefined"
+msgstr "지정되지 않음"
+
+#: inc/config.class.php:38
+msgid "Configuration"
+msgstr "구성"
+
+#: inc/config.class.php:82 inc/config.class.php:691
+msgid "See area"
+msgstr "영역 보기"
+
+#: inc/config.class.php:91 inc/config.class.php:706 inc/config.class.php:718
+msgid "Curve lines (SVG)"
+msgstr "곡선 (SVG)"
+
+#: inc/config.class.php:100
+msgid "See values"
+msgstr "가치 보기"
+
+#: inc/config.class.php:110 inc/config.class.php:733
+msgid "Reverse data array"
+msgstr "역 자료 배열"
+
+#: inc/config.class.php:119 inc/config.class.php:745
+msgid "Unit"
+msgstr "단위"
+
+#: inc/config.class.php:127 inc/config.class.php:755
+msgid "Default delay"
+msgstr "기본 지연"
+
+#: inc/config.class.php:135 inc/config.class.php:763
+msgid "Additional condition for MySQL"
+msgstr "MySQL의 추가 조건"
+
+#: inc/config.class.php:143 inc/config.class.php:671
+msgid "See graphic"
+msgstr "시각화 보기"
+
+#: inc/config.class.php:152
+msgid "Class"
+msgstr "클래스"
+
+#: inc/config.class.php:160
+msgid "Default chart format"
+msgstr "기본 도표 형식"
+
+#: inc/config.class.php:169 inc/config.class.php:772
+msgid "Send this report with the notification"
+msgstr "이 보고서를 알림으로 보내기"
+
+#: inc/config.class.php:255
+msgid "Initialize graphics configuration"
+msgstr "시각화 구성 초기화"
+
+#: inc/config.class.php:492 inc/config.class.php:507
+msgid "On mouse over"
+msgstr "마우스를 위로 올릴때"
+
+#: inc/config.class.php:575
+msgid "Object already exists"
+msgstr "객체가 이미 존재함"
+
+#: inc/dashboard.class.php:85
+msgid "Select a report to display"
+msgstr "표시할 보고서 선택"
+
+#: inc/dashboard.class.php:96
+msgid "Dashboard is empty. Please add reports by clicking on the icon"
+msgstr "대시보드가 비었습니다. 아이콘 위를 클릭하여 보고서를 추가하세요"
+
+#: inc/dashboard.class.php:105
+msgid "Add a report"
+msgstr "보고서 추가"
+
+#: inc/dashboard.class.php:134
+msgid "Select a report to add"
+msgstr "추가할 보고서 선택"
+
+#: inc/dashboard.class.php:223
+msgid "Configure report"
+msgstr "구성 보고서"
+
+#: inc/pdf.class.php:16
+msgid "Automaticaly generated by GLPI"
+msgstr "GLPI가 자동으로 생성함"

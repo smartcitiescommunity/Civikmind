@@ -1,0 +1,1 @@
+ALTER TABLE glpi_plugin_activity_options ADD `use_type_as_name` tinyint(1) default 0;

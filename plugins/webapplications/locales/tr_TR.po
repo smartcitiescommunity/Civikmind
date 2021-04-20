@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Webapplications Development Team
+# This file is distributed under the same license as the GLPI - Webapplications plugin package.
+# 
+# Translators:
+# Kaya Zeren <kayazeren@gmail.com>, 2013,2015,2017
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Project - webapplications plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-23 08:39+0200\n"
+"PO-Revision-Date: 2020-07-23 06:48+0000\n"
+"Last-Translator: Xavier CAILLAUD <thetsmr@gmail.com>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/infotelGLPI/GLPI_webapplications/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: hook.php:281 inc/appliance.class.php:57
+msgid "Backoffice URL"
+msgstr "Arka Ofis İnternet Adresi"
+
+#: setup.php:72 inc/profile.class.php:175 inc/webapplication.class.php:48
+msgid "Web application"
+msgid_plural "Web applications"
+msgstr[0] "Web uygulamaları"
+msgstr[1] "Web uygulamaları"
+
+#: front/webapplication.php:42 front/webapplication.php:45
+msgid "Core migration"
+msgstr ""
+
+#: front/webapplication.php:47
+msgid "Are you sure you want to do core migration ??"
+msgstr ""
+
+#: front/webapplication.php:58
+msgid "Data migration"
+msgstr ""
+
+#: front/webapplication.php:100
+msgid "Tables purge"
+msgstr ""
+
+#: front/webapplication.php:122
+msgid "Link with core purge"
+msgstr ""
+
+#: front/webapplication.php:143
+msgid "Migration was successful"
+msgstr ""
+
+#: inc/appliance.class.php:81
+msgid "Editor"
+msgstr "Düzenleyen"
+
+#: inc/webapplicationservertype.class.php:49
+msgid "Type of treatment server"
+msgid_plural "Types of treatment server"
+msgstr[0] "Çalıştığı sunucu"
+msgstr[1] "Çalıştığı sunucu"
+
+#: inc/webapplicationtechnic.class.php:49
+msgid "Language of treatment"
+msgid_plural "Languages of treatment"
+msgstr[0] "Çalışma dilleri"
+msgstr[1] "Çalışma dilleri"
+
+#: inc/webapplicationtype.class.php:50
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] "Kategori"
+msgstr[1] "Kategori"

@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# José Hilton <joseehilton123@gmail.com>, 2018
+# Jefferson Brito Passos dos Santos <jeffersantoss@gmail.com>, 2020
+# Rodrigo de Almeida Sottomaior Macedo <rmsolucoeseminformatic4@gmail.com>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-03 18:32+0000\n"
+"PO-Revision-Date: 2018-06-01 14:02+0000\n"
+"Last-Translator: Rodrigo de Almeida Sottomaior Macedo <rmsolucoeseminformatic4@gmail.com>, 2020\n"
+"Language-Team: Portuguese (Brazil) (https://www.transifex.com/pluginsGLPI/teams/73419/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: hook.php:89 inc/type.class.php:37 inc/entity.class.php:351
+msgid "Credit voucher type"
+msgid_plural "Credit vouchers types"
+msgstr[0] "Tipo de carga de crédito"
+msgstr[1] "Tipos de cargas de crédito"
+
+#: hook.php:98 inc/ticket.class.php:35 inc/entity.class.php:35
+#: inc/notificationtargetentity.class.php:35
+#: inc/notificationtargetentity.class.php:47
+msgid "Credit voucher"
+msgid_plural "Credit vouchers"
+msgstr[0] "Carga de crédito"
+msgstr[1] "Cargas de crédito"
+
+#: hook.php:99 inc/ticket.class.php:219 inc/ticket.class.php:360
+#: inc/ticket.class.php:408 inc/ticket.class.php:575 inc/entity.class.php:218
+msgid "Quantity consumed"
+msgstr "Quantidade consumida"
+
+#: hook.php:100 inc/entity.class.php:219
+#: inc/notificationtargetentity.class.php:33
+#: inc/notificationtargetentity.class.php:50
+msgid "Quantity remaining"
+msgstr "Quantidade restante"
+
+#: inc/ticket.class.php:180
+msgid "Consumed credits for this ticket"
+msgstr "Consuma cargas para este ticket"
+
+#: inc/ticket.class.php:215 inc/ticket.class.php:349
+msgid "Voucher name"
+msgstr "Nome do crédito"
+
+#: inc/ticket.class.php:216
+msgid "Voucher type"
+msgstr "Tipo de crédito"
+
+#: inc/ticket.class.php:217 inc/ticket.class.php:406 inc/ticket.class.php:567
+msgid "Date consumed"
+msgstr "Data de consumo"
+
+#: inc/ticket.class.php:218 inc/ticket.class.php:407
+msgid "User consumed"
+msgstr "Usuário que utilizou"
+
+#: inc/ticket.class.php:269 inc/ticket.class.php:394
+msgid "No credit was recorded"
+msgstr "Nenhum registro de consumo"
+
+#: inc/ticket.class.php:276
+msgid "Active credit vouchers for ticket entity"
+msgstr "Ativar cargas de crédito para chamados da entidade"
+
+#: inc/ticket.class.php:342
+msgid "Consume a voucher ?"
+msgstr "Consumir crédito?"
+
+#: inc/ticket.class.php:388
+msgid "Detail of tickets on which consumption is declared"
+msgstr "Detalhe dos chamados em que o consumo é declarado"
+
+#: inc/ticket.class.php:505
+msgid "You must provide a credit voucher"
+msgstr "Você deve providenciar uma carga de crédito"
+
+#: inc/ticket.class.php:525 inc/ticket.class.php:534
+#, php-format
+msgid "Quantity consumed exceeds remaining credits: %d"
+msgstr "A quantidade consumida é maior do que os créditos restantes: %d"
+
+#: inc/ticket.class.php:552
+msgid "Credit voucher successfully added."
+msgstr "Carga de crédito adicionada com sucesso."
+
+#: inc/ticket.class.php:587 setup.php:88
+msgid "Credit vouchers"
+msgstr "Carga de créditos"
+
+#: inc/entity.class.php:133
+msgid "Add a credit voucher"
+msgstr "Adicionar carga de crédito"
+
+#: inc/entity.class.php:154 inc/entity.class.php:217 inc/entity.class.php:339
+#: inc/notificationtargetentity.class.php:34
+#: inc/notificationtargetentity.class.php:48
+msgid "Quantity sold"
+msgstr "Quantidade vendida"
+
+#: inc/entity.class.php:162 inc/entity.class.php:220 inc/entity.class.php:359
+msgid "Allow overconsumption"
+msgstr "Permitir consumo acima do permitido"
+
+#: inc/entity.class.php:269 inc/entity.class.php:276 inc/entity.class.php:277
+msgid "Consumed details"
+msgstr "Consumo detalhado"
+
+#: inc/entity.class.php:301
+msgid "No credit voucher"
+msgstr "Sem cargas restantes"
+
+#: inc/entity.class.php:370 inc/notificationtargetentity.class.php:7
+msgid "Expiration date"
+msgstr "Data de validade"
+
+#: inc/entity.class.php:371
+msgid "Notice (in days)"
+msgstr ""
+"Aviso (em dias)\n"
+" "
+
+#: inc/notificationtargetentity.class.php:32
+#: inc/notificationtargetentity.class.php:49
+msgid "End date"
+msgstr "Data final"
+
+#: inc/notificationtargetentity.class.php:64
+msgid "Credit voucher expiration"
+msgstr "Expiração do voucher de crédito"
+
+#: inc/notificationtargetentity.class.php:65
+msgid ""
+"This credit voucher will expire soon. Please, consider buying a new one."
+msgstr ""
+"Este comprovante de crédito expirará em breve. Por favor, considere comprar "
+"um novo."

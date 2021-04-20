@@ -1,0 +1,51 @@
+language: php
+
+php:
+  - nightly
+  - 7.4
+  - 7.3
+  - 7.2
+  - 7.1
+  - 7.0
+  - 5.6
+
+jobs:
+  fast_finish: true
+  allow_failures:
+    - php: nightly
+  include:
+    - php: 5.5
+      dist: trusty
+    - php: 5.4
+      dist: precise
+    
+install:
+  - pear version
+  - pear list
+  - pear channel-update pear
+  - |
+      if [[ $TRAVIS_PHP_VERSION = 5* ]]; then
+        pear install -f pear-1.10.1
+      else
+        pear install -f pear-1.10.11
+      fi
+  - pear install text_diff
+  - pear list
+  - sh scripts/pear.sh config-set umask 0022
+  - sh scripts/pear.sh config-set umask 0022 system
+script:
+  - umask 0022
+  - sh scripts/pear.sh run-tests -q -d -r tests
+  - sh scripts/pear.sh package-validate package2.xml
+  - sh scripts/pear.sh package package2.xml
+  - sh scripts/pear.sh package-validate PEAR-*.tgz
+  - pear install --force package2.xml
+  - pear list
+  - pear install --force PEAR-*.tgz
+  - pear list
+  - pear upgrade --force archive_tar console_getopt structures_graph xml_util
+  - pear list
+  - sh scripts/pear.sh run-tests -q -d -r tests
+  - pear install --force php_archive
+  - pear list
+  - ./build-release.sh

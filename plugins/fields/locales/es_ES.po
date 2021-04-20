@@ -1,0 +1,203 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Alexander J. Salas B. <alexander.salas@gmail.com>, 2016
+# 5b63a00e0726b96d7ef35c99d5553cd0_b787b5f <8bb2d0f7e8927228f17fba8639d787be_31711>, 2016
+# Pruebas, 2019
+# Ricardo Herrero <ricardo.herrero@gmail.com>, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - Fields\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-09 14:29+0000\n"
+"PO-Revision-Date: 2020-10-27 14:43+0000\n"
+"Last-Translator: Cédric Anne\n"
+"Language-Team: Spanish (Spain) (http://www.transifex.com/teclib/glpi-plugin-plugin-fields/language/es_ES/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: hook.php:58
+msgid "MySQL tables installation"
+msgstr "Instalación de las tablas MySQL"
+
+#: hook.php:106
+msgid "The plugin can't be uninstalled when the plugin is disabled"
+msgstr "El plugin no se puede desinstalar el plugin cuando se desactiva"
+
+#: hook.php:115
+msgid "MySQL tables uninstallation"
+msgstr "Desinstalación de las tablas MySQL"
+
+#: front/container.form.php:35 front/container.php:4 inc/menu.class.php:6
+#: setup.php:187
+msgid "Additionnal fields"
+msgstr "Campos adicionales"
+
+#: inc/dropdown.class.php:19
+msgid "Updating generated dropdown files"
+msgstr "Actualización de los archivos 'desplegables' generados"
+
+#: inc/labeltranslation.class.php:147
+msgid "Language"
+msgstr "Idioma"
+
+#: inc/labeltranslation.class.php:148
+msgid "Label"
+msgstr "Etiqueta"
+
+#: inc/container.class.php:16
+msgid "Regenerate container files"
+msgstr "Regenerar archivos contenedores"
+
+#: inc/container.class.php:17 inc/container.class.php:589
+msgid "Export to YAML"
+msgstr ""
+
+#: inc/container.class.php:93
+msgid "Fix container names"
+msgstr "Corrija los nombres de los contenedores"
+
+#: inc/container.class.php:181
+msgid "Updating generated containers files"
+msgstr "Actualizar los archivos de contenedores generados"
+
+#: inc/container.class.php:377
+msgid "You cannot add block without associated element type"
+msgstr "No se puede agregar un bloque sin el tipo de elemento asociado"
+
+#: inc/container.class.php:394
+msgid ""
+"You cannot add several blocks with type 'Insertion in the form' on same "
+"object"
+msgstr "No se pueden añadir varios bloques con el tipo 'inserción en el formulario' en el mismo objeto"
+
+#: inc/container.class.php:409
+msgid ""
+"You cannot add several blocks with type 'Insertion in the form of a specific"
+" tab' on same object tab"
+msgstr "No puede agregar varios bloques con el tipo 'inserción en forma de una pestaña específica' en la misma pestaña de objeto"
+
+#: inc/container.class.php:425
+msgid ""
+"Container name is too long for database (digits in name are replaced by "
+"characters, try to remove them)"
+msgstr ""
+
+#: inc/container.class.php:439
+msgid "You cannot add several blocs with identical name on same object"
+msgstr "No se pueden añadir varios bloques con un nombre idéntico en el mismo objeto"
+
+#: inc/container.class.php:582
+msgid "Block"
+msgstr "Bloque"
+
+#: inc/container.class.php:661
+msgid "Tab"
+msgstr "Pestaña"
+
+#: inc/container.class.php:876
+msgid "Add tab"
+msgstr "Agregar pestaña"
+
+#: inc/container.class.php:877
+msgid "Insertion in the form (before save button)"
+msgstr "Insertando en el formulario (antes del botón guardar)"
+
+#: inc/container.class.php:878
+msgid "Insertion in the form of a specific tab (before save button)"
+msgstr "Inserción en el formulario de una pestaña específica (antes del botón guardar)"
+
+#: inc/container.class.php:1240
+msgid "Some mandatory fields are empty"
+msgstr "Algunos campos obligatorios están vacíos"
+
+#: inc/container.class.php:1245
+msgid "Some numeric fields contains non numeric values"
+msgstr "Algunos campos numéricos contienen valores no numéricos"
+
+#: inc/container.class.php:1250
+msgid "Some URL fields contains invalid links"
+msgstr "Algunos campos de URL contienen vínculos no válidos"
+
+#: inc/toolbox.class.php:90
+msgid "Fix fields names"
+msgstr "Corrija los nombres de los campos"
+
+#: inc/field.class.php:79
+msgid "Field"
+msgstr "Campo"
+
+#: inc/field.class.php:90 inc/field.class.php:115
+msgid ""
+"Field name is too long for database (digits in name are replaced by "
+"characters, try to remove them)"
+msgstr ""
+
+#: inc/field.class.php:272
+msgid "Fields"
+msgstr "Campos"
+
+#: inc/field.class.php:326
+msgid "Add a new field"
+msgstr "Agregar nuevo campo"
+
+#: inc/field.class.php:330
+msgid "No field for this block"
+msgstr "Ningún campo para este bloque"
+
+#: inc/field.class.php:342 inc/field.class.php:455
+msgid "Read only"
+msgstr "Solo lectura"
+
+#: inc/field.class.php:432
+msgid "Configure"
+msgstr "Configurar"
+
+#: inc/field.class.php:432
+msgid "Configure fields values"
+msgstr "Configure valores de los campos"
+
+#: inc/field.class.php:753
+msgid "show"
+msgstr "mostrar"
+
+#: inc/field.class.php:916
+msgid "Header"
+msgstr "Encabezamiento"
+
+#: inc/field.class.php:917
+msgid "Text (single line)"
+msgstr "Texto (línea simple)"
+
+#: inc/field.class.php:918
+msgid "Text (multiples lines)"
+msgstr "Texto (multiples líneas)"
+
+#: inc/field.class.php:919
+msgid "Number"
+msgstr "Número"
+
+#: inc/field.class.php:920
+msgid "URL"
+msgstr "URL"
+
+#: inc/field.class.php:921
+msgid "Dropdown"
+msgstr "Menú desplegable"
+
+#: inc/field.class.php:922
+msgid "Yes/No"
+msgstr "Si/No"
+
+#: inc/field.class.php:923
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/field.class.php:924
+msgid "Date & time"
+msgstr "Fecha & Hora"

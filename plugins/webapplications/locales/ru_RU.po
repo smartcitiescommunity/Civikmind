@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Webapplications Development Team
+# This file is distributed under the same license as the GLPI - Webapplications plugin package.
+# 
+# Translators:
+# Roman O <master_bb@e1.ru>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Project - webapplications plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-23 08:39+0200\n"
+"PO-Revision-Date: 2020-07-23 06:48+0000\n"
+"Last-Translator: Xavier CAILLAUD <thetsmr@gmail.com>\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/infotelGLPI/GLPI_webapplications/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: hook.php:281 inc/appliance.class.php:57
+msgid "Backoffice URL"
+msgstr "URL Бэк-офиса"
+
+#: setup.php:72 inc/profile.class.php:175 inc/webapplication.class.php:48
+msgid "Web application"
+msgid_plural "Web applications"
+msgstr[0] "Веб-приложение"
+msgstr[1] "Веб-приложений"
+msgstr[2] "Веб-приложений"
+msgstr[3] "Веб-приложение"
+
+#: front/webapplication.php:42 front/webapplication.php:45
+msgid "Core migration"
+msgstr ""
+
+#: front/webapplication.php:47
+msgid "Are you sure you want to do core migration ??"
+msgstr ""
+
+#: front/webapplication.php:58
+msgid "Data migration"
+msgstr ""
+
+#: front/webapplication.php:100
+msgid "Tables purge"
+msgstr ""
+
+#: front/webapplication.php:122
+msgid "Link with core purge"
+msgstr ""
+
+#: front/webapplication.php:143
+msgid "Migration was successful"
+msgstr ""
+
+#: inc/appliance.class.php:81
+msgid "Editor"
+msgstr "Редактор"
+
+#: inc/webapplicationservertype.class.php:49
+msgid "Type of treatment server"
+msgid_plural "Types of treatment server"
+msgstr[0] "Тип обслуживающего сервера"
+msgstr[1] "Типов обслуживающего сервера"
+msgstr[2] "Типов обслуживающего сервера"
+msgstr[3] "Тип обслуживающего сервера"
+
+#: inc/webapplicationtechnic.class.php:49
+msgid "Language of treatment"
+msgid_plural "Languages of treatment"
+msgstr[0] "Язык обслуживания"
+msgstr[1] "Языков обслуживания"
+msgstr[2] "Языков обслуживания"
+msgstr[3] "Язык обслуживания"
+
+#: inc/webapplicationtype.class.php:50
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] "Категории"
+msgstr[1] "Категорий"
+msgstr[2] "Категорий"
+msgstr[3] "Категория"

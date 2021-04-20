@@ -1,0 +1,243 @@
+/*
+ -------------------------------------------------------------------------
+ Activity plugin for GLPI
+ Copyright (C) 2019 by the Activity Development Team.
+ -------------------------------------------------------------------------
+
+ LICENSE
+
+ This file is part of Activity.
+
+ Activity is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+
+ Activity is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with Activity. If not, see <http://www.gnu.org/licenses/>.
+ --------------------------------------------------------------------------
+*/
+
+.activity_message {
+   border:solid 2px #CCCCCC;
+   padding: 5px;
+   text-align: center;
+   display: none;
+   background-color: white;
+
+   -moz-border-radius: 3px;
+   -webkit-border-radius: 3px;
+   border-radius: 3px;
+}
+
+.activity_message_container {
+   text-align:center;
+
+   margin:0px auto 5px auto;
+   width:950px;
+}
+
+.activity_modal_table td{
+   padding: 10px;
+}
+
+.twhite {
+   background-color: #FFF;
+}
+
+#months-list {
+   margin: 5px;
+   background: #FFF;
+}
+
+a.activity_href {
+   border: 1px solid;
+   background-color: #f5f5f5;
+   /*color: #000;*/
+   margin : 0px;
+   font-weight: normal;
+   padding: 5px 15px 5px 15px;
+   background-image: linear-gradient(to bottom,#fff,#e6e6e6);
+   background-repeat: repeat-x;
+   border-color: rgba(0,0,0,.1) rgba(0,0,0,.1) rgba(0,0,0,.25);
+   color: #333;
+   text-shadow: 0 1px 1px rgba(255,255,255,.75);
+   box-shadow: inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);
+   cursor: pointer;
+}
+
+.activity_tab_cadre {
+   width:1000px;
+   margin: 0 auto 10px auto;
+   -moz-border-radius: 4px;
+   -webkit-border-radius: 4px;
+   border-radius: 4px;
+   border: 1px solid #CCC;
+   z-index: 1;
+   text-align: left;
+   font-size: 11px;
+   background-color: #FFF;
+}
+
+.activity-ui-dialog{
+    z-index: 5001 !important;
+}
+
+.activity_tree {
+   border-bottom:1px dotted #FFF;
+   border-left:1px dotted #FFF;
+   float:left;
+   height:10px;
+   width:10px;
+   margin:0px 5px 0px 10px;
+}
+
+.stats {
+        width : 600px;
+        height: 384px;
+        margin: 8px auto;
+}
+.statsbig {
+        width : 100%;
+        height: 750px;
+        margin: 8px auto;
+}
+
+
+.activity-caption-label {
+    width:150px;
+    text-align:right;
+}
+
+.activity-caption-color {
+    width:20px;
+}
+
+.activity-caption {
+    padding : 10px;
+}
+
+.fa-activity::before {
+   content: "\f073";
+   font-family: "Font Awesome 5 Free";
+   color: #FFF;
+   font-size: 2em;
+   color: white;
+}
+
+/** "slide panel" component */
+
+body {
+   position: relative;
+}
+
+body.iframed {
+   margin-top: 1em;
+}
+
+.slidepanel {
+   z-index: 100;
+   position: absolute;
+   width: 30em;
+   max-width: 40%;
+   background: white;
+   top: 0;
+   min-height: 100vh;
+   height: calc(100% - 28px); /* Without footer */
+   border: none;
+}
+
+.drag {
+   display: inline-block;
+   height: 18px;
+   padding-right: 1em;
+   cursor: move;
+}
+
+.slidepanel .header {
+   border-bottom: 1px solid #ccc;
+   min-height: 2.4em;
+}
+
+.slidepanel .header > h3 {
+   margin: 0;
+   padding-top: .3em;
+   text-align: center;
+}
+
+.slidepanel .header .icon {
+   margin-top: .5em;
+   margin-right: .5em;
+}
+
+.slidepanel .contents {
+   clear: both;
+}
+
+.layout_lefttab .slidepanel .new_form_tabs .ui-tabs-nav,
+.slidepanel .ui-tabs {
+   width: auto;
+}
+
+.slidepanel.onleft {
+   left: 0;
+   border-right: 1px solid #ccc;
+}
+.slidepanel.onleft .close {
+   float: right;
+}
+
+.slidepanel.onleft .icon {
+   float: left;
+}
+
+.slidepanel.onright {
+   right: 0;
+   border-left: 1px solid #ccc;
+}
+.slidepanel.onright .close {
+   float: left;
+}
+
+.slidepanel.onright .icon {
+   float:right;
+}
+
+.slidepanel .tab_cadre_fixehov {
+   box-shadow: none;
+}
+
+.slidepanel .default {
+   display: inline-block;
+   width: 18px;
+   height: 18px;
+}
+
+/** end "slide panel" component */
+
+.primary {
+   /* Primary color elements (white on blue BG) designed to be overridden from palettes */
+   /* Colors are same as #c_menu */
+   background: #3A5693;
+   color: white;
+}
+
+.options {
+   cursor: pointer;
+   margin: auto;
+   font-size: 12px;
+   padding: 5px;
+   color: #004F91;
+   text-align: center;
+   border-radius: 3px;
+   font-weight: bold;
+}
+
+.question {
+   cursor: pointer;
+}

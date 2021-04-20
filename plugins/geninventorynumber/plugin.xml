@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <name>Inventory Number Generation</name>
+   <key>geninventorynumber</key>
+   <state>stable</state>
+   <logo>https://raw.githubusercontent.com/pluginsGLPI/geninventorynumber/master/geninventorynumber.png</logo>
+   <description>
+      <short>
+         <cs><![CDATA[Vytváření inventárních čísel]]></cs>
+         <fr><![CDATA[Génération de numéros d'inventaire]]></fr>
+         <en><![CDATA[Inventory numbers generation]]></en>
+      </short>
+      <long>
+         <cs><![CDATA[Tento zásuvný modul umožňuje vytvářet inventární čísla. Nastavení umožňuje určit:<br /> - Typy pro které je automatické vytváření zapnuté<br /> - Šablony inventárních čísel<br /> - Zda jsou čítače globální nebo jen pro určitý typ]]></cs>
+         <fr><![CDATA[Cette extention vous permet de générer automatiquement un numéro d’inventaire. La configuration donne la possibilité de définir :<br /> - Les types qui nécessitent cette automatisation<br /> - Les modèles de numéros à générer<br /> - Si les compteurs sont globaux ou spécifiques pour chaque type]]></fr>
+         <en><![CDATA[This plugin enables inventory numbers automatic generation. The configuration allows you to define :<br /> - The types for which automatic generation is enabled<br /> - Inventory number templates<br /> - If counters are globals or type specific]]></en>
+      </long>
+   </description>
+   <homepage>https://github.com/pluginsGLPI/geninventorynumber</homepage>
+   <download>https://github.com/pluginsGLPI/geninventorynumber/releases</download>
+   <issues>https://github.com/pluginsGLPI/geninventorynumber/issues</issues>
+   <readme>https://raw.githubusercontent.com/pluginsGLPI/geninventorynumber/master/README.md</readme>
+   <authors>
+      <author>Walid Nouh</author>
+   </authors>
+   <versions>
+      <version>
+         <num>2.5.0</num>
+         <compatibility>~9.5.0</compatibility>
+         <download_url>https://github.com/pluginsGLPI/geninventorynumber/releases/download/2.5.0/glpi-geninventorynumber-2.5.0.tar.bz2</download_url>
+      </version>
+      <version>
+         <num>2.4.1</num>
+         <compatibility>9.4</compatibility>
+         <compatibility>9.3</compatibility>
+      </version>
+      <version>
+         <num>2.4.0</num>
+         <compatibility>9.4</compatibility>
+         <compatibility>9.3</compatibility>
+      </version>
+      <version>
+         <num>2.3.0</num>
+         <compatibility>9.3</compatibility>
+      </version>
+      <version>
+         <num>2.2.0</num>
+         <compatibility>9.2</compatibility>
+      </version>
+      <version>
+         <num>9.1+1.0</num>
+          <compatibility>0.85</compatibility>
+          <compatibility>0.90</compatibility>
+          <compatibility>9.1</compatibility>
+      </version>
+      <version>
+         <num>0.85+1.0</num>
+          <compatibility>0.85</compatibility>
+          <compatibility>0.90</compatibility>
+      </version>
+      <version>
+         <num>2.1</num>
+          <compatibility>0.84</compatibility>
+      </version>
+      <version>
+         <num>2.0</num>
+          <compatibility>0.83.3+</compatibility>
+      </version>
+      <version>
+         <num>1.3.0</num>
+          <compatibility>0.72</compatibility>
+      </version>
+      <version>
+         <num>1.2.0</num>
+          <compatibility>0.72</compatibility>
+      </version>
+      <version>
+          <num>1.1.1</num>
+          <compatibility>0.71</compatibility>
+      </version>
+   </versions>
+   <langs>
+      <lang>cs_CZ</lang>
+      <lang>fr_FR</lang>
+      <lang>en_GB</lang>
+   </langs>
+   <license><![CDATA[GPL v2+]]></license>
+   <category></category>
+   <tags>
+         <cs>
+            <tag>inventura</tag>
+            <tag>inventární číslo</tag>
+            <tag>vytváření</tag>
+         </cs>
+         <fr>
+            <tag>inventaire</tag>
+            <tag>numéro d'inventaire</tag>
+            <tag>génération</tag>
+         </fr>
+         <en>
+            <tag>inventory</tag>
+            <tag>inventory number</tag>
+            <tag>generation</tag>
+         </en>
+   </tags>
+</root>

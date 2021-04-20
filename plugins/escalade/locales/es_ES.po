@@ -1,0 +1,208 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# 5b63a00e0726b96d7ef35c99d5553cd0_b787b5f <8bb2d0f7e8927228f17fba8639d787be_31711>, 2016
+# Cédric Anne, 2018
+# Iñigo C. Sánchez <icabrera@grupo-otua.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - Escalade\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-12 07:54+0000\n"
+"PO-Revision-Date: 2020-07-03 18:47+0000\n"
+"Last-Translator: Cédric Anne\n"
+"Language-Team: Spanish (Spain) (http://www.transifex.com/teclib/glpi-project-plugin-escalade/language/es_ES/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: hook.php:426
+msgid "Group concerned by the escalation"
+msgstr "Grupo concerniente por el escalado"
+
+#: hook.php:444
+msgid "Number of escalations"
+msgstr ""
+
+#: hook.php:458
+msgid "Number of escalations between two groups"
+msgstr ""
+
+#: hook.php:471 hook.php:489 inc/config.class.php:260
+msgid "Enable filtering on the groups assignment"
+msgstr "Habilitar el filtrado en la asignación de los grupos"
+
+#: front/popup_histories.php:4
+msgid "full assignation history"
+msgstr "historial completo de asignación"
+
+#: front/climb_group.php:6 ajax/assign_me.php:5
+msgid "missing parameters"
+msgstr "faltan parámetros"
+
+#: front/config.form.php:36 inc/user.class.php:168
+#: inc/group_group.class.php:24 setup.php:165
+msgid "Escalation"
+msgstr "Escalado"
+
+#: inc/notification.class.php:29
+msgid "Requester user of the ticket"
+msgstr ""
+
+#: inc/notification.class.php:51
+msgid "Group escalated in the ticket"
+msgstr ""
+
+#: inc/notification.class.php:53
+msgid "Manager of the group escalated in the ticket"
+msgstr ""
+
+#: inc/notification.class.php:57
+msgid "Requester user of the task/reminder"
+msgstr ""
+
+#: inc/notification.class.php:187
+msgid "Solve date modification"
+msgstr ""
+
+#: inc/user.class.php:129
+msgid "Bypass filtering on the groups assignment"
+msgstr ""
+
+#: inc/ticket.class.php:101
+msgid "Solution provided, back to the group"
+msgstr "Solución proveida, atras al grupo"
+
+#: inc/ticket.class.php:163
+msgid "Solution rejected, return to the group"
+msgstr "Solución rechazada, regresar al grupo"
+
+#: inc/ticket.class.php:271
+msgid "escalated to the group"
+msgstr "escalado para el grupo"
+
+#: inc/ticket.class.php:638
+msgid "Error : get old ticket"
+msgstr "Error : Al obtener tickets antiguos"
+
+#: inc/ticket.class.php:654
+msgid "Error : adding new ticket"
+msgstr "Error: agregando nuevo ticket"
+
+#: inc/ticket.class.php:666
+msgid "Error : adding link between the two tickets"
+msgstr "Error :  agregando vinculo entre los dos  tickets"
+
+#: inc/ticket.class.php:676 inc/ticket.class.php:717 inc/ticket.class.php:722
+msgid "This ticket has been cloned from the ticket num"
+msgstr "Este ticket ha sido desde el ticket numero"
+
+#: inc/ticket.class.php:681
+msgid "Error : adding followups"
+msgstr "Error: añadiendo seguimientos"
+
+#: inc/ticket.class.php:692
+msgid "Error : adding actors (user)"
+msgstr "Error : agregando actores (usuario)"
+
+#: inc/ticket.class.php:701
+msgid "Error : adding actors (group)"
+msgstr "Error : agregando actores (grupo)"
+
+#: inc/ticket.class.php:711
+msgid "Error : adding documents"
+msgstr "Error : agregando documentos"
+
+#: inc/history.class.php:95
+msgid "Reassign the ticket to group"
+msgstr "Reasignar el ticket al grupo"
+
+#: inc/history.class.php:119
+msgid "View full history"
+msgstr "Ver la historia completa"
+
+#: inc/history.class.php:166
+msgid "Tickets to follow (climbed)"
+msgstr " Tickets para seguir (escalado)"
+
+#: inc/history.class.php:180
+msgid "Tickets to close (climbed)"
+msgstr " Tickets para cerrar (escalado)"
+
+#: inc/config.class.php:7
+msgid "Configuration Escalade plugin"
+msgstr "Plugin de configuración de Escalado"
+
+#: inc/config.class.php:22
+msgid "Remove old assign group on new group assign"
+msgstr "Eliminar la asignación antigua del grupo en la nueva asignación"
+
+#: inc/config.class.php:44
+msgid "show group assign history visually"
+msgstr "mostrar historial visual de asignación de grupo"
+
+#: inc/config.class.php:56
+msgid "Escalation history in tasks"
+msgstr "Historia del escalado en las tareas"
+
+#: inc/config.class.php:65
+msgid "Remove technician(s) on escalation"
+msgstr "Retire técnico(s) en el escalado"
+
+#: inc/config.class.php:77
+msgid "Ticket status after an escalation"
+msgstr "Estado de los tickets después del escalado"
+
+#: inc/config.class.php:85
+msgid "Assign ticket to initial group on solve ticket"
+msgstr "Asignar una solicitud al grupo inicial a su resolución"
+
+#: inc/config.class.php:98
+msgid "Assign the technical manager on ticket category change"
+msgstr "Asignar el director técnico en el tcket de cambio de categoría"
+
+#: inc/config.class.php:109
+msgid "Assign the technical group on ticket category change"
+msgstr "Asignar al grupo técnico cuando cambie la categoría"
+
+#: inc/config.class.php:121
+msgid "Clone tickets"
+msgstr "Clonar tickets"
+
+#: inc/config.class.php:131
+msgid "Close cloned tickets at the same time"
+msgstr "Cerrar tickets clonados al mismo tiempo"
+
+#: inc/config.class.php:149
+msgid "Use the technician's group"
+msgstr "Utilice el grupo de técnicos"
+
+#: inc/config.class.php:167
+msgid "a time of creation"
+msgstr "a la hora de crear"
+
+#: inc/config.class.php:169
+msgid "a time of modification"
+msgstr "a la hora de modificar"
+
+#: inc/config.class.php:196
+msgid ""
+"Nota: This feature (creation part) is duplicate with the <a "
+"href='##link##'>Behavior</a>plugin. This last has priority."
+msgstr "Nota: Esta función (parte de creación) está duplicada con el complemento <a href='##link##'>Comportamiento</a>. Este último tiene prioridad.priority."
+
+#: inc/config.class.php:205
+msgid "Display delete button"
+msgstr ""
+
+#: inc/config.class.php:299
+msgid "Don't change"
+msgstr "No cambar"
+
+#: js/cloneandlink_ticket.js.php:13
+msgid "Clone and link"
+msgstr "Clonar y vincular"

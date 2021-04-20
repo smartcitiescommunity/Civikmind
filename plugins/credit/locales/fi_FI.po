@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Markku Vepsä, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-03 18:32+0000\n"
+"PO-Revision-Date: 2018-06-01 14:02+0000\n"
+"Last-Translator: Markku Vepsä, 2019\n"
+"Language-Team: Finnish (Finland) (https://www.transifex.com/pluginsGLPI/teams/73419/fi_FI/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: hook.php:89 inc/type.class.php:37 inc/entity.class.php:351
+msgid "Credit voucher type"
+msgid_plural "Credit vouchers types"
+msgstr[0] "Arvosetelin tyyppi"
+msgstr[1] "Arvosetelien tyypit"
+
+#: hook.php:98 inc/ticket.class.php:35 inc/entity.class.php:35
+#: inc/notificationtargetentity.class.php:35
+#: inc/notificationtargetentity.class.php:47
+msgid "Credit voucher"
+msgid_plural "Credit vouchers"
+msgstr[0] "Arvoseteli"
+msgstr[1] "Arvosetelit"
+
+#: hook.php:99 inc/ticket.class.php:219 inc/ticket.class.php:360
+#: inc/ticket.class.php:408 inc/ticket.class.php:575 inc/entity.class.php:218
+msgid "Quantity consumed"
+msgstr "Kulutettu määrä"
+
+#: hook.php:100 inc/entity.class.php:219
+#: inc/notificationtargetentity.class.php:33
+#: inc/notificationtargetentity.class.php:50
+msgid "Quantity remaining"
+msgstr "Jäljellä oleva määrä"
+
+#: inc/ticket.class.php:180
+msgid "Consumed credits for this ticket"
+msgstr "Kulutettu arvo tälle tiketille"
+
+#: inc/ticket.class.php:215 inc/ticket.class.php:349
+msgid "Voucher name"
+msgstr "Arvosetelin nimi"
+
+#: inc/ticket.class.php:216
+msgid "Voucher type"
+msgstr "Arvosetelin tyyppi"
+
+#: inc/ticket.class.php:217 inc/ticket.class.php:406 inc/ticket.class.php:567
+msgid "Date consumed"
+msgstr "Käyttöpäivä"
+
+#: inc/ticket.class.php:218 inc/ticket.class.php:407
+msgid "User consumed"
+msgstr "Kuluttanut käyttäjä"
+
+#: inc/ticket.class.php:269 inc/ticket.class.php:394
+msgid "No credit was recorded"
+msgstr "Arvoa ei kirjattu"
+
+#: inc/ticket.class.php:276
+msgid "Active credit vouchers for ticket entity"
+msgstr "Yksikön tikettien aktiiviset arvosetelit"
+
+#: inc/ticket.class.php:342
+msgid "Consume a voucher ?"
+msgstr "Käytä arvoseteli ?"
+
+#: inc/ticket.class.php:388
+msgid "Detail of tickets on which consumption is declared"
+msgstr "Kulutukseen liitettyjen tikettien tiedot"
+
+#: inc/ticket.class.php:505
+msgid "You must provide a credit voucher"
+msgstr "Sinun täytyy antaa arvoseteli"
+
+#: inc/ticket.class.php:525 inc/ticket.class.php:534
+#, php-format
+msgid "Quantity consumed exceeds remaining credits: %d"
+msgstr "Kulutettu määrä ylittää jäljellä olevan määrän: %d"
+
+#: inc/ticket.class.php:552
+msgid "Credit voucher successfully added."
+msgstr "Arvoseteli lisätty onnistuneesti"
+
+#: inc/ticket.class.php:587 setup.php:88
+msgid "Credit vouchers"
+msgstr "Arvosetelit"
+
+#: inc/entity.class.php:133
+msgid "Add a credit voucher"
+msgstr "Lisää arvoseteli"
+
+#: inc/entity.class.php:154 inc/entity.class.php:217 inc/entity.class.php:339
+#: inc/notificationtargetentity.class.php:34
+#: inc/notificationtargetentity.class.php:48
+msgid "Quantity sold"
+msgstr "Myyty määrä"
+
+#: inc/entity.class.php:162 inc/entity.class.php:220 inc/entity.class.php:359
+msgid "Allow overconsumption"
+msgstr "Salli ylikuluttaminen"
+
+#: inc/entity.class.php:269 inc/entity.class.php:276 inc/entity.class.php:277
+msgid "Consumed details"
+msgstr "Kulutuksen tiedot"
+
+#: inc/entity.class.php:301
+msgid "No credit voucher"
+msgstr "Ei arvoseteli"
+
+#: inc/entity.class.php:370 inc/notificationtargetentity.class.php:7
+msgid "Expiration date"
+msgstr ""
+
+#: inc/entity.class.php:371
+msgid "Notice (in days)"
+msgstr ""
+
+#: inc/notificationtargetentity.class.php:32
+#: inc/notificationtargetentity.class.php:49
+msgid "End date"
+msgstr ""
+
+#: inc/notificationtargetentity.class.php:64
+msgid "Credit voucher expiration"
+msgstr ""
+
+#: inc/notificationtargetentity.class.php:65
+msgid ""
+"This credit voucher will expire soon. Please, consider buying a new one."
+msgstr ""

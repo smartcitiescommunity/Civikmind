@@ -1,0 +1,76 @@
+.badges_wizard_rank {
+    margin: 0 auto;
+    padding: 5px;
+    border: 1px solid #ccc;
+    z-index: 1;
+    text-align: left;
+    font-size: 14px;
+    width: 100%;
+    background-color: #ffffff;
+
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+
+    -moz-box-shadow: 0px 2px 5px #666;
+    -webkit-box-shadow: 0px 2px 5px #666;
+    box-shadow: 0px 2px 5px #666;
+}
+
+.badges_wizard_title {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 5px;
+    color: black;
+}
+
+.badges_wizard_img {
+    vertical-align: middle;
+}
+
+.badges_wizard_button {
+    height: 35px;
+    border-top: 2px outset black;
+}
+
+.badge_previous_button {
+    float: left;
+}
+
+.badge_next_button {
+    float: right;
+}
+
+.badges_wizard {
+    margin: 0 auto;
+    display: table;
+    padding: 5px;
+    text-align: left;
+    font-size: 14px;
+    width: 900px;
+    background-color: #fff;
+}
+
+.badges_wizard_form {
+    width: auto;
+    margin: 0 auto;
+}
+
+.badges_wizard_form td {
+    padding: 5px;
+}
+
+.badges_wizard_red {
+    margin-left: 5px;
+    color: red;
+}
+
+.badges_wizard_info {
+    border: 2px solid #ccc;
+    background-color: #fff;
+}
+.badges_menu_a {
+    display: block;
+    width: 150px;
+    margin: 20px;
+}

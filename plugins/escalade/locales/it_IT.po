@@ -1,0 +1,207 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Cédric Anne, 2018
+# Davide <spam@habilitas.it>, 2016-2017,2019
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - Escalade\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-12 07:54+0000\n"
+"PO-Revision-Date: 2020-07-03 18:47+0000\n"
+"Last-Translator: Cédric Anne\n"
+"Language-Team: Italian (Italy) (http://www.transifex.com/teclib/glpi-project-plugin-escalade/language/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: hook.php:426
+msgid "Group concerned by the escalation"
+msgstr "Gruppo coinvolto nell'escalazione"
+
+#: hook.php:444
+msgid "Number of escalations"
+msgstr "Numero di escalation"
+
+#: hook.php:458
+msgid "Number of escalations between two groups"
+msgstr "Numero di escalation tra due gruppi"
+
+#: hook.php:471 hook.php:489 inc/config.class.php:260
+msgid "Enable filtering on the groups assignment"
+msgstr "Abilitare il filtro per gruppi di assegnazione"
+
+#: front/popup_histories.php:4
+msgid "full assignation history"
+msgstr "Cronologia completa delle assegnazioni"
+
+#: front/climb_group.php:6 ajax/assign_me.php:5
+msgid "missing parameters"
+msgstr "parametri mancanti"
+
+#: front/config.form.php:36 inc/user.class.php:168
+#: inc/group_group.class.php:24 setup.php:165
+msgid "Escalation"
+msgstr "Escalation"
+
+#: inc/notification.class.php:29
+msgid "Requester user of the ticket"
+msgstr "Utente richiedente nel ticket"
+
+#: inc/notification.class.php:51
+msgid "Group escalated in the ticket"
+msgstr "Gruppo oggetto dell'escalation nel ticket"
+
+#: inc/notification.class.php:53
+msgid "Manager of the group escalated in the ticket"
+msgstr "Manager del gruppo oggetto di escalation nel ticket"
+
+#: inc/notification.class.php:57
+msgid "Requester user of the task/reminder"
+msgstr "Utente richiedente nel compito/promemoria"
+
+#: inc/notification.class.php:187
+msgid "Solve date modification"
+msgstr "Modifica data di risoluzione"
+
+#: inc/user.class.php:129
+msgid "Bypass filtering on the groups assignment"
+msgstr ""
+
+#: inc/ticket.class.php:101
+msgid "Solution provided, back to the group"
+msgstr "Soluzione fornita, rimandata al gruppo"
+
+#: inc/ticket.class.php:163
+msgid "Solution rejected, return to the group"
+msgstr "Soluzione rifiutata, rimandata al gruppo"
+
+#: inc/ticket.class.php:271
+msgid "escalated to the group"
+msgstr "Escalation al gruppo"
+
+#: inc/ticket.class.php:638
+msgid "Error : get old ticket"
+msgstr "Errore: recupera le chiamate vecchie"
+
+#: inc/ticket.class.php:654
+msgid "Error : adding new ticket"
+msgstr "Errore: aggiungi nuove chiamate"
+
+#: inc/ticket.class.php:666
+msgid "Error : adding link between the two tickets"
+msgstr "Errore: durante il collegamento tra due chiamate"
+
+#: inc/ticket.class.php:676 inc/ticket.class.php:717 inc/ticket.class.php:722
+msgid "This ticket has been cloned from the ticket num"
+msgstr "Questa chiamata deriva dalla chiamata numero"
+
+#: inc/ticket.class.php:681
+msgid "Error : adding followups"
+msgstr "Error: durante l'aggiunta di un commento"
+
+#: inc/ticket.class.php:692
+msgid "Error : adding actors (user)"
+msgstr "Errore: durante l'aggiunta di attori (utenti)"
+
+#: inc/ticket.class.php:701
+msgid "Error : adding actors (group)"
+msgstr "Errore: durante l'aggiunta di attori (gruppi)"
+
+#: inc/ticket.class.php:711
+msgid "Error : adding documents"
+msgstr "Errore aggiungendo documenti"
+
+#: inc/history.class.php:95
+msgid "Reassign the ticket to group"
+msgstr "Riassegna la chiamata al gruppo"
+
+#: inc/history.class.php:119
+msgid "View full history"
+msgstr "Vedere la cronologia completa"
+
+#: inc/history.class.php:166
+msgid "Tickets to follow (climbed)"
+msgstr "Chiamate da seguire (già scalate)"
+
+#: inc/history.class.php:180
+msgid "Tickets to close (climbed)"
+msgstr "Chiamate da chiudere (già scalate)"
+
+#: inc/config.class.php:7
+msgid "Configuration Escalade plugin"
+msgstr "Configurazione del plugin di Escalation"
+
+#: inc/config.class.php:22
+msgid "Remove old assign group on new group assign"
+msgstr "Rimuovere i gruppi assegnatari esistenti all'assegnazione a nuovi gruppi"
+
+#: inc/config.class.php:44
+msgid "show group assign history visually"
+msgstr "Mostra la cronologia dei gruppi assegnatari visulamente"
+
+#: inc/config.class.php:56
+msgid "Escalation history in tasks"
+msgstr "Cronologia delle escalation nelle attività"
+
+#: inc/config.class.php:65
+msgid "Remove technician(s) on escalation"
+msgstr "Rimuovere i tecnici(o) dall'escalation"
+
+#: inc/config.class.php:77
+msgid "Ticket status after an escalation"
+msgstr "Stato della chiamata dopo un'escalation"
+
+#: inc/config.class.php:85
+msgid "Assign ticket to initial group on solve ticket"
+msgstr "Assegna la chiamata al gruppo iniziale alla risoluzione"
+
+#: inc/config.class.php:98
+msgid "Assign the technical manager on ticket category change"
+msgstr "Assegnare al responsabile tecnico alla cambiamento di categoria della chiamata"
+
+#: inc/config.class.php:109
+msgid "Assign the technical group on ticket category change"
+msgstr "Assegnare al gruppo tecnico al cambiamento della categoria della chiamata"
+
+#: inc/config.class.php:121
+msgid "Clone tickets"
+msgstr "Clona la chiamata"
+
+#: inc/config.class.php:131
+msgid "Close cloned tickets at the same time"
+msgstr "Chiudi le chiamate clonate allo stesso momento"
+
+#: inc/config.class.php:149
+msgid "Use the technician's group"
+msgstr "Usa il gruppo tecnici"
+
+#: inc/config.class.php:167
+msgid "a time of creation"
+msgstr "data di creazione"
+
+#: inc/config.class.php:169
+msgid "a time of modification"
+msgstr "data di modifica"
+
+#: inc/config.class.php:196
+msgid ""
+"Nota: This feature (creation part) is duplicate with the <a "
+"href='##link##'>Behavior</a>plugin. This last has priority."
+msgstr "Nota: Questa funzione (creazione) è realizzata anche dal plugin <a href='##link##'>Behavior</a>. Quest'ultimo ha la priorità"
+
+#: inc/config.class.php:205
+msgid "Display delete button"
+msgstr "Mostra il bottone di cancellazione"
+
+#: inc/config.class.php:299
+msgid "Don't change"
+msgstr "Non cambiare"
+
+#: js/cloneandlink_ticket.js.php:13
+msgid "Clone and link"
+msgstr "Clona e collega"

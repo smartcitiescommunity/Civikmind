@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - Tag\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-05 14:58+0100\n"
+"PO-Revision-Date: 2016-01-28 14:05+0000\n"
+"Last-Translator: Jérémy MOREAU <jmoreau.dev@gmail.com>\n"
+"Language-Team: Latvian (Latvia) (http://www.transifex.com/teclib/glpi-plugin-tag/language/lv_LV/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lv_LV\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+
+#: hook.php:71 ajax/tag.php:15 inc/tag.class.php:17 inc/tagitem.class.php:16
+msgid "Tag"
+msgid_plural "Tag"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: setup.php:83
+msgid "Tag Management"
+msgstr ""
+
+#: ajax/tag.php:32
+msgid "Add type"
+msgstr ""
+
+#: inc/tag.class.php:39
+msgid "HTML color"
+msgstr ""
+
+#: inc/tag.class.php:55 inc/tag.class.php:295
+msgid "Tag type"
+msgid_plural "Tag types"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/tag.class.php:369
+msgid "Choose tags..."
+msgstr ""

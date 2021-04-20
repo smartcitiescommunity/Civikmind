@@ -1,0 +1,62 @@
+language: php
+php:
+#  - 5.6
+  - 7.0
+  - 7.1
+  - 7.2
+  - 7.3
+  - nightly
+
+env:
+  global:
+    - DB=mysql
+  matrix:
+    - GLPIVER=9.5/bugfixes
+    - GLPIVER=9.4/bugfixes
+    - GLPIVER=9.3/bugfixes
+#    - GLPIVER=master
+
+before_script:
+  - composer self-update
+  - composer require --dev atoum/atoum
+  - git clone --depth=1 https://github.com/glpi-project/glpi -b $GLPIVER ../glpi && cd ../glpi
+  - sed -e '/"php":/d' -i composer.json
+  - sed -i 's/CssMin/cssmin/;s/Faker/Faker/;s/vfsStream/vfsstream/' composer.json
+  - composer install --optimize-autoloader --no-dev
+  - rm -f composer.lock
+  - mysql -u root -e 'create database glpitest;'
+  # Both 9.3 and 9.4:
+  - if [[ -f "scripts/cliinstall.php" ]]; then php scripts/cliinstall.php --db=glpitest --user=root --tests; else bin/console glpi:database:install --config-dir=./tests --no-interaction --db-name=glpitest --db-user=root; fi
+  - mv ../actualtime plugins/actualtime
+  - cd plugins/actualtime
+  - composer install -o
+
+
+script:
+  - vendor/bin/robo --no-interaction code:cs
+  - mysql -u root -e 'select version();'
+  - ./vendor/bin/atoum --debug -bf tests/bootstrap.php -d tests/units/
+
+
+# Permit failure on PHP nightly until Travis fix missing gd extension
+matrix:
+  exclude:
+#    - php: 5.6
+#      env: GLPIVER=master
+#    - php: 5.6
+#      env: GLPIVER=9.4/bugfixes
+  allow_failures:
+    - php: nightly
+
+cache:
+  directories:
+    - $HOME/.composer/cache
+
+#notifications:
+#  irc:
+#    channels:
+#      - "irc.freenode.org#channel"
+#    on_success: change
+#    on_failure: always
+#    use_notice: true
+#    skip_join: true

@@ -1,0 +1,125 @@
+<root>
+   <name>Metabase</name>
+   <key>metabase</key>
+   <state>stable</state>
+   <logo>https://raw.githubusercontent.com/pluginsGLPI/metabase/master/logo.png</logo>
+   <description>
+      <short>
+         <en>This plugin eases integration of GLPI with Metabase</en>
+         <fr>Ce plugin facilite l'intégration de GLPI avec Metabase</fr>
+      </short>
+      <long>
+         <en>
+This plugin eases integration of GLPI with [Metabase](https://www.metabase.com/). 
+
+It currently permits to: 
+
+* Connect to Metabase API.
+* Push database configuration or use existing configured db in Metabase.
+* Push GLPI foreign keys in Metabase datamodel
+* Push GLPI enumeration (tickets impacts/urgency/priority/types) in metabase datamodel
+* Push questions, collections and dashboards (if exists).
+* Integrate Metabase dashboards into GLPI (on Central).
+* Manage profiles (dashboards publication)
+* import existing questions/dashboards/collection from Metabase and save them as json
+
+[Teclib'](http://www.teclib-group.com/) provides with [GLPI Network](https://services.glpi-network.com/) distribution, additional services like support for installation, questions and dashboards conception.
+         </en>
+         <fr>
+Ce plugin facilite l'intégration de GLPI avec [Metabase](https://www.metabase.com/). 
+
+Il permet actuellement de: 
+
+* Se connecter à l'API de Metabase.
+* Pousser la configuration de la base de données ou d'utiliser une base de données configurée dans Metabase.
+* Pousser les clefs étrangère dans le modèle de données de Metabase
+* Pousser les énumérations (champs impact/urgence/priorité/type des tickets) dans le modèle de données
+* Pousser les questions, collections et tableaux de bords (si ils existent)
+* Intégrer les tableaux de bord de Metabase dans GLPI (sur la page centrale)
+* Gérer les profils (publication des tableaux de bord)
+* Importer les questions, collections et tableaux de bord existant depuis Metabase et les enregistrer au format JSON
+
+[Teclib'](http://www.teclib-group.com/) fournit avec la distribution [GLPI Network](https://services.glpi-network.com/) des services additionnels comme du support pour l'installation, de la conception de questions et tableaux de bord.
+         </fr>
+      </long>
+   </description>
+   <homepage>https://github.com/pluginsGLPI/metabase</homepage>
+   <download>https://github.com/pluginsGLPI/metabase/releases</download>
+   <issues>https://github.com/pluginsGLPI/metabase/issues</issues>
+   <readme>https://github.com/pluginsGLPI/metabase/blob/master/Readme.md</readme>
+   <authors>
+      <author>Teclib'</author>
+   </authors>
+   <versions>
+      <version>
+         <num>1.2.2</num>
+         <compatibility>~9.5.0</compatibility>
+         <download_url>https://github.com/pluginsGLPI/metabase/releases/download/1.2.2/glpi-metabase-1.2.2.tar.bz2</download_url>
+      </version>
+      <version>
+         <num>1.2.1</num>
+         <compatibility>~9.5.0</compatibility>
+         <download_url>https://github.com/pluginsGLPI/metabase/releases/download/1.2.1/glpi-metabase-1.2.1.tar.bz2</download_url>
+      </version>
+      <version>
+         <num>1.2.0</num>
+         <compatibility>~9.5.0</compatibility>
+         <download_url>https://github.com/pluginsGLPI/metabase/releases/download/1.2.0/glpi-metabase-1.2.0.tar.bz2</download_url>
+      </version>
+      <version>
+         <num>1.1.0</num>
+         <compatibility>~9.5.0</compatibility>
+         <download_url>https://github.com/pluginsGLPI/metabase/releases/download/1.1.0/glpi-metabase-1.1.0.tar.bz2</download_url>
+      </version>
+      <version>
+         <num>1.0.0</num>
+         <compatibility>9.4</compatibility>
+         <compatibility>9.3</compatibility>
+         <compatibility>9.2</compatibility>
+      </version>
+      <version>
+         <num>0.9.0</num>
+         <compatibility>9.4</compatibility>
+         <compatibility>9.3</compatibility>
+         <compatibility>9.2</compatibility>
+      </version>
+      <version>
+         <num>0.8.1</num>
+         <compatibility>9.3</compatibility>
+         <compatibility>9.2</compatibility>
+      </version>
+      <version>
+         <num>0.8.0</num>
+         <compatibility>9.3</compatibility>
+         <compatibility>9.2</compatibility>
+      </version>
+   </versions>
+   <langs>
+      <lang>en_GB</lang>
+   </langs>
+   <license>AGPLv3</license>
+   <tags>
+      <en>
+         <tag>Reporting</tag>
+         <tag>Data-vizualisation</tag>
+         <tag>Business-intelligence</tag>
+         <tag>Dashboard</tag>
+         <tag>Statistics</tag>
+         <tag>Central</tag>
+      </en>
+      <fr>
+         <tag>rapports</tag>
+         <tag>Visualisation de données</tag>
+         <tag>Tableau-de-bord</tag>
+         <tag>Graphiques</tag>
+         <tag>Statistiques</tag>
+         <tag>Central</tag>
+      </fr>
+   </tags>
+   <screenshots>
+      <screenshot>https://raw.githubusercontent.com/pluginsGLPI/metabase/master/screenshots/teclib_helpdesk.png</screenshot>
+      <screenshot>https://raw.githubusercontent.com/pluginsGLPI/metabase/master/screenshots/teclib_assets.png</screenshot>
+      <screenshot>https://raw.githubusercontent.com/pluginsGLPI/metabase/master/screenshots/configuration.png</screenshot>
+      <screenshot>https://raw.githubusercontent.com/pluginsGLPI/metabase/master/screenshots/central.png</screenshot>
+   </screenshots>
+</root>

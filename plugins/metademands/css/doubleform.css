@@ -1,0 +1,61 @@
+.formCol {
+   display: block;
+   width: 90%;
+   height: 90%;
+   margin: 2px;
+   padding: 6px 12px;
+   font-size: 14px;
+   line-height: 1.42857143;
+   color: #555;
+   background-color: #fff;
+   background-image: none;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+   -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+   box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+   -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+   -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+   transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.zone {
+   margin: 5px;
+   margin-bottom: 25px;
+}
+
+@media (min-width: 768px) {
+   .zone {
+      width:30%;
+   }
+}
+
+@media (min-width: 1600px) {
+   .zone {
+      width: 40%;
+   }
+}
+
+.searchCol{
+   margin: 10px;
+   height: 20px;
+   width: 80%;
+}
+
+@media (min-width: 768px) {
+   .centralCol {
+      margin-left: -10px;
+      margin-right: 10px;
+   }
+}
+
+
+.buttonCol {
+
+}
+.buttonColTop{
+   margin-top: 65px;
+}
+
+.formCol > option {
+   border: none;
+}

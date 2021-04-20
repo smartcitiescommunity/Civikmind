@@ -1,0 +1,274 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# David Stepan <stepand@tiscali.cz>, 2016
+# Pavel Borecki <pavel.borecki@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - MReporting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-09 15:12+0000\n"
+"PO-Revision-Date: 2018-06-28 11:42+0000\n"
+"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
+"Language-Team: Czech (Czech Republic) (http://www.transifex.com/teclib/glpi-project-plugin-mreporting/language/cs_CZ/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+#: front/dashboard.form.php:34 front/dashboard.form.php:39 front/config.php:45
+#: front/preference.form.php:45 front/graph.php:39 front/central.php:33
+#: front/config.form.php:56 inc/profile.class.php:38
+#: inc/preference.class.php:182 inc/notificationtargetnotification.class.php:8
+#: inc/common.class.php:49 inc/notification.class.php:18 setup.php:177
+msgid "More Reporting"
+msgstr "Rozšířené výkazy"
+
+#: front/central.php:73 front/central.php:80 inc/common.class.php:329
+#: inc/common.class.php:396 inc/config.class.php:663
+msgid "No report is available !"
+msgstr "Není k dispozici žádný výkaz!"
+
+#: front/popup.php:38 inc/common.class.php:1147 inc/common.class.php:1154
+#: inc/common.class.php:1162
+msgid "General Report - ODT"
+msgstr "Obecný výkaz – ODT"
+
+#: inc/other.class.php:70
+msgid "Add/remove software on a computer"
+msgstr "Přidat/odebrat software v počítači"
+
+#: inc/other.class.php:73
+msgid "Add/remove version on a software"
+msgstr "Přidat/odebrat verzi software"
+
+#: inc/other.class.php:76
+msgid "Add infocom"
+msgstr "Přidat finanční informace"
+
+#: inc/other.class.php:79
+msgid "Add/remove profile on a user"
+msgstr "Přidat/odebrat profil uživatele"
+
+#: inc/other.class.php:82
+msgid "Add/remove group on a user"
+msgstr "Přidat/odebrat skupinu uživatele"
+
+#: inc/other.class.php:85
+msgid "User deleted from LDAP"
+msgstr "Uživatel smazán z LDAP adresáře"
+
+#: inc/other.class.php:93
+msgid "Webservice logs"
+msgstr "Záznam událostí (log) z webových služeb"
+
+#: inc/other.class.php:97
+msgid "OCS Infos"
+msgstr "Informace z OCS"
+
+#: inc/other.class.php:100
+msgid "Add/update/remove device"
+msgstr "Přidat/aktualizovat/odebrat zařízení"
+
+#: inc/other.class.php:103
+msgid "Add/remove relation"
+msgstr "Přidat/odebrat sezení"
+
+#: inc/other.class.php:106
+msgid "Add/remove item"
+msgstr "Přidat/odebrat položku"
+
+#: inc/other.class.php:109
+msgid "Comments & date_mod changes"
+msgstr "Komentáře a date_mod změny"
+
+#: inc/other.class.php:117
+msgid "Genericobject plugin logs"
+msgstr "Záznamy (log) zásuvného modulu Obecný objekt"
+
+#: inc/profile.class.php:70 inc/profile.class.php:216
+#: inc/profile.class.php:288
+msgid "Rights management"
+msgstr "Správa práv"
+
+#: inc/preference.class.php:123 inc/common.class.php:1148
+msgid "Please, select a model in your preferences"
+msgstr "Ve svých předvolbách vyberte model"
+
+#: inc/common.class.php:61 inc/common.class.php:62 inc/common.class.php:77
+#: inc/dashboard.class.php:35 ajax/homepage_link.php:8
+msgid "Dashboard"
+msgstr "Přehled"
+
+#: inc/common.class.php:64 inc/common.class.php:65 inc/common.class.php:86
+msgid "Reports list"
+msgstr "Seznam výkazů"
+
+#: inc/common.class.php:507 ajax/dropdownExport.php:42
+msgid "Without data"
+msgstr "Bez dat"
+
+#: inc/common.class.php:508 ajax/dropdownExport.php:41
+msgid "With data"
+msgstr "S daty"
+
+#: inc/common.class.php:929
+msgid "Number"
+msgstr "Počet"
+
+#: inc/common.class.php:950 inc/common.class.php:1253
+#: inc/common.class.php:1269
+msgid "data"
+msgstr "data"
+
+#: inc/common.class.php:1155
+msgid "No model available"
+msgstr "Není k dispozici žádný model"
+
+#: inc/common.class.php:1163
+msgid "No graphic selected"
+msgstr "Nebyl vybrán žádný obrázek"
+
+#: inc/common.class.php:1406
+msgid "Week"
+msgstr "Týden"
+
+#: inc/common.class.php:1407
+msgid "Month"
+msgstr "Měsíc"
+
+#: inc/common.class.php:1520
+msgid "Max depth entity level"
+msgstr "Maximální hloubka ve stromu entit"
+
+#: inc/notification.class.php:34 inc/notification.class.php:55
+#: inc/notification.class.php:128
+msgid "Notification for \"More Reporting\""
+msgstr "Oznámení pro „Rozšířené výkazy“"
+
+#: inc/notification.class.php:39
+msgid ""
+"\n"
+"<p>Hello,</p>\n"
+"\n"
+"<p>GLPI reports are available.<br />\n"
+"You will find attached in this email.</p>\n"
+"\n"
+msgstr "\n<p>Dobrý den,</p>\n\n<p>Jsou k dispozici výkazy z GLPI.<br />\nNaleznete je v příloze tohoto e-mailu.</p>\n\n"
+
+#: inc/notification.class.php:46 inc/pdf.class.php:15
+msgid "GLPI statistics reports"
+msgstr "Statistické výkazy z GLPI"
+
+#: inc/notification.class.php:47
+msgid ""
+"Hello,\n"
+"\n"
+"GLPI reports are available.\n"
+"You will find attached in this email.\n"
+"\n"
+msgstr "Dobrý den,\n\nJsou k dispozici výkazy z GLPI.\nNaleznete je v příloze tohoto e-mailu.\n\n"
+
+#: inc/notification.class.php:153
+msgid "Notification(s) sent !"
+msgstr "Oznámení odeslána!"
+
+#: inc/graph.class.php:154 inc/graph.class.php:353 inc/graph.class.php:550
+#: inc/graph.class.php:810 inc/graph.class.php:1030 inc/graph.class.php:1259
+#: inc/graph.class.php:1500 inc/graphpng.class.php:551
+#: inc/graphpng.class.php:745 inc/graphpng.class.php:945
+#: inc/graphpng.class.php:1254 inc/graphpng.class.php:1491
+#: inc/graphpng.class.php:1796 inc/graphpng.class.php:2065
+msgid "No data for this date range !"
+msgstr "Nebyla nalezena žádná data pro toto časové rozmezí!"
+
+#: inc/helpdesk.class.php:284 inc/helpdesk.class.php:343
+msgid "Undefined"
+msgstr "Neurčeno"
+
+#: inc/config.class.php:38
+msgid "Configuration"
+msgstr "Nastavení"
+
+#: inc/config.class.php:82 inc/config.class.php:691
+msgid "See area"
+msgstr "Zobrazit oblast"
+
+#: inc/config.class.php:91 inc/config.class.php:706 inc/config.class.php:718
+msgid "Curve lines (SVG)"
+msgstr "Křivky (SVG)"
+
+#: inc/config.class.php:100
+msgid "See values"
+msgstr "Zobrazit hodnoty"
+
+#: inc/config.class.php:110 inc/config.class.php:733
+msgid "Reverse data array"
+msgstr "Reverzní pole dat"
+
+#: inc/config.class.php:119 inc/config.class.php:745
+msgid "Unit"
+msgstr "Jednotka"
+
+#: inc/config.class.php:127 inc/config.class.php:755
+msgid "Default delay"
+msgstr "Výchozí prodleva"
+
+#: inc/config.class.php:135 inc/config.class.php:763
+msgid "Additional condition for MySQL"
+msgstr "Dodatečná podmínka pro MySQL"
+
+#: inc/config.class.php:143 inc/config.class.php:671
+msgid "See graphic"
+msgstr "Zobrazit grafiku"
+
+#: inc/config.class.php:152
+msgid "Class"
+msgstr "Třída"
+
+#: inc/config.class.php:160
+msgid "Default chart format"
+msgstr "Výchozí formát grafu"
+
+#: inc/config.class.php:169 inc/config.class.php:772
+msgid "Send this report with the notification"
+msgstr "Odeslat tento výkaz s oznámením"
+
+#: inc/config.class.php:255
+msgid "Initialize graphics configuration"
+msgstr "Inicializovat nastavení grafiky"
+
+#: inc/config.class.php:492 inc/config.class.php:507
+msgid "On mouse over"
+msgstr "Při najetí kurzorem"
+
+#: inc/config.class.php:575
+msgid "Object already exists"
+msgstr "Objekt už existuje"
+
+#: inc/dashboard.class.php:85
+msgid "Select a report to display"
+msgstr "Vyberte výkaz, který chcete zobrazit"
+
+#: inc/dashboard.class.php:96
+msgid "Dashboard is empty. Please add reports by clicking on the icon"
+msgstr "Přehled je prázdný. Přidejte výkaz kliknutím na ikonu"
+
+#: inc/dashboard.class.php:105
+msgid "Add a report"
+msgstr "Přidat výkaz"
+
+#: inc/dashboard.class.php:134
+msgid "Select a report to add"
+msgstr "Vyberte výkaz, který chcete přidat"
+
+#: inc/dashboard.class.php:223
+msgid "Configure report"
+msgstr "Nastavit výkaz"
+
+#: inc/pdf.class.php:16
+msgid "Automaticaly generated by GLPI"
+msgstr "Automaticky vytvořeno systémem GLPI"

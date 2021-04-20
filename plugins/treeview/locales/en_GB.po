@@ -1,0 +1,101 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2020 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-05 11:36+0000\n"
+"PO-Revision-Date: 2020-07-05 11:36+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/profile.class.php:106
+msgid "Use the tree"
+msgstr "Use the tree"
+
+#: inc/profile.class.php:137 inc/preference.class.php:42
+#: inc/preference.class.php:115 inc/config.class.php:49
+#: inc/config.class.php:243 inc/config.class.php:315 setup.php:112 left.php:38
+#: left.php:54
+msgid "Tree view"
+msgstr "Tree view"
+
+#: inc/preference.class.php:58
+msgid "Launch the plugin Treeview with GLPI launching"
+msgstr "Launch the plugin Treeview with GLPI launching"
+
+#: inc/preference.class.php:69
+msgid ""
+"Warning: If there are more than one plugin which be loaded at startup, then "
+"only the first will be used"
+msgstr ""
+"Warning: If there are more than one plugin which be loaded at startup, then "
+"only the first will be used"
+
+#: inc/config.class.php:60
+msgid "Display"
+msgstr "Display"
+
+#: inc/config.class.php:62
+msgid "Target for all the nodes"
+msgstr "Target for all the nodes"
+
+#: inc/config.class.php:65
+msgid "New window"
+msgstr "New window"
+
+#: inc/config.class.php:67
+msgid "The central console"
+msgstr "The central console"
+
+#: inc/config.class.php:71
+msgid "Should folders be links"
+msgstr "Should folders be links"
+
+#: inc/config.class.php:80
+msgid "Nodes can be highlighted"
+msgstr "Nodes can be highlighted"
+
+#: inc/config.class.php:88
+msgid "Tree is drawn with lines"
+msgstr "Tree is drawn with lines"
+
+#: inc/config.class.php:96
+msgid "Tree is drawn with icons"
+msgstr "Tree is drawn with icons"
+
+#: inc/config.class.php:106
+msgid "Only one node within a parent"
+msgstr "Only one node within a parent"
+
+#: inc/config.class.php:107
+msgid "can be expanded at the same time."
+msgstr "can be expanded at the same time."
+
+#: inc/config.class.php:116
+msgid "Item name"
+msgstr "Item name"
+
+#: inc/config.class.php:130
+msgid "Location name"
+msgstr "Location name"
+
+#: inc/config.class.php:134 inc/config.class.php:138
+msgid "Short name"
+msgstr "Short name"
+
+#: inc/config.class.php:136 inc/config.class.php:141
+msgid "Long name"
+msgstr "Long name"
+
+#: inc/config.class.php:138 inc/config.class.php:141
+msgid "Comment"
+msgstr "Comment"

@@ -1,0 +1,208 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Cédric Anne, 2018
+# David Stepan <stepand@tiscali.cz>, 2016,2020
+# Pavel Borecki <pavel.borecki@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - Escalade\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-12 07:54+0000\n"
+"PO-Revision-Date: 2020-09-01 20:36+0000\n"
+"Last-Translator: David Stepan <stepand@tiscali.cz>\n"
+"Language-Team: Czech (Czech Republic) (http://www.transifex.com/teclib/glpi-project-plugin-escalade/language/cs_CZ/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+#: hook.php:426
+msgid "Group concerned by the escalation"
+msgstr "Skupina které se eskalace týká"
+
+#: hook.php:444
+msgid "Number of escalations"
+msgstr "Počet eskalací"
+
+#: hook.php:458
+msgid "Number of escalations between two groups"
+msgstr "Počet eskalací mezi dvěma skupinami"
+
+#: hook.php:471 hook.php:489 inc/config.class.php:260
+msgid "Enable filtering on the groups assignment"
+msgstr "Filtrovat dle přiřazení skupin"
+
+#: front/popup_histories.php:4
+msgid "full assignation history"
+msgstr "úplná historie přiřazení"
+
+#: front/climb_group.php:6 ajax/assign_me.php:5
+msgid "missing parameters"
+msgstr "chybějící parametry"
+
+#: front/config.form.php:36 inc/user.class.php:168
+#: inc/group_group.class.php:24 setup.php:165
+msgid "Escalation"
+msgstr "Eskalace"
+
+#: inc/notification.class.php:29
+msgid "Requester user of the ticket"
+msgstr "Uživatel-žadatel požadavku"
+
+#: inc/notification.class.php:51
+msgid "Group escalated in the ticket"
+msgstr "Skupina eskalovaná v požadavku"
+
+#: inc/notification.class.php:53
+msgid "Manager of the group escalated in the ticket"
+msgstr "Vedoucí skupiny eskalované v požadavku"
+
+#: inc/notification.class.php:57
+msgid "Requester user of the task/reminder"
+msgstr "Uživatel-žadatel úkolu/připomínky"
+
+#: inc/notification.class.php:187
+msgid "Solve date modification"
+msgstr "Změna data vyřešení"
+
+#: inc/user.class.php:129
+msgid "Bypass filtering on the groups assignment"
+msgstr "Vynechat filtrování přiřazení skupin"
+
+#: inc/ticket.class.php:101
+msgid "Solution provided, back to the group"
+msgstr "Řešení poskytnuto, zpět ke skupině"
+
+#: inc/ticket.class.php:163
+msgid "Solution rejected, return to the group"
+msgstr "Řešení odmítnuto, vráceno skupině"
+
+#: inc/ticket.class.php:271
+msgid "escalated to the group"
+msgstr "eskalováno na skupinu"
+
+#: inc/ticket.class.php:638
+msgid "Error : get old ticket"
+msgstr "Chyba: získání původního požadavku"
+
+#: inc/ticket.class.php:654
+msgid "Error : adding new ticket"
+msgstr "Chyba: přidávání nového požadavku"
+
+#: inc/ticket.class.php:666
+msgid "Error : adding link between the two tickets"
+msgstr "Chyba: přidávání propojení mezi dvěma požadavky"
+
+#: inc/ticket.class.php:676 inc/ticket.class.php:717 inc/ticket.class.php:722
+msgid "This ticket has been cloned from the ticket num"
+msgstr "Tento požadavek byl z požadavku č."
+
+#: inc/ticket.class.php:681
+msgid "Error : adding followups"
+msgstr "Chyba: přidávání doplňující zprávy"
+
+#: inc/ticket.class.php:692
+msgid "Error : adding actors (user)"
+msgstr "Chyba: přidávání řešitelů (uživatel)"
+
+#: inc/ticket.class.php:701
+msgid "Error : adding actors (group)"
+msgstr "Chyba: přidávání řešitelů (skupina)"
+
+#: inc/ticket.class.php:711
+msgid "Error : adding documents"
+msgstr "Chyba: přidávání dokumentů"
+
+#: inc/history.class.php:95
+msgid "Reassign the ticket to group"
+msgstr "Změnit přiřazení požadavku na skupinu"
+
+#: inc/history.class.php:119
+msgid "View full history"
+msgstr "Zobrazit úplnou historii"
+
+#: inc/history.class.php:166
+msgid "Tickets to follow (climbed)"
+msgstr "Požadavky k řešení (zpracované)"
+
+#: inc/history.class.php:180
+msgid "Tickets to close (climbed)"
+msgstr "Požadavky k uzavření (zpracované)"
+
+#: inc/config.class.php:7
+msgid "Configuration Escalade plugin"
+msgstr "Nastavení zásuvného modulu Escalade"
+
+#: inc/config.class.php:22
+msgid "Remove old assign group on new group assign"
+msgstr "Při přiřazení nové skupiny odebrat tu původní"
+
+#: inc/config.class.php:44
+msgid "show group assign history visually"
+msgstr "zobrazit historii přiřazení skupiny vizuálně"
+
+#: inc/config.class.php:56
+msgid "Escalation history in tasks"
+msgstr "Historie eskalace v úkolech"
+
+#: inc/config.class.php:65
+msgid "Remove technician(s) on escalation"
+msgstr "Odebrat techniky při eskalaci"
+
+#: inc/config.class.php:77
+msgid "Ticket status after an escalation"
+msgstr "Stav požadavku po eskalaci"
+
+#: inc/config.class.php:85
+msgid "Assign ticket to initial group on solve ticket"
+msgstr "Při řešení požadavku ho přiřadit prvotní skupině"
+
+#: inc/config.class.php:98
+msgid "Assign the technical manager on ticket category change"
+msgstr "Přiřadit vedoucího technika kategorii při změně kategorie požadavku"
+
+#: inc/config.class.php:109
+msgid "Assign the technical group on ticket category change"
+msgstr "Přiřadit skupinu techniků při změně kategorie požadavku"
+
+#: inc/config.class.php:121
+msgid "Clone tickets"
+msgstr "Kopírovat požadavky"
+
+#: inc/config.class.php:131
+msgid "Close cloned tickets at the same time"
+msgstr "Současně uzavřít i požadavky-klony"
+
+#: inc/config.class.php:149
+msgid "Use the technician's group"
+msgstr "Použít skupinu technika"
+
+#: inc/config.class.php:167
+msgid "a time of creation"
+msgstr "čas vytvoření"
+
+#: inc/config.class.php:169
+msgid "a time of modification"
+msgstr "čas změny"
+
+#: inc/config.class.php:196
+msgid ""
+"Nota: This feature (creation part) is duplicate with the <a "
+"href='##link##'>Behavior</a>plugin. This last has priority."
+msgstr "Pozn.: Tato funkce (část vytvoření) je duplicitní k zásuvnému modulu <a href='##link##'> Behavior </a>. Tato druhá má přednost."
+
+#: inc/config.class.php:205
+msgid "Display delete button"
+msgstr "Zobrazit tlačítko mazání"
+
+#: inc/config.class.php:299
+msgid "Don't change"
+msgstr "Neměnit"
+
+#: js/cloneandlink_ticket.js.php:13
+msgid "Clone and link"
+msgstr "Kopírovat a přiřadit"

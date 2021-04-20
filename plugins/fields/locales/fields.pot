@@ -1,0 +1,199 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-09 14:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: hook.php:58
+msgid "MySQL tables installation"
+msgstr ""
+
+#: hook.php:106
+msgid "The plugin can't be uninstalled when the plugin is disabled"
+msgstr ""
+
+#: hook.php:115
+msgid "MySQL tables uninstallation"
+msgstr ""
+
+#: front/container.form.php:35 front/container.php:4 inc/menu.class.php:6
+#: setup.php:187
+msgid "Additionnal fields"
+msgstr ""
+
+#: inc/dropdown.class.php:19
+msgid "Updating generated dropdown files"
+msgstr ""
+
+#: inc/labeltranslation.class.php:147
+msgid "Language"
+msgstr ""
+
+#: inc/labeltranslation.class.php:148
+msgid "Label"
+msgstr ""
+
+#: inc/container.class.php:16
+msgid "Regenerate container files"
+msgstr ""
+
+#: inc/container.class.php:17 inc/container.class.php:589
+msgid "Export to YAML"
+msgstr ""
+
+#: inc/container.class.php:93
+msgid "Fix container names"
+msgstr ""
+
+#: inc/container.class.php:181
+msgid "Updating generated containers files"
+msgstr ""
+
+#: inc/container.class.php:377
+msgid "You cannot add block without associated element type"
+msgstr ""
+
+#: inc/container.class.php:394
+msgid ""
+"You cannot add several blocks with type 'Insertion in the form' on same "
+"object"
+msgstr ""
+
+#: inc/container.class.php:409
+msgid ""
+"You cannot add several blocks with type 'Insertion in the form of a specific "
+"tab' on same object tab"
+msgstr ""
+
+#: inc/container.class.php:425
+msgid ""
+"Container name is too long for database (digits in name are replaced by "
+"characters, try to remove them)"
+msgstr ""
+
+#: inc/container.class.php:439
+msgid "You cannot add several blocs with identical name on same object"
+msgstr ""
+
+#: inc/container.class.php:582
+msgid "Block"
+msgstr ""
+
+#: inc/container.class.php:661
+msgid "Tab"
+msgstr ""
+
+#: inc/container.class.php:876
+msgid "Add tab"
+msgstr ""
+
+#: inc/container.class.php:877
+msgid "Insertion in the form (before save button)"
+msgstr ""
+
+#: inc/container.class.php:878
+msgid "Insertion in the form of a specific tab (before save button)"
+msgstr ""
+
+#: inc/container.class.php:1240
+msgid "Some mandatory fields are empty"
+msgstr ""
+
+#: inc/container.class.php:1245
+msgid "Some numeric fields contains non numeric values"
+msgstr ""
+
+#: inc/container.class.php:1250
+msgid "Some URL fields contains invalid links"
+msgstr ""
+
+#: inc/toolbox.class.php:90
+msgid "Fix fields names"
+msgstr ""
+
+#: inc/field.class.php:79
+msgid "Field"
+msgstr ""
+
+#: inc/field.class.php:90 inc/field.class.php:115
+msgid ""
+"Field name is too long for database (digits in name are replaced by "
+"characters, try to remove them)"
+msgstr ""
+
+#: inc/field.class.php:272
+msgid "Fields"
+msgstr ""
+
+#: inc/field.class.php:326
+msgid "Add a new field"
+msgstr ""
+
+#: inc/field.class.php:330
+msgid "No field for this block"
+msgstr ""
+
+#: inc/field.class.php:342 inc/field.class.php:455
+msgid "Read only"
+msgstr ""
+
+#: inc/field.class.php:432
+msgid "Configure"
+msgstr ""
+
+#: inc/field.class.php:432
+msgid "Configure fields values"
+msgstr ""
+
+#: inc/field.class.php:753
+msgid "show"
+msgstr ""
+
+#: inc/field.class.php:916
+msgid "Header"
+msgstr ""
+
+#: inc/field.class.php:917
+msgid "Text (single line)"
+msgstr ""
+
+#: inc/field.class.php:918
+msgid "Text (multiples lines)"
+msgstr ""
+
+#: inc/field.class.php:919
+msgid "Number"
+msgstr ""
+
+#: inc/field.class.php:920
+msgid "URL"
+msgstr ""
+
+#: inc/field.class.php:921
+msgid "Dropdown"
+msgstr ""
+
+#: inc/field.class.php:922
+msgid "Yes/No"
+msgstr ""
+
+#: inc/field.class.php:923
+msgid "Date"
+msgstr ""
+
+#: inc/field.class.php:924
+msgid "Date & time"
+msgstr ""

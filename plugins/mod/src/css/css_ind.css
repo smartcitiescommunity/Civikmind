@@ -1,0 +1,59 @@
+
+/*a, a:link {
+   font-weight: bold;
+   text-decoration: none !important;
+   font-size : 11px;
+}
+
+a.fa, a.fa:link {
+   font-size: inherit;
+   font-weight: normal;
+}
+*/
+#page a.fa-clock, #page a.fa:link, a .fa-clock, a .fa-tasks, a .fa-ticket-alt, a .fa-plus-mod  {
+   color: #fff;
+}
+
+a:hover {
+   color: black;
+}
+
+hr {
+   border: 1px solid #cccccc;
+}
+
+.pointer {
+   cursor:pointer;
+}
+
+.label-success {
+    background-color: #5cb85c;
+}
+
+.label-primary {
+    background-color: #337ab7;
+}
+
+.label-warning {
+    background-color: #f0ad4e;
+}
+
+.label-danger {
+    background-color: #d9534f;
+}
+
+.label_ind {
+    border: 0px solid #000;
+}
+.label_ind {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}

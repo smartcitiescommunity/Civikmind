@@ -1,0 +1,4 @@
+(icons lib :farm fresh)
+
+- Test upgrade 0.83->0.84
+- SVG export seems broken

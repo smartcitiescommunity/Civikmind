@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# David Stepan <stepand@tiscali.cz>, 2015
+# Pavel Borecki <pavel.borecki@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - Itilcategorygroups\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-03 19:16+0000\n"
+"PO-Revision-Date: 2018-06-26 12:12+0000\n"
+"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
+"Language-Team: Czech (Czech Republic) (http://www.transifex.com/teclib/glpi-plugin-itilcategorygroups/language/cs_CZ/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+#: hook.php:81
+msgid "Level "
+msgstr "Stupeň"
+
+#: hook.php:99 inc/category.class.php:112 inc/category.class.php:534
+#: inc/group_level.class.php:92
+msgid "Level 1"
+msgstr "Stupeň 1"
+
+#: hook.php:100 inc/category.class.php:116 inc/category.class.php:558
+#: inc/group_level.class.php:93
+msgid "Level 2"
+msgstr "Stupeň 2"
+
+#: hook.php:101 inc/category.class.php:121 inc/category.class.php:582
+#: inc/group_level.class.php:94
+msgid "Level 3"
+msgstr "Stupeň 3"
+
+#: hook.php:102 inc/category.class.php:125 inc/category.class.php:606
+#: inc/group_level.class.php:95
+msgid "Level 4"
+msgstr "Stupeň 4"
+
+#: inc/menu.class.php:6 inc/category.class.php:42 inc/category.class.php:459
+msgid "Link ItilCategory - Groups"
+msgstr "Propojení ITIL kategorie a skupin"
+
+#: inc/menu.class.php:10 inc/group_level.class.php:50 setup.php:77
+msgid "ItilCategory Groups"
+msgstr "Skupiny kategorií služby podpory"
+
+#: inc/category.class.php:190
+msgid "A link with this category already exists"
+msgstr "Propojení s touto kategorií už existuje"
+
+#: inc/group_level.class.php:14 inc/group_level.class.php:87
+#: inc/group_level.class.php:121
+msgid "Level attribution"
+msgstr "Přidělení stupně"

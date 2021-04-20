@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR MoreTicket Development Team
+# This file is distributed under the same license as the GLPI - MoreTicket plugin package.
+# 
+# Translators:
+# Markku Vepsä, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Project - moreticket plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-26 15:54+0100\n"
+"PO-Revision-Date: 2019-02-26 15:09+0000\n"
+"Last-Translator: Mathieu Templier <mathieu.templier@infotel.com>\n"
+"Language-Team: Finnish (Finland) (http://www.transifex.com/tsmr/GLPI_moreticket/language/fi_FI/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: hook.php:200 inc/waitingticket.class.php:139
+#: inc/waitingticket.class.php:238 inc/waitingticket.class.php:317
+#: inc/waitingticket.class.php:390
+msgid "Reason"
+msgstr "Syy"
+
+#: hook.php:208 inc/waitingticket.class.php:131
+#: inc/waitingticket.class.php:253 inc/waitingticket.class.php:332
+#: inc/waitingticket.class.php:392
+msgid "Postponement date"
+msgstr "Lykkäyspäivä"
+
+#: hook.php:228 hook.php:235 hook.php:242 hook.php:249
+#: inc/closeticket.class.php:75 inc/closeticket.class.php:79
+#: inc/closeticket.class.php:121 inc/closeticket.class.php:178
+#: inc/closeticket.class.php:326 inc/closeticket.class.php:380
+#: inc/config.class.php:167
+msgid "Close ticket informations"
+msgstr "Sulje tiketin tiedot"
+
+#: setup.php:94 inc/profile.class.php:49 inc/profile.class.php:194
+msgid "More ticket"
+msgstr "Lisää tiketöintiä"
+
+#: front/config.form.php:66
+msgid "Please activate the plugin"
+msgstr "Ole hyvä ja aktivoi liitännäinen"
+
+#: inc/closeticket.class.php:135 inc/closeticket.class.php:479
+msgid "Solution description"
+msgstr "Ratkaisun kuvaus"
+
+#: inc/closeticket.class.php:154
+msgid "Ticket cannot be closed"
+msgstr "Tikettiä ei voida sulkea"
+
+#: inc/closeticket.class.php:576
+#, php-format
+msgid "%1$s added closing informations"
+msgstr "%1$s lisätty sulkemista koskevat tiedot"
+
+#: inc/closeticket.class.php:595
+#, php-format
+msgid "%1$s updated closing informations"
+msgstr "%1$s päivitetty sulkemista koskevat tiedot"
+
+#: inc/closeticket.class.php:614
+#, php-format
+msgid "%1$s deleted closing informations"
+msgstr "%1$s poistettu sulkemista koskevat tiedot"
+
+#: inc/config.class.php:98
+msgid "Ticket waiting"
+msgstr "Odottava tiketti"
+
+#: inc/config.class.php:102
+msgid "Use waiting process"
+msgstr "Käytä odotus menetelmää"
+
+#: inc/config.class.php:120
+msgid "Report date is mandatory"
+msgstr "Raportin päivämäärä on pakollinen"
+
+#: inc/config.class.php:127
+msgid "Waiting type is mandatory"
+msgstr "Odotuksen tyyppi on pakollinen"
+
+#: inc/config.class.php:134
+msgid "Waiting reason is mandatory"
+msgstr "Odotuksen syy on pakollinen"
+
+#: inc/config.class.php:140
+msgid "Ticket resolution and close"
+msgstr "Tiketin ratkaisu ja sulkeminen"
+
+#: inc/config.class.php:142
+msgid "Use solution process"
+msgstr "Käytä ratkaisuprosessia"
+
+#: inc/config.class.php:160
+msgid "Solution type is mandatory"
+msgstr "Ratkaisun tyyppi on pakollinen"
+
+#: inc/config.class.php:173
+msgid "Status used to display solution bloc"
+msgstr "Tila, jota käytetään näyttämään ratkaisuryhmä"
+
+#: inc/config.class.php:186
+msgid "Add a followup on immediate ticket closing"
+msgstr "Lisää seuranta välittömään tiketin sulkemiseen"
+
+#: inc/config.class.php:192
+msgid "Use the 'Duration' field in the add solution interface"
+msgstr "Käytä Lisää ratkaisu -rajapinnan 'Kesto' -kenttää"
+
+#: inc/config.class.php:206
+msgid "Mandatory 'Duration' field"
+msgstr "Pakollinen 'Kesto' -kenttä"
+
+#: inc/config.class.php:211
+msgid "Ticket urgency"
+msgstr "Tiketin kiireellisyys"
+
+#: inc/config.class.php:213
+msgid "Use a justification of the urgency field"
+msgstr "Käytä kiireellisyyskentän perustelua"
+
+#: inc/config.class.php:229
+msgid "Urgency impacted justification for the field"
+msgstr "Kiireellisyys vaikutti kentän perusteluun"
+
+#: inc/profile.class.php:158
+msgid "Adding a justification of urgency"
+msgstr "Lisää perustelu kiireellisyydelle"
+
+#: inc/profile.class.php:166
+msgid "Hide task duration in tickets"
+msgstr ""
+
+#: inc/urgencyticket.class.php:69 inc/urgencyticket.class.php:155
+msgid "Justification"
+msgstr "Perustelu"
+
+#: inc/urgencyticket.class.php:92
+msgid "Urgency ticket cannot be saved"
+msgstr "Kiireellisyys tikettiä ei voida tallentaa"
+
+#: inc/urgencyticket.class.php:94 inc/waitingticket.class.php:171
+msgid "Ticket cannot be saved"
+msgstr "Tikettiä ei voida tallentaa"
+
+#: inc/waitingticket.class.php:65
+msgid "Waiting ticket"
+msgid_plural "Waiting tickets"
+msgstr[0] "Odottava tiketti"
+msgstr[1] "Odottavat tiketit"
+
+#: inc/waitingticket.class.php:169
+msgid "Waiting ticket cannot be saved"
+msgstr "Odottavaa tikettiä ei voida tallentaa"
+
+#: inc/waitingticket.class.php:175
+msgid "Report date is inferior of today's date"
+msgstr "Raportin päivämäärä on tätä päivää aiempi"
+
+#: inc/waitingticket.class.php:386 inc/waitingticket.class.php:426
+msgid "Ticket suspension history"
+msgstr "Tiketin keskeytys historia"
+
+#: inc/waitingticket.class.php:389
+msgid "Suspension date"
+msgstr "Keskeytyspäivä"
+
+#: inc/waitingticket.class.php:393
+msgid "Suspension end date"
+msgstr "Keskeytyksen päättymispäivä"
+
+#: inc/waitingticket.class.php:751
+msgid "End of standby ticket"
+msgstr "Tiketin valmiustilan loppu"
+
+#: inc/waitingtype.class.php:48
+msgid "Waiting type"
+msgid_plural "Waiting types"
+msgstr[0] "Odotuksen tyyppi"
+msgstr[1] "Odotuksien tyypit"

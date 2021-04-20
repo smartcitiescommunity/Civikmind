@@ -1,0 +1,238 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Alexey Petukhov <lexx015@gmail.com>, 2014,2017
+# Nikolai Petrov <techobsl@yandex.ru>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Project - Plugin Behaviors\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-22 16:30+0200\n"
+"PO-Revision-Date: 2020-07-22 14:30+0000\n"
+"Last-Translator: Nelly Mahu-Lasson <nini.lasson@orange.fr>\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/yllen/glpi-project-plugin-behaviors/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: setup.php:99 inc/config.class.php:57
+msgid "Behaviours"
+msgstr "Поведения"
+
+#: inc/common.class.php:88 inc/common.class.php:100 inc/common.class.php:120
+msgid "Clone"
+msgstr "Клонирование"
+
+#: inc/common.class.php:111 inc/common.class.php:190
+msgid "Clone of"
+msgstr "Клон"
+
+#: inc/config.class.php:115
+msgid "Error in creating glpi_plugin_behaviors_configs"
+msgstr "Ошибка в создании glpi_plugin_behaviors_configs"
+
+#: inc/config.class.php:121
+msgid "Error during update glpi_plugin_behaviors_configs"
+msgstr "Ошибка при обновлении glpi_plugin_behaviors_configs"
+
+#: inc/config.class.php:233
+msgid "Inventory"
+msgstr "Инвентаризация"
+
+#: inc/config.class.php:237
+msgid "Ticket's number format"
+msgstr "Формат нумерации заявки"
+
+#: inc/config.class.php:244
+msgid "Delete computer in OCSNG when purged from GLPI"
+msgstr "Удалить комппьютер из OCSNG при удалении из GLPI"
+
+#: inc/config.class.php:250
+msgid "Plugin \"Item's uninstallation\" not installed"
+msgstr "Плагин \"Удаление объектов\" не установлено"
+
+#: inc/config.class.php:253
+msgid "Plugin \"OCS Inventory NG\" not installed"
+msgstr "Плагин \"OCS Inventory NG\" не установлено"
+
+#: inc/config.class.php:259
+msgid "Use the associated item's group"
+msgstr "Использовать группу связанных элементов"
+
+#: inc/config.class.php:261
+msgid "Show my assets"
+msgstr "Показать мои активы"
+
+#: inc/config.class.php:266
+msgid "Use the requester's group"
+msgstr "Использовать группу заказчика"
+
+#: inc/config.class.php:269
+msgid "Show assets of my groups"
+msgstr "Показать активы моей группы"
+
+#: inc/config.class.php:274 inc/config.class.php:350
+msgid "Use the technician's group"
+msgstr "Использовать группу специалиста"
+
+#: inc/config.class.php:277
+msgid "Notification"
+msgid_plural "Notifications"
+msgstr[0] "Уведомления"
+msgstr[1] "Уведомления"
+msgstr[2] "Уведомления"
+msgstr[3] "Уведомления"
+
+#: inc/config.class.php:282 inc/ticket.class.php:304
+msgid "Requester is mandatory"
+msgstr "Заказчик обязателен"
+
+#: inc/config.class.php:284
+msgid "Additional notifications"
+msgstr "Дополнительные уведомления"
+
+#: inc/config.class.php:290
+msgid "Allow Clone"
+msgstr "Разрешить клонирование"
+
+#: inc/config.class.php:295 inc/itilsolution.class.php:80
+#: inc/ticket.class.php:478
+msgid "Duration is mandatory before ticket is solved/closed"
+msgstr "Время выполнения обязательно для решения/закрытия заявки"
+
+#: inc/config.class.php:301 inc/itilsolution.class.php:87
+#: inc/ticket.class.php:485
+msgid "Category is mandatory before ticket is solved/closed"
+msgstr "Категория обязательна для решения/закрытия заявки"
+
+#: inc/config.class.php:304 inc/itilsolution.class.php:130
+#: inc/problem.class.php:65
+msgid "Type of solution is mandatory before problem is solved/closed"
+msgstr "Тип решения обязателен для решения/закрытия заявки"
+
+#: inc/config.class.php:311 inc/ticket.class.php:530
+msgid "Category is mandatory when you assign a ticket"
+msgstr ""
+
+#: inc/config.class.php:317 inc/itilsolution.class.php:68
+#: inc/itilsolution.class.php:169 inc/ticket.class.php:460
+msgid "Description of solution is mandatory before ticket is solved/closed"
+msgstr "Описание решения обязательно для решения/закрытия заявки"
+
+#: inc/config.class.php:322
+msgid "Change's number format"
+msgstr ""
+
+#: inc/config.class.php:332 inc/itilsolution.class.php:94
+#: inc/ticket.class.php:493
+msgid "Technician assigned is mandatory before ticket is solved/closed"
+msgstr "Назначение специалиста обязательно для решения/закрытия заявки"
+
+#: inc/config.class.php:340 inc/itilsolution.class.php:101
+#: inc/ticket.class.php:501
+msgid ""
+"Group of technicians assigned is mandatory before ticket is solved/closed"
+msgstr ""
+
+#: inc/config.class.php:362 inc/itilsolution.class.php:108
+#: inc/ticket.class.php:508
+msgid "Location is mandatory before ticket is solved/closed"
+msgstr "Расположение обязательно для решения/закрытия заявки"
+
+#: inc/config.class.php:368 inc/tickettask.class.php:58
+#: inc/tickettask.class.php:86
+msgid "Task category is mandatory in a task"
+msgstr ""
+
+#: inc/config.class.php:373
+msgid "Deny change of ticket's creation date"
+msgstr "Запретить изменение даты создания"
+
+#: inc/config.class.php:378
+msgid "Protect from simultaneous update"
+msgstr "Запретить одновременные обновления"
+
+#: inc/config.class.php:383
+msgid "Single technician and group"
+msgstr "Один специалист и группа"
+
+#: inc/config.class.php:385
+msgid "Single user and single group"
+msgstr "Один пользователь и одна группа"
+
+#: inc/config.class.php:386
+msgid "Single user or group"
+msgstr "Один пользователь или группа"
+
+#: inc/config.class.php:392
+msgid "Block the solving/closing of a the ticket if task do to"
+msgstr "Блокировать закрытие заявки, если есть незавершенные задачи"
+
+#: inc/config.class.php:398
+msgid "Add the logged technician when solve ticket"
+msgstr ""
+
+#: inc/document_item.class.php:46
+msgid "Add document to ticket"
+msgstr "Добавить документ к заявке"
+
+#: inc/document_item.class.php:49
+msgid "Delete document to ticket"
+msgstr "Удалить документ из заявки"
+
+#: inc/itilsolution.class.php:59 inc/itilsolution.class.php:160
+#: inc/ticket.class.php:454
+msgid "Type of solution is mandatory before ticket is solved/closed"
+msgstr "Тип решения обязателен для решения/закрытия заявки"
+
+#: inc/itilsolution.class.php:117 inc/ticket.class.php:516
+msgid "You cannot solve/close a ticket with task do to"
+msgstr "Вы не можете закрыть заявку с незавершенными задачами"
+
+#: inc/ticket.class.php:53
+msgid "Reopen ticket"
+msgstr "Открыть заявку заново"
+
+#: inc/ticket.class.php:56
+msgid "Change status"
+msgstr "Изменить статус"
+
+#: inc/ticket.class.php:59
+msgid "Ticket waiting"
+msgstr "Заявки в ожидании"
+
+#: inc/ticket.class.php:72
+msgid "Last technician assigned"
+msgstr "Последний назначенный специалист"
+
+#: inc/ticket.class.php:75
+msgid "Last group assigned"
+msgstr "Последняя назначенная группа"
+
+#: inc/ticket.class.php:78
+msgid "Last supplier assigned"
+msgstr "Последний назначенный поставщик"
+
+#: inc/ticket.class.php:81
+msgid "Last watcher added"
+msgstr "Последний назначенный наблюдатель"
+
+#: inc/ticket.class.php:84
+msgid "Supervisor of last group assigned"
+msgstr "Руководитель назначенной группы"
+
+#: inc/ticket.class.php:88
+msgid "Last group assigned without supersivor"
+msgstr "Последняя назначенная группа без руководителя"
+
+#: inc/ticket.class.php:435
+msgid "Can't save, item have been updated"
+msgstr "Невозможно сохранить, "
+
+#: inc/tickettask.class.php:96
+msgid "You cannot change status of a task in a solved ticket"
+msgstr ""

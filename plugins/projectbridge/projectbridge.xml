@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <name>ProjectBridge</name>
+   <key>projectbridge</key>
+   <state>stable</state>
+   <logo>https://avatars2.githubusercontent.com/u/1265671</logo>
+   <description>
+      <short>
+         <fr><![CDATA[ProjectBridge : ajout de liens entre les tickets et les contrats pour en décompter le temps]]></fr>
+         <en><![CDATA[ProjectBridge : This plugin allows to count down time from contracts by linking tickets with project tasks and project tasks with contracts]]></en>
+      </short>
+      <long>
+         <fr><![CDATA[ProjectBridge est un plugin qui vous permet de lier des tickets à un contrat et d'en décompter le temps. Cela est fait en liant les tickets à des tâches de projets, elles-mêmes liées aux contrats.
+            <br />Fonctionnalités
+            <br />===============
+            <br />- Lier un contrat par défaut à une entité: les tickets créés dans ces entités seront automatiquement liés au projet, et donc au contrat
+            <br />- Lier des contrats aux projets
+            <br />- Automatiquement créer un projet et sa tâche lors de la création d'un contrat
+            <br />- Renouveller un contrat quand il est expiré ou quand le quota est atteint ou dépassé
+            <br />- Configuration de destinataires d'alertes d'expiration et d'alertes de quota atteint
+            <br />- Changer le lien d'un ticket vers un autre projet, et donc un autre contrat
+            <br />- Créer de projets à partir de contrats existants et les lier]]>
+         </fr>
+         <en><![CDATA[This plugin is based on the old glpi plugin "Best management". We have rewritten and rethought all the code and the features.
+            <br />Features
+            <br />========
+            <br />- Configure recipients of expiration alerts and reached quota alerts
+            <br />- Link default contracts to entities: tickets created in that entity will automatically be linked to the project and thus to the contract
+            <br />- Link contracts to projects
+            <br />- Automatically create a project and it's task when creating a contract
+            <br />- Renew a contract when quota is reached or it expired
+            <br />- Change a ticket's link to another project, and thus another contract]]>
+         </en>
+      </long>
+   </description>
+   <homepage>https://github.com/Probesys/glpi-plugins-projectbridge/</homepage>
+   <download>https://github.com/Probesys/glpi-plugins-projectbridge/releases</download>
+   <issues>https://github.com/Probesys/glpi-plugins-projectbridge/issues</issues>
+   <readme>https://raw.githubusercontent.com/Probesys/glpi-plugins-projectbridge/github/README.md</readme>
+   <authors>
+      <author>Probesys</author>
+      <author>Pierre de Vésian</author>
+      <author>Philippe GODOT</author>
+   </authors>
+   <versions>
+      <version>
+         <num>2.0</num>
+         <compatibility>9.4</compatibility>
+      </version>
+      <version>
+         <num>2.2</num>
+         <compatibility>~9.5.1</compatibility>
+         <download_url>https://github.com/Probesys/glpi-plugins-projectbridge/releases/download/v2.2.0/glpi-plugin-projectbridge-2.2.0.tar.bz2</download_url>
+      </version> 
+      <version>
+         <num>2.3RC2</num>
+         <compatibility>~9.5.1</compatibility>
+         <download_url>https://github.com/Probesys/glpi-plugins-projectbridge/releases/download/v2.3RC2/glpi-plugin-projectbridge-v2.3RC2.tar.bz2</download_url>
+      </version> 
+   </versions>
+   <langs>
+      <lang>fr_FR</lang>
+      <lang>en_GB</lang>
+      <lang>cs_CS</lang>
+   </langs>
+   <license><![CDATA[AGPL-3.0]]></license>
+   <tags>
+      <fr>
+         <tag>Contrats</tag>
+         <tag>Tickets</tag>
+         <tag>Temps</tag>
+         <tag>Projets</tag>
+         <tag>Tâches</tag>
+      </fr>
+   </tags>
+   <screenshots>
+      <screenshot>https://raw.githubusercontent.com/Probesys/glpi-plugins-projectbridge/github/screenshots/configuration-panel.png</screenshot>
+      <screenshot>https://raw.githubusercontent.com/Probesys/glpi-plugins-projectbridge/github/screenshots/usage1.png</screenshot>
+      <screenshot>https://raw.githubusercontent.com/Probesys/glpi-plugins-projectbridge/github/screenshots/usage2.png</screenshot>
+   </screenshots>
+</root>

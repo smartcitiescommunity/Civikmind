@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Pierfrancesco Passerini <p.passerini@gmail.com>, 2018
+# Davide <spam@habilitas.it>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - Itilcategorygroups\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-03 19:16+0000\n"
+"PO-Revision-Date: 2018-09-25 13:40+0000\n"
+"Last-Translator: Pierfrancesco Passerini <p.passerini@gmail.com>\n"
+"Language-Team: Italian (Italy) (http://www.transifex.com/teclib/glpi-plugin-itilcategorygroups/language/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: hook.php:81
+msgid "Level "
+msgstr "Livello"
+
+#: hook.php:99 inc/category.class.php:112 inc/category.class.php:534
+#: inc/group_level.class.php:92
+msgid "Level 1"
+msgstr "Livello 1"
+
+#: hook.php:100 inc/category.class.php:116 inc/category.class.php:558
+#: inc/group_level.class.php:93
+msgid "Level 2"
+msgstr "Livello 2"
+
+#: hook.php:101 inc/category.class.php:121 inc/category.class.php:582
+#: inc/group_level.class.php:94
+msgid "Level 3"
+msgstr "Livello 3"
+
+#: hook.php:102 inc/category.class.php:125 inc/category.class.php:606
+#: inc/group_level.class.php:95
+msgid "Level 4"
+msgstr "Livello 4"
+
+#: inc/menu.class.php:6 inc/category.class.php:42 inc/category.class.php:459
+msgid "Link ItilCategory - Groups"
+msgstr "Collegamento Categorie Itil - Gruppi"
+
+#: inc/menu.class.php:10 inc/group_level.class.php:50 setup.php:77
+msgid "ItilCategory Groups"
+msgstr "Gruppi Categorie Itil "
+
+#: inc/category.class.php:190
+msgid "A link with this category already exists"
+msgstr "Il collegamento con questa categoria è già esistente"
+
+#: inc/group_level.class.php:14 inc/group_level.class.php:87
+#: inc/group_level.class.php:121
+msgid "Level attribution"
+msgstr "Livello di attribuzione"

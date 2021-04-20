@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <name>Historical purge</name>
+   <key>purgelogs</key>
+   <state>stable</state>
+   <logo>https://raw.githubusercontent.com/pluginsGLPI/purgelogs/master/purgelogs.png</logo>
+   <description>
+      <short>
+         <fr><![CDATA[Purge de l'historique]]></fr>
+         <en><![CDATA[Historical purge]]></en>
+      </short>
+      <long>
+         <fr><![CDATA[Ce plugin permet de purger l'historique GLPI]]></fr>
+         <en><![CDATA[This plugin enables historical purge]]></en>
+      </long>
+   </description>
+   <homepage>https://github.com/pluginsGLPI/purgelogs</homepage>
+   <download>https://github.com/pluginsGLPI/purgelogs/releases</download>
+   <issues>https://github.com/pluginsGLPI/purgelogs/issues</issues>
+   <readme>https://raw.githubusercontent.com/pluginsGLPI/purgelogs/master/README.md</readme>
+   <authors>
+      <author>Walid Nouh</author>
+   </authors>
+   <versions>
+      <version>
+         <num>1.3.0</num>
+         <compatibility>9.2</compatibility>
+      </version>
+      <version>
+          <num>1.2.1</num>
+          <compatibility>0.85</compatibility>
+          <compatibility>0.90</compatibility>
+          <compatibility>9.1</compatibility>
+      </version>
+      <version>
+         <num>0.85+1.2</num>
+          <compatibility>0.85</compatibility>
+          <compatibility>0.90</compatibility>
+          <compatibility>9.1</compatibility>
+      </version>
+      <version>
+         <num>0.85+1.1</num>
+          <compatibility>0.85</compatibility>
+          <compatibility>0.90</compatibility>
+      </version>
+      <version>
+         <num>2.1</num>
+          <compatibility>0.84</compatibility>
+      </version>
+      <version>
+         <num>0.84.1</num>
+          <compatibility>0.84</compatibility>
+      </version>
+      <version>
+         <num>0.84</num>
+          <compatibility>0.84</compatibility>
+      </version>
+      <version>
+         <num>0.83</num>
+          <compatibility>0.83</compatibility>
+      </version>
+      <version>
+          <num>0.80.1</num>
+          <compatibility>0.80</compatibility>
+      </version>
+   </versions>
+   <langs>
+      <lang>fr_FR</lang>
+      <lang>en_GB</lang>
+   </langs>
+   <license>GPL v2+</license>
+   <category></category>
+   <tags>
+         <fr>
+            <tag>inventaire</tag>
+            <tag>log</tag>
+            <tag>purge</tag>
+         </fr>
+         <en>
+            <tag>inventory</tag>
+            <tag>log</tag>
+            <tag>purge</tag>
+         </en>
+   </tags>
+</root>

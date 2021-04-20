@@ -1,0 +1,557 @@
+.gantt, .gantt2 {
+   width: 100%;
+   margin: 0px auto;
+   border: 5px solid #ddd;
+   position: relative;
+
+}
+
+.gantt:after {
+   content: ".";
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
+
+.fn-gantt {
+   width: 100%;
+}
+
+.fn-gantt .fn-content {
+   overflow: hidden;
+   position: relative;
+   width: 100%;
+}
+
+/* === LEFT PANEL === */
+
+.fn-gantt .leftPanel {
+    float: left;
+    width: 525px;
+    overflow: hidden;
+    border-right: 1px solid #DDD;
+    position: relative;
+    z-index: 20;
+}
+
+.fn-gantt .row {
+    float: left;
+    height: 24px;
+    line-height: 24px;
+    margin-left: -1px;
+}
+
+.fn-gantt .leftPanel .fn-label {
+    display: inline-block;
+    margin: 0 0 0 5px;
+    color: #484A4D;
+    width: 310px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.fn-gantt .leftPanel .row0 {
+    border-top: 1px solid #DDD;
+}
+.fn-gantt .leftPanel .name, .fn-gantt .leftPanel .desc {
+    float: left;
+    height: 23px;
+    margin: 0;
+    border-bottom: 1px solid #DDD;
+    /*background-color: #f6f6f6;*/
+}
+
+.fn-gantt .leftPanel .name {
+    width: 150px;
+    font-weight: bold;
+}
+
+.fn-gantt .leftPanel .desc {
+    width: 375px;
+}
+
+.fn-gantt .leftPanel .fn-wide, .fn-gantt .leftPanel .fn-wide .fn-label {
+    width: 525px;
+}
+
+.fn-gantt .spacer {
+    margin: -2px 0 1px 0;
+    border-bottom: none;
+    /*background-color: #f6f6f6;*/
+}
+
+
+
+
+/* === RIGHT PANEL === */
+
+.fn-gantt .rightPanel {
+    overflow: hidden;
+}
+
+.fn-gantt .dataPanel {
+    margin-left: 0px;
+    border-right: 1px solid #DDD;
+    background-image: url(lib/jquery-plugins/img/grid.png);
+    background-repeat: repeat;
+    background-position: 24px 24px;
+    position: relative;
+}
+
+.fn-gantt .day {
+   overflow: visible;
+   width: 24px;
+   line-height: 24px;
+   text-align: center;
+   border-left: 1px solid #DDD;
+   border-bottom: 1px solid #DDD;
+   margin: -1px 0 0 -1px;
+}
+
+.fn-gantt .holiday {
+   background-color: #f9e5e2;
+   height: 23px;
+   margin: 0 0 -1px -1px;
+}
+
+.fn-gantt .today {
+   background-color: #e2ebff;
+   height: 23px;
+   margin: 0 0 -1px -1px;
+}
+
+.fn-gantt .sa, .fn-gantt .sn, .fn-gantt .wd {
+   height: 23px;
+   margin: 0 0 0 -1px;
+}
+
+.fn-gantt .sa {
+   background-color: #eeeeee;
+}
+
+.fn-gantt .sn {
+   background-color: #eeeeee;
+}
+
+.fn-gantt .wd {
+   /*background-color: #f6f6f6;*/
+}
+
+.fn-gantt .rightPanel .month, .fn-gantt .rightPanel .year {
+   float: left;
+   overflow: hidden;
+   border-left: 1px solid #DDD;
+   border-bottom: 1px solid #DDD;
+   height: 23px;
+   margin: 0 0 0 -1px;
+   /*background-color: #f6f6f6;*/
+}
+
+.fn-gantt-hint {
+   border: 3px solid #bbb;
+   background-color: #fff;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    padding: 10px;
+   position: absolute;
+   display: none;
+    z-index: 1003;
+   -webkit-box-shadow: 1px 1px 5px 0px #333;
+   box-shadow: 1px 1px 5px 0px #333;
+}
+
+.fn-gantt-hint:after {
+   content: "";
+   display: block;
+   position: absolute;
+   width: 0px;
+   height:0px;
+   top: -15px;
+   left: 5px;
+   border-bottom: 5px solid #edc332;
+   border-left:   5px solid #edc332;
+   border-right:  5px solid transparent;
+   border-top:    5px solid transparent;
+    z-index: 1001;
+   }
+
+.fn-gantt .bar {
+   border: none;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #89c5f8;
+   -webkit-box-shadow: 1px 1px 1px 0px #333;
+    box-shadow: 1px 1px 1px 0px #333;
+    height: 18px;
+    margin: 4px 3px 3px 3px;
+    position: absolute;
+    z-index: 990;
+}
+
+.fn-gantt .bar .label {
+    line-height: 18px;
+    font-weight: bold;
+    white-space: nowrap;
+    width: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.4);
+    color: #414B57 !important;
+    text-align: center;
+    font-size: 11px;
+}
+
+.fn-gantt .ganttBegin {
+   background-color: #FFF;
+   border: 1px solid #000;
+   background-image: repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(217,215,213,.5) 35px, rgba(255,255,255,.5) 70px);
+}
+
+.fn-gantt .ganttGrey {
+   background-color: #CCC;
+   border: 1px solid #000;
+
+   background-image: repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(255,255,255,.5) 35px, rgba(255,255,255,.5) 70px);
+}
+
+.fn-gantt .ganttRed {
+   background-color: #FF0000;
+   border: 1px solid #000;
+   color: #000000;
+   background-image: repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(255,255,255,.5) 35px, rgba(255,255,255,.5) 70px);
+}
+
+.fn-gantt .ganttBlue {
+   background-color: #7DAEDF;
+   border: 1px solid #000;
+
+   background-image: repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(255,255,255,.5) 35px, rgba(255,255,255,.5) 70px);
+}
+
+.fn-gantt .ganttGreen {
+   background-color: #b3cf6f;
+   border: 1px solid #000;
+
+   background-image: repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(255,255,255,.5) 35px, rgba(255,255,255,.5) 70px);
+}
+
+.fn-gantt .ganttOrange {
+   background-color: #ff7e24;
+   border: 1px solid #000;
+
+   background-image: repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(255,255,255,.5) 35px, rgba(255,255,255,.5) 70px);
+}
+
+.fn-gantt .depLine {
+   background-color: transparent;
+   position: absolute;
+   z-index: 989;
+}
+
+.fn-gantt .depLineSh {
+   margin-top: 2px;
+   margin-left: 2px;
+   opacity: 0.3;
+   filter: alpha(opacity = 30);
+}
+
+.fn-gantt .depStart, .fn-gantt .depEnd {
+   position: absolute;
+   width: 5px;
+   height: 5px;
+   -webkit-border-radius: 50%;
+   -moz-border-radius: 50%;
+   border-radius: 50%;
+   border: 2px solid #fff;
+   -webkit-box-shadow: 1px 1px 1px 0px #444;
+   box-shadow: 1px 1px 1px 0px #444;
+   z-index: 999;
+}
+
+.fn-gantt .ganttMilestone,
+.fn-gantt .ganttMilestoneBlue,
+.fn-gantt .ganttMilestoneGold,
+.fn-gantt .ganttMilestoneGreen,
+.fn-gantt .ganttMilestoneOrange,
+.fn-gantt .ganttMilestonePurple,
+.fn-gantt .ganttMilestoneRed {
+   background-color: transparent;
+   background-image: url(lib/jquery-plugins/img/star_sprite.png) !important;
+   background-repeat: no-repeat;
+   color: transparent;
+   -webkit-box-shadow: 0 0 0px rgba(0,0,0,0.25) inset;
+   -moz-box-shadow: 0 0 0px rgba(0,0,0,0.25) inset;
+   box-shadow: 0 0 0px rgba(0,0,0,0.25) inset;
+}
+
+.fn-gantt .ganttMilestoneBlue {
+    background-position: 0px -3px !important;
+}
+
+.fn-gantt .ganttMilestone,
+.fn-gantt .ganttMilestoneGold {
+    background-position: 0px -27px !important;
+}
+
+.fn-gantt .ganttMilestoneGreen {
+    background-position: 0px -51px !important;
+}
+
+.fn-gantt .ganttMilestoneOrange {
+    background-position: 0px -75px !important;
+}
+
+.fn-gantt .ganttMilestonePurple {
+    background-position: 0px -99px !important;
+}
+
+.fn-gantt .ganttMilestoneRed {
+    background-position: 0px -123px !important;
+}
+
+.fn-gantt .ganttMilestone .fn-label,
+.fn-gantt .ganttMilestoneBlue .fn-label,
+.fn-gantt .ganttMilestoneGold .fn-label,
+.fn-gantt .ganttMilestoneGreen .fn-label,
+.fn-gantt .ganttMilestoneOrange .fn-label,
+.fn-gantt .ganttMilestonePurple .fn-label,
+.fn-gantt .ganttMilestoneRed .fn-label {
+    margin-left: 21px;
+    overflow: visible;
+}
+
+/* bottom (navigation) */
+
+.fn-gantt .bottom {
+   clear: both;
+   /*background-color: #f6f6f6;*/
+   width: 100%;
+}
+.fn-gantt .navigate {
+   text-align: center;
+   border-top: 1px solid #DDD;
+}
+
+.fn-gantt .navigate .nav-slider {
+   width: 390px;
+   display: inline-block;
+}
+
+.fn-gantt .navigate .nav-slider-left, .fn-gantt .navigate .nav-slider-right {
+   text-align: center;
+   height: 20px;
+   display: inline-block;
+}
+
+.fn-gantt .navigate .nav-slider-left {
+   float: left;
+}
+
+.fn-gantt .navigate .nav-slider-right {
+   float: right;
+
+}
+
+.fn-gantt .navigate .nav-slider-content {
+   text-align: left;
+   width: 160px;
+   height: 20px;
+   display: inline-block;
+   padding: 10px;
+   margin: 0;
+   vertical-align: middle;
+}
+
+.fn-gantt .navigate .nav-slider-bar, .fn-gantt .navigate .nav-slider-button {
+   position: absolute;
+   display: inline-block;
+}
+
+.fn-gantt .navigate .nav-slider-bar {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+   width: 150px;
+   height: 10px;
+   background-color: #DDD;
+
+   vertical-align: middle;
+}
+
+.fn-gantt .navigate .nav-slider-button {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+   width: 14px;
+   height: 14px;
+   background-color: #888;
+   left: 0px;
+   top: 0px;
+   margin: -2px 0 0 0;
+   cursor: pointer;
+   vertical-align: middle;
+}
+
+.fn-gantt .navigate .page-number {
+   display: inline-block;
+   font-size: 10px;
+   height: 20px;
+   vertical-align: middle;
+}
+
+.fn-gantt .navigate .page-number span {
+   color: #666666;
+   margin: 5px;
+   position: relative;
+
+}
+
+.fn-gantt .navigate a:link, .fn-gantt .navigate a:visited, .fn-gantt .navigate a:active {
+   text-decoration: none;
+}
+
+.fn-gantt .nav-link {
+   margin: 0px 0px 8px 0px;
+   display: inline-block;
+   width: 20px;
+   height: 20px;
+   font-size: 0px;
+   vertical-align: middle;
+}
+
+.fn-gantt .navigate .nav-page-back {
+   background-image: url(lib/jquery-plugins/img/buttons.png);
+   background-position: 0 0;
+}
+
+.fn-gantt .navigate .nav-page-next {
+   background-image: url(lib/jquery-plugins/img/buttons.png);
+   background-position: -50px 0;
+   margin-right: 15px;
+}
+
+.fn-gantt .navigate .nav-slider .nav-page-next {
+   margin-right: 5px;
+}
+
+.fn-gantt .navigate .nav-page-back:hover {
+   background-position: 0 -20px;
+}
+
+.fn-gantt .navigate .nav-page-next:hover {
+   background-position: -50px -20px;
+}
+
+.fn-gantt .navigate .nav-begin {
+   background-image: url(lib/jquery-plugins/img/buttons.png);
+   background-position: -70px 0;
+}
+
+.fn-gantt .navigate .nav-prev-week {
+   background-image: url(lib/jquery-plugins/img/buttons.png);
+   background-position: -90px 0;
+}
+
+.fn-gantt .navigate .nav-prev-day {
+   background-image: url(lib/jquery-plugins/img/buttons.png);
+   background-position: -110px 0;
+}
+
+.fn-gantt .navigate .nav-next-day {
+   background-image: url(lib/jquery-plugins/img/buttons.png);
+   background-position: -130px 0;
+}
+
+.fn-gantt .navigate .nav-next-week {
+   background-image: url(lib/jquery-plugins/img/buttons.png);
+   background-position: -150px 0;
+}
+
+.fn-gantt .navigate .nav-end {
+   background-image: url(lib/jquery-plugins/img/buttons.png);
+   background-position: -170px 0;
+}
+
+.fn-gantt .navigate .nav-zoomOut {
+   background-image: url(lib/jquery-plugins/img/buttons.png);
+   background-position: -190px 0;
+
+}
+
+.fn-gantt .navigate .nav-zoomOut:hover {
+   background-position: -190px -20px;
+}
+
+.fn-gantt .navigate .nav-zoomIn {
+   background-image: url(lib/jquery-plugins/img/buttons.png);
+   background-position: -210px 0;
+   margin-left: 15px;
+}
+
+.fn-gantt .navigate .nav-zoomIn:hover {
+   background-position: -210px -20px;
+}
+
+.fn-gantt .navigate .nav-now {
+   background-image: url(lib/jquery-plugins/img/buttons.png);
+   background-position: -230px 0;
+}
+
+.fn-gantt .navigate .nav-slider .nav-now {
+   margin-right: 5px;
+}
+
+.fn-gantt .navigate .nav-now:hover {
+   background-position: -230px -20px;
+}
+
+.fn-gantt .navigate .nav-begin:hover {
+   background-position: -70px -20px;
+}
+
+.fn-gantt .navigate .nav-prev-week:hover {
+   background-position: -90px -20px;
+}
+
+.fn-gantt .navigate .nav-prev-day:hover {
+   background-position: -110px -20px;
+}
+
+.fn-gantt .navigate .nav-next-day:hover {
+   background-position: -130px -20px;
+}
+
+.fn-gantt .navigate .nav-next-week:hover {
+   background-position: -150px -20px;
+}
+
+.fn-gantt .navigate .nav-end:hover {
+   background-position: -170px -20px;
+}
+
+.fn-gantt-loader {
+   background-image: url(lib/jquery-plugins/img/loader-bg.png);
+    z-index: 3000;
+}
+
+.fn-gantt-loader-spinner {
+   width: 100px;
+   height: 20px;
+   position: absolute;
+   margin-left: 50%;
+   margin-top: 50%;
+   text-align: center;
+}
+.fn-gantt-loader-spinner span {
+   color: #fff;
+   font-size: 12px;
+   font-weight: bold;
+}
+.row:after {
+    clear: both;
+}
+

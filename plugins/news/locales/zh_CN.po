@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# liAnGjiA <liangjia@qq.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - News\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-17 07:30+0000\n"
+"PO-Revision-Date: 2021-03-17 07:30+0000\n"
+"Last-Translator: Cédric Anne\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/teclib/glpi-plugin-news/language/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: front/alert.php:27 front/alert.form.php:86 front/hidden_alerts.php:27
+#: front/hidden_alerts.php:30 inc/alert.class.php:48 setup.php:66
+msgid "Alerts"
+msgstr "警告"
+
+#: inc/alert.class.php:126 inc/alert.class.php:398
+msgid "Can close alert"
+msgstr ""
+
+#: inc/alert.class.php:135 inc/alert.class.php:407
+msgid "Show on login page"
+msgstr "登陆界面显示"
+
+#: inc/alert.class.php:144 inc/alert.class.php:413
+msgid "Show on helpdesk page"
+msgstr ""
+
+#: inc/alert.class.php:305
+msgid "Please enter a name."
+msgstr "请输入一个名称。"
+
+#: inc/alert.class.php:309
+msgid "Please enter a message."
+msgstr "请输入信息。"
+
+#: inc/alert.class.php:315
+msgid "The end date must be greater than the start date."
+msgstr "结束日期不能早于起始日期啊。"
+
+#: inc/alert.class.php:390
+msgid "Type (to add an icon before alert title)"
+msgstr "类型（在警告标题之前添加图标）"
+
+#: inc/alert.class.php:421
+msgid "Show on central page"
+msgstr ""
+
+#: inc/alert.class.php:497
+msgid "You have hidden alerts valid for current date"
+msgstr "您有针对当前日期有效的隐藏警报"
+
+#: inc/alert.class.php:509
+msgid "General"
+msgstr "常规"
+
+#: inc/alert.class.php:510
+msgid "Information"
+msgstr "信息"
+
+#: inc/alert.class.php:511
+msgid "Warning"
+msgstr "警告"
+
+#: inc/alert.class.php:512
+msgid "Problem"
+msgstr "问题"

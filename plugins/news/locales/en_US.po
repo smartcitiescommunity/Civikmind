@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Shawn Long <webaccounts@kkg.org>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Plugin - News\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-17 07:30+0000\n"
+"PO-Revision-Date: 2021-03-17 07:30+0000\n"
+"Last-Translator: Cédric Anne\n"
+"Language-Team: English (United States) (http://www.transifex.com/teclib/glpi-plugin-news/language/en_US/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: front/alert.php:27 front/alert.form.php:86 front/hidden_alerts.php:27
+#: front/hidden_alerts.php:30 inc/alert.class.php:48 setup.php:66
+msgid "Alerts"
+msgstr "Alerts"
+
+#: inc/alert.class.php:126 inc/alert.class.php:398
+msgid "Can close alert"
+msgstr ""
+
+#: inc/alert.class.php:135 inc/alert.class.php:407
+msgid "Show on login page"
+msgstr "Show on login page"
+
+#: inc/alert.class.php:144 inc/alert.class.php:413
+msgid "Show on helpdesk page"
+msgstr ""
+
+#: inc/alert.class.php:305
+msgid "Please enter a name."
+msgstr "Please enter a name."
+
+#: inc/alert.class.php:309
+msgid "Please enter a message."
+msgstr "Please enter a message."
+
+#: inc/alert.class.php:315
+msgid "The end date must be greater than the start date."
+msgstr "The end date must be greater than the start date."
+
+#: inc/alert.class.php:390
+msgid "Type (to add an icon before alert title)"
+msgstr "Type (to add an icon before alert title)"
+
+#: inc/alert.class.php:421
+msgid "Show on central page"
+msgstr ""
+
+#: inc/alert.class.php:497
+msgid "You have hidden alerts valid for current date"
+msgstr "You have hidden alerts valid for current date"
+
+#: inc/alert.class.php:509
+msgid "General"
+msgstr "General"
+
+#: inc/alert.class.php:510
+msgid "Information"
+msgstr "Information"
+
+#: inc/alert.class.php:511
+msgid "Warning"
+msgstr "Warning"
+
+#: inc/alert.class.php:512
+msgid "Problem"
+msgstr "Problem"

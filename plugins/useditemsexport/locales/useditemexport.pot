@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-20 13:50+0100\n"
+"PO-Revision-Date: 2018-02-20 13:50+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: setup.php:90 inc/export.class.php:52
+msgid "Used items export"
+msgstr ""
+
+#: front/export.form.php:41
+msgid "PDF successfully generated."
+msgstr ""
+
+#: inc/export.class.php:42
+msgid "Run \"composer install --no-dev\" in the plugin tree"
+msgstr ""
+
+#: inc/export.class.php:141
+msgid "Generate new export"
+msgstr ""
+
+#: inc/export.class.php:162
+msgid "Used items export generated"
+msgstr ""
+
+#: inc/export.class.php:176
+msgid "Reference number of export"
+msgstr ""
+
+#: inc/export.class.php:177
+msgid "Date of export"
+msgstr ""
+
+#: inc/export.class.php:178
+msgid "Author of export"
+msgstr ""
+
+#: inc/export.class.php:179
+msgid "Export document"
+msgstr ""
+
+#: inc/export.class.php:290
+msgid "Asset export ref : "
+msgstr ""
+
+#: inc/export.class.php:361 inc/export.class.php:364
+msgid "Signature"
+msgstr ""
+
+#: inc/export.class.php:424
+msgid "Used-Items-Export"
+msgstr ""
+
+#: inc/config.class.php:49
+msgid "General setup of useditemsexport"
+msgstr ""
+
+#: inc/config.class.php:72
+msgid "Footer text"
+msgstr ""
+
+#: inc/config.class.php:78
+msgid "Orientation"
+msgstr ""
+
+#: inc/config.class.php:85
+msgid "Format"
+msgstr ""
+
+#: inc/config.class.php:92
+msgid "Language"
+msgstr ""
+
+#: inc/config.class.php:108
+msgid "Landscape"
+msgstr ""
+
+#: inc/config.class.php:109
+msgid "Portrait"
+msgstr ""

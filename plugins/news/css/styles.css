@@ -1,0 +1,136 @@
+.plugin_news_alert {
+   margin: auto;
+   width: 90%;
+   border: none;
+   position: relative;
+   max-width: 800px;
+   margin-top: 20px;
+}
+
+.plugin_news_alert-title {
+   font-size: 18px;
+   padding: 5px;
+   min-height: 45px;
+}
+
+.plugin_news_alert-content {
+   word-break: normal;
+   padding: 5px 15px;
+   border: none;
+}
+
+.plugin_news_alert-content ul {
+   list-style: inherit;
+   margin:     inherit;
+   padding:    inherit;
+}
+
+.plugin_news_alert-login {
+   margin-bottom: 40px;
+}
+
+.plugin_news_alert-login .plugin_news_alert-content {
+   max-height: 0;
+   padding: 0;
+   overflow: hidden;
+   transition: max-height .25s ease-out;
+   transition: padding .25s ease-out;
+}
+.plugin_news_alert-login .expanded .plugin_news_alert-content {
+   padding: 5px 15px;
+   max-height: 300px;
+   overflow-y: auto;
+   transition: max-height .25s ease-in;
+   transition: padding .25s ease-in;
+}
+
+.plugin_news_alert-close {
+   background-image: url(../pics/close.png);
+   width: 16px;
+   height: 16px;
+   cursor: pointer;
+   opacity: .5;
+   position: absolute;
+   top: 12px;
+   right: 12px;
+}
+
+.plugin_news_alert-title-content {
+   overflow: hidden;
+   margin-top: 7px;
+}
+
+.plugin_news_alert-icon {
+   display: block;
+   width: 45px;
+   height: 45px;
+   float: left;
+   margin-right: 5px;
+}
+
+.plugin_news_alert-icon.type_0 {
+   width:0;
+   margin-right: 0;
+}
+
+.plugin_news_alert-icon.type_1 {
+   background-image: url(../pics/general.png);
+}
+
+.plugin_news_alert-icon.type_2 {
+   background-image: url(../pics/information.png);
+}
+
+.plugin_news_alert-icon.type_3 {
+   background-image: url(../pics/warning.png);
+}
+
+.plugin_news_alert-icon.type_4 {
+   background-image: url(../pics/error.png);
+}
+
+.plugin_news_alert-date {
+   font-size: .45em;
+   margin-left: 5px;
+   color: #737373;
+   overflow: hidden;
+}
+
+.plugin_news_alert-close:hover {
+   opacity: 1;
+}
+
+.plugin_news_alert-login .plugin_news_alert-close {
+   display: none;
+}
+
+.plugin_news_alert-login .plugin_news_alert {
+   background: rgba(255, 255, 255, .3);
+   box-shadow: inherit;
+}
+.plugin_news_alert-login .plugin_news_alert-title {
+   background-color: rgba(248, 248, 248, .5);
+}
+
+.plugin_news_alert-toggle {
+   background-image: url(../pics/toggle_down.png);
+   width: 16px;
+   height: 16px;
+   cursor: pointer;
+   opacity: .5;
+   position: absolute;
+   top: 12px;
+   right: 12px;
+   opacity: .5;
+}
+.expanded .plugin_news_alert-toggle {
+   background-image: url(../pics/toggle_up.png);
+}
+.plugin_news_alert-toggle:hover {
+   opacity: 1;
+}
+
+.plugin_news_alert-visibility {
+   margin: 0 auto;
+   width: 400px;
+}

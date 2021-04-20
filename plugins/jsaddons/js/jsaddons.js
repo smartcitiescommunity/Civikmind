@@ -1,0 +1,11 @@
+$.ajax({
+	url:CFG_GLPI.root_doc+"/"+GLPI_PLUGINS_PATH.jsaddons+"/ajax/jsaddons.php",
+	method:"POST",
+	dataType:"json",
+	data:{list:true},
+	success:function(result){
+		result.forEach(function(script){
+			$("head").append(script);
+		});
+	},
+});

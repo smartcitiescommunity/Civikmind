@@ -1,0 +1,63 @@
+# YAGP Glpi Plugin.
+# Copyright (C) 2020 TICgal
+# This file is distributed under the same license as the PACKAGE package.
+# TICgal, 2020
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-24 12:09+0200\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: inc/config.class.php:45 inc/config.class.php:116
+msgid "Yagp"
+msgstr ""
+
+#: inc/config.class.php:88
+msgid "Change ticket solved date to last task end time"
+msgstr ""
+
+#: inc/config.class.php:93
+msgid "Auto renew tacit contracts"
+msgstr ""
+
+#: inc/config.class.php:98
+msgid "Fixed Menu"
+msgstr ""
+
+#: inc/config.class.php:103
+msgid "Go to ticket"
+msgstr ""
+
+#: inc/contractrenew.class.php:5
+msgid "YagpContractRenew"
+msgstr ""
+
+#: inc/contractrenew.class.php:11
+msgid "Renews tacit contracts"
+msgstr ""
+
+#: inc/contractrenew.class.php:41
+#, php-format
+msgid "Renewed Contract id: %s"
+msgstr ""
+
+#: inc/ticketsolveddate.class.php:5
+msgid "YagpTicketSolvedDate"
+msgstr ""
+
+#: inc/ticketsolveddate.class.php:11
+msgid "Change date"
+msgstr ""
+
+#: inc/ticketsolveddate.class.php:12
+msgid "Number of tickets"
+msgstr ""

@@ -1,0 +1,15 @@
+DEMANDE DE CONGES MON ENTREPRISE
+
+
+SOCIETE : XXX
+RESPONSABLE DE LA VALIDATION DE LA DEMANDE : {{user_validate}}
+
+NOM : {{user_realname}}
+PRENOM : {{user_firstname}}
+MATRICULE : {{user_matricule}}
+
+NOMBRE DE JOURS : {{nb_days}}
+DATE DE DEBUT : {{date_begin}}
+DATE DE FIN : {{date_end}}
+CODE MOTIF : {{holidays_shortname}}
+AUTRES PRECISIONS : {{holidays_comment}}

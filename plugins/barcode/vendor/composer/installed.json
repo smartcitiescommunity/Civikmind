@@ -1,0 +1,471 @@
+[
+    {
+        "name": "cweagans/composer-patches",
+        "version": "1.6.7",
+        "version_normalized": "1.6.7.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/cweagans/composer-patches.git",
+            "reference": "2e6f72a2ad8d59cd7e2b729f218bf42adb14f590"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/cweagans/composer-patches/zipball/2e6f72a2ad8d59cd7e2b729f218bf42adb14f590",
+            "reference": "2e6f72a2ad8d59cd7e2b729f218bf42adb14f590",
+            "shasum": ""
+        },
+        "require": {
+            "composer-plugin-api": "^1.0",
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "composer/composer": "~1.0",
+            "phpunit/phpunit": "~4.6"
+        },
+        "time": "2019-08-29T20:11:49+00:00",
+        "type": "composer-plugin",
+        "extra": {
+            "class": "cweagans\\Composer\\Patches"
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "cweagans\\Composer\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Cameron Eagans",
+                "email": "me@cweagans.net"
+            }
+        ],
+        "description": "Provides a way to patch Composer packages."
+    },
+    {
+        "name": "deltalab/phpqrcode",
+        "version": "1.1.4",
+        "version_normalized": "1.1.4.0",
+        "dist": {
+            "type": "zip",
+            "url": "https://sourceforge.net/projects/phpqrcode/files/releases/phpqrcode-2010100721_1.1.4.zip/download",
+            "reference": "1.1.4"
+        },
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "phpqrcode.php"
+            ]
+        }
+    },
+    {
+        "name": "pear/archive_tar",
+        "version": "1.4.9",
+        "version_normalized": "1.4.9.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/pear/Archive_Tar.git",
+            "reference": "c5b00053770e1d72128252c62c2c1a12c26639f0"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/pear/Archive_Tar/zipball/c5b00053770e1d72128252c62c2c1a12c26639f0",
+            "reference": "c5b00053770e1d72128252c62c2c1a12c26639f0",
+            "shasum": ""
+        },
+        "require": {
+            "pear/pear-core-minimal": "^1.10.0alpha2",
+            "php": ">=5.2.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "*"
+        },
+        "suggest": {
+            "ext-bz2": "Bz2 compression support.",
+            "ext-xz": "Lzma2 compression support.",
+            "ext-zlib": "Gzip compression support."
+        },
+        "time": "2019-12-04T10:17:28+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.4.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Archive_Tar": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "include-path": [
+            "./"
+        ],
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Vincent Blavet",
+                "email": "vincent@phpconcept.net"
+            },
+            {
+                "name": "Greg Beaver",
+                "email": "greg@chiaraquartet.net"
+            },
+            {
+                "name": "Michiel Rook",
+                "email": "mrook@php.net"
+            }
+        ],
+        "description": "Tar file management class with compression support (gzip, bzip2, lzma2)",
+        "homepage": "https://github.com/pear/Archive_Tar",
+        "keywords": [
+            "archive",
+            "tar"
+        ]
+    },
+    {
+        "name": "pear/console_getopt",
+        "version": "v1.4.3",
+        "version_normalized": "1.4.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/pear/Console_Getopt.git",
+            "reference": "a41f8d3e668987609178c7c4a9fe48fecac53fa0"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/pear/Console_Getopt/zipball/a41f8d3e668987609178c7c4a9fe48fecac53fa0",
+            "reference": "a41f8d3e668987609178c7c4a9fe48fecac53fa0",
+            "shasum": ""
+        },
+        "time": "2019-11-20T18:27:48+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Console": "./"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "include-path": [
+            "./"
+        ],
+        "license": [
+            "BSD-2-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Andrei Zmievski",
+                "email": "andrei@php.net",
+                "role": "Lead"
+            },
+            {
+                "name": "Stig Bakken",
+                "email": "stig@php.net",
+                "role": "Developer"
+            },
+            {
+                "name": "Greg Beaver",
+                "email": "cellog@php.net",
+                "role": "Helper"
+            }
+        ],
+        "description": "More info available on: http://pear.php.net/package/Console_Getopt"
+    },
+    {
+        "name": "pear/image_barcode",
+        "version": "1.1.2",
+        "version_normalized": "1.1.2.0",
+        "dist": {
+            "type": "zip",
+            "url": "https://github.com/pear/Image_Barcode/archive/1.1.2.zip",
+            "reference": "1.1.2"
+        },
+        "type": "library",
+        "extra": {
+            "patches_applied": {
+                "Fix error due to assignation as reference from new operation": "./patch/fix-pear-image-barcode.patch"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Image": "./"
+            }
+        },
+        "include-path": [
+            "./"
+        ]
+    },
+    {
+        "name": "pear/pear",
+        "version": "v1.10.12",
+        "version_normalized": "1.10.12.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/pear/pear-core.git",
+            "reference": "6162562db95379bcfa906b569ecd0c85d4ee7364"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/pear/pear-core/zipball/6162562db95379bcfa906b569ecd0c85d4ee7364",
+            "reference": "6162562db95379bcfa906b569ecd0c85d4ee7364",
+            "shasum": ""
+        },
+        "require": {
+            "ext-pcre": "*",
+            "ext-xml": "*",
+            "pear/archive_tar": "*",
+            "pear/console_getopt": "*",
+            "pear/structures_graph": "*",
+            "pear/xml_util": "*"
+        },
+        "replace": {
+            "pear/pear-core-minimal": "*"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "*"
+        },
+        "suggest": {
+            "pear/pear_frontend_gtk": "For GTK support",
+            "pear/pear_frontend_web": "For Web support"
+        },
+        "time": "2020-04-19T18:01:13+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "./"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "include-path": [
+            "./"
+        ],
+        "license": [
+            "BSD-2-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Greg Beaver",
+                "email": "cellog@php.net",
+                "role": "Lead"
+            },
+            {
+                "name": "Pierre-Alain Joye",
+                "email": "pierre@php.net",
+                "role": "Lead"
+            },
+            {
+                "name": "Stig Bakken",
+                "email": "stig@php.net",
+                "role": "Lead"
+            },
+            {
+                "name": "Tomas V.V.Cox",
+                "email": "cox@idecnet.com",
+                "role": "Lead"
+            },
+            {
+                "name": "Helgi Thormar",
+                "email": "dufuz@php.net",
+                "role": "Lead"
+            },
+            {
+                "name": "Tias Guns",
+                "email": "tias@php.net",
+                "role": "Developer"
+            },
+            {
+                "name": "Tim Jackson",
+                "email": "timj@php.net",
+                "role": "Helper"
+            },
+            {
+                "name": "Bertrand Gugger",
+                "email": "toggg@php.net",
+                "role": "Helper"
+            },
+            {
+                "name": "Martin Jansen",
+                "email": "mj@php.net",
+                "role": "Helper"
+            }
+        ],
+        "description": "This is the definitive source of PEAR's core files."
+    },
+    {
+        "name": "pear/structures_graph",
+        "version": "v1.1.1",
+        "version_normalized": "1.1.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/pear/Structures_Graph.git",
+            "reference": "608fdc835a62fb238e61bd1cf0aaf6c7a4420b5c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/pear/Structures_Graph/zipball/608fdc835a62fb238e61bd1cf0aaf6c7a4420b5c",
+            "reference": "608fdc835a62fb238e61bd1cf0aaf6c7a4420b5c",
+            "shasum": ""
+        },
+        "time": "2015-07-20T20:05:12+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Structures": "./"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "include-path": [
+            "./"
+        ],
+        "license": [
+            "PHP License"
+        ],
+        "authors": [
+            {
+                "name": "Sérgio Carvalho",
+                "email": "sergiosgc@gmail.com",
+                "role": "Lead"
+            }
+        ],
+        "description": "More info available on: http://pear.php.net/package/Structures_Graph"
+    },
+    {
+        "name": "pear/xml_util",
+        "version": "v1.4.5",
+        "version_normalized": "1.4.5.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/pear/XML_Util.git",
+            "reference": "90052e3e7c099ffce3bc83ec4210f88a40b8419a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/pear/XML_Util/zipball/90052e3e7c099ffce3bc83ec4210f88a40b8419a",
+            "reference": "90052e3e7c099ffce3bc83ec4210f88a40b8419a",
+            "shasum": ""
+        },
+        "require": {
+            "pear/pear-core-minimal": "^1.10.1",
+            "php": ">=5.4"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "<=7"
+        },
+        "time": "2020-04-19T15:08:27+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "XML_Util": "./"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "include-path": [
+            "./"
+        ],
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Chuck Burgess",
+                "email": "ashnazg@php.net",
+                "role": "Lead"
+            },
+            {
+                "name": "Stephan Schmidt",
+                "email": "schst@php-tools.net",
+                "role": "Lead"
+            },
+            {
+                "name": "Davey Shafik",
+                "email": "davey@php.net",
+                "role": "Helper"
+            }
+        ],
+        "description": "Methods to work with XML documents",
+        "homepage": "http://pear.php.net/package/XML_Util"
+    },
+    {
+        "name": "rospdf/pdf-php",
+        "version": "0.12.62",
+        "version_normalized": "0.12.62.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/rospdf/pdf-php.git",
+            "reference": "3598d0cb9d14fb5c5599a93285eff6ddef8a7310"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/rospdf/pdf-php/zipball/3598d0cb9d14fb5c5599a93285eff6ddef8a7310",
+            "reference": "3598d0cb9d14fb5c5599a93285eff6ddef8a7310",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "3.7.38",
+            "squizlabs/php_codesniffer": "2.*"
+        },
+        "time": "2020-04-12T14:12:11+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-experimental": "0.13.x-dev",
+                "dev-master": "0.12.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "src/Cpdf.php",
+                "src/Cezpdf.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Ole Koeckemann",
+                "email": "ole.k@web.de",
+                "role": "Project Head / Developer"
+            },
+            {
+                "name": "Lars Olesen",
+                "email": "lars@intraface.dk",
+                "role": "Developer"
+            },
+            {
+                "name": "Sune Jensen",
+                "email": "sj@sunet.dk",
+                "role": "Developer"
+            },
+            {
+                "name": "Nicola Asuni",
+                "email": "info@tecnick.com",
+                "role": "Developer"
+            },
+            {
+                "name": "Wayne Munro",
+                "email": "pdf@ros.co.nz",
+                "role": "Founder / Inactive"
+            }
+        ],
+        "description": "The R&OS Pdf class supports the creation of PDF documents without any adiditional modules or extensions.",
+        "homepage": "https://github.com/rospdf/pdf-php"
+    }
+]

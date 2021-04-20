@@ -1,0 +1,356 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-20 16:42-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: hook.php:198 inc/ruleimport.class.php:57
+msgid "Last inventory"
+msgstr ""
+
+#: hook.php:206 hook.php:334 inc/mobiledevice.class.php:69
+msgid "Import date"
+msgstr ""
+
+#: hook.php:214 inc/mobiledevice.class.php:79
+msgid "Enrollment date"
+msgstr ""
+
+#: hook.php:222 inc/mobiledevice.class.php:86 inc/ruleimport.class.php:61
+msgid "Managed"
+msgstr ""
+
+#: hook.php:230 inc/mobiledevice.class.php:84 inc/ruleimport.class.php:66
+msgid "Supervised"
+msgstr ""
+
+#: hook.php:238 inc/mobiledevice.class.php:89
+msgid "Cloud backup enabled"
+msgstr ""
+
+#: hook.php:246
+msgid "Activation lock enabled"
+msgstr ""
+
+#: hook.php:254
+msgid "Lost mode enabled"
+msgstr ""
+
+#: hook.php:262
+msgid "Lost mode enforced"
+msgstr ""
+
+#: hook.php:270
+msgid "Lost mode enable date"
+msgstr ""
+
+#: hook.php:278
+msgid "Lost mode message"
+msgstr ""
+
+#: hook.php:286
+msgid "Lost mode phone"
+msgstr ""
+
+#: hook.php:294
+msgid "Lost mode latitude"
+msgstr ""
+
+#: hook.php:302
+msgid "Lost mode longitude"
+msgstr ""
+
+#: hook.php:310
+msgid "Lost mode altitude"
+msgstr ""
+
+#: hook.php:318
+msgid "Lost mode speed"
+msgstr ""
+
+#: hook.php:326
+msgid "Lost mode location date"
+msgstr ""
+
+#: hook.php:342
+msgid "Sync date"
+msgstr ""
+
+#: setup.php:56
+msgid "JAMF Plugin for GLPI"
+msgstr ""
+
+#: front/import.php:47 front/merge.php:60
+msgid "Jamf ID"
+msgstr ""
+
+#: front/import.php:48 front/merge.php:61 inc/ruleimport.class.php:48
+msgid "Name"
+msgstr ""
+
+#: front/import.php:49 front/merge.php:62
+msgid "Type"
+msgstr ""
+
+#: front/import.php:50 front/merge.php:63
+msgid "UDID"
+msgstr ""
+
+#: front/import.php:51 front/merge.php:64
+msgid "Discovery Date"
+msgstr ""
+
+#: front/import.php:72 inc/ruleimport.class.php:75
+msgid "Import"
+msgstr ""
+
+#: front/import.php:104
+msgid "Importing devices..."
+msgstr ""
+
+#: front/menu.php:32
+msgid "Import devices"
+msgstr ""
+
+#: front/menu.php:33
+msgid "Merge existing devices"
+msgstr ""
+
+#: front/menu.php:36
+msgid "Configure plugin"
+msgstr ""
+
+#: front/menu.php:41 inc/menu.class.php:32 inc/profile.class.php:81
+#: inc/profile.class.php:123
+msgid "Jamf plugin"
+msgstr ""
+
+#: front/menu.php:50
+msgid "You do not have access to any Jamf plugin items"
+msgstr ""
+
+#: front/merge.php:65
+msgid "GLPI Item"
+msgstr ""
+
+#: front/merge.php:92
+msgid "Merge"
+msgstr ""
+
+#: front/merge.php:131
+msgid "Merging devices..."
+msgstr ""
+
+#: inc/apiclassic.class.php:72
+msgid "Unknown JSS API Error"
+msgstr ""
+
+#: inc/config.class.php:36
+msgid "JAMF plugin"
+msgstr ""
+
+#: inc/config.class.php:63
+msgid "Server Settings"
+msgstr ""
+
+#: inc/config.class.php:64
+msgid "JSS Server"
+msgstr ""
+
+#: inc/config.class.php:71
+msgid "JSS User"
+msgstr ""
+
+#: inc/config.class.php:75
+msgid "JSS Password"
+msgstr ""
+
+#: inc/config.class.php:81
+msgid "Sync Settings"
+msgstr ""
+
+#: inc/config.class.php:83
+msgid "Sync Interval (minutes)"
+msgstr ""
+
+#: inc/config.class.php:90
+msgid "Sync General"
+msgstr ""
+
+#: inc/config.class.php:95
+msgid "Sync OS"
+msgstr ""
+
+#: inc/config.class.php:100
+msgid "Sync Software"
+msgstr ""
+
+#: inc/config.class.php:105
+msgid "Sync Financial"
+msgstr ""
+
+#: inc/config.class.php:110
+msgid "Sync User"
+msgstr ""
+
+#: inc/config.class.php:115
+msgid "Auto Import"
+msgstr ""
+
+#: inc/config.class.php:121
+msgid "Default Type Settings"
+msgstr ""
+
+#: inc/config.class.php:122
+msgid "Manufacturer"
+msgstr ""
+
+#: inc/config.class.php:128
+msgid "iPhone Type"
+msgstr ""
+
+#: inc/config.class.php:133
+msgid "iPad Type"
+msgstr ""
+
+#: inc/config.class.php:138
+msgid "AppleTV Type"
+msgstr ""
+
+#: inc/config.class.php:148 inc/profile.class.php:88 inc/profile.class.php:130
+msgctxt "button"
+msgid "Save"
+msgstr ""
+
+#: inc/dbutil.class.php:45
+#, php-format
+msgid "%1$s - Error during the database query: %2$s - Error is %3$s"
+msgstr ""
+
+#: inc/import.class.php:33
+msgid "Pending import"
+msgid_plural "Pending imports"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/mobiledevice.class.php:37
+msgid "Jamf mobile device"
+msgstr ""
+
+#: inc/mobiledevice.class.php:64
+msgid "Yes"
+msgstr ""
+
+#: inc/mobiledevice.class.php:64
+msgid "No"
+msgstr ""
+
+#: inc/mobiledevice.class.php:68
+msgid "Jamf General Information"
+msgstr ""
+
+#: inc/mobiledevice.class.php:71
+msgid "Last sync"
+msgstr ""
+
+#: inc/mobiledevice.class.php:74
+msgid "Jamf last inventory"
+msgstr ""
+
+#: inc/mobiledevice.class.php:76
+msgid "Jamf import date"
+msgstr ""
+
+#: inc/mobiledevice.class.php:81
+msgid "Shared device"
+msgstr ""
+
+#: inc/mobiledevice.class.php:91
+msgid "Activation locked"
+msgstr ""
+
+#: inc/mobiledevice.class.php:96
+msgid "Sync now"
+msgstr ""
+
+#: inc/mobiledevice.class.php:115
+msgid "Jamf Lost Mode Information"
+msgstr ""
+
+#: inc/mobiledevice.class.php:118
+msgid "Lost mode is not enabled"
+msgstr ""
+
+#: inc/mobiledevice.class.php:120
+msgid "Enabled"
+msgstr ""
+
+#: inc/mobiledevice.class.php:122
+msgid "Enforced"
+msgstr ""
+
+#: inc/mobiledevice.class.php:125
+msgid "Enable date"
+msgstr ""
+
+#: inc/mobiledevice.class.php:128
+msgid "Message"
+msgstr ""
+
+#: inc/mobiledevice.class.php:130
+msgid "Phone"
+msgstr ""
+
+#: inc/mobiledevice.class.php:135
+msgid "GPS"
+msgstr ""
+
+#: inc/mobiledevice.class.php:140
+msgid "Altitude"
+msgstr ""
+
+#: inc/mobiledevice.class.php:142
+msgid "Speed"
+msgstr ""
+
+#: inc/mobiledevice.class.php:144
+msgid "Lost location date"
+msgstr ""
+
+#: inc/profile.class.php:76
+msgid "Import rule"
+msgid_plural "Import rules"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/profile.class.php:79
+msgid "Sync rule"
+msgid_plural "Sync rules"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/profile.class.php:122
+msgid "Read"
+msgstr ""
+
+#: inc/ruleimport.class.php:36 inc/ruleimportcollection.class.php:35
+msgid "Device import rules"
+msgstr ""
+
+#: inc/ruleimport.class.php:52
+msgid "Item type"
+msgstr ""
