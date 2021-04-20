@@ -1,5 +1,6 @@
 # Civikmind
 Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Objetivos de Desarrollo Sostenible
+Platform for the Management of Smart Communities, Smart Cities and Sustainable Development Goals
 
 <img align="left" src="pics/scc.jpg?raw=true"/>
 
