@@ -1,4 +1,5 @@
 # Civikmind
+![Sustainable Development Goals](https://img.shields.io/badge/Sustainable%20Development%20Goals-Ready-blueviolet)
 ![Smart City](https://img.shields.io/badge/Smart%20Citiy-%20Ready-orange)
 ![IOT](https://img.shields.io/badge/IOT-%20Ready-brightgreen)
 
