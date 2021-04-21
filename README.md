@@ -5,7 +5,7 @@
 Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Objetivos de Desarrollo Sostenible
 Software Solution for the Management of Smart Communities, Smart Cities and Sustainable Development Goals
 
-|Proyecto | DevOps | Investigación|
+|Tareas del Proyecto | DevOps | Investigación|
 |------------ | -------------|------------ |
 |https://trello.com/civikmind | https://civikmind.slack.com | https://civikmind.bit.ai/|
 |Ayudanos realizando alguna de las tareas | Ideas de código o automatización? Todas bienvenidas | Lo que vamos investigando o lo que nos cuentas lo vamos documentando. Todos los aportes son bienvenidos|
