@@ -1,14 +1,16 @@
 # Civikmind
-![Sustainable Development Goals](https://img.shields.io/badge/Sustainable%20Development%20Goals-Ready-blueviolet)
-![Smart City](https://img.shields.io/badge/Smart%20Citiy-%20Ready-orange)
-![IOT](https://img.shields.io/badge/IOT-%20Ready-brightgreen)
 
-Siguenos!
-https://trello.com/civikmind | https://civikmind.slack.com | https://civikmind.bit.ai/ | [Forkea nuestro repo](https://github.com/smartcitiescommunity/Civikmind/fork)
 
 Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Objetivos de Desarrollo Sostenible
-Platform for the Management of Smart Communities, Smart Cities and Sustainable Development Goals
+Software Solution for the Management of Smart Communities, Smart Cities and Sustainable Development Goals
 
+![Sustainable Development Goals](https://img.shields.io/badge/Sustainable%20Development%20Goals-Ready-blueviolet)
+ | ![Smart City](https://img.shields.io/badge/Smart%20Citiy-%20Ready-orange) |![IOT](https://img.shields.io/badge/IOT-%20Ready-brightgreen)  | [Forkea nuestro repo](https://github.com/smartcitiescommunity/Civikmind/fork)
+
+Proyecto | DevOps | Investigación
+------------ | -------------
+https://trello.com/civikmind | https://civikmind.slack.com | https://civikmind.bit.ai/
+Ayudanos realizando alguna de las tareas | Ideas de código o automatización? Todas bienvenidas | Lo que vamos investigando o lo que nos cuentas lo vamos documentando. Todos los aportes son bienvenidos
 <img align="left" src="pics/scc.jpg?raw=true"/>
 
 | **`SLES`** <img src="https://cdn.rawgit.com/smartcitiescommunity/Civikmind/e1070b30/pics/linux.svg"> | **`RHEL`** <img src="https://cdn.rawgit.com/smartcitiescommunity/Civikmind/e1070b30/pics/linux.svg"> | **`UBUNTU`** <img src="https://cdn.rawgit.com/smartcitiescommunity/Civikmind/e1070b30/pics/linux.svg"> | **`Windows`** <img src="https://cdn.rawgit.com/smartcitiescommunity/Civikmind/e1070b30/pics/windows.svg"> | **`MacOS`** <img src="https://cdn.rawgit.com/smartcitiescommunity/Civikmind/84d8b4da/pics/mac.svg"> | **`Estado`** | **`Appliance`** | **`Idioma`** | **`Tutorial`** |
