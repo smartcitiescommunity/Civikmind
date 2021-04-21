@@ -16,15 +16,19 @@ Software Solution for the Management of Smart Communities, Smart Cities and Sust
 | OK :white_check_mark: | OK :white_check_mark: | OK :white_check_mark: | Fallo :collision: | OK :white_check_mark: | [![Estado](https://secure.travis-ci.org/glpi-project/glpi.svg?branch=master)](https://secure.travis-ci.org/glpi-project/glpi) | No disponible en el momento | :es: :us: :fr: :it: :de: 🇧🇷 :ru: :cn: :jp: :kr: 🇸🇦 | http://bit.ly/CivikMind |
 
 ## Equipo
-Base: Forked from **GLPI** https://github.com/glpi-project/glpi
-Forker & Dev: **Juan Fernando Villa**
-Apoyo: 
-Conceptos:  **Indira Carazo**
-Apoyo Financiero: **Andrés Beltrán**
-Mercadeo **Yessy Alejandro Lotero**
-Revisión y beta testing: **Sergio Herrera**
-Diseño Grafico: **Alejandro Cataño**
-Conceptos de Desarrollo: **Alejandro Angel Arango**
+
+| ROL | Miembro del Equipo |
+| ------------- | ------------- |
+| Dirección y desarrollo |**Juan Fernando Villa**|
+| Base: | Forkeado de **GLPI** https://github.com/glpi-project/glpi|
+| Conceptos: | **Indira Carazo Roldan** y **Francisco Javier Roldan**  |
+| Kickstarter: | **Juan Felipe Campuzano Zuluaga**  |
+| Apoyo Financiero  | **Andrés Beltrán**  |
+| Ideas de Mercadeo | **Yessy Alejandro Lotero**  |
+| Pruebas y Experiencia de usuario | **Sergio Herrera**  |
+| Diseño Grafico: | **Alejandro Cataño**  |
+| Conceptos de Desarrollo:: | **Alejandro Angel Arango**  |
+
 
 ## Activismo y Causas Sociales
 <p align="center">
