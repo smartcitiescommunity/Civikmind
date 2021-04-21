@@ -10,6 +10,7 @@ Software Solution for the Management of Smart Communities, Smart Cities and Sust
 |https://trello.com/civikmind | https://civikmind.slack.com | https://civikmind.bit.ai/|
 |Ayudanos realizando alguna de las tareas | Ideas de código o automatización? Todas bienvenidas | Lo que vamos investigando o lo que nos cuentas lo vamos documentando. Todos los aportes son bienvenidos|
 <img align="left" src="pics/scc.jpg?raw=true"/>
+
 | **`SLES`** <img src="https://cdn.rawgit.com/smartcitiescommunity/Civikmind/e1070b30/pics/linux.svg"> | **`RHEL`** <img src="https://cdn.rawgit.com/smartcitiescommunity/Civikmind/e1070b30/pics/linux.svg"> | **`UBUNTU`** <img src="https://cdn.rawgit.com/smartcitiescommunity/Civikmind/e1070b30/pics/linux.svg"> | **`Windows`** <img src="https://cdn.rawgit.com/smartcitiescommunity/Civikmind/e1070b30/pics/windows.svg"> | **`MacOS`** <img src="https://cdn.rawgit.com/smartcitiescommunity/Civikmind/84d8b4da/pics/mac.svg"> | **`Estado`** | **`Appliance`** | **`Idioma`** | **`Tutorial`** |
 |-----------------|---------------------|------------------|-------------------|---------------|---------------|---------------|---------------|---------------|
 | OK :white_check_mark: | OK :white_check_mark: | OK :white_check_mark: | Fallo :collision: | OK :white_check_mark: | [![Estado](https://secure.travis-ci.org/glpi-project/glpi.svg?branch=master)](https://secure.travis-ci.org/glpi-project/glpi) | No disponible en el momento | :es: :us: :fr: :it: :de: 🇧🇷 :ru: :cn: :jp: :kr: 🇸🇦 | http://bit.ly/CivikMind |
