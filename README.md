@@ -2,8 +2,8 @@
 ![Sustainable Development Goals](https://img.shields.io/badge/Sustainable%20Development%20Goals-Ready-blueviolet)
  | ![Smart City](https://img.shields.io/badge/Smart%20Citiy-%20Ready-orange) |![IOT](https://img.shields.io/badge/IOT-%20Ready-brightgreen)  | [Forkea nuestro repo](https://github.com/smartcitiescommunity/Civikmind/fork)
 
-Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Objetivos de Desarrollo Sostenible
-Software Solution for the Management of Smart Communities, Smart Cities and Sustainable Development Goals
+Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Gestión de activos inteligentes en el contexto de los Objetivos de Desarrollo Sostenible
+Software Solution for the Management of Smart Communities, Smart Cities and Smart Asset Management in the context of the Sustainable Development Goals
 
 |Tareas del Proyecto | DevOps | Investigación|
 |------------ | -------------|------------ |
