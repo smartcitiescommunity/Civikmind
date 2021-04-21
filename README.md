@@ -4,9 +4,7 @@
 ![IOT](https://img.shields.io/badge/IOT-%20Ready-brightgreen)
 
 Siguenos!
-https://trello.com/civikmind | https://civikmind.slack.com
-
-[Forkea nuestro repo](https://github.com/smartcitiescommunity/Civikmind/fork)
+https://trello.com/civikmind | https://civikmind.slack.com | https://civikmind.bit.ai/ | [Forkea nuestro repo](https://github.com/smartcitiescommunity/Civikmind/fork)
 
 Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Objetivos de Desarrollo Sostenible
 Platform for the Management of Smart Communities, Smart Cities and Sustainable Development Goals
