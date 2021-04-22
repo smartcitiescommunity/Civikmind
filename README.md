@@ -36,10 +36,10 @@ Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y
 
 | Fundicionalidad | Especificidad | Contexto|
 |------------ | -------------|------------ |
-| Gestión & Administración |Inventario de Activos digitales, Dispositivos y Archivos|X|
-|Gestión & Administración | Gestión administrativa, contratos, documentos relacionados con componentes del inventario de activos, base de datos de conocimiento y generación de tareas en proyectos|X|
+|Gestión & Administración| Gestión administrativa, contratos, documentos relacionados con componentes del inventario de activos, base de datos de conocimiento y generación de tareas en proyectos|X|
+||Inventario de Activos digitales, Dispositivos y Archivos|X|
 | Cumplimiento en mesas de ayuda(ServiceDesk ITIL Compliant)|Gestión de problemas en varios entornos vía la creación de tickets, gestión de los tickets, asignación, planificación de los tickets para una Mesa de ayuda, etc.|X|
-|Cumplimiento en mesas de ayuda(ServiceDesk ITIL Compliant)|Gestión de problemas, proyectos y cambios|X|
+||Gestión de problemas, proyectos y cambios|X|
 |X |X|X|
 |X |X|X|
 |X |X|X|``
