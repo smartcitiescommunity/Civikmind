@@ -34,9 +34,8 @@ Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y
 
 | Fundicionalidad | Especificidad | Contexto|
 |------------ | -------------|------------ |
-| Gestión & Administración |- Inventario de Activos digitales
-- Dispositivos y Archivos|X|
-|Gestión & Administración |  - Gestión administrativa, contratos, documentos relacionados con componentes del inventario de activos, base de datos de conocimiento y generación de tareas en proyectos|X|
+| Gestión & Administración |Inventario de Activos digitales, Dispositivos y Archivos|X|
+|Gestión & Administración | Gestión administrativa, contratos, documentos relacionados con componentes del inventario de activos, base de datos de conocimiento y generación de tareas en proyectos|X|
 |X |X|X|
 |X |X|X|
 |X |X|X|
