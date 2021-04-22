@@ -87,7 +87,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |Configuración| Desplegables, Componentes, Notificaciones, Niveles de servicio, General, Campos de unicidad, Acciones automáticas, Autenticación, Destinatarios, Enlaces externos y Complementos|
 
 ##  Plugins
-Ademas la plataforma viene precargada con 50 [plugins](http://plugins.glpi-project.org)  actualizados del Repositorio del  software Originario GLPI, que abre un panorama a otra clase de soluciones. Como buena practica revise que el plugin sea compatible con Civikmind verificando que tenga una compatibilidad con el GLPI 9.5.5. Los dispositivos que posean una tarjeta o interfaz de red con un sistema operativo que les permite usar el protocolo SNMP, ICMP y/o permitan la instalación de clientes que se conecten a otras aplicaciones integrables al GLPI, habilitando la aplicación como sistema de gestión de activos tipo ITO.
+Ademas la plataforma viene precargada con 50 [plugins](http://plugins.glpi-project.org)  actualizados del Repositorio del  software Originario, que abre un panorama a otra clase de soluciones. Como buena practica revise que el plugin sea compatible con Civikmind verificando que tenga compatibilidad con versiones 9.5.5 o superior. Los dispositivos que posean una tarjeta o interfaz de red con un sistema operativo que les permite usar el protocolo SNMP, ICMP y/o permitan la instalación de clientes que se conecten a otras aplicaciones integrables al GLPI, habilitando la aplicación como sistema de gestión de información de dispositivos de red y sus incidencias.
 
 ##  Integración con Plataformas
 
