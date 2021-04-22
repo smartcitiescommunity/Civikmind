@@ -22,7 +22,7 @@ Plataforma Libre y de código abierto para la Participación Ciudadana, Gestión
 
 | ROL | Miembro del Equipo |
 | ------------- | ------------- |
-| Dirección y desarrollo |**Juan Fernando Villa**|
+| Idea, Dirección y desarrollo |**Juan Fernando Villa**|
 | Base: | Forkeado de **GLPI** https://github.com/glpi-project/glpi|
 | Conceptos: | **Indira Carazo Roldan** y **Francisco Javier Roldan**  |
 | Kickstarter: | **Juan Felipe Campuzano Zuluaga**  |
