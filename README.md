@@ -196,7 +196,7 @@ Ademas la plataforma viene precargada con 50 [plugins](http://plugins.glpi-proje
 
 ## Redes Sociales
 
-|[Linkedin](http://bit.ly/Smart-Cities-Community-Linkedin)|Youtube[](http://bit.ly/Smart-Cities-Community-Youtube)|[Facebook](http://bit.ly/Smart-Cities-Community-Facebook)|[Twitter](http://bit.ly/Smart-Cities-Community-Twitter)|
+|[Linkedin](http://bit.ly/Smart-Cities-Community-Linkedin)|[Youtube](http://bit.ly/Smart-Cities-Community-Youtube)|[Facebook](http://bit.ly/Smart-Cities-Community-Facebook)|[Twitter](http://bit.ly/Smart-Cities-Community-Twitter)|
 | ------------- | ------------- |------------- |------------- |
 |en nuestra red profesional estaremos publicando información tipo B2B|Sigue nuestros videos, suscribete a nuestro canal y activa la campanita|Participa activa activamente en nuestro sitio de Facebook comparte con la comunidad y hagamos inteligencia colectiva|Nuestras opiniones y link de interes|
 
