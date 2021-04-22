@@ -32,7 +32,7 @@ Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y
 | Diseño Grafico: | **Alejandro Cataño**  |
 | Conceptos de Desarrollo:: | **Alejandro Angel Arango**  |
 
-###Características
+## Características
 
 | Fundicionalidad | Especificidad | Contexto|
 |------------ | -------------|------------ |
