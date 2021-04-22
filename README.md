@@ -63,9 +63,9 @@ Plataforma Libre y de código abierto para la Participación Ciudadana, Gestión
 ||Gestión de contenidos por CivikMatrix|X|
 ||Gestión de contenidos por CivikBooks|X|
 |Informes|Generación de informes por tipo de dispositivo, contratos asociados, informes comerciales, entre otros|X|
-|Análisis|Informes en formatos CSV para exportar a software  de hojas de cálculo (Libre Office,MS Excel, Google Sheets), analisis de datos o sistemas  de datos abiertos|X|
-||Exportar información en CSV o extraer por medio de API para ser llevado a otras aplicaciones y posterior analisis|X|
-
+||Informes en formatos CSV para exportar a software  de hojas de cálculo (Libre Office,MS Excel, Google Sheets), analisis de datos o sistemas  de datos abiertos|X|
+|Análisis|Exportar información en CSV o extraer por medio de API para ser llevado a otras aplicaciones y posterior analisis|X|
+|Sistema API|Permite la comunicación con otras aplicaciones y mejoras en la capa de abstracción y bibliotecas del Civikmind|X|
 
 ## Activismo y Causas Sociales
 <p align="center">
