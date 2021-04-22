@@ -48,7 +48,6 @@ Plataforma Libre y de código abierto para la Participación Ciudadana, Gestión
 |Operación|Gestión de las solicitudes de intervención|X|
 | |Escalamiento de los tickets bajo cumplimiento de mejores prácticas|X|
 |Estadísticas|Información de activos en varios formatos (PNG,SVG,PDF)|X|
-| |Informes en formatos CSV para exportar a software  de hojas de cálculo (Libre Office,MS Excel, Google Sheets), analisis de datos o sistemas  de datos abiertos|X|
 | |Estadísticas por categoría (por entidad, usuario, categoría, prioridad, ubicación)|X|
 |Administración|Gestión del estado y de reservas del material|X|
 ||Gestión de los contratos y documentos|X|
@@ -62,8 +61,10 @@ Plataforma Libre y de código abierto para la Participación Ciudadana, Gestión
 ||Gestión de contenidos por Afinidad y Etiquetas|X|
 ||Gestión de contenidos por Metodo 9R|X|
 ||Gestión de contenidos por CivikMatrix|X|
-||Interfaz usuario para gestión de calendarios|X|
-||Interfaz usuario para gestión de calendarios|X|
+||Gestión de contenidos por CivikBooks|X|
+|Informes|Generación de informes por tipo de dispositivo, contratos asociados, informes comerciales, entre otros|X|
+| |Informes en formatos CSV para exportar a software  de hojas de cálculo (Libre Office,MS Excel, Google Sheets), analisis de datos o sistemas  de datos abiertos|X|
+|Análisis|Exportar información en CSV o extraer por medio de API para ser llevado a otras aplicaciones y posterior analisis|X|
 
 
 ## Activismo y Causas Sociales
