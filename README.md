@@ -75,13 +75,14 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |Sistema API|Permite la comunicación con otras aplicaciones y mejoras en la capa de abstracción y bibliotecas del Civikmind|
 |Soporte Idiomas|Civikmind tiene adecuaciones realizadas en español no obstante soporte hasta 45 idiomas|
 
-## Caracteristicas
+## Caracteristicas de administración en la interfaz
 
 |Caracteristicas|Opciones|
 |------------ | ------------- |
 |Activos| Computadores, Monitores, Software, Dispositivos de red, Dispositivos, Impresoras, Cartuchos, Consumibles, Teléfonos, Bastidores, Chasis, PDUs, Passive devices, Vehiculos Autonomos*, Drones*, Global|
 |Soporte| Peticiones, Problemas, Cambios, Planificación, Estadísticas y Peticiones recurrentes|
 |Gestión| Licencias, Presupuestos, Proveedores, Contactos, Contratos, Documentos, Líneas, Certificados, Centros de datos, Clústeres, Dominios y Dispositivos|
+|Herramientas| Proyectos, Recordatorios, Fuente RSS, Base de conocimiento, Reservas, Informes y Búsquedas guardadas|
 
 
 
