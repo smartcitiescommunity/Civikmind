@@ -48,8 +48,8 @@ Plataforma Libre y de código abierto para la Gestión de Comunidades Inteligent
 |Operación|Gestión de las solicitudes de intervención|X|
 | |Escalamiento de los tickets bajo cumplimiento de mejores prácticas|X|
 |Estadísticas|Información de activos en varios formatos (PNG,SVG,PDF)|X|
-| |Informes en formatos CSV para exportar a software  de Hojas de cálculo, analisis de datos o sistemas  de datos abiertos |X|
-| |Estadísticas por categoría (por entidad, usuario, categoría, prioridad, ubicación) |X|
+| |Informes en formatos CSV para exportar a software  de hojas de cálculo (Libre Office,MS Excel, Google Sheets), analisis de datos o sistemas  de datos abiertos|X|
+| |Estadísticas por categoría (por entidad, usuario, categoría, prioridad, ubicación)|X|
 
 ## Activismo y Causas Sociales
 <p align="center">
