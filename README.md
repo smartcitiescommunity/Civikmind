@@ -204,7 +204,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 <img align="right" src="pics/logo_scc.png?raw=true" width="50%"/>
 
-:circus_tent: :european_post_office: :house_with_garden: :school: :house: :house_with_garden: :office: :house: :house_with_garden: :post_office: :house: :house_with_garden: :hospital: :house: :house_with_garden: :bank: :atm: :house: :house_with_garden: :convenience_store: :house: :house_with_garden: :hotel:
+:circus_tent: :european_post_office: :house_with_garden: :school: :house: :house_with_garden: :office: :house: :convenience_store: :post_office: :house: :house_with_garden: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden:
 
 :house: :house_with_garden: :church: :house: :house_with_garden: :department_store: :factory:
 
