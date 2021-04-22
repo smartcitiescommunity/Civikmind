@@ -176,8 +176,8 @@ Los dispositivos que posean una interfaz de red con un sistema operativo que les
 - FusionInventory
 - Zabbix
 
-Ademas la plataforma viene precargada con [plugins](http://plugins.glpi-project.org) que abre un panorama enorme a diferentes clases de soluciones..
-<img align="right" src="pics/img/logo_scc.png?raw=true" width="50%"/>
+Ademas la plataforma viene precargada con 50 [plugins](http://plugins.glpi-project.org) del Repositorio delsoftware Originario GLPI que abre un panorama a otra clase de soluciones.
+
 
 
 :eight_pointed_black_star: Visitanos en:
@@ -203,5 +203,6 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |- Villa, Juan F. (2021) sugiere en el Software “Civikmind (2021)” que … . |Villa, Juan F. (2021). Civikmind (2021) [Software]. Recuperado de https://github.com/smartcitiescommunity/Civikmind/|- Según el software Civikmind (2021)… Villa, Juan F. (2021).|
 
 :circus_tent: :european_post_office: :house_with_garden: :school: :house: :house_with_garden: :office: :house: :house_with_garden: :post_office: :house: :house_with_garden: :hospital: :house: :house_with_garden: :bank: :atm: :house: :house_with_garden: :convenience_store: :house: :house_with_garden: :hotel: :house: :house_with_garden: :church: :house: :house_with_garden: :department_store: :factory:
+<img align="right" src="pics/img/logo_scc.png?raw=true" width="50%"/>
 :heavy_minus_sign: :heavy_minus_sign: :bus: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :bike: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :blue_car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :minibus: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :articulated_lorry: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :fire_engine: :heavy_minus_sign: :heavy_minus_sign:
 
