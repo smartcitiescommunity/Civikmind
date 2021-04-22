@@ -89,12 +89,12 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 ## Integración con Plataformas
 Los dispositivos que posean una interfaz de red con un sistema operativo que les permite usar el protocolo SNMP y/o permitan la instalación de clientes que se conecten a otras aplicaciones integrables al GLPI, habilitando la aplicación como sistema de gestión de IOT como son:
 
-|OCS Inventory|Fusion Inventory|Zabbix|Graphana|Nagios|Chat|
+|[OCS Inventory](https://ocsinventory-ng.org/?lang=en)|[Fusion Inventory](https://fusioninventory.org/)|[Zabbix](https://www.zabbix.com/)|[Graphana]()|[Nagios](https://www.nagios.org/)|[Chat]()|[]()
 |------------ | ------------- |------------ | ------------- |------------ | ------------- |
-|OCS Inventory|FusionInventory|Zabbix|Graphana|Nagios|Chat|
+|[Plugin OCS Inventory](https://github.com/pluginsGLPI/ocsinventoryng)|[Plugin Fusion Inventory](https://github.com/fusioninventory/fusioninventory-for-glpi)|[Zabbix](https://github.com/janssenlima/zabbix-glpi)|[Plugin Graphana](https://github.com/ddurieux/glpi_app_grafana)|[Nagios](https://github.com/derricksmith/Nagios-Event-Handlers-for-GLPI)|Chat|
 
 
-Ademas la plataforma viene precargada con 50 [plugins](http://plugins.glpi-project.org) del Repositorio delsoftware Originario GLPI que abre un panorama a otra clase de soluciones.
+Ademas la plataforma viene precargada con 50 [plugins] actualizados(http://plugins.glpi-project.org) del Repositorio del  software Originario GLPI que abre un panorama a otra clase de soluciones. Como buena practica revise que el plugin sea compatible con Civikmind verificando que tenga una compatibilidad con el GLPI 9.5.5
 
 
 ## Citar formato APA
