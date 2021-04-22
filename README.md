@@ -36,7 +36,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 | Diseño Grafico: | **Alejandro Cataño**  |
 | Conceptos de Desarrollo:: | **Alejandro Angel Arango**  |
 
-## Características Software
+## Funcionalidades
 
 | Fundicionalidad | Especificidad |
 |------------ | -------------|
@@ -73,6 +73,14 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |Análisis|Exportar información en CSV o extraer por medio de API para ser llevado a otras aplicaciones y posterior analisis|
 ||Panel de Visualización de Estadisticas|
 |Sistema API|Permite la comunicación con otras aplicaciones y mejoras en la capa de abstracción y bibliotecas del Civikmind|
+|Soporte Idiomas|Civikmind tiene adecuaciones realizadas en español no obstante soporte hasta 45 idiomas|
+
+## Caracteristicas
+
+|Caracteristicas|Opciones|
+|------------ | ------------- |
+|Activos| Computadores, Monitores, Software, Dispositivos de red, Dispositivos, Impresoras, Cartuchos, Consumibles, Teléfonos, Bastidores, Chasis, PDUs, Passive devices, Vehiculos Autonomos*, Drones*, Global|
+
 
 ## Activismo y Causas Sociales
 <p align="center">
