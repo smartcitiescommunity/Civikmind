@@ -80,6 +80,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |Caracteristicas|Opciones|
 |------------ | ------------- |
 |Activos| Computadores, Monitores, Software, Dispositivos de red, Dispositivos, Impresoras, Cartuchos, Consumibles, Teléfonos, Bastidores, Chasis, PDUs, Passive devices, Vehiculos Autonomos*, Drones*, Global|
+|Soporte| Peticiones, Problemas, Cambios, Planificación, Estadísticas y Peticiones recurrentes|
 
 
 ## Activismo y Causas Sociales
