@@ -57,7 +57,7 @@ Plataforma Libre y de código abierto para la Participación Ciudadana, Gestión
 ||Gestión de la información comercial y financiera (adquisición, garantía y extensión, amortización)|X|
 |Reserva|Gestión de reservas|X|Interfaz usuario (calendario)
 ||Interfaz usuario para gestión de calendarios|X|
-||Base de datos de conocimientos|Gestión de artículos de la base de datos de conocimientos y de la FAQ (Preguntas Frecuentes)|X|
+|Base de datos de conocimientos|Gestión de artículos de la base de datos de conocimientos y de la FAQ (Preguntas Frecuentes)|X|
 ||Gestión de contenidos por objetivos (perfiles, grupos, entidades.)|X|
 ||Gestión de contenidos por Afinidad y Etiquetas|X|
 ||Gestión de contenidos por Metodo 9R|X|
