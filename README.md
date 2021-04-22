@@ -41,8 +41,9 @@ Plataforma Libre y de código abierto para la Participación Ciudadana, Gestión
 | Cumplimiento en mesas de ayuda(ServiceDesk ITIL Compliant)|Gestión de problemas en varios entornos vía la creación de tickets, gestión de los tickets, asignación, planificación de los tickets para una Mesa de ayuda, etc.|
 ||Gestión de problemas, proyectos y cambios|
 ||Backlog y registro de actividades|
+|Atención al usuario|Gestión y trazabilidad de TODAS las acciones realizadas en una petición|
 |Usuarios|Historial de las intervenciones|
-| |Encuesta de satisfacción|
+| |Encuestas de satisfacción|
 | |Comentarios en las solicitudes|
 | |Seguimiento de correos de la solicitud de intervención|
 |Operación|Gestión de las solicitudes de intervención|
