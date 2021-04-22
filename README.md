@@ -207,4 +207,5 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 <img align="right" src="pics/logo_scc.png?raw=true" width="50%"/>
 
 :heavy_minus_sign: :heavy_minus_sign: :bus: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :bike: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :blue_car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :minibus: 
+
 :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :articulated_lorry: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :fire_engine: :heavy_minus_sign: :heavy_minus_sign:
