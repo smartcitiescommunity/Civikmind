@@ -45,8 +45,8 @@ Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y
 | |Encuesta de satisfacción|X|
 | |Comentarios en las solicitudes|X|
 | |Seguimiento de correos de la solicitud de intervención|X|
-|X |X|X|
-|X |X|X|
+|Operación|Gestión de las solicitudes de intervención|X|
+| |Escalamiento de los tickets bajo cumplimiento de mejores prácticas|X|
 |X |X|X|
 |X |X|X|
 
