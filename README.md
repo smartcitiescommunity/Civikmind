@@ -1,5 +1,5 @@
 # Civikmind
-Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Gestión de activos inteligentes en el contexto de los Objetivos de Desarrollo Sostenible
+Plataforma Libre y de código abierto para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Gestión de activos inteligentes en el contexto de los Objetivos de Desarrollo Sostenible
 
 ![Sustainable Development Goals](https://img.shields.io/badge/Sustainable%20Development%20Goals-Ready-blueviolet)
  | ![Smart City](https://img.shields.io/badge/Smart%20Citiy-%20Ready-orange) |![IOT](https://img.shields.io/badge/IOT-%20Ready-brightgreen)  | [Forkea nuestro repo](https://github.com/smartcitiescommunity/Civikmind/fork)
@@ -36,11 +36,11 @@ Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y
 
 | Fundicionalidad | Especificidad | Contexto|
 |------------ | -------------|------------ |
-|Gestión de  Activos| Gestión administrativa, contratos, documentos relacionados con componentes del inventario de activos, base de datos de conocimiento y generación de tareas en proyectos|X|
+|Gestión de  Activos| Gestión administrativa, contratos, documentos relacionados con componentes del inventario de activos, base de datos de conocimiento|X|
 ||Inventario de Activos digitales, Dispositivos y Archivos|X|
-||Backlog y registro de actividades|X|
 | Cumplimiento en mesas de ayuda(ServiceDesk ITIL Compliant)|Gestión de problemas en varios entornos vía la creación de tickets, gestión de los tickets, asignación, planificación de los tickets para una Mesa de ayuda, etc.|X|
 ||Gestión de problemas, proyectos y cambios|X|
+||Backlog y registro de actividades|X|
 |Usuarios|Historial de las intervenciones|X|
 | |Encuesta de satisfacción|X|
 | |Comentarios en las solicitudes|X|
