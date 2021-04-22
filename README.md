@@ -203,9 +203,9 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |- Villa, Juan F. (2021) sugiere en el Software “Civikmind (2021)” que … . |Villa, Juan F. (2021). Civikmind (2021) [Software]. Recuperado de https://github.com/smartcitiescommunity/Civikmind/|- Según el software Civikmind (2021)… Villa, Juan F. (2021).|
 
 ## Organizaciones que nos avalan
-| Smart Cities Community |  CIDT País del Conocimiento|  |
+| Smart Cities Community |  CIDT País del Conocimiento| Smart Cities Community U.S |
 | ------------- | ------------- |------------- |
-| <img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|<img align="center" src="pics/logo_scc.png?raw=true" width="10%"/>||
+| <img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|<img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|<img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|
 
 
 
