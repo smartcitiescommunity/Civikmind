@@ -1,6 +1,10 @@
 # Civikmind
 Plataforma Libre y de código abierto para la Participación Ciudadana, Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Gestión de activos inteligentes en el contexto de los Objetivos de Desarrollo Sostenible.
 
+## Licencia
+
+La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LICENSE Version 2 - favor revisar [Licencia](https://github.com/smartcitiescommunity/Civikmind/blob/main/LICENSE) para más detalles.
+
 ![Sustainable Development Goals](https://img.shields.io/badge/Sustainable%20Development%20Goals-Ready-blueviolet)
  | ![Smart City](https://img.shields.io/badge/Smart%20Citiy-%20Ready-orange) |![IOT](https://img.shields.io/badge/IOT-%20Ready-brightgreen)  | [Forkea nuestro repo](https://github.com/smartcitiescommunity/Civikmind/fork)
  
@@ -179,23 +183,6 @@ Los dispositivos que posean una interfaz de red con un sistema operativo que les
 Ademas la plataforma viene precargada con 50 [plugins](http://plugins.glpi-project.org) del Repositorio delsoftware Originario GLPI que abre un panorama a otra clase de soluciones.
 
 
-
-:eight_pointed_black_star: Visitanos en:
-
- | Youtube - http://bit.ly/Smart-Cities-Community-Youtube
-
- | Facebook - http://bit.ly/Smart-Cities-Community-Facebook
-
- | Linkedin - http://bit.ly/Smart-Cities-Community-Linkedin
-
- | Twitter - http://bit.ly/Smart-Cities-Community-Twitter
-
-
-## Licencia
-
-La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LICENSE Version 2 - favor revisar [Licencia](https://github.com/smartcitiescommunity/Civikmind/blob/main/LICENSE) para más detalles.
-
-
 ## Citar formato APA
 
 | Contexto de concepto | Lista de referencias | Contexto de Civikmind |
@@ -207,6 +194,11 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 | ------------- | ------------- |------------- |
 | <img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|<img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|<img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|
 
+## Redes Sociales
+
+|[Linkedin](http://bit.ly/Smart-Cities-Community-Linkedin)|Youtube[](http://bit.ly/Smart-Cities-Community-Youtube)|[Facebook](http://bit.ly/Smart-Cities-Community-Facebook)|[Twitter](http://bit.ly/Smart-Cities-Community-Twitter)|
+| ------------- | ------------- |------------- |------------- |
+|en nuestra red profesional estaremos publicando información tipo B2B|Sigue nuestros videos, suscribete a nuestro canal y activa la campanita|Participa activa activamente en nuestro sitio de Facebook comparte con la comunidad y hagamos inteligencia colectiva|Nuestras opiniones y link de interes|
 
 
 :circus_tent: :european_post_office: :house_with_garden: :school: :house: :church: :office: :house: :convenience_store: :post_office: :department_store: :factory: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden: :department_store: :factory: :japanese_castle: :european_castle: :tokyo_tower: :house: :circus_tent: :european_post_office: :house_with_garden: :school: :house: :church: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden: :house_with_garden: :school: :house: :church: :hotel:
