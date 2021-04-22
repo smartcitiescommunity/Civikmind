@@ -6,8 +6,7 @@ Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y
  
  |English | Français | 中文| русский |عرب|한국어|भारत|
 |------------ | -------------|------------ | -------------|-------------|-------------|-------------|
-| Software Solution for the Management of Smart Communities, Smart Cities and Smart Asset Management in the context of the Sustainable Development Goals
-| Plateforme pour la gestion des communautés intelligentes, des villes intelligentes et de la gestion des actifs intelligents dans le contexte des objectifs de développement durable | 可持续发展目标背景下的智慧社区，智慧城市和智慧资产管理管理平台| Платформа для управления умными сообществами, умными городами и умными активами в контексте Целей устойчивого развития | منصة لإدارة المجتمعات الذكية والمدن الذكية وإدارة الأصول الذكية في سياق أهداف التنمية المستدامة | 지속 가능한 개발 목표의 맥락에서 스마트 커뮤니티, 스마트 시티 및 스마트 자산 관리를위한 플랫폼| सतत विकास लक्ष्यों के संदर्भ में स्मार्ट समुदायों, स्मार्ट शहरों और स्मार्ट एसेट मैनेजमेंट के प्रबंधन के लिए मंच|
+| Software Solution for the Management of Smart Communities, Smart Cities and Smart Asset Management in the context of the Sustainable Development Goals| Plateforme pour la gestion des communautés intelligentes, des villes intelligentes et de la gestion des actifs intelligents dans le contexte des objectifs de développement durable | 可持续发展目标背景下的智慧社区，智慧城市和智慧资产管理管理平台| Платформа для управления умными сообществами, умными городами и умными активами в контексте Целей устойчивого развития | منصة لإدارة المجتمعات الذكية والمدن الذكية وإدارة الأصول الذكية في سياق أهداف التنمية المستدامة | 지속 가능한 개발 목표의 맥락에서 스마트 커뮤니티, 스마트 시티 및 스마트 자산 관리를위한 플랫폼| सतत विकास लक्ष्यों के संदर्भ में स्मार्ट समुदायों, स्मार्ट शहरों और स्मार्ट एसेट मैनेजमेंट के प्रबंधन के लिए मंच|
 
 |Tareas del Proyecto | DevOps | Investigación|
 |------------ | -------------|------------ |
