@@ -209,8 +209,8 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 
 
-:circus_tent: :european_post_office: :house_with_garden: :school: :house: :church: :office: :house: :convenience_store: :post_office: :department_store: :factory: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden: :department_store: :factory: :japanese_castle: :european_castle: :tokyo_tower: :house:
+:circus_tent: :european_post_office: :house_with_garden: :school: :house: :church: :office: :house: :convenience_store: :post_office: :department_store: :factory: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden: :department_store: :factory: :japanese_castle: :european_castle: :tokyo_tower: :house: :circus_tent: :european_post_office: :house_with_garden: :school: :house: :church:
 
-:heavy_minus_sign: :articulated_lorry:  :bus: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :bike: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :blue_car: :heavy_minus_sign: :fire_engine: :heavy_minus_sign: :minibus: 
+:heavy_minus_sign: :articulated_lorry:  :bus: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :bike: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :blue_car: :heavy_minus_sign: :fire_engine: :heavy_minus_sign: :minibus: :heavy_minus_sign: :articulated_lorry:  :bus: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :bike: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :blue_car: :heavy_minus_sign: :fire_engine: :heavy_minus_sign: :minibus: 
 
 :stadium: :classical_building: :building_construction: :bricks: :houses: :derelict_house: :house: :house_with_garden: :office: :post_office: :european_post_office: :hospital: :bank: :hotel: :love_hotel: :convenience_store: :school: :department_store: :factory: :japanese_castle: :european_castle: :wedding: :tokyo_tower:
