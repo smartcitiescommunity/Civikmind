@@ -86,6 +86,40 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |Administración| Usuarios, Grupos, Entidades, Reglas, Diccionarios, Perfiles, Cola de notificaciones y Registros|
 |Configuración| Desplegables, Componentes, Notificaciones, Niveles de servicio, General, Campos de unicidad, Acciones automáticas, Autenticación, Destinatarios, Enlaces externos y Complementos|
 
+## Integración con Plataformas
+Los dispositivos que posean una interfaz de red con un sistema operativo que les permite usar el protocolo SNMP y/o permitan la instalación de clientes que se conecten a otras aplicaciones integrables al GLPI, habilitando la aplicación como sistema de gestión de IOT como son:
+
+|OCS Inventory|Fusion Inventory|Zabbix|Graphana|Nagios|Chat|
+|------------ | ------------- |------------ | ------------- |------------ | ------------- |
+|OCS Inventory|FusionInventory|Zabbix|Graphana|Nagios|Chat|
+
+
+Ademas la plataforma viene precargada con 50 [plugins](http://plugins.glpi-project.org) del Repositorio delsoftware Originario GLPI que abre un panorama a otra clase de soluciones.
+
+
+## Citar formato APA
+
+| Contexto de concepto | Lista de referencias | Contexto de Civikmind |
+| ------------- | ------------- |------------- |
+|- Villa, Juan F. (2021) sugiere en el Software “Civikmind (2021)” que … . |Villa, Juan F. (2021). Civikmind (2021) [Software]. Recuperado de https://github.com/smartcitiescommunity/Civikmind/|- Según el software Civikmind (2021)… Villa, Juan F. (2021).|
+
+## Organizaciones que nos avalan
+| Smart Cities Community |  CIDT País del Conocimiento| Smart Cities Community U.S |
+| ------------- | ------------- |------------- |
+| <img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|<img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|<img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|
+
+## Redes Sociales
+
+|[Linkedin](http://bit.ly/Smart-Cities-Community-Linkedin)|[Youtube](http://bit.ly/Smart-Cities-Community-Youtube)|[Facebook](http://bit.ly/Smart-Cities-Community-Facebook)|[Twitter](http://bit.ly/Smart-Cities-Community-Twitter)|
+| ------------- | ------------- |------------- |------------- |
+|En nuestra red profesional estaremos publicando información tipo B2B|Sigue nuestros videos, suscribete a nuestro canal y activa la campanita|Participa activa activamente en nuestro sitio de Facebook comparte con la comunidad y hagamos inteligencia colectiva|Nuestras opiniones y link de interes|
+
+
+:circus_tent: :european_post_office: :house_with_garden: :school: :house: :church: :office: :house: :convenience_store: :post_office: :department_store: :factory: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden: :department_store: :factory: :japanese_castle: :european_castle: :tokyo_tower: :house: :circus_tent: :european_post_office: :house_with_garden: :school: :house: :church: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden: :house_with_garden: :school: :house: :church: :hotel:
+
+:heavy_minus_sign: :articulated_lorry:  :bus: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :bike: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :blue_car: :heavy_minus_sign: :fire_engine: :heavy_minus_sign: :minibus: :heavy_minus_sign: :articulated_lorry:  :bus: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :bike: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :blue_car: :heavy_minus_sign: :fire_engine: :heavy_minus_sign: :minibus: :blue_car: :heavy_minus_sign: :fire_engine: :heavy_minus_sign: :minibus: :heavy_minus_sign: :heavy_minus_sign: 
+
+:stadium: :classical_building: :building_construction: :bricks: :houses: :derelict_house: :house: :house_with_garden: :office: :post_office: :european_post_office: :hospital: :bank: :hotel: :love_hotel: :convenience_store: :school: :department_store: :factory: :japanese_castle: :european_castle: :wedding: :tokyo_tower: :circus_tent: :european_post_office: :house_with_garden: :school: :house: :church: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden: :house_with_garden: :school: :house: :church: :hotel:  :love_hotel: :convenience_store: :school:
 
 
 ## Activismo y Causas Sociales
@@ -177,34 +211,4 @@ permitiendo asi ampliar en gran medida las potencialidades de la aplicación
 - Creación de tickets
 - Gestión de Tareas
 
-Los dispositivos que posean una interfaz de red con un sistema operativo que les permite usar el protocolo SNMP y/o permitan la instalación de clientes que se conecten a otras aplicaciones integrables al GLPI, habilitando la aplicación como sistema de gestión de IOT como son:
-- OCS Inventory
-- FusionInventory
-- Zabbix
 
-Ademas la plataforma viene precargada con 50 [plugins](http://plugins.glpi-project.org) del Repositorio delsoftware Originario GLPI que abre un panorama a otra clase de soluciones.
-
-
-## Citar formato APA
-
-| Contexto de concepto | Lista de referencias | Contexto de Civikmind |
-| ------------- | ------------- |------------- |
-|- Villa, Juan F. (2021) sugiere en el Software “Civikmind (2021)” que … . |Villa, Juan F. (2021). Civikmind (2021) [Software]. Recuperado de https://github.com/smartcitiescommunity/Civikmind/|- Según el software Civikmind (2021)… Villa, Juan F. (2021).|
-
-## Organizaciones que nos avalan
-| Smart Cities Community |  CIDT País del Conocimiento| Smart Cities Community U.S |
-| ------------- | ------------- |------------- |
-| <img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|<img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|<img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|
-
-## Redes Sociales
-
-|[Linkedin](http://bit.ly/Smart-Cities-Community-Linkedin)|[Youtube](http://bit.ly/Smart-Cities-Community-Youtube)|[Facebook](http://bit.ly/Smart-Cities-Community-Facebook)|[Twitter](http://bit.ly/Smart-Cities-Community-Twitter)|
-| ------------- | ------------- |------------- |------------- |
-|En nuestra red profesional estaremos publicando información tipo B2B|Sigue nuestros videos, suscribete a nuestro canal y activa la campanita|Participa activa activamente en nuestro sitio de Facebook comparte con la comunidad y hagamos inteligencia colectiva|Nuestras opiniones y link de interes|
-
-
-:circus_tent: :european_post_office: :house_with_garden: :school: :house: :church: :office: :house: :convenience_store: :post_office: :department_store: :factory: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden: :department_store: :factory: :japanese_castle: :european_castle: :tokyo_tower: :house: :circus_tent: :european_post_office: :house_with_garden: :school: :house: :church: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden: :house_with_garden: :school: :house: :church: :hotel:
-
-:heavy_minus_sign: :articulated_lorry:  :bus: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :bike: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :blue_car: :heavy_minus_sign: :fire_engine: :heavy_minus_sign: :minibus: :heavy_minus_sign: :articulated_lorry:  :bus: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :bike: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :blue_car: :heavy_minus_sign: :fire_engine: :heavy_minus_sign: :minibus: :blue_car: :heavy_minus_sign: :fire_engine: :heavy_minus_sign: :minibus: :heavy_minus_sign: :heavy_minus_sign: 
-
-:stadium: :classical_building: :building_construction: :bricks: :houses: :derelict_house: :house: :house_with_garden: :office: :post_office: :european_post_office: :hospital: :bank: :hotel: :love_hotel: :convenience_store: :school: :department_store: :factory: :japanese_castle: :european_castle: :wedding: :tokyo_tower: :circus_tent: :european_post_office: :house_with_garden: :school: :house: :church: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden: :house_with_garden: :school: :house: :church: :hotel:  :love_hotel: :convenience_store: :school:
