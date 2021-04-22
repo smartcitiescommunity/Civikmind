@@ -204,10 +204,6 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 <img align="right" src="pics/logo_scc.png?raw=true" width="50%"/>
 
-:circus_tent: :european_post_office: :house_with_garden: :school: :house: :house_with_garden: :office: :house: :convenience_store: :post_office: :house: :house_with_garden: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden:
+:circus_tent: :european_post_office: :house_with_garden: :school: :house: :church: :office: :house: :convenience_store: :post_office: :department_store: :factory: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden:
 
-:house: :house_with_garden: :church: :house: :house_with_garden: :department_store: :factory:
-
-:heavy_minus_sign: :heavy_minus_sign: :bus: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :bike: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :blue_car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :minibus: 
-
-:heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :articulated_lorry: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :fire_engine: :heavy_minus_sign: :heavy_minus_sign:
+:heavy_minus_sign: :articulated_lorry:  :bus: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :bike: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :blue_car: :heavy_minus_sign: :fire_engine: :heavy_minus_sign: :minibus: 
