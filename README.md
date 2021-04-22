@@ -42,6 +42,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |------------ | -------------|
 |Gestión de  Activos| Gestión administrativa, contratos, documentos relacionados con componentes del inventario de activos, base de datos de conocimiento|
 ||Inventario de Activos digitales, Dispositivos y Archivos|
+||Gestión de Garantias y Ciclo de Vida|
 | Cumplimiento en mesas de ayuda(ServiceDesk ITIL Compliant)|Gestión de problemas en varios entornos vía la creación de tickets, gestión de los tickets, asignación, planificación de los tickets para una Mesa de ayuda, etc.|
 ||Gestión de problemas, proyectos y cambios|
 ||Backlog y registro de actividades|
@@ -70,6 +71,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |Informes|Generación de informes por tipo de dispositivo, contratos asociados, informes comerciales, entre otros|
 ||Informes en formatos CSV para exportar a software  de hojas de cálculo (Libre Office,MS Excel, Google Sheets), analisis de datos o sistemas  de datos abiertos|
 |Análisis|Exportar información en CSV o extraer por medio de API para ser llevado a otras aplicaciones y posterior analisis|
+||Panel de Visualización de Estadisticas|
 |Sistema API|Permite la comunicación con otras aplicaciones y mejoras en la capa de abstracción y bibliotecas del Civikmind|
 
 ## Activismo y Causas Sociales
@@ -161,20 +163,6 @@ permitiendo asi ampliar en gran medida las potencialidades de la aplicación
 - Creación de tickets
 - Gestión de Tareas
 
-:eight_pointed_black_star: Gestión de Proyectos
-
-:eight_pointed_black_star: Base de datos de Conocimiento y Preguntas de uso frecuente con diferentes niveles de acceso
-
-:eight_pointed_black_star: Generador de Reportes de Activos o Información
-
-:eight_pointed_black_star: Panel de Visualización de Estadisticas
-
-:eight_pointed_black_star: Gestión del Tiempo
-
-:eight_pointed_black_star: Gestión del Ciclo de Vida
-
-:eight_pointed_black_star: Inventario de dispositivos
-
 Los dispositivos que posean una interfaz de red con un sistema operativo que les permite usar el protocolo SNMP y/o permitan la instalación de clientes que se conecten a otras aplicaciones integrables al GLPI, habilitando la aplicación como sistema de gestión de IOT como son:
 - OCS Inventory
 - FusionInventory
@@ -198,7 +186,7 @@ Ademas la plataforma viene precargada con 50 [plugins](http://plugins.glpi-proje
 
 |[Linkedin](http://bit.ly/Smart-Cities-Community-Linkedin)|[Youtube](http://bit.ly/Smart-Cities-Community-Youtube)|[Facebook](http://bit.ly/Smart-Cities-Community-Facebook)|[Twitter](http://bit.ly/Smart-Cities-Community-Twitter)|
 | ------------- | ------------- |------------- |------------- |
-|en nuestra red profesional estaremos publicando información tipo B2B|Sigue nuestros videos, suscribete a nuestro canal y activa la campanita|Participa activa activamente en nuestro sitio de Facebook comparte con la comunidad y hagamos inteligencia colectiva|Nuestras opiniones y link de interes|
+|En nuestra red profesional estaremos publicando información tipo B2B|Sigue nuestros videos, suscribete a nuestro canal y activa la campanita|Participa activa activamente en nuestro sitio de Facebook comparte con la comunidad y hagamos inteligencia colectiva|Nuestras opiniones y link de interes|
 
 
 :circus_tent: :european_post_office: :house_with_garden: :school: :house: :church: :office: :house: :convenience_store: :post_office: :department_store: :factory: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden: :department_store: :factory: :japanese_castle: :european_castle: :tokyo_tower: :house: :circus_tent: :european_post_office: :house_with_garden: :school: :house: :church: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden: :house_with_garden: :school: :house: :church: :hotel:
