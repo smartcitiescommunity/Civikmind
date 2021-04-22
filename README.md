@@ -91,9 +91,9 @@ Ademas la plataforma viene precargada con 50 [plugins](http://plugins.glpi-proje
 
 ##  Integración con Plataformas
 
-|[OCS Inventory](https://ocsinventory-ng.org/?lang=en)|[Fusion Inventory](https://fusioninventory.org/)|[Zabbix](https://www.zabbix.com/)|[Graphana]()|[Nagios](https://www.nagios.org/)|[Shinken](http://www.shinken-monitoring.org/)|[Slack](https://slack.com/)|
-|------------ | ------------- |------------ | ------------- |------------ | ------------- |------------- |
-|[Plugin OCS Inventory](https://github.com/pluginsGLPI/ocsinventoryng)|[Plugin Fusion Inventory](https://github.com/fusioninventory/fusioninventory-for-glpi)|[Plugin Zabbix](https://github.com/janssenlima/zabbix-glpi)|[Plugin Graphana](https://github.com/ddurieux/glpi_app_grafana)|[Plugins Nagios](https://github.com/derricksmith/Nagios-Event-Handlers-for-GLPI)|[Plugin Shinken](https://github.com/shinken-monitoring/mod-glpidb)|[Plugin Slack](https://github.com/davejennings/hubot-slack-glpi|
+|[OCS Inventory](https://ocsinventory-ng.org/?lang=en)|[Fusion Inventory](https://fusioninventory.org/)|[Zabbix](https://www.zabbix.com/)|[Graphana]()|[Nagios](https://www.nagios.org/)|[Shinken](http://www.shinken-monitoring.org/)|[Slack](https://slack.com/)|[Prelude](https://www.prelude-siem.com/en/)|[Mantis BT](https://www.mantisbt.org/)|[Graylog](https://www.graylog.org/)|
+|------------ | ------------- |------------ | ------------- |------------ | ------------- |------------- |------------ | ------------- |------------- |
+|[Plugin OCS Inventory](https://github.com/pluginsGLPI/ocsinventoryng)|[Plugin Fusion Inventory](https://github.com/fusioninventory/fusioninventory-for-glpi)|[Plugin Zabbix](https://github.com/janssenlima/zabbix-glpi)|[Plugin Graphana](https://github.com/ddurieux/glpi_app_grafana)|[Plugins Nagios](https://github.com/derricksmith/Nagios-Event-Handlers-for-GLPI)|[Plugin Shinken](https://github.com/shinken-monitoring/mod-glpidb)|[Plugin Slack](https://github.com/davejennings/hubot-slack-glpi)|[Plugin Prelude](https://github.com/pluginsGLPI/prelude)|[Plugin Mantis](https://github.com/pluginsGLPI/mantis)|[Plugin Graylog](https://github.com/airbus-cyber/graylog-plugin-glpi)|
 []()
 
 
@@ -113,6 +113,11 @@ Ademas la plataforma viene precargada con 50 [plugins](http://plugins.glpi-proje
 |[Linkedin](http://bit.ly/Smart-Cities-Community-Linkedin)|[Youtube](http://bit.ly/Smart-Cities-Community-Youtube)|[Facebook](http://bit.ly/Smart-Cities-Community-Facebook)|[Twitter](http://bit.ly/Smart-Cities-Community-Twitter)|
 | ------------- | ------------- |------------- |------------- |
 |En nuestra red profesional estaremos publicando información tipo B2B|Sigue nuestros videos, suscribete a nuestro canal y activa la campanita|Participa activa activamente en nuestro sitio de Facebook comparte con la comunidad y hagamos inteligencia colectiva|Nuestras opiniones y link de interes|
+
+## Copying
+
+* **Nombres**: [GLPI](http://glpi-project.org/) is a registered trademark of [Teclib'](http://www.teclib-edition.com/en/).
+* **Documentación**: released under Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 
 
 :circus_tent: :european_post_office: :house_with_garden: :school: :house: :church: :office: :house: :convenience_store: :post_office: :department_store: :factory: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden: :department_store: :factory: :japanese_castle: :european_castle: :tokyo_tower: :house: :circus_tent: :european_post_office: :house_with_garden: :school: :house: :church: :hospital: :house: :house_with_garden: :bank: :atm: :house: :hotel: :house_with_garden: :house_with_garden: :school: :house: :church: :hotel:
