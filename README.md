@@ -50,8 +50,7 @@ Plataforma Libre y de código abierto para la Gestión de Comunidades Inteligent
 |Estadísticas|Información de activos en varios formatos (PNG,SVG,PDF)|X|
 | |Informes en formatos CSV para exportar a software  de hojas de cálculo (Libre Office,MS Excel, Google Sheets), analisis de datos o sistemas  de datos abiertos|X|
 | |Estadísticas por categoría (por entidad, usuario, categoría, prioridad, ubicación)|X|
-|Estadísticas|Estadísticas por categoría (por entidad, usuario, categoría, prioridad, ubicación)|X|
-||Gestión del estado y de reservas del material|X|
+|Administración|Gestión del estado y de reservas del material|X|
 ||Gestión de los contratos y documentos|X|
 ||Sistema básico de un sistema de Gestión del conocimiento|X|
 ||Gestión de las solicitudes de soporte para todo tipo de inventario de material|X|
