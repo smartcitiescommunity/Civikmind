@@ -1,5 +1,5 @@
 # Civikmind
-Plataforma Libre y de código abierto para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Gestión de activos inteligentes en el contexto de los Objetivos de Desarrollo Sostenible
+Plataforma Libre y de código abierto para la Participación Ciudadana, Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Gestión de activos inteligentes en el contexto de los Objetivos de Desarrollo Sostenible.
 
 ![Sustainable Development Goals](https://img.shields.io/badge/Sustainable%20Development%20Goals-Ready-blueviolet)
  | ![Smart City](https://img.shields.io/badge/Smart%20Citiy-%20Ready-orange) |![IOT](https://img.shields.io/badge/IOT-%20Ready-brightgreen)  | [Forkea nuestro repo](https://github.com/smartcitiescommunity/Civikmind/fork)
@@ -56,6 +56,13 @@ Plataforma Libre y de código abierto para la Gestión de Comunidades Inteligent
 ||Gestión de las solicitudes de soporte para todo tipo de inventario de material|X|
 ||Gestión de la información comercial y financiera (adquisición, garantía y extensión, amortización)|X|
 |Reserva|Gestión de reservas|X|Interfaz usuario (calendario)
+||Interfaz usuario para gestión de calendarios|X|
+||Base de datos de conocimientos|Gestión de artículos de la base de datos de conocimientos y de la FAQ (Preguntas Frecuentes)|X|
+||Gestión de contenidos por objetivos (perfiles, grupos, entidades.)|X|
+||Gestión de contenidos por Afinidad y Etiquetas|X|
+||Gestión de contenidos por Metodo 9R|X|
+||Gestión de contenidos por CivikMatrix|X|
+||Interfaz usuario para gestión de calendarios|X|
 ||Interfaz usuario para gestión de calendarios|X|
 
 
