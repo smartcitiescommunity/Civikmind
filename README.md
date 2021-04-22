@@ -34,38 +34,38 @@ Plataforma Libre y de código abierto para la Participación Ciudadana, Gestión
 
 ## Características Software
 
-| Fundicionalidad | Especificidad | Contexto|
-|------------ | -------------|------------ |
-|Gestión de  Activos| Gestión administrativa, contratos, documentos relacionados con componentes del inventario de activos, base de datos de conocimiento|X|
-||Inventario de Activos digitales, Dispositivos y Archivos|X|
-| Cumplimiento en mesas de ayuda(ServiceDesk ITIL Compliant)|Gestión de problemas en varios entornos vía la creación de tickets, gestión de los tickets, asignación, planificación de los tickets para una Mesa de ayuda, etc.|X|
-||Gestión de problemas, proyectos y cambios|X|
-||Backlog y registro de actividades|X|
-|Usuarios|Historial de las intervenciones|X|
-| |Encuesta de satisfacción|X|
-| |Comentarios en las solicitudes|X|
-| |Seguimiento de correos de la solicitud de intervención|X|
-|Operación|Gestión de las solicitudes de intervención|X|
-| |Escalamiento de los tickets bajo cumplimiento de mejores prácticas|X|
-|Estadísticas|Información de activos en varios formatos (PNG,SVG,PDF)|X|
-| |Estadísticas por categoría (por entidad, usuario, categoría, prioridad, ubicación)|X|
-|Administración|Gestión del estado y de reservas del material|X|
-||Gestión de los contratos y documentos|X|
-||Sistema básico de un sistema de Gestión del conocimiento|X|
-||Gestión de las solicitudes de soporte para todo tipo de inventario de material|X|
-||Gestión de la información comercial y financiera (adquisición, garantía y extensión, amortización)|X|
-|Reserva|Gestión de reservas|X|Interfaz usuario (calendario)
-||Interfaz usuario para gestión de calendarios|X|
-|Base de datos de conocimientos|Gestión de artículos de la base de datos de conocimientos y de la FAQ (Preguntas Frecuentes)|X|
-||Gestión de contenidos por objetivos (perfiles, grupos, entidades.)|X|
-||Gestión de contenidos por Afinidad y Etiquetas|X|
-||Gestión de contenidos por Metodo 9R|X|
-||Gestión de contenidos por CivikMatrix|X|
-||Gestión de contenidos por CivikBooks|X|
-|Informes|Generación de informes por tipo de dispositivo, contratos asociados, informes comerciales, entre otros|X|
-||Informes en formatos CSV para exportar a software  de hojas de cálculo (Libre Office,MS Excel, Google Sheets), analisis de datos o sistemas  de datos abiertos|X|
-|Análisis|Exportar información en CSV o extraer por medio de API para ser llevado a otras aplicaciones y posterior analisis|X|
-|Sistema API|Permite la comunicación con otras aplicaciones y mejoras en la capa de abstracción y bibliotecas del Civikmind|X|
+| Fundicionalidad | Especificidad |
+|------------ | -------------|
+|Gestión de  Activos| Gestión administrativa, contratos, documentos relacionados con componentes del inventario de activos, base de datos de conocimiento|
+||Inventario de Activos digitales, Dispositivos y Archivos|
+| Cumplimiento en mesas de ayuda(ServiceDesk ITIL Compliant)|Gestión de problemas en varios entornos vía la creación de tickets, gestión de los tickets, asignación, planificación de los tickets para una Mesa de ayuda, etc.|
+||Gestión de problemas, proyectos y cambios|
+||Backlog y registro de actividades|
+|Usuarios|Historial de las intervenciones|
+| |Encuesta de satisfacción|
+| |Comentarios en las solicitudes|
+| |Seguimiento de correos de la solicitud de intervención|
+|Operación|Gestión de las solicitudes de intervención|
+| |Escalamiento de los tickets bajo cumplimiento de mejores prácticas|
+|Estadísticas|Información de activos en varios formatos (PNG,SVG,PDF)|
+| |Estadísticas por categoría (por entidad, usuario, categoría, prioridad, ubicación)|
+|Administración|Gestión del estado y de reservas del material|
+||Gestión de los contratos y documentos|
+||Sistema básico de un sistema de Gestión del conocimiento|
+||Gestión de las solicitudes de soporte para todo tipo de inventario de material|
+||Gestión de la información comercial y financiera (adquisición, garantía y extensión, amortización)|
+|Reserva|Gestión de reservas|
+||Interfaz usuario para gestión de calendarios|
+|Base de datos de conocimientos|Gestión de artículos de la base de datos de conocimientos y de la FAQ (Preguntas Frecuentes)|
+||Gestión de contenidos por objetivos (perfiles, grupos, entidades.)|
+||Gestión de contenidos por Afinidad y Etiquetas|
+||Gestión de contenidos por Metodo 9R|
+||Gestión de contenidos por CivikMatrix|
+||Gestión de contenidos por CivikBooks|
+|Informes|Generación de informes por tipo de dispositivo, contratos asociados, informes comerciales, entre otros|
+||Informes en formatos CSV para exportar a software  de hojas de cálculo (Libre Office,MS Excel, Google Sheets), analisis de datos o sistemas  de datos abiertos|
+|Análisis|Exportar información en CSV o extraer por medio de API para ser llevado a otras aplicaciones y posterior analisis|
+|Sistema API|Permite la comunicación con otras aplicaciones y mejoras en la capa de abstracción y bibliotecas del Civikmind|
 
 ## Activismo y Causas Sociales
 <p align="center">
