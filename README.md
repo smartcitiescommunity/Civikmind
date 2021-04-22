@@ -79,10 +79,11 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 |Caracteristicas|Opciones|
 |------------ | ------------- |
-|Activos| Computadores, Monitores, Software, Dispositivos de red, Dispositivos, Impresoras, Cartuchos, Consumibles, Teléfonos, Bastidores, Chasis, PDUs, Passive devices, Vehiculos Autonomos*, Drones*, Global|
+|Activos| Computadores, Monitores, Software, Dispositivos de red, Dispositivos, Impresoras, Cartuchos, Consumibles, Teléfonos, Bastidores, Chasis, PDUs, Dispositivos Pasivos, Vehiculos Autonomos(Plugin), Drones(Plugin), Global|
 |Soporte| Peticiones, Problemas, Cambios, Planificación, Estadísticas y Peticiones recurrentes|
 |Gestión| Licencias, Presupuestos, Proveedores, Contactos, Contratos, Documentos, Líneas, Certificados, Centros de datos, Clústeres, Dominios y Dispositivos|
 |Herramientas| Proyectos, Recordatorios, Fuente RSS, Base de conocimiento, Reservas, Informes y Búsquedas guardadas|
+|Administración| Usuarios, Grupos, Entidades, Reglas, Diccionarios, Perfiles, Cola de notificaciones y Registros|
 
 
 
