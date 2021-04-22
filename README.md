@@ -84,6 +84,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |Gestión| Licencias, Presupuestos, Proveedores, Contactos, Contratos, Documentos, Líneas, Certificados, Centros de datos, Clústeres, Dominios y Dispositivos|
 |Herramientas| Proyectos, Recordatorios, Fuente RSS, Base de conocimiento, Reservas, Informes y Búsquedas guardadas|
 |Administración| Usuarios, Grupos, Entidades, Reglas, Diccionarios, Perfiles, Cola de notificaciones y Registros|
+|Configuración| Desplegables, Componentes, Notificaciones, Niveles de servicio, General, Campos de unicidad, Acciones automáticas, Autenticación, Destinatarios, Enlaces externos y Complementos|
 
 
 
