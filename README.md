@@ -205,7 +205,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 ## Organizaciones que nos avalan
 | Smart Cities Community |  |  |
 | ------------- | ------------- |------------- |
-| <img align="center" src="pics/logo_scc.png?raw=true" width="50%"/> |||
+| <img align="center" src="pics/logo_scc.png?raw=true" width="10%"/> |||
 
 
 
