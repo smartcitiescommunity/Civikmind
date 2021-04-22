@@ -47,9 +47,9 @@ Plataforma para la Gestión de Comunidades Inteligentes, Ciudades Inteligentes y
 | |Seguimiento de correos de la solicitud de intervención|X|
 |Operación|Gestión de las solicitudes de intervención|X|
 | |Escalamiento de los tickets bajo cumplimiento de mejores prácticas|X|
-|X |X|X|
-|X |X|X|
-
+|Estadísticas|Información de activos en varios formatos (PNG,SVG,PDF)|X|
+| |Informes en formatos CSV para exportar a software  de Hojas de cálculo, analisis de datos o sistemas  de datos abiertos |X|
+| |Estadísticas por categoría (por entidad, usuario, categoría, prioridad, ubicación) |X|
 
 ## Activismo y Causas Sociales
 <p align="center">
