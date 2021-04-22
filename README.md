@@ -86,9 +86,10 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |Administración| Usuarios, Grupos, Entidades, Reglas, Diccionarios, Perfiles, Cola de notificaciones y Registros|
 |Configuración| Desplegables, Componentes, Notificaciones, Niveles de servicio, General, Campos de unicidad, Acciones automáticas, Autenticación, Destinatarios, Enlaces externos y Complementos|
 
-##  PLugins e Integración con Plataformas
-Ademas la plataforma viene precargada con 50 [plugins] actualizados(http://plugins.glpi-project.org) del Repositorio del  software Originario GLPI que abre un panorama a otra clase de soluciones. Como buena practica revise que el plugin sea compatible con Civikmind verificando que tenga una compatibilidad con el GLPI 9.5.5
-Los dispositivos que posean una interfaz de red con un sistema operativo que les permite usar el protocolo SNMP y/o permitan la instalación de clientes que se conecten a otras aplicaciones integrables al GLPI, habilitando la aplicación como sistema de gestión de IOT como son:
+##  Plugins
+Ademas la plataforma viene precargada con 50 [plugins](http://plugins.glpi-project.org)  actualizados del Repositorio del  software Originario GLPI, que abre un panorama a otra clase de soluciones. Como buena practica revise que el plugin sea compatible con Civikmind verificando que tenga una compatibilidad con el GLPI 9.5.5. Los dispositivos que posean una tarjeta o interfaz de red con un sistema operativo que les permite usar el protocolo SNMP, ICMP y/o permitan la instalación de clientes que se conecten a otras aplicaciones integrables al GLPI, habilitando la aplicación como sistema de gestión de activos tipo ITO.
+
+##  Integración con Plataformas
 
 |[OCS Inventory](https://ocsinventory-ng.org/?lang=en)|[Fusion Inventory](https://fusioninventory.org/)|[Zabbix](https://www.zabbix.com/)|[Graphana]()|[Nagios](https://www.nagios.org/)|[Shinken](http://www.shinken-monitoring.org/)|
 |------------ | ------------- |------------ | ------------- |------------ | ------------- |
