@@ -55,6 +55,9 @@ Plataforma Libre y de código abierto para la Gestión de Comunidades Inteligent
 ||Sistema básico de un sistema de Gestión del conocimiento|X|
 ||Gestión de las solicitudes de soporte para todo tipo de inventario de material|X|
 ||Gestión de la información comercial y financiera (adquisición, garantía y extensión, amortización)|X|
+|Reserva|Gestión de reservas|X|Interfaz usuario (calendario)
+||Interfaz usuario para gestión de calendarios|X|
+
 
 ## Activismo y Causas Sociales
 <p align="center">
