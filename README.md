@@ -198,9 +198,9 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 ## Citar formato APA
 
-| Ejemplo | Lista de referencias | En el texto |
+| Contexto de concepto | Lista de referencias | Contexto de Civikmind |
 | ------------- | ------------- |------------- |
-|NombreDelUsuario. (Año). Civikmind (Versión) [Software]. Recuperado de https://github.com/smartcitiescommunity/ |Villa, Juan F. (2021). Civikmind (2021) [Software]. Recuperado de https://github.com/smartcitiescommunity/Civikmind/|- Según el software Civikmind (2021)… Villa, Juan F. (2021).\| - Villa, Juan F. (2021) sugiere en el Software “Civikmind (2021)” que … .|
+|- Villa, Juan F. (2021) sugiere en el Software “Civikmind (2021)” que … . |Villa, Juan F. (2021). Civikmind (2021) [Software]. Recuperado de https://github.com/smartcitiescommunity/Civikmind/|- Según el software Civikmind (2021)… Villa, Juan F. (2021).|
 
 :circus_tent: :european_post_office: :house_with_garden: :school: :house: :house_with_garden: :office: :house: :house_with_garden: :post_office: :house: :house_with_garden: :hospital: :house: :house_with_garden: :bank: :atm: :house: :house_with_garden: :convenience_store: :house: :house_with_garden: :hotel: :house: :house_with_garden: :church: :house: :house_with_garden: :department_store: :factory: :heavy_minus_sign: :heavy_minus_sign: :bus: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :bike: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :blue_car: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :minibus: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :articulated_lorry: :heavy_minus_sign: :heavy_minus_sign: :heavy_minus_sign: :fire_engine: :heavy_minus_sign: :heavy_minus_sign:
 
