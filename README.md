@@ -40,7 +40,8 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 | Fundicionalidad | Especificidad |
 |------------ | -------------|
-|Gestión de Peticiones, necesidades, retos, proyectos o denuncias ciudadanas| Estan se pueden realizar bajo un modelo de veedor del procesos |
+|Gestión Social| Cada petición, necesidad, reto, proyecto o denuncia ciudadanas pueden contar con un veedor del proceso, experto o auditor|
+|| Cada petición, necesidad, reto, proyecto o denuncia ciudadanas pueden contar con un grupo en calidad de veeduría del proceso, especialidad técnica, Experticia técnica o auditoría|
 || Cada petición es asignada a un responsable directo bajo criterio comunitario|
 || Cada petición pueder ser asignada a un grupo relacionado a uno de los objetivos de desarrollo sostenible con mayor relación bajo criterio comunitario|
 || Cada petición pueder ser asignada a un grupo relacionado a una Areas de aplicación de la Norma ISO 37120 con mayor relación bajo criterio comunitario|
