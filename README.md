@@ -36,7 +36,47 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 | Diseño Grafico: | **Alejandro Cataño**  |
 | Conceptos de Desarrollo:: | **Alejandro Angel Arango**  |
 
-## Funcionalidades
+## Funcionalidades Gestión Social
+
+| Fundicionalidad | Especificidad |
+|------------ | -------------|
+|Gestión de  Grupos| Opción de grupos segmentados bajo los Objetivos de Desarrollo Sostenible|
+||Opción de grupos segmentados bajo las Areas de Aplicación de la Norma ISO 37120|
+||Correlación en Peticiones, Problemas, Cambios,Proyectos, Activos,|
+| Cumplimiento en mesas de ayuda(ServiceDesk ITIL Compliant)|Gestión de problemas en varios entornos vía la creación de tickets, gestión de los tickets, asignación, planificación de los tickets para una Mesa de ayuda, etc.|
+||Gestión de problemas, proyectos y cambios|
+||Backlog y registro de actividades|
+|Atención al usuario|Gestión y trazabilidad de TODAS las acciones realizadas en una petición|
+|Usuarios|Historial de las intervenciones|
+| |Encuestas de satisfacción|
+| |Comentarios en las solicitudes|
+| |Seguimiento de correos de la solicitud de intervención|
+|Operación|Gestión de las solicitudes de intervención|
+| |Escalamiento de los tickets bajo cumplimiento de mejores prácticas|
+|Estadísticas|Información de activos en varios formatos (PNG,SVG,PDF)|
+| |Estadísticas por categoría (por entidad, usuario, categoría, prioridad, ubicación)|
+|Administración|Gestión del estado y de reservas del material|
+||Gestión de los contratos y documentos|
+||Sistema básico de un sistema de Gestión del conocimiento|
+||Gestión de las solicitudes de soporte para todo tipo de inventario de material|
+||Gestión de la información comercial y financiera (adquisición, garantía y extensión, amortización)|
+|Reserva|Gestión de reservas|
+||Interfaz usuario para gestión de calendarios|
+|Base de datos de conocimientos|Gestión de artículos de la base de datos de conocimientos y de la FAQ (Preguntas Frecuentes)|
+||Gestión de contenidos por objetivos (perfiles, grupos, entidades.)|
+||Gestión de contenidos por Afinidad y Etiquetas|
+||Gestión de contenidos por Metodo 9R|
+||Gestión de contenidos por [CivikMatrix](https://github.com/smartcitiescommunity/CivikMatrix)|
+||Gestión de contenidos por [CivikBooks](https://github.com/smartcitiescommunity/CivikBooks)|
+|Informes|Generación de informes por tipo de dispositivo, contratos asociados, informes comerciales, entre otros|
+||Informes en formatos CSV para exportar a software  de hojas de cálculo (Libre Office,MS Excel, Google Sheets), analisis de datos o sistemas  de datos abiertos|
+|Análisis|Exportar información en CSV o extraer por medio de API para ser llevado a otras aplicaciones y posterior analisis|
+||Panel de Visualización de Estadisticas|
+|Sistema API|Permite la comunicación con otras aplicaciones y mejoras en la capa de abstracción y bibliotecas del Civikmind|
+|SLA - Acuerdo de nivel de servicio |Formalización de un contrato negociado con cualquiera de los proveedores y la definición del nivel de servicio esperado|
+|Soporte Idiomas|Civikmind tiene adecuaciones realizadas en español no obstante soporte hasta 45 idiomas|
+
+## Funcionalidades Técnicas
 
 | Fundicionalidad | Especificidad |
 |------------ | -------------|
@@ -97,9 +137,9 @@ Ademas la plataforma viene precargada con 50 [plugins](https://plugins.glpi-proj
 |------------ | ------------- |------------ | ------------- |------------ | ------------- |------------- |
 |[Plugin OCS Inventory](https://github.com/pluginsGLPI/ocsinventoryng)|[Plugin Fusion Inventory](https://github.com/fusioninventory/fusioninventory-for-glpi)|[Plugin Zabbix](https://github.com/janssenlima/zabbix-glpi)|[Plugin Grafana](https://github.com/ddurieux/glpi_app_grafana)|[Plugins Nagios](https://github.com/derricksmith/Nagios-Event-Handlers-for-GLPI)|[Plugin Shinken](https://github.com/shinken-monitoring/mod-glpidb)|[Plugin Slack](https://github.com/davejennings/hubot-slack-glpi)|
 
-|[Prelude](https://www.prelude-siem.com/en/)|[Mantis BT](https://www.mantisbt.org/)|[Graylog](https://www.graylog.org/)|[Rocket.Chat](https://rocket.chat/)|[Metabase](https://www.metabase.com/)|[Gitlab](https://about.gitlab.com/)|[Gdrive](https://drive.google.com/drive/my-drive)|
-|------------ | ------------- |------------- |------------ | ------------- |------------- |------------- |
-|[Plugin Prelude](https://github.com/pluginsGLPI/prelude)|[Plugin Mantis](https://github.com/pluginsGLPI/mantis)|[Plugin Graylog](https://github.com/airbus-cyber/graylog-plugin-glpi)|[Plugin Rocket.Chat](https://github.com/l33one/livechat)|[Plugin Metabase](https://github.com/pluginsGLPI/metabase)|[Plugin Gitlab](https://github.com/faizaleticia/gitlabintegration)|[Plugin Gdrive](https://github.com/ticgal/gdrive)|
+|[Prelude](https://www.prelude-siem.com/en/)|[Mantis BT](https://www.mantisbt.org/)|[Graylog](https://www.graylog.org/)|[Rocket.Chat](https://rocket.chat/)|[Metabase](https://www.metabase.com/)|[Gitlab](https://about.gitlab.com/)|[Gdrive](https://drive.google.com/drive/my-drive)|[Jira](https://www.atlassian.com/es/software/jira)|
+|------------ | ------------- |------------- |------------ | ------------- |------------- |------------- |------------- |
+|[Plugin Prelude](https://github.com/pluginsGLPI/prelude)|[Plugin Mantis](https://github.com/pluginsGLPI/mantis)|[Plugin Graylog](https://github.com/airbus-cyber/graylog-plugin-glpi)|[Plugin Rocket.Chat](https://github.com/l33one/livechat)|[Plugin Metabase](https://github.com/pluginsGLPI/metabase)|[Plugin Gitlab](https://github.com/faizaleticia/gitlabintegration)|[Plugin Gdrive](https://github.com/ticgal/gdrive)|[Plugin Jira](https://valiantys.com/en/blog/agility/connect-asset-management-tool-jira-help-desk-nfeed/)|
 
 ## Autenticación
 
