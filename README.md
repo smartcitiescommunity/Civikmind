@@ -42,6 +42,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |------------ | -------------|
 |Gestión Social| Cada petición, necesidad, reto, proyecto o denuncia ciudadanas pueden contar con un veedor del proceso, experto o auditor|
 || Cada petición, necesidad, reto, proyecto o denuncia ciudadanas pueden contar con un grupo en calidad de veeduría del proceso, especialidad técnica, Experticia técnica o auditoría|
+|| Cada petición validada puede estar realizada bajo anonimato para proteger la vida de quienes formulan peticiones, problemas o denuncias que pueden poner en peligro su vida y así protegere a lideres sociales, defensores de derechos humanos e informantes de corrupción, irregularidades o actos en contra de la ley y la norma|
 || Cada petición es asignada a un responsable directo bajo criterio comunitario|
 || Cada petición pueder ser asignada a un grupo relacionado a uno de los objetivos de desarrollo sostenible con mayor relación bajo criterio comunitario|
 || Cada petición pueder ser asignada a un grupo relacionado a una Areas de aplicación de la Norma ISO 37120 con mayor relación bajo criterio comunitario|
@@ -63,6 +64,14 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 ||Se puede hacer uso de tableros Kanban|
 ||Se pueden generar graficos GANTT|
 |Gestión Financiera|Es posible conocer quienes son los proveedores en cada proyecto|
+||Es posible conocer cuales son los contratos en cada proyecto|
+||Es posible conocer cuales son los costos en cada proyecto|
+||Es posible conocer cuanto es el elpresupuesto en cada proyecto|
+||Es posible conocer quienes son los proveedores en cada petición|
+||Es posible conocer cuales son los contratos en cada petición|
+||Es posible conocer cuales son los costos en cada petición|
+||Es posible conocer cuanto es el presupuesto en cada petición|
+|Gestión Territorio|Es posible conocer en que lugar sucede la petición, necesidad, reto, proyecto o denuncia ciudadanas|
 ||Es posible conocer cuales son los contratos en cada proyecto|
 ||Es posible conocer cuales son los costos en cada proyecto|
 ||Es posible conocer cuanto es el elpresupuesto en cada proyecto|
