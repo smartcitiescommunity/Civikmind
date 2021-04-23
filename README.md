@@ -40,9 +40,13 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 | Fundicionalidad | Especificidad |
 |------------ | -------------|
-|Gestión de  Grupos| Opción de grupos segmentados bajo los Objetivos de Desarrollo Sostenible|
+|Gestión de  Grupos de personas| Opción de grupos segmentados bajo los Objetivos de Desarrollo Sostenible|
 ||Opción de grupos segmentados bajo las Areas de Aplicación de la Norma ISO 37120|
 ||Correlación en Peticiones, Problemas, Cambios, Proyectos y Activos entre otros|
+|Gestión de  personas| Seleccionar personas por categoría, título o etiqueta |
+||Seleccionar personas según titulo|
+||Seleccionar personas según etiquetas|
+
 
 
 ## Funcionalidades Técnicas
