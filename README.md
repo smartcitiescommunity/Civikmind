@@ -42,7 +42,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |------------ | -------------|
 |Gestión de  Grupos| Opción de grupos segmentados bajo los Objetivos de Desarrollo Sostenible|
 ||Opción de grupos segmentados bajo las Areas de Aplicación de la Norma ISO 37120|
-||Correlación en Peticiones, Problemas, Cambios,Proyectos, Activos,|
+||Correlación en Peticiones, Problemas, Cambios, Proyectos y Activos entre otros|
 
 
 ## Funcionalidades Técnicas
