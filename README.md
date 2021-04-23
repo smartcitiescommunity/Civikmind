@@ -43,38 +43,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |Gestión de  Grupos| Opción de grupos segmentados bajo los Objetivos de Desarrollo Sostenible|
 ||Opción de grupos segmentados bajo las Areas de Aplicación de la Norma ISO 37120|
 ||Correlación en Peticiones, Problemas, Cambios,Proyectos, Activos,|
-| Cumplimiento en mesas de ayuda(ServiceDesk ITIL Compliant)|Gestión de problemas en varios entornos vía la creación de tickets, gestión de los tickets, asignación, planificación de los tickets para una Mesa de ayuda, etc.|
-||Gestión de problemas, proyectos y cambios|
-||Backlog y registro de actividades|
-|Atención al usuario|Gestión y trazabilidad de TODAS las acciones realizadas en una petición|
-|Usuarios|Historial de las intervenciones|
-| |Encuestas de satisfacción|
-| |Comentarios en las solicitudes|
-| |Seguimiento de correos de la solicitud de intervención|
-|Operación|Gestión de las solicitudes de intervención|
-| |Escalamiento de los tickets bajo cumplimiento de mejores prácticas|
-|Estadísticas|Información de activos en varios formatos (PNG,SVG,PDF)|
-| |Estadísticas por categoría (por entidad, usuario, categoría, prioridad, ubicación)|
-|Administración|Gestión del estado y de reservas del material|
-||Gestión de los contratos y documentos|
-||Sistema básico de un sistema de Gestión del conocimiento|
-||Gestión de las solicitudes de soporte para todo tipo de inventario de material|
-||Gestión de la información comercial y financiera (adquisición, garantía y extensión, amortización)|
-|Reserva|Gestión de reservas|
-||Interfaz usuario para gestión de calendarios|
-|Base de datos de conocimientos|Gestión de artículos de la base de datos de conocimientos y de la FAQ (Preguntas Frecuentes)|
-||Gestión de contenidos por objetivos (perfiles, grupos, entidades.)|
-||Gestión de contenidos por Afinidad y Etiquetas|
-||Gestión de contenidos por Metodo 9R|
-||Gestión de contenidos por [CivikMatrix](https://github.com/smartcitiescommunity/CivikMatrix)|
-||Gestión de contenidos por [CivikBooks](https://github.com/smartcitiescommunity/CivikBooks)|
-|Informes|Generación de informes por tipo de dispositivo, contratos asociados, informes comerciales, entre otros|
-||Informes en formatos CSV para exportar a software  de hojas de cálculo (Libre Office,MS Excel, Google Sheets), analisis de datos o sistemas  de datos abiertos|
-|Análisis|Exportar información en CSV o extraer por medio de API para ser llevado a otras aplicaciones y posterior analisis|
-||Panel de Visualización de Estadisticas|
-|Sistema API|Permite la comunicación con otras aplicaciones y mejoras en la capa de abstracción y bibliotecas del Civikmind|
-|SLA - Acuerdo de nivel de servicio |Formalización de un contrato negociado con cualquiera de los proveedores y la definición del nivel de servicio esperado|
-|Soporte Idiomas|Civikmind tiene adecuaciones realizadas en español no obstante soporte hasta 45 idiomas|
+
 
 ## Funcionalidades Técnicas
 
