@@ -40,6 +40,13 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 | Fundicionalidad | Especificidad |
 |------------ | -------------|
+|Gestión de Peticiones, necesidades, retos, proyectos o denuncias ciudadanas| Estan se pueden realizar bajo un modelo de veedor del procesos |
+|| Cada petición es asignada a un responsable directo bajo criterio comunitario|
+|| Cada petición pueder ser asignada a un grupo relacionado a uno de los objetivos de desarrollo sostenible con mayor relación bajo criterio comunitario|
+|| Cada petición pueder ser asignada a un grupo relacionado a una Areas de aplicación de la Norma ISO 37120 con mayor relación bajo criterio comunitario|
+|| Cada petición pueder ser asignada a un proveedor tipo empresa que tenga implicación, relación directa o impacto directo según según la categoria|
+|| Cada petición pueder ser asignada a un proveedor tipo organismo del estado, función pública o funcionario que tenga implicación, relación directa o impacto directo según según la situación, naturaleza o categoria|
+|| Cada petición pueder ser asignada a un proveedor de la sociedad civil que tenga implicación, relación directa o impacto directo según según la situación, naturaleza o categoria|
 |Gestión de  Grupos de personas| Opción de grupos segmentados bajo los Objetivos de Desarrollo Sostenible|
 ||Opción de grupos segmentados bajo las Areas de Aplicación de la Norma ISO 37120|
 ||Correlación en Peticiones, Problemas, Cambios, Proyectos y Activos entre otros|
