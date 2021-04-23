@@ -43,9 +43,16 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |Gestión de  Grupos de personas| Opción de grupos segmentados bajo los Objetivos de Desarrollo Sostenible|
 ||Opción de grupos segmentados bajo las Areas de Aplicación de la Norma ISO 37120|
 ||Correlación en Peticiones, Problemas, Cambios, Proyectos y Activos entre otros|
-|Gestión de  personas| Seleccionar personas por categoría, título o etiqueta |
+|Gestión de personas| Seleccionar personas por categoría, título o etiqueta |
 ||Seleccionar personas según titulo|
 ||Seleccionar personas según etiquetas|
+|Gestión del conocimiento| Sistema de preguntas de uso frecuente que pueden ser usados con el fin de conocer soluciones utiles |
+||La información y experiencia documentada queda segmentada bajo los Objetivos de Desarrollo Sostenible |
+||La información y experiencia documentada queda segmentada bajo las Areas de Aplicación de la Norma ISO 37120 |
+|Proyectos|Los proyectos pueden ser categorizados bajo los Objetivos de Desarrollo Sostenible|
+||Los proyectos pueden ser categorizados bajo las Areas de Aplicación de la Norma ISO 37120|
+||Se puede hacer uso de metodologias agiles hacer uso de tableros Kanban|
+||Se puede hacer uso de tableros Kanban|
 
 
 
