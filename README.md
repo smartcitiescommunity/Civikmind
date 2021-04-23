@@ -91,10 +91,9 @@ Ademas la plataforma viene precargada con 50 [plugins](https://plugins.glpi-proj
 
 ##  Integración con Plataformas
 
-|[OCS Inventory](https://ocsinventory-ng.org/?lang=en)|[Fusion Inventory](https://fusioninventory.org/)|[Zabbix](https://www.zabbix.com/)|[Graphana]()|[Nagios](https://www.nagios.org/)|[Shinken](http://www.shinken-monitoring.org/)|[Slack](https://slack.com/)|[Prelude](https://www.prelude-siem.com/en/)|[Mantis BT](https://www.mantisbt.org/)|[Graylog](https://www.graylog.org/)|[Rocket.Chat](https://rocket.chat/)|[Metabase](https://www.metabase.com/)|[Gitlab](https://about.gitlab.com/)|
+|[OCS Inventory](https://ocsinventory-ng.org/?lang=en)|[Fusion Inventory](https://fusioninventory.org/)|[Zabbix](https://www.zabbix.com/)|[Graphana]()|[Nagios](https://www.nagios.org/)|[Shinken](http://www.shinken-monitoring.org/)|[Slack](https://slack.com/)|[Prelude](https://www.prelude-siem.com/en/)|[Mantis BT](https://www.mantisbt.org/)|[Graylog](https://www.graylog.org/)|[Rocket.Chat](https://rocket.chat/)|[Metabase](https://www.metabase.com/)|[Gitlab](https://about.gitlab.com/)|[Gdrive](https://drive.google.com/drive/my-drive)| 
 |------------ | ------------- |------------ | ------------- |------------ | ------------- |------------- |------------ | ------------- |------------- |------------ | ------------- |------------- |
-|[Plugin OCS Inventory](https://github.com/pluginsGLPI/ocsinventoryng)|[Plugin Fusion Inventory](https://github.com/fusioninventory/fusioninventory-for-glpi)|[Plugin Zabbix](https://github.com/janssenlima/zabbix-glpi)|[Plugin Graphana](https://github.com/ddurieux/glpi_app_grafana)|[Plugins Nagios](https://github.com/derricksmith/Nagios-Event-Handlers-for-GLPI)|[Plugin Shinken](https://github.com/shinken-monitoring/mod-glpidb)|[Plugin Slack](https://github.com/davejennings/hubot-slack-glpi)|[Plugin Prelude](https://github.com/pluginsGLPI/prelude)|[Plugin Mantis](https://github.com/pluginsGLPI/mantis)|[Plugin Graylog](https://github.com/airbus-cyber/graylog-plugin-glpi)|[Plugin Rocket.Chat](https://github.com/l33one/livechat)|[Plugin Metabase](https://github.com/pluginsGLPI/metabase)|[Plugin Gitlab](https://github.com/faizaleticia/gitlabintegration)|
-[]()
+|[Plugin OCS Inventory](https://github.com/pluginsGLPI/ocsinventoryng)|[Plugin Fusion Inventory](https://github.com/fusioninventory/fusioninventory-for-glpi)|[Plugin Zabbix](https://github.com/janssenlima/zabbix-glpi)|[Plugin Graphana](https://github.com/ddurieux/glpi_app_grafana)|[Plugins Nagios](https://github.com/derricksmith/Nagios-Event-Handlers-for-GLPI)|[Plugin Shinken](https://github.com/shinken-monitoring/mod-glpidb)|[Plugin Slack](https://github.com/davejennings/hubot-slack-glpi)|[Plugin Prelude](https://github.com/pluginsGLPI/prelude)|[Plugin Mantis](https://github.com/pluginsGLPI/mantis)|[Plugin Graylog](https://github.com/airbus-cyber/graylog-plugin-glpi)|[Plugin Rocket.Chat](https://github.com/l33one/livechat)|[Plugin Metabase](https://github.com/pluginsGLPI/metabase)|[Plugin Gitlab](https://github.com/faizaleticia/gitlabintegration)|[Plugin Gdrive](https://github.com/ticgal/gdrive)|
 
 
 ## Autenticación
@@ -179,7 +178,7 @@ Caracteristicas:
 - España
 - Venezuela
 
-:eight_pointed_black_star: [API REST](https://fossies.org/dox/glpi-9.4.5/md_apirest.html)
+:eight_pointed_black_star: [API REST](https://fossies.org/dox/glpi-9.5.5/md_apirest.html)
 
 permitiendo asi ampliar en gran medida las potencialidades de la aplicación
 
