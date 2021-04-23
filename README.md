@@ -49,11 +49,19 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |Gestión del conocimiento| Sistema de preguntas de uso frecuente que pueden ser usados con el fin de conocer soluciones utiles |
 ||La información y experiencia documentada queda segmentada bajo los Objetivos de Desarrollo Sostenible |
 ||La información y experiencia documentada queda segmentada bajo las Areas de Aplicación de la Norma ISO 37120 |
-|Proyectos|Los proyectos pueden ser categorizados bajo los Objetivos de Desarrollo Sostenible|
+|Gestión Proyectos|Los proyectos pueden ser categorizados bajo los Objetivos de Desarrollo Sostenible|
 ||Los proyectos pueden ser categorizados bajo las Areas de Aplicación de la Norma ISO 37120|
-||Se puede hacer uso de metodologias agiles hacer uso de tableros Kanban|
+||Se puede hacer uso de metodologias agiles|
 ||Se puede hacer uso de tableros Kanban|
-
+||Se pueden generar graficos GANTT|
+|Gestión Financiera|Es posible conocer quienes son los proveedores en cada proyecto|
+||Es posible conocer cuales son los contratos en cada proyecto|
+||Es posible conocer cuales son los costos en cada proyecto|
+||Es posible conocer cuales son el presupuesto en cada proyecto|
+||Es posible conocer quienes son los proveedores en cada petición|
+||Es posible conocer cuales son los contratos en cada petición|
+||Es posible conocer cuales son los costos en cada petición|
+||Es posible conocer cuales son el presupuesto en cada petición|
 
 
 ## Funcionalidades Técnicas
