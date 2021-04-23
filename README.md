@@ -66,19 +66,13 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |Gestión Financiera|Es posible conocer quienes son los proveedores en cada proyecto|
 ||Es posible conocer cuales son los contratos en cada proyecto|
 ||Es posible conocer cuales son los costos en cada proyecto|
-||Es posible conocer cuanto es el elpresupuesto en cada proyecto|
+||Es posible conocer cuanto es el presupuesto en cada proyecto|
 ||Es posible conocer quienes son los proveedores en cada petición|
 ||Es posible conocer cuales son los contratos en cada petición|
 ||Es posible conocer cuales son los costos en cada petición|
 ||Es posible conocer cuanto es el presupuesto en cada petición|
 |Gestión Territorio|Es posible conocer en que lugar sucede la petición, necesidad, reto, proyecto o denuncia ciudadanas|
-||Es posible conocer cuales son los contratos en cada proyecto|
-||Es posible conocer cuales son los costos en cada proyecto|
-||Es posible conocer cuanto es el elpresupuesto en cada proyecto|
-||Es posible conocer quienes son los proveedores en cada petición|
-||Es posible conocer cuales son los contratos en cada petición|
-||Es posible conocer cuales son los costos en cada petición|
-||Es posible conocer cuanto es el presupuesto en cada petición|
+||Es posible realizar trabajar por segmentación de ubicaciones o por territorios|
 
 
 ## Funcionalidades - Gestión Técnica
