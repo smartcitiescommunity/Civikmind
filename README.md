@@ -36,7 +36,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 | Diseño Grafico: | **Alejandro Cataño**  |
 | Conceptos de Desarrollo:: | **Alejandro Angel Arango**  |
 
-## Funcionalidades Gestión Social
+## Funcionalidades - Gestión Social
 
 | Fundicionalidad | Especificidad |
 |------------ | -------------|
@@ -64,7 +64,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 ||Es posible conocer cuales son el presupuesto en cada petición|
 
 
-## Funcionalidades Técnicas
+## Funcionalidades - Gestión Técnica
 
 | Fundicionalidad | Especificidad |
 |------------ | -------------|
