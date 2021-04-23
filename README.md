@@ -95,7 +95,11 @@ Ademas la plataforma viene precargada con 50 [plugins](http://plugins.glpi-proje
 |------------ | ------------- |------------ | ------------- |------------ | ------------- |------------- |------------ | ------------- |------------- |
 |[Plugin OCS Inventory](https://github.com/pluginsGLPI/ocsinventoryng)|[Plugin Fusion Inventory](https://github.com/fusioninventory/fusioninventory-for-glpi)|[Plugin Zabbix](https://github.com/janssenlima/zabbix-glpi)|[Plugin Graphana](https://github.com/ddurieux/glpi_app_grafana)|[Plugins Nagios](https://github.com/derricksmith/Nagios-Event-Handlers-for-GLPI)|[Plugin Shinken](https://github.com/shinken-monitoring/mod-glpidb)|[Plugin Slack](https://github.com/davejennings/hubot-slack-glpi)|[Plugin Prelude](https://github.com/pluginsGLPI/prelude)|[Plugin Mantis](https://github.com/pluginsGLPI/mantis)|[Plugin Graylog](https://github.com/airbus-cyber/graylog-plugin-glpi)|
 []()
+## Autenticación
 
+|SAML|CAS|X509|LDAP|SSO|Mail Server|
+|------------ | ------------- |------------ |------------ | ------------- |------------ |
+|[PLugin SAML](https://github.com/derricksmith/phpsaml)|Nativo|Nativo|Nativo|Nativo|Nativo|
 
 ## Citar formato APA
 
