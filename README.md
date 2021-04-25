@@ -105,11 +105,11 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |Base de datos de conocimientos|Gestión de artículos de la base de datos de conocimientos y de la FAQ (Preguntas Frecuentes)|
 ||Gestión de contenidos por objetivos (perfiles, grupos, entidades.)|
 ||Gestión de contenidos por Afinidad y Etiquetas|
-||Gestión de contenidos por Metodo 9R|
+||Gestión de contenidos por Metodo 9D()[]|
 ||Gestión de contenidos por [CivikMatrix](https://github.com/smartcitiescommunity/CivikMatrix)|
 ||Gestión de contenidos por [CivikBooks](https://github.com/smartcitiescommunity/CivikBooks)|
 |Informes|Generación de informes por tipo de dispositivo, contratos asociados, informes comerciales, entre otros|
-||Informes en formatos CSV para exportar a software  de hojas de cálculo (Libre Office,MS Excel, Google Sheets), analisis de datos o sistemas  de datos abiertos|
+||Informes en formatos CSV para exportar a software  de [hojas de cálculo](https://es.wikipedia.org/wiki/Hoja_de_c%C3%A1lculo) (Libre Office,MS Excel, Google Sheets), analisis de datos o sistemas  de datos abiertos|
 |Análisis|Exportar información en CSV o extraer por medio de API para ser llevado a otras aplicaciones y posterior analisis|
 ||Panel de Visualización de Estadisticas|
 |Sistema API|Permite la comunicación con otras aplicaciones y mejoras en la capa de abstracción y bibliotecas del Civikmind|
