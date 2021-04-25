@@ -61,9 +61,9 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 ||La información y experiencia documentada queda segmentada bajo las Areas de Aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120) |
 |Gestión Proyectos|Los proyectos pueden ser categorizados bajo los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html)|
 ||Los proyectos pueden ser categorizados bajo las Areas de Aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120)|
-||Se puede hacer uso de [metodologias agiles](https://www.pmi.org/learning/library/es-balancing-agile-plan-oriented-methodologies-8881)|
-||Se puede hacer uso de tableros Kanban|
-||Se pueden generar graficos GANTT|
+||Se puede hacer uso de [Metodologias agiles](https://www.pmi.org/learning/library/es-balancing-agile-plan-oriented-methodologies-8881)|
+||Se puede hacer uso de [Tableros Kanban](https://es.wikipedia.org/wiki/Kanban_(desarrollo))|
+||Se pueden generar [Diagramas GANTT](https://es.wikipedia.org/wiki/Diagrama_de_Gantt)|
 |Gestión Financiera|Es posible conocer quienes son los proveedores en cada proyecto|
 ||Es posible conocer cuales son los contratos en cada proyecto|
 ||Es posible conocer cuales son los costos en cada proyecto|
