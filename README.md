@@ -97,7 +97,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 | |Estadísticas por categoría (por entidad, usuario, categoría, prioridad, ubicación)|
 |Administración|Gestión del estado y de reservas del material|
 ||Gestión de los contratos y documentos|
-||Sistema básico de un sistema de Gestión del conocimiento|
+||Sistema básico de un sistema de [Gestión del conocimiento](https://es.wikipedia.org/wiki/Gesti%C3%B3n_del_conocimiento)|
 ||Gestión de las solicitudes de soporte para todo tipo de inventario de material|
 ||Gestión de la información comercial y financiera (adquisición, garantía y extensión, amortización)|
 |Reserva|Gestión de reservas|
