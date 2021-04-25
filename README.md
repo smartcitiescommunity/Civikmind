@@ -41,7 +41,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 | Fundicionalidad | Especificidad |
 |------------ | -------------|
 |Toma  de decisiones |Es necesario tener una filosofia de trabajo, metodologias y planeación para tener mejores decisiones,para este contexto es necesario ver una manera clara y simple las actividades que se producen ya sea por la lectura tableros de graficos y datos o Dashboards los cuales Civikmind poseé|
-|| Para mejor uso de Civikmind se puede hacer uso de la Metodologia 9D la cual permite ver las actividades que se producen la plataforma con visión más en contexto con los temas relacionados en Civikmind|
+|| Para mejor uso de Civikmind se puede hacer uso de la [Metodologia 9D](https://github.com/smartcitiescommunity/9D) la cual permite ver las actividades que se producen la plataforma con visión más en contexto con los temas relacionados en Civikmind|
 |||
 ||Cada petición validada puede estar realizada bajo anonimato para proteger la vida de quienes formulan peticiones, problemas o denuncias que pueden poner en peligro su vida y así protegere a lideres sociales, defensores de derechos humanos e informantes de corrupción, irregularidades o actos en contra de la ley y la norma|
 || Cada petición es asignada a un responsable directo bajo criterio comunitario|
