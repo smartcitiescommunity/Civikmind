@@ -80,7 +80,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 | Fundicionalidad | Especificidad |
 |------------ | -------------|
-|Gestión de  Activos| Gestión administrativa, contratos, documentos relacionados con componentes del inventario de activos, base de datos de conocimiento|
+|[Gestión de Activos](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_activos)| Gestión administrativa, contratos, documentos relacionados con componentes del inventario de activos, base de datos de conocimiento|
 ||Inventario de Activos digitales, Dispositivos y Archivos|
 ||Gestión de Garantias y [Ciclo de Vida](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_ciclo_de_vida)|
 | Cumplimiento en mesas de ayuda(ServiceDesk ITIL Compliant)|Gestión de problemas en varios entornos vía la creación de tickets, gestión de los tickets, asignación, planificación de los tickets para una Mesa de ayuda, etc.|
