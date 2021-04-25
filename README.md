@@ -105,7 +105,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |Base de datos de conocimientos|Gestión de artículos de la base de datos de conocimientos y de la FAQ (Preguntas Frecuentes)|
 ||Gestión de contenidos por objetivos (perfiles, grupos, entidades.)|
 ||Gestión de contenidos por Afinidad y Etiquetas|
-||Gestión de contenidos por Metodo 9D()[]|
+||Gestión de contenidos por [Metodo 9D](https://github.com/smartcitiescommunity/9D)|
 ||Gestión de contenidos por [CivikMatrix](https://github.com/smartcitiescommunity/CivikMatrix)|
 ||Gestión de contenidos por [CivikBooks](https://github.com/smartcitiescommunity/CivikBooks)|
 |Informes|Generación de informes por tipo de dispositivo, contratos asociados, informes comerciales, entre otros|
