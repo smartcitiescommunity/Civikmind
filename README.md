@@ -1,5 +1,5 @@
 # Civikmind
-Plataforma Libre y de código abierto para la Participación Ciudadana, Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Gestión de activos inteligentes en el contexto de los Objetivos de Desarrollo Sostenible.
+Plataforma Libre y de código abierto para la Participación Ciudadana, Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Gestión de activos inteligentes en el contexto de los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html).
 
 ## Licencia
 
@@ -45,21 +45,21 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |||
 ||Cada petición validada puede estar realizada bajo anonimato para proteger la vida de quienes formulan peticiones, problemas o denuncias que pueden poner en peligro su vida y así protegere a lideres sociales, defensores de derechos humanos e informantes de corrupción, irregularidades o actos en contra de la ley y la norma|
 || Cada petición es asignada a un responsable directo bajo criterio comunitario|
-|| Cada petición pueder ser asignada a un grupo relacionado a uno de los objetivos de desarrollo sostenible con mayor relación bajo criterio comunitario|
+|| Cada petición pueder ser asignada a un grupo relacionado a uno de los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html) con mayor relación bajo criterio comunitario|
 || Cada petición pueder ser asignada a un grupo relacionado a una Areas de aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120) con mayor relación bajo criterio comunitario|
 || Cada petición pueder ser asignada a un proveedor tipo empresa que tenga implicación, relación directa o impacto directo según según la categoria|
 || Cada petición pueder ser asignada a un proveedor tipo organismo del estado, función pública o funcionario que tenga implicación, relación directa o impacto directo según según la situación, naturaleza o categoria|
 || Cada petición pueder ser asignada a un proveedor de la sociedad civil que tenga implicación, relación directa o impacto directo según según la situación, naturaleza o categoria|
-|Gestión de  Grupos de personas| Opción de grupos segmentados bajo los Objetivos de Desarrollo Sostenible|
+|Gestión de  Grupos de personas| Opción de grupos segmentados bajo los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html)|
 ||Opción de grupos segmentados bajo las Areas de Aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120)|
 ||Correlación en Peticiones, Problemas, Cambios, Proyectos y Activos entre otros|
 |Gestión de personas| Seleccionar personas por categoría, título o etiqueta |
 ||Seleccionar personas según titulo|
 ||Seleccionar personas según etiquetas|
 |Gestión del conocimiento| Sistema de preguntas de uso frecuente que pueden ser usados con el fin de conocer soluciones utiles |
-||La información y experiencia documentada queda segmentada bajo los Objetivos de Desarrollo Sostenible |
+||La información y experiencia documentada queda segmentada bajo los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html)|
 ||La información y experiencia documentada queda segmentada bajo las Areas de Aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120) |
-|Gestión Proyectos|Los proyectos pueden ser categorizados bajo los Objetivos de Desarrollo Sostenible|
+|Gestión Proyectos|Los proyectos pueden ser categorizados bajo los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html)|
 ||Los proyectos pueden ser categorizados bajo las Areas de Aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120)|
 ||Se puede hacer uso de metodologias agiles|
 ||Se puede hacer uso de tableros Kanban|
