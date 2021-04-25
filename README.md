@@ -40,9 +40,10 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 | Fundicionalidad | Especificidad |
 |------------ | -------------|
-|Gestión Social| Cada petición, necesidad, reto, proyecto o denuncia ciudadanas pueden contar con un veedor del proceso, experto o auditor|
-|| Cada petición, necesidad, reto, proyecto o denuncia ciudadanas pueden contar con un grupo en calidad de veeduría del proceso, especialidad técnica, Experticia técnica o auditoría|
-|| Cada petición validada puede estar realizada bajo anonimato para proteger la vida de quienes formulan peticiones, problemas o denuncias que pueden poner en peligro su vida y así protegere a lideres sociales, defensores de derechos humanos e informantes de corrupción, irregularidades o actos en contra de la ley y la norma|
+|Toma  de decisiones |Es necesario tener una filosofia de trabajo, metodologias y planeación para tener mejores decisiones,para este contexto es necesario ver una manera clara y simple las actividades que se producen ya sea por la lectura tableros de graficos y datos o Dashboards los cuales Civikmind poseé Cada petición validada puede estar realizada bajo anonimato para proteger la vida de quienes formulan peticiones, problemas o denuncias que pueden poner en peligro su vida y así protegere a lideres sociales, defensores de derechos humanos e informantes de corrupción, irregularidades o actos en contra de la ley y la norm|
+|| Para mejor uso de Civikmind se puede hacer uso de la Metodologia 9D la cual permite ver las actividades que se producen la plataforma con visión más en contexto con los temas relacionados en Civikmind|
+|||
+||Cada petición validada puede estar realizada bajo anonimato para proteger la vida de quienes formulan peticiones, problemas o denuncias que pueden poner en peligro su vida y así protegere a lideres sociales, defensores de derechos humanos e informantes de corrupción, irregularidades o actos en contra de la ley y la norma|
 || Cada petición es asignada a un responsable directo bajo criterio comunitario|
 || Cada petición pueder ser asignada a un grupo relacionado a uno de los objetivos de desarrollo sostenible con mayor relación bajo criterio comunitario|
 || Cada petición pueder ser asignada a un grupo relacionado a una Areas de aplicación de la Norma ISO 37120 con mayor relación bajo criterio comunitario|
