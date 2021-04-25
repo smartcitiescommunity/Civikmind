@@ -102,7 +102,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 ||Gestión de la información comercial y financiera (adquisición, garantía y extensión, amortización)|
 |Reserva|Gestión de reservas|
 ||Interfaz usuario para gestión de calendarios|
-|Base de datos de conocimientos|Gestión de artículos de la base de datos de conocimientos y de la FAQ (Preguntas Frecuentes)|
+|Base de datos de conocimientos|Gestión de artículos de la [base de datos de conocimiento](https://es.wikipedia.org/wiki/Base_de_conocimiento) y de la FAQ o [Preguntas Frecuentes] (https://es.wikipedia.org/wiki/Preguntas_frecuentes)|
 ||Gestión de contenidos por objetivos (perfiles, grupos, entidades.)|
 ||Gestión de contenidos por Afinidad y Etiquetas|
 ||Gestión de contenidos por [Metodo 9D](https://github.com/smartcitiescommunity/9D)|
