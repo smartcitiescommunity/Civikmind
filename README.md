@@ -49,7 +49,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 || Cada petición pueder ser asignada a un grupo relacionado a una Areas de aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120) con mayor relación bajo criterio comunitario|
 || Cada petición pueder ser asignada a un proveedor tipo empresa que tenga implicación, relación directa o impacto directo según según la categoria|
 || Cada petición pueder ser asignada a un proveedor tipo organismo del estado, función pública o funcionario que tenga implicación, relación directa o impacto directo según según la situación, naturaleza o categoria|
-|| Cada petición pueder ser asignada a un proveedor de la sociedad civil que tenga implicación, relación directa o impacto directo según según la situación, naturaleza o categoria|
+|| Cada petición pueder ser asignada a un proveedor de la [Sociedad civil](https://es.wikipedia.org/wiki/Sociedad_civil_(ciencia_pol%C3%ADtica)) que tenga implicación, relación directa o impacto directo según según la situación, naturaleza o categoria|
 |Gestión de  Grupos de personas| Opción de grupos segmentados bajo los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html)|
 ||Opción de grupos segmentados bajo las Areas de Aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120)|
 ||Correlación en Peticiones, Problemas, Cambios, Proyectos y Activos entre otros|
