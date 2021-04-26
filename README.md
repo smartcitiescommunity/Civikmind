@@ -33,8 +33,8 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 | Apoyo Financiero  | **Andrés Beltrán**  |
 | Ideas de Mercadeo | **Yessy Alejandro Lotero**  |
 | Pruebas y Experiencia de usuario | **Sergio Herrera**  |
-| Diseño Grafico: | **Alejandro Cataño**  |
-| Conceptos de Desarrollo:: | **Alejandro Angel Arango**  |
+| Diseño Grafico: | [**Alejandro Cataño Garcia**](https://fb.watch/56FQNxk4ai/)  |
+| Conceptos de Desarrollo: | **Alejandro Angel Arango**  |
 
 ## Funcionalidades - Gestión Social
 
