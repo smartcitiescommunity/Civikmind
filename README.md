@@ -30,7 +30,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 | Base del software Civikmind: | Forkeado de [**GLPI**](https://github.com/glpi-project/glpi)|
 | Conceptos: |[**Indira Carazo Roldan**](https://www.linkedin.com/in/indiracarazo/) y [**Francisco Javier Roldan**](https://www.linkedin.com/in/frajaro/) |
 | Kickstarter: | [**Juan Felipe Campuzano Zuluaga**](https://www.galeriapolitica.com/galeriapolitica-com-entrevista-a-juan-felipe-campuzano/)|
-| Apoyo Financiero  | (**Andrés Beltrán**)[https://www.facebook.com/AndresJBeltran/]|
+| Apoyo Financiero  |[**Andrés Beltrán**] (https://www.facebook.com/AndresJBeltran/)|
 | Ideas de Mercadeo |[**Yessy Alejandro Lotero**](https://www.linkedin.com/in/yessy-alejandro-lotero-hernandez-74742917/)|
 | Pruebas y Experiencia de usuario |[**Sergio Herrera**](https://www.linkedin.com/in/sergioandresherreravelasquez/)|
 | Diseño Grafico: | [**Alejandro Cataño Garcia**](https://fb.watch/56FQNxk4ai/)  |
