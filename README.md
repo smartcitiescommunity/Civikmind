@@ -26,15 +26,15 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 | ROL | Miembro del Equipo |
 | ------------- | ------------- |
-| Idea, Dirección y desarrollo |**Juan Fernando Villa**|
-| Base: | Forkeado de **GLPI** https://github.com/glpi-project/glpi|
-| Conceptos: | **Indira Carazo Roldan** y **Francisco Javier Roldan**  |
-| Kickstarter: | **Juan Felipe Campuzano Zuluaga**  |
-| Apoyo Financiero  | **Andrés Beltrán**  |
-| Ideas de Mercadeo | **Yessy Alejandro Lotero**  |
-| Pruebas y Experiencia de usuario | **Sergio Herrera**  |
+| Idea, Dirección y desarrollo |[**Juan Fernando Villa**](https://www.linkedin.com/in/juanfernandovillahernandez/)|
+| Base del software Civikmind: | Forkeado de [**GLPI**](https://github.com/glpi-project/glpi)|
+| Conceptos: |[**Indira Carazo Roldan**](https://www.linkedin.com/in/indiracarazo/) y [**Francisco Javier Roldan**](https://www.linkedin.com/in/frajaro/) |
+| Kickstarter: | [**Juan Felipe Campuzano Zuluaga**](https://www.galeriapolitica.com/galeriapolitica-com-entrevista-a-juan-felipe-campuzano/)|
+| Apoyo Financiero  | (**Andrés Beltrán**)[https://www.facebook.com/AndresJBeltran/]|
+| Ideas de Mercadeo |[**Yessy Alejandro Lotero**](https://www.linkedin.com/in/yessy-alejandro-lotero-hernandez-74742917/)|
+| Pruebas y Experiencia de usuario |[**Sergio Herrera**](https://www.linkedin.com/in/sergioandresherreravelasquez/)|
 | Diseño Grafico: | [**Alejandro Cataño Garcia**](https://fb.watch/56FQNxk4ai/)  |
-| Conceptos de Desarrollo: | **Alejandro Angel Arango**  |
+| Conceptos de Desarrollo: | [**Alejandro Angel Arango**]()|
 
 ## Funcionalidades - Gestión Social
 
