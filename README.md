@@ -157,7 +157,7 @@ Ademas la plataforma viene precargada con 50 [plugins](https://plugins.glpi-proj
 ## Organizaciones que nos avalan
 | Smart Cities Community |  Centro de Innovación y Desarrollo Texnológico País del Conocimiento| Smart Cities Community U.S |
 | ------------- | ------------- |------------- |
-| <img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|<img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGnjmEKoiziNA/company-logo_200_200/0/1519904835018?e=1627516800&v=beta&t=tGDF_YoIIMgoF8UupRnDjRHZnROvqLZoy2zF8UhGpw0" width="80%"/>|<img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|
+| <img align="center" src="pics/logo_scc.png?raw=true" width="60%"/>|<img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGnjmEKoiziNA/company-logo_200_200/0/1519904835018?e=1627516800&v=beta&t=tGDF_YoIIMgoF8UupRnDjRHZnROvqLZoy2zF8UhGpw0" width="80%"/>|<img align="center" src="pics/logo_scc.png?raw=true" width="20%"/>|
 
 ## Redes Sociales
 
