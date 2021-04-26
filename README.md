@@ -26,7 +26,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 | ROL | Miembro del Equipo |
 | ------------- | ------------- |
-| Idea, Dirección y desarrollo |[**Juan Fernando Villa**](https://www.linkedin.com/in/juanfernandovillahernandez/)|
+| Idea, Dirección y desarrollo |[**Juan Fernando Villa**](https://www.linkedin.com/in/juanfernandovillahernandez/) ( Te agradezco veas todo la aplicación, sus caracteristicas y posibilidades, es el resultado de 23 años de estudio en las más variadas disciplinas en tecnologias. Si te agrada mi trabajo, si te inspira y encuentras una solución para transformar tu mundo, tu ciudad, tu comunidad no olvides darle una estrella a este repositorio e incluso si estás de acuerdo en nominarme a el [The GitHub Stars program](https://stars.github.com/nominate/) con el usuario [juanfernandovillahernandez](https://github.com/juanfernandovillahernandez)|
 | Base del software Civikmind: | Forkeado de [**GLPI**](https://github.com/glpi-project/glpi)|
 | Conceptos: |[**Indira Carazo Roldan**](https://www.linkedin.com/in/indiracarazo/) y [**Francisco Javier Roldan**](https://www.linkedin.com/in/frajaro/) |
 | Kickstarter: | [**Juan Felipe Campuzano Zuluaga**](https://www.galeriapolitica.com/galeriapolitica-com-entrevista-a-juan-felipe-campuzano/)|
