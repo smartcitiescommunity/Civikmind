@@ -1,5 +1,5 @@
 # Civikmind
-Plataforma Libre y de código abierto para la Participación Ciudadana, Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Gestión de activos inteligentes en el contexto de los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html).
+Plataforma Libre y de código abierto para la Participación Ciudadana, Veeduría Ciudadana, Gestión de Comunidades Inteligentes, Ciudades Inteligentes y Gestión de activos inteligentes en el contexto de los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html).
 
 ## Licencia
 
