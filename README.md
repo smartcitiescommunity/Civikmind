@@ -22,6 +22,10 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |-----------------|---------------------|------------------|-------------------|---------------|---------------|---------------|---------------|---------------|
 | OK :white_check_mark: | OK :white_check_mark: | OK :white_check_mark: | Fallo :collision: | OK :white_check_mark: | [![Estado](https://secure.travis-ci.org/glpi-project/glpi.svg?branch=master)](https://secure.travis-ci.org/glpi-project/glpi) | No disponible en el momento | :es: :us: :fr: :it: :de: 🇧🇷 :ru: :cn: :jp: :kr: 🇸🇦 | http://bit.ly/CivikMind |
 
+|Desde lo Tecnológico| Desde el Gobierno | Desde lo Social|
+|------------ | -------------|------------ |
+|Empresas y organizaciones de investigación orientadas a STEM, Tecnologias de Smart City, Tecnologias de la Cuarta Revolución Industrial|Marcos de Legalidad, Normativos y de políticas públicas que habiliten las iniciativas politicas, económicas, sociales, tecnológicas y ambientales como tambien a nivel de planeación y estrategia en el uso y apropiación de recursos y activos del estado|Materializar liderazgos para una mejor participación en pro de los derechos humanos, el ciudadano primero y lo que eso significa Inclusión, costumbres, arte, cultura, el pensar y sentir de las comunidades y el como se integran a la construcción de sus territorios|
+
 ## Equipo
 
 | ROL | Miembro del Equipo |
