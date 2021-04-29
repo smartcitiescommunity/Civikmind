@@ -1,5 +1,5 @@
 # Civikmind
-Plataforma Libre y de código abierto para la Participación Ciudadana, Veeduría Ciudadana, Gestión de Comunidades Inteligentes, [Ciudades Inteligentes](https://es.wikipedia.org/wiki/Ciudad_inteligente) y [Gestión de activos inteligentes](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_activos) en el contexto de los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html).
+Plataforma Libre y de código abierto para la Participación Ciudadana, Veeduría Ciudadana, Gestión de Comunidades Inteligentes, [Ciudades Inteligentes](https://es.wikipedia.org/wiki/Ciudad_inteligente) y [Gestión de activos inteligentes](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_activos) en el contexto de los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html). Que nace desde el **Hacking Civico**
 
 ## Licencia
 
