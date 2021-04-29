@@ -22,6 +22,14 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |-----------------|---------------------|------------------|-------------------|---------------|---------------|---------------|---------------|---------------|
 | OK :white_check_mark: | OK :white_check_mark: | OK :white_check_mark: | Fallo :collision: | OK :white_check_mark: | [![Estado](https://secure.travis-ci.org/glpi-project/glpi.svg?branch=master)](https://secure.travis-ci.org/glpi-project/glpi) | No disponible en el momento | :es: :us: :fr: :it: :de: 🇧🇷 :ru: :cn: :jp: :kr: 🇸🇦 | http://bit.ly/CivikMind |
 
+|Nota de apoyo|
+| ------- |
+|Agradecemos veas todo la aplicación, sus caracteristicas y posibilidades. Pruébela, Juzguéla, Crítiquela y comparta su opinión pues es importante para el mejoramiento de la misma. Esta solución es el resultado de 23 años de estudio en las más variadas disciplinas y tecnologías. Si te agrada este trabajo, si te inspira y encuentras una solución para transformar tu mundo, tu ciudad, tu comunidad no olvides darle una estrella a este repositorio e incluso si estás de acuerdo, puedes nominar a la persona que ha concentrado esfuerzos para que esta solución se diera en el [The GitHub Stars program](https://stars.github.com/nominate/) con el usuario [juanfernandovillahernandez](https://github.com/juanfernandovillahernandez). Todas las contribuciones son bienvenidas y a cada contribución se les dará sus respectivos créditos|
+
+|Que es un Hacker Civico| Que es una Ciudad Inteligente | La importancia del Hacking Cívico|
+|------------ | -------------|------------ |
+||||
+
 |Desde lo Tecnológico| Desde el Gobierno | Desde lo Social|
 |------------ | -------------|------------ |
 |Empresas y organizaciones de investigación orientadas a STEM, Tecnologias de Smart City, Tecnologias de la Cuarta Revolución Industrial|Marcos de Legalidad, Normativos y de políticas públicas que habiliten las iniciativas politicas, económicas, sociales, tecnológicas y ambientales como tambien a nivel de planeación y estrategia en el uso y apropiación de recursos y activos del estado|Materializar liderazgos para una mejor participación en pro de los derechos humanos, el ciudadano primero y lo que eso significa Inclusión, costumbres, arte, cultura, el pensar y sentir de las comunidades y el como se integran a la construcción de sus territorios|
@@ -30,7 +38,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 | ROL | Miembro del Equipo |
 | ------------- | ------------- |
-| Idea, Dirección y desarrollo |[**Juan Fernando Villa**](https://www.linkedin.com/in/juanfernandovillahernandez/) Te agradezco veas todo la aplicación, sus caracteristicas y posibilidades, es el resultado de 23 años de estudio en las más variadas disciplinas y tecnologías. Si te agrada mi trabajo, si te inspira y encuentras una solución para transformar tu mundo, tu ciudad, tu comunidad no olvides darle una estrella a este repositorio e incluso si estás de acuerdo, puedes nominarme en el [The GitHub Stars program](https://stars.github.com/nominate/) con el usuario [juanfernandovillahernandez](https://github.com/juanfernandovillahernandez)|
+| Idea, Dirección y desarrollo |[**Juan Fernando Villa**](https://www.linkedin.com/in/juanfernandovillahernandez/)|
 | Base del software Civikmind: | Forkeado de [**GLPI**](https://github.com/glpi-project/glpi)|
 | Conceptos: |[**Indira Carazo Roldan**](https://www.linkedin.com/in/indiracarazo/) y [**Francisco Javier Roldan**](https://www.linkedin.com/in/frajaro/) |
 | Kickstarter: | [**Juan Felipe Campuzano Zuluaga**](https://www.galeriapolitica.com/galeriapolitica-com-entrevista-a-juan-felipe-campuzano/)|
