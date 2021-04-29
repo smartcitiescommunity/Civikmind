@@ -26,9 +26,10 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 | ------- |
 |Agradecemos veas todo la aplicación, sus caracteristicas y posibilidades. Pruébela, Juzguéla, Crítiquela y comparta su opinión pues es importante para el mejoramiento de la misma. Esta solución es el resultado de 23 años de estudio en las más variadas disciplinas y tecnologías. Si te agrada este trabajo, si te inspira y encuentras una solución para transformar tu mundo, tu ciudad, tu comunidad no olvides darle una estrella a este repositorio e incluso si estás de acuerdo, puedes nominar a la persona que ha concentrado esfuerzos para que esta solución se diera en el [The GitHub Stars program](https://stars.github.com/nominate/) con el usuario [juanfernandovillahernandez](https://github.com/juanfernandovillahernandez). Todas las contribuciones son bienvenidas y a cada contribución se les dará sus respectivos créditos|
 
-|Que es un Hacker Civico| Que es una Ciudad Inteligente | La importancia del Hacking Cívico|
+|Que es una Ciudad Inteligente| Que es un Hacker Civico | La importancia del Hacking Cívico|
 |------------ | -------------|------------ |
-||||
+|Una ciudad inteligente es aquella en la que de manera articulada y planificada con todos sus habitantes y partes involucradas, construyen un territorio haciendo uso de sus conocimientos, mejores prácticas, tecnología, recursos y activos de manera sostenible, siendo ambiental y socialmente responsables, priorizando siempre  la calidad de vida y el bienestar al ciudadano. Juan F. Villa. (8 Abril de 2014)
+|||
 
 |Desde lo Tecnológico| Desde el Gobierno | Desde lo Social|
 |------------ | -------------|------------ |
