@@ -28,8 +28,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 |Que es una Ciudad Inteligente| Que es un Hacker Civico | La importancia del Hacking Cívico|
 |------------ | -------------|------------ |
-|Una ciudad inteligente es aquella en la que de manera articulada y planificada con todos sus habitantes y partes involucradas, construyen un territorio haciendo uso de sus conocimientos, mejores prácticas, tecnología, recursos y activos de manera sostenible, siendo ambiental y socialmente responsables, priorizando siempre  la calidad de vida y el bienestar al ciudadano. Juan F. Villa. (8 Abril de 2014)
-|||
+|Una ciudad inteligente es aquella en la que de manera articulada y planificada con todos sus habitantes y partes involucradas, construyen un territorio haciendo uso de sus conocimientos, mejores prácticas, tecnología, recursos y activos de manera sostenible, siendo ambiental y socialmente responsables, priorizando siempre  la calidad de vida y el bienestar al ciudadano. Juan F. Villa. (8 Abril de 2014)|Es alguien que colabora con otros para crear soluciones utilizando datos, código y tecnología, información y conocimiento abierto, libre y público en beneficio comun, buscando resolver desafíos politicos, económicos, sociales, tecnologicos, ambientales, legales, de seguridad y ética||
 
 |Desde lo Tecnológico| Desde el Gobierno | Desde lo Social|
 |------------ | -------------|------------ |
