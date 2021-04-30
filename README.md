@@ -27,9 +27,9 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 |Nota de apoyo|
 | ------- |
-|Agradecemos veas todo la aplicación, sus características y posibilidades. Pruébela, juzguéla, crítiquela y comparta su opinión pues es importante para el mejoramiento de la misma. Esta solución es el resultado de 23 años de estudio en las más variadas disciplinas y tecnologías. Si te agrada éste trabajo, si te inspira y encuentras una solución para transformar tu mundo, tu ciudad, tu comunidad no olvides darle una estrella a este repositorio e incluso si estás de acuerdo, puedes nominar a la persona que ha concentrado esfuerzos para que esta solución se ejecute en el [The GitHub Stars program](https://stars.github.com/nominate/) con el usuario [juanfernandovillahernandez](https://github.com/juanfernandovillahernandez). Todas las contribuciones son bienvenidas y a cada contribución se le dará sus respectivos créditos|
+|Agradecemos vea toda la aplicación, sus características y posibilidades. Pruébela, juzguéla, crítiquela y comparta su opinión pues es importante para el mejoramiento de la misma. Esta solución es el resultado de 23 años de estudio en las más variadas disciplinas y tecnologías. Si te agrada éste trabajo, si te inspira y encuentras una solución para transformar tu mundo, tu ciudad, tu comunidad no olvides darle una estrella a este repositorio e incluso si estás de acuerdo, puedes nominar a la persona que ha concentrado esfuerzos para que esta solución se ejecute en el [The GitHub Stars program](https://stars.github.com/nominate/) con el usuario [juanfernandovillahernandez](https://github.com/juanfernandovillahernandez). Todas las contribuciones son bienvenidas y a cada contribución se le dará sus respectivos créditos|
 
-|Que es una Ciudad Inteligente?| Que es un Hacker Civico? | La importancia del Hacking Cívico|
+|¿Que es una Ciudad Inteligente?| ¿Que es un Hacker Civico? | La importancia del Hacking Cívico|
 |------------ | -------------|------------ |
 |Una ciudad inteligente es aquella en la que de manera articulada y planificada con todos sus habitantes y partes involucradas, construyen un territorio haciendo uso de sus conocimientos, mejores prácticas, tecnología, recursos y activos de manera sostenible, siendo ambiental y socialmente responsables, priorizando siempre  la calidad de vida y el bienestar del ciudadano. Juan F. Villa. (8 Abril de 2014)|Es el líder que colabora con otros para crear soluciones utilizando datos, código, tecnología, información y conocimiento abierto de carácter libre y público, buscando resolver desafíos políticos, económicos, sociales, tecnológicos, ambientales, legales, de seguridad y ética.|Existe una enorme brecha entre los ciudadanos y los actores públicos entre los cuales están los gobernantes, las instituciones de administración pública, los líderes políticos y los  partidos políticos, pues concentran el poder y la toma de deciones en asuntos que afectan o impactan a los ciudadanos de un territorio a nivel económico, social, tecnológico y ambiental sin tenerlos en cuenta en la mayoría de las situaciones, siendo ésto, una soterrada forma de violar derechos fundamentales, observando claramente una ausencia de transparencia, corrupción y arbitrariedad materializada en decisiones unilaterales|
 
@@ -37,13 +37,13 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 |Desde lo Tecnológico| Desde el Gobierno | Desde lo Social|
 |------------ | -------------|------------ |
-|Empresas y organizaciones de investigación orientadas a STEM, tecnologías de Smart City, tecnologías de la Cuarta Revolución Industrial,|marcos de legalidad, normativos y de políticas públicas que habiliten las iniciativas políticas, económicas, sociales, tecnológicas y ambientales como también a nivel de planeación y estrategia en el uso y apropiación de recursos y activos del estado|Materializar liderazgos para una mejor participación en pro de los derechos humanos, el ciudadano primero y lo que eso significa Inclusión, costumbres, arte, cultura, el pensar y sentir de las comunidades y el como se integran a la construcción de sus territorios|
+|Empresas y organizaciones de investigación orientadas a STEM, tecnologías de Smart City, tecnologías de la Cuarta Revolución Industrial|Marcos de legalidad, marcos normativos y de políticas públicas que habiliten las iniciativas políticas, económicas, sociales, tecnológicas y ambientales como también a nivel de planeación y estrategia en el uso y apropiación de recursos y activos del estado|Materializar liderazgos para una mejor participación en pro de los derechos humanos. Partiendo de la premisa "El ciudadano es el centro" debemos incluir costumbres, arte, cultura, el pensar y sentir de las personas y el como se integran a la construcción de sus territorios|
 
 ## Equipo
 
 | ROL | Miembro del Equipo |
 | ------------- | ------------- |
-| Idea, Dirección y desarrollo |[**Juan Fernando Villa**](https://www.linkedin.com/in/juanfernandovillahernandez/)|
+| Idea, dirección y desarrollo |[**Juan Fernando Villa**](https://www.linkedin.com/in/juanfernandovillahernandez/)|
 | Base del software Civikmind: | Forkeado de [**GLPI**](https://github.com/glpi-project/glpi)|
 | Conceptos: |[**Indira Carazo Roldan**](https://www.linkedin.com/in/indiracarazo/) y [**Francisco Javier Roldan**](https://www.linkedin.com/in/frajaro/) |
 | Kickstarter: | [**Juan Felipe Campuzano Zuluaga**](https://www.galeriapolitica.com/galeriapolitica-com-entrevista-a-juan-felipe-campuzano/)|
@@ -55,40 +55,40 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 
 ## Funcionalidades - Gestión Social
 
-| Fundicionalidad | Especificidad |
+| Funcionalidad | Especificidad |
 |------------ | -------------|
-|Toma  de decisiones |Es necesario tener una filosofia y [marco de trabajo](https://es.wikipedia.org/wiki/Framework), metodologias y planeación para tener mejores decisiones,para este contexto es necesario ver una manera clara y simple las actividades que se producen ya sea por la lectura tableros de graficos y datos o [Dashboards](https://es.wikipedia.org/wiki/Cuadro_de_mando) los cuales Civikmind poseé|
-|| Para mejor uso de Civikmind se puede hacer uso de la [Metodologia 9D](https://github.com/smartcitiescommunity/9D) la cual permite ver las actividades que se producen la plataforma con visión más en contexto con los temas relacionados en Civikmind|
+|Toma  de decisiones |Es necesario tener una filosofia y [marco de trabajo](https://es.wikipedia.org/wiki/Framework), metodologías y planeación para tener mejores decisiones. Para este contexto es necesario ver de una manera clara y simple las actividades que se producen, ya sea por la lectura (tableros de graficos y datos) ó [Dashboards](https://es.wikipedia.org/wiki/Cuadro_de_mando) los cuales Civikmind posee|
+|| Para mejor uso de Civikmind se puede hacer uso de la [Metodología 9D](https://github.com/smartcitiescommunity/9D) la cual permite ver las actividades que se producen en la plataforma con visión en contexto con los temas relacionados en Civikmind|
 |||
-||Cada petición validada puede estar realizada bajo anonimato para proteger la vida de quienes formulan peticiones, problemas o denuncias que pueden poner en peligro su vida y así protegere a lideres sociales, defensores de derechos humanos e informantes de corrupción, irregularidades,[problemas de transparencia](https://es.wikipedia.org/wiki/Transparencia_pol%C3%ADtica) o actos en contra de la ley y la norma|
+||Cada petición validada puede estar realizada bajo anonimato para proteger la vida de las personas que formulan peticiones, problemas o denuncias que pueden poner en peligro su vida y así proteger a líderes sociales, defensores de derechos humanos e informantes de corrupción, irregularidades,[problemas de transparencia](https://es.wikipedia.org/wiki/Transparencia_pol%C3%ADtica) o actos en contra de la ley y la norma|
 || Cada petición es asignada a un responsable directo bajo criterio comunitario|
 || Cada petición pueder ser asignada a un grupo relacionado a uno de los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html) con mayor relación bajo criterio comunitario|
-|| Cada petición pueder ser asignada a un grupo relacionado a una Areas de aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120) con mayor relación bajo criterio comunitario|
-|| Cada petición pueder ser asignada a un proveedor tipo empresa que tenga implicación, relación directa o impacto directo según según la categoria|
-|| Cada petición pueder ser asignada a un proveedor tipo [organismo del estado](https://es.wikipedia.org/wiki/Estado), [función pública](https://es.wikipedia.org/wiki/Funci%C3%B3n_p%C3%BAblica) o funcionario que tenga implicación, relación directa o impacto directo según según la situación, naturaleza o categoria|
-|| Cada petición pueder ser asignada a un proveedor de la [Sociedad civil](https://es.wikipedia.org/wiki/Sociedad_civil_(ciencia_pol%C3%ADtica)) que tenga implicación, relación directa o impacto directo según según la situación, naturaleza o categoria|
+|| Cada petición pueder ser asignada a un grupo relacionado a un área de aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120) con mayor relación bajo criterio comunitario|
+|| Cada petición pueder ser asignada a un proveedor tipo empresa que tenga implicación, relación directa o impacto directo según la categoria|
+|| Cada petición pueder ser asignada a un proveedor tipo [organismo del estado](https://es.wikipedia.org/wiki/Estado), [función pública](https://es.wikipedia.org/wiki/Funci%C3%B3n_p%C3%BAblica) o funcionario que tenga implicación, relación directa o impacto directo según la situación, naturaleza o categoría|
+|| Cada petición pueder ser asignada a un proveedor de la [sociedad civil](https://es.wikipedia.org/wiki/Sociedad_civil_(ciencia_pol%C3%ADtica)) que tenga implicación, relación directa o impacto directo según la situación, naturaleza o categoría|
 |Gestión de  Grupos de personas| Opción de grupos segmentados bajo los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html)|
-||Opción de grupos segmentados bajo las Areas de Aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120)|
-||Correlación en Peticiones, Problemas, Cambios, Proyectos y Activos entre otros|
+||Opción de grupos segmentados bajo las áreas de Aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120)|
+||Correlación en peticiones, problemas, cambios, proyectos y activos entre otros|
 |Gestión de personas| Seleccionar personas por categoría, título o etiqueta |
-||Seleccionar personas según titulo|
+||Seleccionar personas según título|
 ||Seleccionar personas según etiquetas|
 |Gestión del conocimiento| Sistema de preguntas de uso frecuente que pueden ser usados con el fin de conocer soluciones utiles |
 ||La información y experiencia documentada queda segmentada bajo los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html)|
-||La información y experiencia documentada queda segmentada bajo las Areas de Aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120) |
+||La información y experiencia documentada queda segmentada bajo las áreas de aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120) |
 |Gestión Proyectos|Los proyectos pueden ser categorizados bajo los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html)|
-||Los proyectos pueden ser categorizados bajo las Areas de Aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120)|
-||Se puede hacer uso de [Metodologias agiles](https://www.pmi.org/learning/library/es-balancing-agile-plan-oriented-methodologies-8881)|
-||Se puede hacer uso de [Tableros Kanban](https://es.wikipedia.org/wiki/Kanban_(desarrollo))|
-||Se pueden generar [Diagramas GANTT](https://es.wikipedia.org/wiki/Diagrama_de_Gantt)|
+||Los proyectos pueden ser categorizados bajo las áreas de aplicación de la [Norma ISO 37120](https://es.wikipedia.org/wiki/ISO_37120)|
+||Se puede hacer uso de [metodologías ágiles](https://www.pmi.org/learning/library/es-balancing-agile-plan-oriented-methodologies-8881)|
+||Se puede hacer uso de [tableros Kanban](https://es.wikipedia.org/wiki/Kanban_(desarrollo))|
+||Se pueden generar [diagramas GANTT](https://es.wikipedia.org/wiki/Diagrama_de_Gantt)|
 |Gestión Financiera|Es posible conocer quienes son los proveedores en cada proyecto|
-||Es posible conocer cuales son los contratos en cada proyecto|
-||Es posible conocer cuales son los costos en cada proyecto|
+||Es posible conocer cuáles son los contratos en cada proyecto|
+||Es posible conocer cuáles son los costos en cada proyecto|
 ||Es posible conocer cuanto es el presupuesto en cada proyecto|
 ||Es posible conocer quienes son los proveedores en cada petición|
-||Es posible conocer cuales son los contratos en cada petición|
-||Es posible conocer cuales son los costos en cada petición|
-||Es posible conocer cuanto es el presupuesto en cada petición|
+||Es posible conocer cuáles son los contratos en cada petición|
+||Es posible conocer cuáles son los costos en cada petición|
+||Es posible conocer cuánto es el presupuesto en cada petición|
 |Gestión Territorio|Es posible conocer en que lugar sucede la petición, necesidad, reto, proyecto o denuncia ciudadanas|
 ||Es posible realizar trabajar por segmentación de ubicaciones o por territorios|
 
