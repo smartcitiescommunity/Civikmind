@@ -25,6 +25,14 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 |-----------------|---------------------|------------------|-------------------|---------------|---------------|---------------|---------------|---------------|
 | OK :white_check_mark: | OK :white_check_mark: | OK :white_check_mark: | Fallo :collision: | OK :white_check_mark: | [![Estado](https://secure.travis-ci.org/glpi-project/glpi.svg?branch=master)](https://secure.travis-ci.org/glpi-project/glpi) | No disponible en el momento | :es: :us: :fr: :it: :de: 🇧🇷 :ru: :cn: :jp: :kr: 🇸🇦 | http://bit.ly/civikmind |
 
+## Instalación
+|Paso|Instrucciones|
+| ------- |------- |
+|1. Actualizar el repositorio de instalación |```sudo apt update && sudo apt -y upgrade &&  ```| 
+|1. Actualizar el repositorio de instalación |```ssudo apt install mariadb-server && sudo mysql_secure_installation```| 
+|1. Actualizar el repositorio de instalación |```sudo apt-get -y install php php7.2-{curl,gd,imagick,intl,apcu,recode,memcache,imap,mysql,cas,ldap,tidy,pear,xmlrpc,pspell,gettext,mbstring,json,iconv,xml,gd,xsl}```| 
+
+
 |Nota de apoyo|
 | ------- |
 |Agradecemos vea toda la aplicación, sus características y posibilidades. Pruébela, juzguéla, crítiquela y comparta su opinión pues es importante para el mejoramiento de la misma. Esta solución es el resultado de 23 años de estudio en las más variadas disciplinas y tecnologías. Si te agrada éste trabajo, si te inspira y encuentras una solución para transformar tu mundo, tu ciudad, tu comunidad no olvides darle una estrella a este repositorio e incluso si estás de acuerdo, puedes nominar a la persona que ha concentrado esfuerzos para que esta solución se ejecute en el [The GitHub Stars program](https://stars.github.com/nominate/) con el usuario [juanfernandovillahernandez](https://github.com/juanfernandovillahernandez). Todas las contribuciones son bienvenidas y a cada contribución se le dará sus respectivos créditos|
