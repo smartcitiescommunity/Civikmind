@@ -26,13 +26,15 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 | OK :white_check_mark: | OK :white_check_mark: | OK :white_check_mark: | Fallo :collision: | OK :white_check_mark: | [![Estado](https://secure.travis-ci.org/glpi-project/glpi.svg?branch=master)](https://secure.travis-ci.org/glpi-project/glpi) | No disponible en el momento | :es: :us: :fr: :it: :de: 🇧🇷 :ru: :cn: :jp: :kr: 🇸🇦 | http://bit.ly/civikmind |
 
 ## Instalación
-|Pasos|Instrucciones|
+|Pasos|Instrucciones en la consola|
 | ------- |------- |
-|1. Actualizar el repositorio de instalación |```sudo apt update && sudo apt -y upgrade &&  ```| 
+|1. Actualizar el repositorio de instalación |```sudo apt update && sudo apt -y upgrade```| 
 |2. Instalar base de datos |```ssudo apt install mariadb-server && sudo mysql_secure_installation```| 
 |3. Instalar lenguaje web |```sudo apt-get -y install php php7.2-{curl,gd,imagick,intl,apcu,recode,memcache,imap,mysql,cas,ldap,tidy,pear,xmlrpc,pspell,gettext,mbstring,json,iconv,xml,gd,xsl}```| 
 |4. Instalar servidor web |```sudo apt-get -y install apache2 libapache2-mod-php```|
 |5. Crear directorios |```sudo mk civikmind /var/www/html/ && sudo chown -R www-data:www-data /var/www/html/```| 
+|6. Descargar Civikmind |```git clone https://github.com/smartcitiescommunity/Civikmind.git /var/www/html/```|
+|6. Terminar de instalar via web|```ir a http://localhost/civikmind/ desde su navegador. Cambie localhost por la IP o DNS que usted tenga```| 
 
 |Nota de apoyo|
 | ------- |
