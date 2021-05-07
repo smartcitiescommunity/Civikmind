@@ -26,7 +26,7 @@ La distribución de este software se hace bajo la licencia GNU GENERAL PUBLIC LI
 | OK :white_check_mark: | OK :white_check_mark: | OK :white_check_mark: | Fallo :collision: | OK :white_check_mark: | [![Estado](https://secure.travis-ci.org/glpi-project/glpi.svg?branch=master)](https://secure.travis-ci.org/glpi-project/glpi) | No disponible en el momento | :es: :us: :fr: :it: :de: 🇧🇷 :ru: :cn: :jp: :kr: 🇸🇦 | http://bit.ly/civikmind |
 
 ## Instalación
-|Pasos|Instrucciones en la consola|
+|Pasos|Instrucciones en la consola. [La instalación avanzada acá](https://github.com/smartcitiescommunity/Instalar-Civikmind)|
 | ------- |------- |
 |1. Actualizar el repositorio de instalación |```sudo apt update && sudo apt -y upgrade```| 
 |2. Instalar base de datos |```sudo apt install mariadb-server && sudo mysql_secure_installation```| 
