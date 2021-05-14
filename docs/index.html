@@ -20,18 +20,105 @@
   <!-- CSS only -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
   <!-- JavaScript Bundle with Popper -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+
   <meta name="theme-color" content="#fafafa">
+		<script>
+		document.documentElement.className = "js";
+		var supportsCssVars = function() { var e, t = document.createElement("style"); return t.innerHTML = "root: { --tmp-var: bold; }", document.head.appendChild(t), e = !!(window.CSS && window.CSS.supports && window.CSS.supports("font-weight", "var(--tmp-var)")), t.parentNode.removeChild(t), e };
+		supportsCssVars() || alert("Please view this demo in a modern browser that supports CSS Variables.");
+		</script>
 </head>
 
 <body>
 
   <!-- Add your site or application content here -->
   <p>Civikmind</p>
-  <script src="js/vendor/modernizr-{{MODERNIZR_VERSION}}.min.js"></script>
-  <script src="js/app.js"></script>
+		<main>
+			<div class="frame">
+			<div class="content">
+				<div id="app"></div>
+				<div class="content__title-wrap">
+					<span class="content__pretitle">El proposito nos une</span>
+					<h2 class="content__title">Qúe esperás?</h2>
+					<a class="content__link" href="#">Unete</a>
+				</div>
+			</div>
+		</main>
+		<script src="js/three.min.js"></script>
+		<script src="js/postprocessing.min.js"></script>
+		<script src="js/InfiniteLights.js"></script>
+		<script src="js/Distortions.js"></script>
+		<script>
+		(function() {
+
+			const container = document.getElementById('app');
+
+			const options = {
+				onSpeedUp: (ev) => {					
+				},
+				onSlowDown: (ev) => {
+				},
+				// mountainDistortion || LongRaceDistortion || xyDistortion || turbulentDistortion || turbulentDistortionStill || deepDistortionStill || deepDistortion
+				distortion: deepDistortion, 
+				
+				length: 400,
+				roadWidth: 9,
+				islandWidth: 2,
+				lanesPerRoad: 3,
+
+				fov: 90,
+				fovSpeedUp: 150,
+				speedUp: 2,
+				carLightsFade: 0.4,
+
+				totalSideLightSticks: 50,
+				lightPairsPerRoadWay: 50,
+
+				// Percentage of the lane's width
+				shoulderLinesWidthPercentage: 0.05,
+				brokenLinesWidthPercentage: 0.1,
+				brokenLinesLengthPercentage: 0.5,
+
+				/*** These ones have to be arrays of [min,max].  ***/
+				lightStickWidth: [0.12, 0.5],
+				lightStickHeight: [1.3, 1.7],
+
+				movingAwaySpeed: [60, 80],
+				movingCloserSpeed: [-120, -160],
+
+				/****  Anything below can be either a number or an array of [min,max] ****/
+
+				// Length of the lights. Best to be less than total length
+				carLightsLength: [400 * 0.05, 400 * 0.15],
+				// Radius of the tubes
+				carLightsRadius: [0.05, 0.14],
+				// Width is percentage of a lane. Numbers from 0 to 1
+				carWidthPercentage: [0.3, 0.5],
+				// How drunk the driver is.
+				// carWidthPercentage's max + carShiftX's max -> Cannot go over 1. 
+				// Or cars start going into other lanes 
+				carShiftX: [-0.2, 0.2],
+				// Self Explanatory
+				carFloorSeparation: [0.05, 1],
+
+				colors: {
+					roadColor: 0x080808,
+					islandColor: 0x0a0a0a,
+					background: 0x000000,
+					shoulderLines: 0x131318,
+					brokenLines: 0x131318,
+					/***  Only these colors can be an array ***/
+					leftCars: [0xE2173C, 0x841010, 0xF23D3D],
+					rightCars: [0xffffff, 0x7686BF, 0x1338B5],
+					sticks: 0xDCE0EE,
+				}
+			};
+
+			const myApp = new App(container, options);
+			myApp.loadAssets().then(myApp.init)
+		})()
+		</script>
 
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <script>
