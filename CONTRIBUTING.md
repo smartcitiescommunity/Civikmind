@@ -1,4 +1,4 @@
-# Contributing to GLPI
+# Contributing to Civikmind
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
