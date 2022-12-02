@@ -1,8 +1,15 @@
 # Civikmind
 Plataforma Libre y de código abierto para la [Participación Ciudadana](https://es.wikipedia.org/wiki/Participaci%C3%B3n_ciudadana), Veeduría Ciudadana, Gestión de Comunidades Inteligentes, [Ciudades Inteligentes](https://es.wikipedia.org/wiki/Ciudad_inteligente) y [Gestión de activos inteligentes](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_activos) en el contexto de los [Objetivos de Desarrollo Sostenible](http://www.undp.org/content/undp/es/home/sustainable-development-goals.html) la cual nace desde el **Hacking Cívico**
 
-## Propósito
-Ser un mecanismo habilitador de [Democracia digital](https://es.wikipedia.org/wiki/Democracia_digital), participación política, veeduría ciudadana para materializar intenciones de construir de manera articulada alrededor de una idea, proyecto o iniciativa social en un territorio, procurando que sea simple, eficaz y fácil, de una manera abierta y colaborativa bajo mejores prácticas y marcos comunes. 
+| ## Problema a resolver |
+| --- |
+| Actualmente los problemas sociales en las ciudades son multidimensionales, no obstante todo se resume a solidaridad y colaboración. Sin esto, es complejo el intentar resolver problemas sociales, pero es aun más complejo, es el no disponer de una herramienta que permita convertir información, datos, propositos, ideas, proyectos y diagnosticos en impacto social positivo en acción. Esto convierte a Civikmind en una solución estrategica para aunar esfuerzos y concentrar a todas las partes interesadas de un reto y llevarlo acabo. No se puede depender de la voluntad politica cuando el sector público y privado aun registren altos niveles de corrupción e impacto medio ambiental negativo, mostrando así e inequivocamente su ausencia de conciencia social. Se hace necesario entonces la inteligencia colectiva, el uso de modelos disruptivos, datos abiertos  realizados de forma etica y con transparencia. `leer más`|
+
+| ## Propósito |
+| --- |
+| Ser un mecanismo habilitador de [Democracia digital](https://es.wikipedia.org/wiki/Democracia_digital), participación política, veeduría ciudadana para materializar intenciones de construir de manera articulada alrededor de una idea, proyecto o iniciativa social en un territorio, procurando que sea simple, eficaz y fácil, de una manera creativa, abierta, solidaria y colaborativa, bajo mejores prácticas y marcos comunes.  |
+
+
 
 ## Licencia
 
